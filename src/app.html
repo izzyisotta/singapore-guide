@@ -73,6 +73,7 @@ html,body{overflow-x:hidden}
 .mapcard{background:var(--surface);border:1px solid var(--line);border-radius:14px;overflow:hidden;box-shadow:var(--shadow);position:relative;height:min(82vh,780px)}
 .mapcard svg.schem{display:block;width:100%;height:100%;background:var(--surface)}
 .mapcard .leaf{width:100%;height:100%;background:var(--surface);font:inherit}
+@media (max-width:980px){#v-map .maplayout{align-items:stretch}#v-map .mapcard,#walkmapcard{width:100%;height:min(60vh,520px)}}
 .leaflet-container{font-family:var(--sans)}
 .leaflet-tile-pane .osm{filter:grayscale(.85) contrast(.9) brightness(1.04) opacity(.85)}
 @media (prefers-color-scheme: dark){ :root:not([data-theme="light"]) .leaflet-tile-pane .osm{filter:grayscale(1) invert(1) contrast(.85) brightness(.8)} }
