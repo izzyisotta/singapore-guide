@@ -1,0 +1,1649 @@
+{
+ "hoods": [
+  {
+   "k": "little-india",
+   "name": "Little India",
+   "short": "Little India",
+   "tag": "Tandoor smoke, temple bells",
+   "verdict": "yes",
+   "rank": 1,
+   "when": "Weekend morning (Tekka at 8-10am) or a weekday evening for dinner. Sunday afternoon and evening is very crowded with migrant workers on their day off. Lively, but hard work. Deepavali season (Oct-Nov) brings lights on Serangoon Rd.",
+   "london": "Southall and Tooting, with a bit of Whitechapel Rd. A working community high street rather than a scene.",
+   "nyc": "Jackson Heights (74th St)",
+   "worth": "Yes, and it's the strongest food patch on this list for her: two Michelin Bibs and three Selected stalls inside one hawker centre, plus Kotuwa (Sri Lankan, Bib Gourmand), which is the closest thing here to Gunpowder. Very little is nice in the sense of a dining room, so come for cooking, not décor.",
+   "vibe": "Serangoon Road is loud, hot and dense. Garland stalls on Campbell Lane thread jasmine and marigold, gold shops run down Serangoon, and the gopuram of Sri Veeramakaliamman is crowded with painted figures. Tekka Centre is the anchor: a wet market downstairs (goat carcasses, fresh turmeric, curry leaves by the kilo) and a hawker floor where the tandoor at Delhi Lahori runs all day. Behind the main drag, Dunlop St, Upper Dickson Rd and Race Course Rd hold the eating: banana-leaf curry houses, biryani counters and a few small newer places. It is unpolished and nobody is performing heritage for you. Mustafa Centre, a 24-hour department store, sits on Syed Alwi Rd at the north-east edge.",
+   "avoid": [
+    "Banana-leaf places on the Serangoon Rd frontage that tout at the door. Walk one street back.",
+    "Going on a Sunday evening if you want a calm meal",
+    "Little India Arcade's trinket shops (go for Moghul Sweets, skip the rest)",
+    "Expecting cocktail bars. Drink in Kampong Glam or Bugis afterwards."
+   ],
+   "known": [
+    "Fish-head curry",
+    "Biryani and tandoor naan",
+    "Tekka Centre",
+    "Hindu temples",
+    "Deepavali lights",
+    "Mustafa Centre"
+   ],
+   "main": [
+    "Breakfast crawl at Tekka Centre",
+    "Sri Veeramakaliamman Temple",
+    "Indian Heritage Centre",
+    "Tan Teng Niah house",
+    "Dinner at Kotuwa or Muthu's",
+    "Biryani at Bismillah"
+   ],
+   "poly": [
+    [
+     1.304,
+     103.8498
+    ],
+    [
+     1.3032,
+     103.8545
+    ],
+    [
+     1.3075,
+     103.8562
+    ],
+    [
+     1.3115,
+     103.8578
+    ],
+    [
+     1.316,
+     103.8578
+    ],
+    [
+     1.3158,
+     103.8556
+    ],
+    [
+     1.3085,
+     103.8488
+    ]
+   ]
+  },
+  {
+   "k": "kampong-glam",
+   "name": "Kampong Glam",
+   "short": "Kampong Glam",
+   "tag": "Mosque, murtabak, Malay modern",
+   "verdict": "yes",
+   "rank": 2,
+   "when": "Late afternoon into evening: the mosque at golden hour, then dinner and drinks. Avoid Friday midday (prayers). Malay Heritage Centre is closed Mondays.",
+   "london": "Brick Lane crossed with Edgware Road. Heritage community streets with a creative layer on top, and real tourist overspill on Haji Lane.",
+   "nyc": "Atlantic Avenue (Brooklyn) meets the Lower East Side",
+   "worth": "Yes. The Beach Rd edge has two of the best places in the patch for her taste: Belimbing (new-gen Singaporean, small plates, a new Michelin 2026 entry) and The Coconut Club (Bib Gourmand). Atlas is a one-off room for a drink. Haji Lane itself is mostly Instagram, so give it ten minutes.",
+   "vibe": "The golden dome of Sultan Mosque sits at the end of Bussorah St, a pedestrianised strip of palm-lined shophouses that is lovely at dusk and full of Turkish and Middle Eastern restaurants with laminated menus. Arab St still has textile and perfume-oil shops run by the same families for generations (Sifr Aromatics is the modern descendant). Haji Lane, one block over, is murals, vintage shops and bars with touts, heaving with tourists after 8pm. The interesting cooking is on the edges: old Malay and Indian-Muslim canteens on North Bridge Rd and Kandahar St at lunch, and the Beach Rd shophouses at night. The Malay Heritage Centre in the former sultan's palace reopened in April 2026 after a four-year revamp.",
+   "avoid": [
+    "Haji Lane bars with door touts and shisha deals",
+    "The Bussorah St Turkish strip as your dinner, except Alaturka, which is fine",
+    "Going to Rumah Makan Minang or Hjh Maimunah after 2pm: the best dishes are gone",
+    "Friday 12-2pm around the mosque"
+   ],
+   "known": [
+    "Sultan Mosque",
+    "Haji Lane",
+    "Murtabak",
+    "Nasi padang",
+    "Perfume oils",
+    "Atlas bar"
+   ],
+   "main": [
+    "Sultan Mosque at dusk",
+    "Malay Heritage Centre (reopened 2026)",
+    "Bussorah St and Arab St shops",
+    "Nasi padang lunch",
+    "Dinner at Belimbing or Coconut Club",
+    "Drinks at Atlas"
+   ],
+   "poly": [
+    [
+     1.2998,
+     103.8568
+    ],
+    [
+     1.3043,
+     103.8589
+    ],
+    [
+     1.3036,
+     103.8638
+    ],
+    [
+     1.3022,
+     103.864
+    ],
+    [
+     1.2994,
+     103.861
+    ]
+   ]
+  },
+  {
+   "k": "bugis",
+   "name": "Bugis, Purvis St and Beach Rd",
+   "short": "Bugis",
+   "tag": "Raffles, Purvis, serious tables",
+   "verdict": "through",
+   "rank": 3,
+   "when": "Evenings, for a booked dinner and a cocktail. The temples on Waterloo St are best in the morning.",
+   "london": "Holborn and Covent Garden: central, mixed, a few great addresses among a lot of mall.",
+   "nyc": "Flatiron and NoMad",
+   "worth": "Not a place to wander, but it has her splurge options: Seroja (two Michelin stars 2026, No. 20 at Asia's 50 Best Restaurants 2026), 1887 by André (new two stars), Whitegrass, and Nutmeg & Clove (No. 12 at Asia's 50 Best Bars 2026). Go for a specific booking.",
+   "vibe": "A grid between the Raffles Hotel and Bugis MRT. Purvis and Seah streets are short conservation shophouse blocks with old Hainanese chicken-rice houses and a couple of white-tablecloth French and Italian rooms upstairs. Waterloo St has the incense-thick Kwan Im temple with fortune-stick shakers and flower sellers. Victoria St runs past the National Library and CHIJMES, a deconsecrated convent that is now restaurants. Bugis Street market and Bugis Junction are malls and souvenir tat. The Duo Galleria towers on Fraser St hold Seroja on the ground floor and the Andaz rooftop bar.",
+   "avoid": [
+    "Bugis Street market",
+    "Long Bar at Raffles (Singapore Sling theme park)",
+    "CHIJMES's generic bars",
+    "Golden Mile Complex: vacated for redevelopment, the Thai enclave is gone"
+   ],
+   "known": [
+    "Raffles Hotel",
+    "Kwan Im Thong Hood Cho Temple",
+    "Purvis St",
+    "CHIJMES",
+    "Bras Basah bookshops"
+   ],
+   "main": [
+    "Kwan Im temple, Waterloo St",
+    "Bras Basah Complex bookshops",
+    "Dinner at Seroja or 1887",
+    "Nutmeg & Clove, then Last Word",
+    "Albert Centre for cheap satay"
+   ],
+   "poly": [
+    [
+     1.2938,
+     103.8546
+    ],
+    [
+     1.2948,
+     103.8512
+    ],
+    [
+     1.3012,
+     103.852
+    ],
+    [
+     1.3018,
+     103.8548
+    ],
+    [
+     1.3,
+     103.857
+    ],
+    [
+     1.2985,
+     103.859
+    ],
+    [
+     1.295,
+     103.8565
+    ]
+   ]
+  },
+  {
+   "k": "jalan-besar",
+   "name": "Jalan Besar and Lavender",
+   "short": "Jalan Besar",
+   "tag": "Shophouses, supper, coffee",
+   "verdict": "once",
+   "rank": 4,
+   "when": "Weekend late morning for coffee and the Petain Rd houses, or after 11pm for supper (Swee Choon is open till 2am, 4am on Fri-Sat).",
+   "london": "Kingsland Road, Haggerston: workshops, cafés, late-night canteens, getting cooler.",
+   "nyc": "Greenpoint, Brooklyn",
+   "worth": "Worth one visit. Time Out named it Singapore's coolest neighbourhood for 2026 (20th in the world), but the critic-backed cooking is mostly cheap: dim sum, laksa, curry rice, hawker. Good for a late supper or a coffee crawl, not a big dinner.",
+   "vibe": "Long, flat and a bit scruffy. Pre-war shophouses and art-deco blocks alongside motor workshops, hardware stores, clan associations and cheap hotels. The cafe strip is Tyrwhitt Rd (Chye Seng Huat Hardware, Cheeselads, Druggists), next to the old Jalan Besar Stadium. Petain Rd has the most ornate Peranakan tiled terrace in town. At night Jalan Besar becomes a supper road: Swee Choon dim sum queues past midnight, and there's zi char at Yong Kee. Lavender, at the north end, is offices and budget hotels.",
+   "avoid": [
+    "Lavender Street itself: offices, nothing to see",
+    "Expecting a dinner scene",
+    "Bars around the budget-hotel stretch"
+   ],
+   "known": [
+    "Supper dim sum",
+    "Petain Rd terraces",
+    "Tyrwhitt Rd cafés",
+    "Hawker centres",
+    "Time Out coolest 2026"
+   ],
+   "main": [
+    "Coffee at Chye Seng Huat",
+    "Petain Rd shophouses",
+    "Sungei Road Laksa",
+    "Berseh Food Centre",
+    "Swee Choon supper"
+   ],
+   "poly": [
+    [
+     1.3042,
+     103.8545
+    ],
+    [
+     1.305,
+     103.8556
+    ],
+    [
+     1.309,
+     103.859
+    ],
+    [
+     1.3132,
+     103.8612
+    ],
+    [
+     1.3135,
+     103.859
+    ],
+    [
+     1.31,
+     103.8565
+    ],
+    [
+     1.306,
+     103.854
+    ]
+   ]
+  }
+ ],
+ "places": [
+  {
+   "n": "Tekka Centre (hawker floor and wet market)",
+   "t": "eat",
+   "h": "little-india",
+   "at": [
+    1.3062231,
+    103.8505301
+   ],
+   "addr": "665 Buffalo Rd",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "classic",
+    "famous"
+   ],
+   "p": 1,
+   "src": "Michelin Guide 2026 (Delhi Lahori Bib; Allauddin's, Heng Gi and 545 Whampoa are Selected)",
+   "london": "Tayyabs",
+   "d": "The best-value food building in her patch: four Michelin-listed stalls under one roof, with a wet market below that's worth a walk-through.",
+   "tip": "Go 8-10am. Get naan and seekh from Delhi Lahori, biryani from Allauddin's, prawn noodles at 545 Whampoa. Go down to the market for fresh curry leaves and turmeric."
+  },
+  {
+   "n": "Delhi Lahori",
+   "t": "eat",
+   "h": "little-india",
+   "at": [
+    1.3064407,
+    103.8507102
+   ],
+   "addr": "Tekka Centre #01-266, 665 Buffalo Rd",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "you"
+   ],
+   "p": 1,
+   "src": "Michelin Bib Gourmand 2026 (first awarded 2024)",
+   "london": "Tayyabs",
+   "d": "A charcoal tandoor stall whose naans are good enough to eat plain. Seekh kebab and chicken tikka are generous.",
+   "tip": "Garlic naan, seekh kebab, butter chicken. Open 9am-11pm daily per Michelin."
+  },
+  {
+   "n": "Allauddin's Briyani",
+   "t": "eat",
+   "h": "little-india",
+   "at": [
+    1.3058904,
+    103.8506812
+   ],
+   "addr": "Tekka Centre, 665 Buffalo Rd",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "classic"
+   ],
+   "p": 2,
+   "src": "Michelin Guide 2026 (Selected)",
+   "d": "Long-running Tekka biryani counter. Fragrant, not greasy.",
+   "tip": "Mutton biryani. Go before the lunch rush."
+  },
+  {
+   "n": "Heng Gi Goose and Duck Rice",
+   "t": "eat",
+   "h": "little-india",
+   "at": [
+    1.3057528,
+    103.8505792
+   ],
+   "addr": "Tekka Centre, 665 Buffalo Rd",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Michelin Guide 2026 (Selected)",
+   "d": "Teochew braised duck in an Indian hawker centre. It shows how mixed Tekka is.",
+   "tip": "Braised duck rice with the dark sauce and an egg. Sells out by early afternoon."
+  },
+  {
+   "n": "545 Whampoa Prawn Noodles",
+   "t": "eat",
+   "h": "little-india",
+   "at": [
+    1.3059833,
+    103.850545
+   ],
+   "addr": "Tekka Centre #01-326, 665 Buffalo Rd",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker"
+   ],
+   "p": 3,
+   "src": "Michelin Guide 2026 (Selected)",
+   "d": "Prawn-stock noodle soup, rich and sweet.",
+   "tip": "Dry version with the soup on the side. Pin is the Tekka building, not the exact stall: find unit #01-326."
+  },
+  {
+   "n": "Bismillah Biryani",
+   "t": "eat",
+   "h": "little-india",
+   "at": [
+    1.3050507,
+    103.8536935
+   ],
+   "addr": "50 Dunlop St",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "you",
+    "famous"
+   ],
+   "p": 1,
+   "src": "Michelin Bib Gourmand 2026 (multi-year)",
+   "london": "Tayyabs",
+   "d": "A small Dunlop St shop doing dum-style biryani properly: long-grain rice, tender meat, restrained spicing.",
+   "tip": "Mutton biryani plus a mutton seekh kebab. Lunch."
+  },
+  {
+   "n": "Kotuwa",
+   "t": "eat",
+   "h": "little-india",
+   "at": [
+    1.3051213,
+    103.8546295
+   ],
+   "addr": "Wanderlust Hotel, 2 Dickson Rd",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "you",
+    "famous"
+   ],
+   "p": 1,
+   "src": "Michelin Bib Gourmand 2026; Time Out Singapore; chef Rishi Naleendra (Cloudstreet, 2 stars)",
+   "london": "Gunpowder (and Hoppers)",
+   "d": "Sri Lankan cooking from a two-star chef in a relaxed, buzzy room. Hoppers, kottu and seafood curries. Her Gunpowder-shaped place in Singapore.",
+   "tip": "Book. Order hoppers, kottu roti, lychee achcharu and a crab or chicken curry, and share everything."
+  },
+  {
+   "n": "Muthu's Curry",
+   "t": "eat",
+   "h": "little-india",
+   "at": [
+    1.3098991,
+    103.8521872
+   ],
+   "addr": "138 Race Course Rd",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "classic",
+    "famous"
+   ],
+   "p": 2,
+   "src": "Michelin Bib Gourmand 2026",
+   "london": "Tayyabs",
+   "d": "The fish-head-curry institution. A big hall, banana leaves, loud families. The reference version of the dish.",
+   "tip": "Half a fish-head curry for 2-3 people, masala chicken, rice on banana leaf. Go instead of Banana Leaf Apolo."
+  },
+  {
+   "n": "Lagnaa",
+   "t": "eat",
+   "h": "little-india",
+   "at": [
+    1.3064398,
+    103.8522642
+   ],
+   "addr": "6 Upper Dickson Rd",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "hidden"
+   ],
+   "p": 2,
+   "src": "Michelin Bib Gourmand 2026",
+   "d": "Three floors: tables downstairs, barefoot floor seating upstairs. You choose your spice level, 1 to 10. Home-style North and South Indian.",
+   "tip": "Go upstairs and say level 4-5 unless you're showing off. There's a chilli challenge on full-moon nights."
+  },
+  {
+   "n": "Mustard",
+   "t": "eat",
+   "h": "little-india",
+   "at": [
+    1.3079397,
+    103.8506749
+   ],
+   "addr": "32 Race Course Rd",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "hidden"
+   ],
+   "p": 2,
+   "src": "Michelin Guide 2026 (Selected)",
+   "d": "Bengali and Punjabi cooking. Rarer regional food (mustard-oil fish) than the Tamil places around it.",
+   "tip": "Get the Bengali dishes: fish in mustard and the kulcha. Weekday dinner is quiet."
+  },
+  {
+   "n": "Podi & Poriyal",
+   "t": "eat",
+   "h": "little-india",
+   "at": [
+    1.3138496,
+    103.8572618
+   ],
+   "addr": "486 Serangoon Rd",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Michelin Guide 2026 (Selected)",
+   "d": "South Indian vegetarian, more careful than the canteen tier. At the far north end of Serangoon Rd, near Farrer Park.",
+   "tip": "Dosa with the podis, and a thali. Pair it with the Sakya Muni and Leong San temples across the road."
+  },
+  {
+   "n": "Komala Vilas",
+   "t": "eat",
+   "h": "little-india",
+   "at": [
+    1.3064755,
+    103.8519748
+   ],
+   "addr": "76-78 Serangoon Rd",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "classic"
+   ],
+   "p": 3,
+   "src": "Heritage vegetarian canteen (since 1947). No current critic listing found; my pick, lower confidence",
+   "d": "A no-frills South Indian vegetarian canteen, run the old way. Fine for a dosa and filter coffee between sights.",
+   "tip": "Masala dosa and filter coffee upstairs. The rice meal at lunch is unlimited."
+  },
+  {
+   "n": "MTR (Mavalli Tiffin Rooms)",
+   "t": "eat",
+   "h": "little-india",
+   "at": [
+    1.3130177,
+    103.8564937
+   ],
+   "addr": "438 Serangoon Rd",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "classic"
+   ],
+   "p": 3,
+   "src": "Outpost of the Bengaluru institution (est. 1924). No Singapore critic listing found; lower confidence",
+   "d": "Bangalore-style breakfast: rava idli, crisp dosa, filter coffee. Clean and dependable.",
+   "tip": "Rava idli and masala dosa at breakfast."
+  },
+  {
+   "n": "Apartment Coffee",
+   "t": "cafe",
+   "h": "little-india",
+   "at": [
+    1.3027571,
+    103.8499002
+   ],
+   "addr": "139 Selegie Rd",
+   "price": "$",
+   "tags": [
+    "you",
+    "hidden"
+   ],
+   "p": 2,
+   "src": "Eatbook; Lady Iron Chef (moved here from Lavender in 2022)",
+   "d": "Minimal specialty-coffee bar with seasonal single origins. The best coffee near Little India.",
+   "tip": "Filter coffee. Closes 6pm. Verify current hours (latest source 2022-23)."
+  },
+  {
+   "n": "Moghul Sweet Shop",
+   "t": "shop",
+   "h": "little-india",
+   "at": [
+    1.3053783,
+    103.8516349
+   ],
+   "addr": "Little India Arcade, 48 Serangoon Rd",
+   "price": "$",
+   "tags": [
+    "classic"
+   ],
+   "p": 3,
+   "src": "Long-standing Arcade sweet shop; my pick",
+   "d": "Indian sweets by weight: gulab jamun, barfi, jalebi.",
+   "tip": "Buy a mixed box for Deepavali gifting."
+  },
+  {
+   "n": "Sri Veeramakaliamman Temple",
+   "t": "see",
+   "h": "little-india",
+   "at": [
+    1.3079318,
+    103.8523994
+   ],
+   "addr": "141 Serangoon Rd",
+   "price": "free",
+   "tags": [
+    "classic",
+    "famous"
+   ],
+   "p": 1,
+   "src": "National heritage site",
+   "d": "The most vivid temple in Singapore, dedicated to Kali. Puja times are loud and bright.",
+   "tip": "Shoes off. Dress modestly. Go around 6pm for evening puja."
+  },
+  {
+   "n": "Indian Heritage Centre",
+   "t": "see",
+   "h": "little-india",
+   "at": [
+    1.3056595,
+    103.8522889
+   ],
+   "addr": "5 Campbell Lane",
+   "price": "$",
+   "tags": [
+    "classic"
+   ],
+   "p": 2,
+   "src": "National Heritage Board museum",
+   "d": "A compact, well-made museum of the Indian diaspora in Southeast Asia. Good context before eating your way down the street.",
+   "tip": "About an hour. Closed Mondays."
+  },
+  {
+   "n": "House of Tan Teng Niah",
+   "t": "see",
+   "h": "little-india",
+   "at": [
+    1.3070589,
+    103.8509346
+   ],
+   "addr": "37 Kerbau Rd",
+   "price": "free",
+   "tags": [
+    "famous"
+   ],
+   "p": 3,
+   "src": "Conserved 1900 villa, URA heritage",
+   "d": "The last Chinese villa in Little India, painted in every colour. A five-minute photo stop.",
+   "tip": "Combine with Tekka, which is round the corner."
+  },
+  {
+   "n": "Masjid Abdul Gafoor",
+   "t": "see",
+   "h": "little-india",
+   "at": [
+    1.3043997,
+    103.8537384
+   ],
+   "addr": "41 Dunlop St",
+   "price": "free",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "National monument",
+   "d": "A small Indo-Saracenic mosque with an elaborate sundial facade. Quieter than Sultan Mosque.",
+   "tip": "On the way to Bismillah Biryani."
+  },
+  {
+   "n": "Sri Srinivasa Perumal Temple",
+   "t": "see",
+   "h": "little-india",
+   "at": [
+    1.3134669,
+    103.8560159
+   ],
+   "addr": "397 Serangoon Rd",
+   "price": "free",
+   "tags": [
+    "classic"
+   ],
+   "p": 3,
+   "src": "National monument",
+   "d": "A big Vishnu temple with a towering gopuram. The start point of the Thaipusam procession.",
+   "tip": "Pair it with Podi & Poriyal and the two temples on Race Course Rd."
+  },
+  {
+   "n": "Sakya Muni Buddha Gaya Temple and Leong San See",
+   "t": "see",
+   "h": "little-india",
+   "at": [
+    1.3148151,
+    103.856911
+   ],
+   "addr": "366 and 371 Race Course Rd",
+   "price": "free",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Heritage temples",
+   "d": "Two temples face each other: a 15m seated Thai Buddha on one side, a Chinese temple with carved beams on the other.",
+   "tip": "Mornings, quiet."
+  },
+  {
+   "n": "Mustafa Centre",
+   "t": "shop",
+   "h": "little-india",
+   "at": [
+    1.3101243,
+    103.8553164
+   ],
+   "addr": "145 Syed Alwi Rd",
+   "price": "$",
+   "tags": [
+    "famous",
+    "classic"
+   ],
+   "p": 3,
+   "src": "Singapore institution",
+   "d": "A chaotic 24-hour department store selling everything from gold to spices to luggage. Useful for spices and cheap kitchen kit.",
+   "tip": "Go after 11pm for an empty, surreal shop. The spice and dal aisles are the reason to come."
+  },
+  {
+   "n": "Jothi Store and Flower Shop",
+   "t": "shop",
+   "h": "little-india",
+   "at": [
+    1.3058461,
+    103.851858
+   ],
+   "addr": "Campbell Lane",
+   "price": "$",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Long-running Campbell Lane shop; my pick",
+   "d": "Garlands, puja supplies, brass and textiles. The garland stalls on Campbell Lane outside are the photo.",
+   "tip": "Walk through on the way to the Indian Heritage Centre."
+  },
+  {
+   "n": "Belimbing",
+   "t": "eat",
+   "h": "kampong-glam",
+   "at": [
+    1.3006805,
+    103.8601805
+   ],
+   "addr": "Level 2, 269A Beach Rd (above The Coconut Club)",
+   "tier": "medium",
+   "price": "$$$",
+   "tags": [
+    "you",
+    "new"
+   ],
+   "p": 1,
+   "src": "Michelin Guide 2026 (new Selected entry); Time Out Singapore 50 Best Restaurants; Grazia",
+   "london": "Morito / Acre",
+   "d": "New-generation Singaporean cooking from ex-Naked Finn chef Marcus Leow. Sharing plates, fermentation-led, in a rattan-and-wood upstairs room. The most her-shaped new place in the patch.",
+   "tip": "Book dinner. In 2025 it was 4 courses for S$88, now possibly 5, so check. Order the red prawn kueh pie tee, wok-fried nasi ulam and the corn salat."
+  },
+  {
+   "n": "The Coconut Club",
+   "t": "eat",
+   "h": "kampong-glam",
+   "at": [
+    1.3006805,
+    103.8601805
+   ],
+   "addr": "269 Beach Rd",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "you",
+    "famous"
+   ],
+   "p": 1,
+   "src": "Michelin Bib Gourmand 2026 (since 2018)",
+   "london": "Padella (one dish, done obsessively)",
+   "d": "The nasi lemak everyone measures against: coconut rice from fresh-pressed milk, ayam goreng berempah, very good sambal. In a whitewashed shophouse.",
+   "tip": "Nasi lemak plus the sago gula melaka. Lunch walk-in is easier, and you can book online."
+  },
+  {
+   "n": "Singapore Zam Zam",
+   "t": "eat",
+   "h": "kampong-glam",
+   "at": [
+    1.3022755,
+    103.858542
+   ],
+   "addr": "697-699 North Bridge Rd",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "classic",
+    "famous"
+   ],
+   "p": 2,
+   "src": "Heritage (est. 1908); Time Out Singapore; Travelfish",
+   "london": "Tayyabs",
+   "d": "A century-old Indian-Muslim canteen opposite the mosque. Murtabak flipped at the front window, and it's loud and rough. Go for the institution as well as the food.",
+   "tip": "Mutton murtabak (small is plenty) and teh tarik. Avoid Victory next door, the rival."
+  },
+  {
+   "n": "Rumah Makan Minang",
+   "t": "eat",
+   "h": "kampong-glam",
+   "at": [
+    1.3023453,
+    103.8595454
+   ],
+   "addr": "18A Kandahar St",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "you",
+    "hidden"
+   ],
+   "p": 1,
+   "src": "Time Out Singapore; Eatbook; Seth Lui",
+   "london": "Bento Bab (point-and-choose canteen done well)",
+   "d": "Minangkabau nasi padang with 20+ dishes at the counter. Rendang that's dark and properly dry, plus grilled fish and petai prawns.",
+   "tip": "Go 11.30am. Beef rendang, dendeng balado, ayam panggang, sambal goreng. Hours conflict between sources, so check."
+  },
+  {
+   "n": "Hjh Maimunah",
+   "t": "eat",
+   "h": "kampong-glam",
+   "at": [
+    1.3031607,
+    103.8585558
+   ],
+   "addr": "11 Jalan Pisang",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "classic",
+    "famous"
+   ],
+   "p": 2,
+   "src": "Time Out Singapore; former Michelin Bib Gourmand (not in 2026 list)",
+   "d": "Nasi padang and Malay home cooking with a huge spread. Fell off the 2026 Bib list but still the local benchmark.",
+   "tip": "Get there before noon. Tahu telor, beef rendang, Sundanese grilled chicken. Closed Sundays."
+  },
+  {
+   "n": "Alaturka",
+   "t": "eat",
+   "h": "kampong-glam",
+   "at": [
+    1.3011933,
+    103.8599707
+   ],
+   "addr": "15 Bussorah St",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "classic"
+   ],
+   "p": 3,
+   "src": "Former Michelin Bib Gourmand (2016); Honeycombers",
+   "london": "Not Barbary-level. A dependable Turkish local",
+   "d": "The one Bussorah St Turkish place worth sitting down at: charcoal kebabs, meze, mosque view. Honest, not exciting.",
+   "tip": "Mixed meze and Iskender. Outdoor table at dusk."
+  },
+  {
+   "n": "Kampong Glam Cafe",
+   "t": "eat",
+   "h": "kampong-glam",
+   "at": [
+    1.30128,
+    103.8599267
+   ],
+   "addr": "17 Bussorah St (corner of Baghdad St)",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hidden",
+    "dive"
+   ],
+   "p": 3,
+   "src": "Honeycombers; Eventful SG",
+   "d": "Outdoor kopitiam-style Malay canteen on the corner. Cheap and cheerful, and good for a teh-and-nasi-lemak pause.",
+   "tip": "Mee rebus or nasi lemak and teh tarik, late afternoon."
+  },
+  {
+   "n": "Bhai Sarbat",
+   "t": "cafe",
+   "h": "kampong-glam",
+   "at": [
+    1.3014399,
+    103.859986
+   ],
+   "addr": "Bussorah St (corner of Baghdad St)",
+   "price": "$",
+   "tags": [
+    "famous",
+    "hidden"
+   ],
+   "p": 2,
+   "src": "Seth Lui",
+   "d": "Started as a teh tarik stall and grew into a small restaurant. Still the best pulled tea in the quarter.",
+   "tip": "Ginger teh tarik."
+  },
+  {
+   "n": "Mother Dough",
+   "t": "cafe",
+   "h": "kampong-glam",
+   "at": [
+    1.3034736,
+    103.8589418
+   ],
+   "addr": "3 Jalan Kledek",
+   "price": "$",
+   "tags": [
+    "you",
+    "hidden"
+   ],
+   "p": 2,
+   "src": "Eatbook (April 2026)",
+   "london": "Jolene",
+   "d": "A small bakery doing laminated pastry seriously. Its almond croissant has a following.",
+   "tip": "Get there before 10.30am at weekends or it's sold out. Tue-Sun 10am-5pm."
+  },
+  {
+   "n": "Sultan Mosque (Masjid Sultan)",
+   "t": "see",
+   "h": "kampong-glam",
+   "at": [
+    1.3022207,
+    103.8590037
+   ],
+   "addr": "3 Muscat St",
+   "price": "free",
+   "tags": [
+    "famous",
+    "classic"
+   ],
+   "p": 1,
+   "src": "National monument",
+   "d": "The golden dome at the end of Bussorah St. The best-looking building in the district, especially at dusk.",
+   "tip": "Visitor hours exclude prayer times. Robes are provided. Skip Friday midday."
+  },
+  {
+   "n": "Malay Heritage Centre",
+   "t": "see",
+   "h": "kampong-glam",
+   "at": [
+    1.3028874,
+    103.8598221
+   ],
+   "addr": "85 Sultan Gate (Istana Kampong Gelam)",
+   "price": "$",
+   "tags": [
+    "new",
+    "classic"
+   ],
+   "p": 1,
+   "src": "malayheritage.gov.sg (reopened 25 Apr 2026); Fact Magazine",
+   "d": "Reopened in April 2026 after a four-year revamp, in the former sultan's palace. Six new galleries on the wider Malay archipelago. The gardens are a calm spot.",
+   "tip": "Tue-Sun 10am-6pm. S$10 for foreign residents. Closed Mondays."
+  },
+  {
+   "n": "Bussorah Street",
+   "t": "do",
+   "h": "kampong-glam",
+   "at": [
+    1.3016664,
+    103.8595873
+   ],
+   "addr": "Bussorah St",
+   "price": "free",
+   "tags": [
+    "famous"
+   ],
+   "p": 2,
+   "src": "URA conservation area",
+   "d": "Pedestrianised, palm-lined shophouse street framing the mosque. Go for the view and the walk, not the restaurants.",
+   "tip": "Stand at the Beach Rd end at sunset for the mosque shot."
+  },
+  {
+   "n": "Haji Lane",
+   "t": "do",
+   "h": "kampong-glam",
+   "at": [
+    1.3012268,
+    103.8587337
+   ],
+   "addr": "Haji Lane",
+   "price": "free",
+   "tags": [
+    "famous"
+   ],
+   "p": 3,
+   "src": "Tourist landmark",
+   "d": "Murals and indie and vintage shops. Fun for ten minutes before 6pm, after which it's touts and shisha.",
+   "tip": "Walk it in daylight and keep going."
+  },
+  {
+   "n": "Sifr Aromatics",
+   "t": "shop",
+   "h": "kampong-glam",
+   "at": [
+    1.3008106,
+    103.8597234
+   ],
+   "addr": "42 Arab St",
+   "price": "$$",
+   "tags": [
+    "you",
+    "hidden"
+   ],
+   "p": 1,
+   "src": "Time Out Singapore; Tatler Asia; Roots.gov.sg",
+   "d": "A third-generation perfumer (family in the trade here since 1933) making small-batch oils and custom blends. The most interesting shop in Kampong Glam.",
+   "tip": "Book a custom blend or just smell the house oils. Hours per Time Out: Tue-Sat 11am-8pm, Sun-Mon 11am-5pm. Verify, as the latest sources are 2022."
+  },
+  {
+   "n": "Jamal Kazura Aromatics",
+   "t": "shop",
+   "h": "kampong-glam",
+   "at": [
+    1.3019078,
+    103.8594843
+   ],
+   "addr": "Bussorah St",
+   "price": "$",
+   "tags": [
+    "classic"
+   ],
+   "p": 3,
+   "src": "Kazura family business (Sifr's origin)",
+   "d": "The older, more traditional family perfume-oil shop: crystal bottles and attar.",
+   "tip": "Compare with Sifr."
+  },
+  {
+   "n": "Gedung Kuning",
+   "t": "see",
+   "h": "kampong-glam",
+   "at": [
+    1.3021844,
+    103.8600044
+   ],
+   "addr": "73 Sultan Gate",
+   "price": "free",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Heritage building",
+   "d": "The 'yellow mansion' of the sultan's family's chief minister, next to the Malay Heritage Centre.",
+   "tip": "Exterior only. Current use not verified."
+  },
+  {
+   "n": "Masjid Hajjah Fatimah",
+   "t": "see",
+   "h": "kampong-glam",
+   "at": [
+    1.3028321,
+    103.8629526
+   ],
+   "addr": "4001 Beach Rd",
+   "price": "free",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "National monument",
+   "d": "A small 1840s mosque whose minaret leans: a European-style spire on an Islamic mosque, built for a Malacca-born merchant woman.",
+   "tip": "A five-minute detour east along Beach Rd."
+  },
+  {
+   "n": "Atlas",
+   "t": "drink",
+   "h": "kampong-glam",
+   "at": [
+    1.3002173,
+    103.8575661
+   ],
+   "addr": "Parkview Square, 600 North Bridge Rd",
+   "price": "$$$",
+   "tags": [
+    "famous",
+    "splurge"
+   ],
+   "p": 1,
+   "src": "Tatler Best 20 Bars in Singapore 2026; former World's and Asia's 50 Best Bars (not on 2026 lists)",
+   "london": "Chiltern Firehouse bar energy, in an art-deco lobby",
+   "d": "A vast 1920s-Gotham lobby with a three-storey gin tower. It's theatrical, but the drinks and service hold up. Off the 2026 50 Best lists, still a must-see room.",
+   "tip": "Book a table. Order a martini from the gin list, or anything from the Champagne side. Dress up a bit."
+  },
+  {
+   "n": "Bar Stories",
+   "t": "drink",
+   "h": "kampong-glam",
+   "at": [
+    1.301233,
+    103.8586494
+   ],
+   "addr": "55-57A Haji Lane (upstairs)",
+   "price": "$$",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Punch; Time Out Singapore; City Nomads (undated)",
+   "d": "Bespoke-cocktail bar with no menu: bartenders build drinks from a conversation. The one real bar on Haji Lane.",
+   "tip": "Tell them what you like and let them go. Closed Mondays. Couldn't confirm 2025-26 status, so check before going."
+  },
+  {
+   "n": "Seroja",
+   "t": "eat",
+   "h": "bugis",
+   "at": [
+    1.2995853,
+    103.8581354
+   ],
+   "addr": "7 Fraser St, #01-30/33 Duo Galleria",
+   "tier": "nice",
+   "price": "$$$$",
+   "tags": [
+    "you",
+    "splurge"
+   ],
+   "p": 1,
+   "src": "Michelin 2 stars 2026 (promoted from 1, Green Star); Asia's 50 Best Restaurants 2026 #20",
+   "london": "The River Cafe-level occasion, with an Acre-style produce focus",
+   "d": "Kevin Wong's Malay-archipelago tasting menu: 24 seats, foraged and regional produce, serious and personal. Her best splurge in Singapore if she does one.",
+   "tip": "Tasting menu only. Book weeks ahead and check current price (expect S$300+). Dinner over lunch."
+  },
+  {
+   "n": "1887 by André",
+   "t": "eat",
+   "h": "bugis",
+   "at": [
+    1.2946815,
+    103.8546412
+   ],
+   "addr": "Raffles Hotel, 1 Beach Rd",
+   "tier": "nice",
+   "price": "$$$$",
+   "tags": [
+    "new",
+    "splurge"
+   ],
+   "p": 2,
+   "src": "Michelin 2 stars 2026 (debut); Wallpaper*; Options (The Edge)",
+   "d": "André Chiang's comeback in Singapore, opened in 2026 inside Raffles. A 42-seat room critics call breathtaking. It has moved from a set tasting menu to à la carte or build-your-own courses. Some reviews say ostentatious.",
+   "tip": "A 4-5 course self-built set is the lower-risk way in. Over-18s only. Check current pricing."
+  },
+  {
+   "n": "Yì by Jereme Leung",
+   "t": "eat",
+   "h": "bugis",
+   "at": [
+    1.2946815,
+    103.8546412
+   ],
+   "addr": "Raffles Arcade, Raffles Hotel, 1 Beach Rd",
+   "tier": "nice",
+   "price": "$$$",
+   "tags": [
+    "splurge"
+   ],
+   "p": 3,
+   "src": "Michelin Guide 2026 (Selected)",
+   "d": "Refined regional Chinese in the Raffles complex. Polished and expensive.",
+   "tip": "Weekend dim sum lunch is the value route."
+  },
+  {
+   "n": "Whitegrass",
+   "t": "eat",
+   "h": "bugis",
+   "at": [
+    1.2951571,
+    103.8521521
+   ],
+   "addr": "CHIJMES, 30 Victoria St",
+   "tier": "nice",
+   "price": "$$$$",
+   "tags": [
+    "splurge"
+   ],
+   "p": 2,
+   "src": "Michelin 1 star 2026",
+   "d": "Modern French in a soft, pretty room in the old convent. Classic fine dining, less personal than Seroja.",
+   "tip": "Lunch menu is the smart booking."
+  },
+  {
+   "n": "Lei Garden",
+   "t": "eat",
+   "h": "bugis",
+   "at": [
+    1.2951571,
+    103.8521521
+   ],
+   "addr": "CHIJMES, 30 Victoria St",
+   "tier": "nice",
+   "price": "$$$",
+   "tags": [
+    "classic"
+   ],
+   "p": 3,
+   "src": "Michelin 1 star 2026",
+   "d": "Old-school Hong Kong Cantonese: roast meats, double-boiled soups, a dim sum lunch with aunties.",
+   "tip": "Weekend dim sum. Book."
+  },
+  {
+   "n": "Garibaldi",
+   "t": "eat",
+   "h": "bugis",
+   "at": [
+    1.2965555,
+    103.8549969
+   ],
+   "addr": "36 Purvis St #01-02",
+   "tier": "nice",
+   "price": "$$$",
+   "tags": [
+    "classic"
+   ],
+   "p": 3,
+   "src": "Michelin Guide 2026 (Selected)",
+   "london": "Cecconi's (a polished Italian room, not River Cafe)",
+   "d": "Long-running upscale Italian on Purvis St. Reliable pasta and fish, a corporate crowd.",
+   "tip": "Set lunch. Not a destination."
+  },
+  {
+   "n": "Gunther's",
+   "t": "eat",
+   "h": "bugis",
+   "at": [
+    1.2965555,
+    103.8549969
+   ],
+   "addr": "36 Purvis St #01-03",
+   "tier": "nice",
+   "price": "$$$$",
+   "tags": [
+    "classic",
+    "splurge"
+   ],
+   "p": 3,
+   "src": "Michelin Guide 2026 (Selected)",
+   "d": "Gunther Hubrechsen's French room, famous for its cold angel-hair pasta with Oscietra caviar. Old-guard luxury.",
+   "tip": "Order the caviar pasta. Lunch."
+  },
+  {
+   "n": "Yet Con",
+   "t": "eat",
+   "h": "bugis",
+   "at": [
+    1.2962415,
+    103.8553784
+   ],
+   "addr": "25 Purvis St",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "classic",
+    "dive"
+   ],
+   "p": 3,
+   "src": "Heritage Hainanese house (est. 1940). No current critic listing found; lower confidence",
+   "d": "Old Hainanese chicken-rice house with formica tables. Go for the room more than the chicken.",
+   "tip": "Chicken rice and pork chop."
+  },
+  {
+   "n": "Pondok Makan Indonesia",
+   "t": "eat",
+   "h": "bugis",
+   "at": [
+    1.3011485,
+    103.8540987
+   ],
+   "addr": "Albert Centre #01-123, 270 Queen St",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "hidden"
+   ],
+   "p": 2,
+   "src": "Michelin Guide 2026 (Selected); Seth Lui",
+   "d": "Malay and Indonesian hawker stall. The charcoal mutton satay is the reason to come.",
+   "tip": "Mutton satay and mee rebus. Mon-Tue 8am-7pm, Wed-Sun to 8pm."
+  },
+  {
+   "n": "Nutmeg & Clove",
+   "t": "drink",
+   "h": "bugis",
+   "at": [
+    1.2966369,
+    103.855107
+   ],
+   "addr": "8 Purvis St",
+   "price": "$$$",
+   "tags": [
+    "you",
+    "famous"
+   ],
+   "p": 1,
+   "src": "Asia's 50 Best Bars 2026 #12; The World's 50 Best Bars 2026 #38",
+   "london": "Caia, minus the DJ: the cocktail-bar end of her list",
+   "d": "Singapore-history-themed cocktails, with flavours drawn from hawker food and landmarks, executed precisely. The best bar in her patch by a distance.",
+   "tip": "Mon-Thu 5pm-midnight, Fri-Sat 4pm-midnight, closed Sundays. Then go upstairs to Last Word."
+  },
+  {
+   "n": "Last Word",
+   "t": "drink",
+   "h": "bugis",
+   "at": [
+    1.2966369,
+    103.855107
+   ],
+   "addr": "#02-01, 8 Purvis St",
+   "price": "$$",
+   "tags": [
+    "hidden"
+   ],
+   "p": 2,
+   "src": "Difford's Guide (Nutmeg & Clove sister bar)",
+   "d": "Minimal upstairs bar for classic cocktails and simple Japanese food. A quieter second stop.",
+   "tip": "Order a classic, such as a Last Word."
+  },
+  {
+   "n": "Mr Stork",
+   "t": "drink",
+   "h": "bugis",
+   "at": [
+    1.2990853,
+    103.8578915
+   ],
+   "addr": "Andaz Singapore, Level 39, 5 Fraser St",
+   "price": "$$",
+   "tags": [
+    "famous"
+   ],
+   "p": 3,
+   "src": "OSM listing; not verified in 2025-26 critic sources, low confidence",
+   "d": "Open-air rooftop bar with tepees and a skyline view. Go for the view, not the drinks.",
+   "tip": "Sunset. Check it's still operating before going."
+  },
+  {
+   "n": "Kwan Im Thong Hood Cho Temple",
+   "t": "see",
+   "h": "bugis",
+   "at": [
+    1.3009649,
+    103.8529424
+   ],
+   "addr": "178 Waterloo St",
+   "price": "free",
+   "tags": [
+    "classic",
+    "famous"
+   ],
+   "p": 2,
+   "src": "Heritage temple",
+   "d": "Singapore's busiest Guanyin temple, thick with incense, with fortune-stick shakers and flower sellers outside. Sri Krishnan Temple next door makes it a two-faith block.",
+   "tip": "Morning. Shake the fortune sticks, then go next door to Sri Krishnan."
+  },
+  {
+   "n": "Sri Krishnan Temple",
+   "t": "see",
+   "h": "bugis",
+   "at": [
+    1.3004223,
+    103.8526843
+   ],
+   "addr": "152 Waterloo St",
+   "price": "free",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Heritage temple",
+   "d": "A small Hindu temple where Chinese worshippers from Kwan Im also burn joss.",
+   "tip": "Combine with Kwan Im."
+  },
+  {
+   "n": "Bras Basah Complex",
+   "t": "shop",
+   "h": "bugis",
+   "at": [
+    1.2968252,
+    103.8536294
+   ],
+   "addr": "231 Bain St",
+   "price": "$",
+   "tags": [
+    "hidden",
+    "dive"
+   ],
+   "p": 2,
+   "src": "Known locally as 'the city of books'",
+   "d": "A 1980s block of second-hand bookshops, art supply stores and stationers. A rummage for someone who reads Huxley and Hofstadter.",
+   "tip": "Upper floors for second-hand and academic books."
+  },
+  {
+   "n": "National Library",
+   "t": "see",
+   "h": "bugis",
+   "at": [
+    1.2976671,
+    103.8542924
+   ],
+   "addr": "100 Victoria St",
+   "price": "free",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "National Library Board",
+   "d": "Free, cool and quiet, with good reading floors and a view from the top. A writing-session spot.",
+   "tip": "Go to the upper reading levels."
+  },
+  {
+   "n": "Stamford Arts Centre",
+   "t": "see",
+   "h": "bugis",
+   "at": [
+    1.3000984,
+    103.8528954
+   ],
+   "addr": "155 Waterloo St",
+   "price": "free",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "National Arts Council venue",
+   "d": "A restored 1950s school turned arts studios, sometimes with small shows.",
+   "tip": "Check what's on."
+  },
+  {
+   "n": "Swee Choon Tim Sum",
+   "t": "eat",
+   "h": "jalan-besar",
+   "at": [
+    1.3080222,
+    103.8568331
+   ],
+   "addr": "183-193 Jalan Besar",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "classic",
+    "famous"
+   ],
+   "p": 1,
+   "src": "Time Out Singapore (best cheap eats); NHB Heritage Business Registry; Mothership (Jan 2026 hours)",
+   "d": "The supper dim sum institution, since 1962. Open daily from January 2026, 7am-2am, and till 4am on Fri-Sat. Queues after midnight are part of it.",
+   "tip": "Mee sua kueh, salted egg custard bun, xiao long bao, chilli oil wontons. Go after 11pm."
+  },
+  {
+   "n": "Berseh Food Centre",
+   "t": "eat",
+   "h": "jalan-besar",
+   "at": [
+    1.3073731,
+    103.8568623
+   ],
+   "addr": "166 Jalan Besar",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "hidden"
+   ],
+   "p": 2,
+   "src": "Michelin Bib Gourmand 2026 (Kelantan Kway Chap); Michelin Guide 2026 Selected (Fu He Turtle Soup)",
+   "d": "A local hawker centre with two Michelin-listed stalls upstairs.",
+   "tip": "Kelantan Kway Chap & Pig Organ Soup at #02-39. At Fu He Turtle Soup, get the lamb ribs."
+  },
+  {
+   "n": "Sungei Road Laksa",
+   "t": "eat",
+   "h": "jalan-besar",
+   "at": [
+    1.3067557,
+    103.8578571
+   ],
+   "addr": "Blk 27 Jalan Berseh, #01-100 Jin Shui Kopitiam",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "classic",
+    "hidden"
+   ],
+   "p": 2,
+   "src": "Miss Tam Chiak; Straits Times feature (via secondary)",
+   "d": "Laksa since 1956 on a charcoal-fired pot, with a fresh coconut-milk gravy. Eaten with a spoon only, as cut noodles.",
+   "tip": "Morning to early afternoon. Sells out."
+  },
+  {
+   "n": "Beach Road Scissor-Cut Curry Rice",
+   "t": "eat",
+   "h": "jalan-besar",
+   "at": [
+    1.3095121,
+    103.8577982
+   ],
+   "addr": "229 Jalan Besar",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "classic",
+    "dive"
+   ],
+   "p": 3,
+   "src": "ieatishootipost (Leslie Tay); Eatbook",
+   "d": "Hainanese curry rice: pork chop, braised pork and cabbage cut with scissors and drowned in two gravies. Ugly and delicious.",
+   "tip": "Open till about 3.30am, a supper alternative to Swee Choon."
+  },
+  {
+   "n": "Yong Kee Seafood",
+   "t": "eat",
+   "h": "jalan-besar",
+   "at": [
+    1.3047273,
+    103.8547507
+   ],
+   "addr": "Shing Boon Hwa Food Centre, 43 Jalan Besar",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hidden",
+    "dive"
+   ],
+   "p": 3,
+   "src": "Time Out Singapore; ieatishootipost; Makansutra; Michelin feature (chefs' late-night pick)",
+   "d": "Late-night zi char corner kopitiam, famous for crispy, part-burnt beehoon.",
+   "tip": "Chao tar beehoon. Daily 5.30pm-3am, closed the first Wed of the month."
+  },
+  {
+   "n": "Kok Kee Wanton Mee",
+   "t": "eat",
+   "h": "jalan-besar",
+   "at": [
+    1.3123764,
+    103.8602833
+   ],
+   "addr": "30 Foch Rd",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "famous"
+   ],
+   "p": 3,
+   "src": "Eatbook",
+   "d": "Cult wanton mee with springy noodles and a sticky, sweet sauce. Moved from Lavender Food Square.",
+   "tip": "Medium confidence on the current address. Check before going."
+  },
+  {
+   "n": "Cheeselads",
+   "t": "eat",
+   "h": "jalan-besar",
+   "at": [
+    1.3110756,
+    103.8597
+   ],
+   "addr": "117 Tyrwhitt Rd",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "you",
+    "hidden"
+   ],
+   "p": 2,
+   "src": "Time Out Singapore; Chope (reviews Sept 2025)",
+   "d": "Artisanal cheese bar with an outdoor terrace by Jalan Besar Stadium. Platters, truffle brie, decent wine. A relaxed wine-and-cheese evening, not a destination dinner.",
+   "tip": "House platter and a bottle. Service is slow on busy Saturdays. Hours conflict, so check."
+  },
+  {
+   "n": "Chye Seng Huat Hardware",
+   "t": "cafe",
+   "h": "jalan-besar",
+   "at": [
+    1.3115727,
+    103.8603282
+   ],
+   "addr": "150 Tyrwhitt Rd",
+   "price": "$",
+   "tags": [
+    "you",
+    "famous"
+   ],
+   "p": 1,
+   "src": "Time Out Singapore; Burpple",
+   "d": "A Papa Palheta roastery behind a 1950s hardware-shop facade, with an island coffee bar. The café that started Jalan Besar's turn.",
+   "tip": "Filter at the bar. Closed the first Monday of the month (per older listing)."
+  },
+  {
+   "n": "Moonchild",
+   "t": "cafe",
+   "h": "jalan-besar",
+   "at": [
+    1.3122821,
+    103.8595025
+   ],
+   "addr": "351 Jalan Besar #01-01",
+   "price": "$$",
+   "tags": [
+    "new"
+   ],
+   "p": 3,
+   "src": "Eatbook; HungryGoWhere; Time Out (2026 coolest-neighbourhood piece)",
+   "d": "Brunch café from the Atlas Coffeehouse group. Food good, drinks weaker.",
+   "tip": "Potato stack eggs Benny. No bookings, weekend queues."
+  },
+  {
+   "n": "Druggists",
+   "t": "drink",
+   "h": "jalan-besar",
+   "at": [
+    1.3111151,
+    103.8597275
+   ],
+   "addr": "119 Tyrwhitt Rd",
+   "price": "$$",
+   "tags": [
+    "dive",
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Time Out Singapore (older); Burpple",
+   "d": "Craft-beer taproom with 23 taps in the old Chinese Druggists Association building. Unfussy.",
+   "tip": "Latest reviews found are from 2019, so confirm it's open."
+  },
+  {
+   "n": "Petain Road terraces",
+   "t": "see",
+   "h": "jalan-besar",
+   "at": [
+    1.3124395,
+    103.8578408
+   ],
+   "addr": "Petain Rd",
+   "price": "free",
+   "tags": [
+    "hidden",
+    "you"
+   ],
+   "p": 1,
+   "src": "Time Out Singapore (coolest neighbourhood 2026)",
+   "d": "A row of 1930s shophouses covered in Peranakan majolica tiles and plaster flourishes. The most ornate terrace in the city.",
+   "tip": "Morning light. Five minutes from Chye Seng Huat."
+  },
+  {
+   "n": "Jalan Besar Stadium",
+   "t": "see",
+   "h": "jalan-besar",
+   "at": [
+    1.3102897,
+    103.8593707
+   ],
+   "addr": "100 Tyrwhitt Rd",
+   "price": "$",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Time Out Singapore",
+   "d": "The birthplace of Singapore football, still hosting league matches. A cheap local night out.",
+   "tip": "Check the Singapore Premier League fixtures."
+  }
+ ],
+ "walks": [
+  {
+   "name": "Tekka to the mosque, ending at Atlas",
+   "mins": 75,
+   "km": 3.6,
+   "best": "Saturday or Sunday, start around 9am. Or start at 3pm and end with sunset at the mosque and dinner. Not Mondays: the museums are closed.",
+   "stops": [
+    "Tekka Centre (hawker floor and wet market)",
+    "Delhi Lahori",
+    "House of Tan Teng Niah",
+    "Indian Heritage Centre",
+    "Sri Veeramakaliamman Temple",
+    "Masjid Abdul Gafoor",
+    "Bismillah Biryani",
+    "Kotuwa",
+    "Mother Dough",
+    "Malay Heritage Centre",
+    "Sultan Mosque (Masjid Sultan)",
+    "Bussorah Street",
+    "Sifr Aromatics",
+    "Haji Lane",
+    "Belimbing",
+    "Atlas"
+   ],
+   "d": "Start with breakfast naan at Tekka and a lap of the wet market. Cross Serangoon Rd to Kerbau Rd for Tan Teng Niah, then Campbell Lane (garland stalls) for the Indian Heritage Centre, and up Serangoon to Sri Veeramakaliamman. Cut east along Dunlop St past the Abdul Gafoor mosque and Bismillah. Kotuwa sits at the end on Dickson Rd if you're doing it as a dinner route. Head down Jalan Besar and Victoria St (about 15 min, hot, take water) to Jalan Sultan and Mother Dough. Then the Malay Heritage Centre, and Sultan Mosque from Bussorah St. Turn down Arab St for Sifr, walk Haji Lane quickly, then finish on Beach Rd at Belimbing or The Coconut Club and walk three minutes to Parkview Square for a drink at Atlas."
+  }
+ ]
+}

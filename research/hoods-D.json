@@ -1,0 +1,2195 @@
+{
+ "hoods": [
+  {
+   "k": "joochiat",
+   "name": "Joo Chiat / Katong / East Coast",
+   "short": "Joo Chiat",
+   "tag": "Peranakan shophouses, laksa, seafront",
+   "verdict": "yes",
+   "rank": 1,
+   "when": "Saturday: a morning run on East Coast Park, laksa or kaya toast, then the shophouse walk. Or a weeknight dinner on Joo Chiat Road. Chin Mee Chin's Katong shop shuts around 4pm.",
+   "london": "Stoke Newington Church Street crossed with the pastel terraces of Notting Hill: neighbourhood restaurants in old terraced houses, not destination dining",
+   "nyc": "Carroll Gardens / Park Slope: brownstones with good, unflashy local spots",
+   "worth": "Yes. It's the most characterful eating neighbourhood in this research and the best for her mix of hawker classics and small, ambitious places. It's 30-40 minutes from Kampong Bahru, so go deliberately and stay the day.",
+   "vibe": "Two parallel strips. East Coast Road (Katong) is the old Peranakan high street: 328 Katong Laksa and Janggut face each other across the road, Kim Choo sells kueh and nyonya dumplings, and Chin Mee Chin still makes kaya toast to its 1925 recipe. Joo Chiat Road runs north and is the hipper half: tiled two-storey shophouses with a natural-wine bar, an 8-to-10-seat tasting counter (Province), a Neapolitan pizzeria that's hard to book (La Bottega Enoteca), and old Vietnamese and Thai cafes left over from the 90s. The pastel terraces on Koon Seng Road are the photo stop. Cross the underpass south and you're on East Coast Park, which has the city's best long flat running path, with Fico's white Puglian masseria about three-quarters of the way along.",
+   "avoid": [
+    "Koon Seng Road at weekend midday: Instagram queues and heat; go at 8am",
+    "Treating the laksa feud as a big decision: try 328, then Janggut across the road if curious",
+    "Running East Coast Park at 1-4pm: no shade at all"
+   ],
+   "known": [
+    "Katong laksa",
+    "Peranakan (Nonya) food and shophouses",
+    "Kaya toast",
+    "East Coast Park",
+    "Small chef-led restaurants on Joo Chiat Road"
+   ],
+   "main": [
+    "Laksa crawl on East Coast Road",
+    "Koon Seng Road terraces + Medley Alley murals",
+    "East Coast Park run or cycle",
+    "Dinner at Province / La Bottega / 808",
+    "Old Airport Road Food Centre on the way in"
+   ],
+   "poly": [
+    [
+     1.316,
+     103.8975
+    ],
+    [
+     1.315,
+     103.907
+    ],
+    [
+     1.307,
+     103.911
+    ],
+    [
+     1.3005,
+     103.914
+    ],
+    [
+     1.299,
+     103.906
+    ],
+    [
+     1.303,
+     103.896
+    ],
+    [
+     1.31,
+     103.894
+    ]
+   ]
+  },
+  {
+   "k": "dempsey",
+   "name": "Dempsey Hill + Botanic Gardens + Holland Village",
+   "short": "Dempsey",
+   "tag": "Barracks restaurants, garden runs",
+   "verdict": "yes",
+   "rank": 2,
+   "when": "Early morning (the Gardens open at 5am) for a run, then breakfast. Or a dinner at Burnt Ends, Claudine or Candlenut. Holland V is a quick lunch, not an evening.",
+   "london": "Holland Park and Kew with Petersham Nurseries-style restaurants: money, greenery, colonial buildings",
+   "nyc": "Central Park's Upper West Side edge; Holland V is a tired Bleecker Street",
+   "worth": "Yes for the Botanic Gardens (UNESCO, free, the best garden run in the city) and for two or three of the best tables in Singapore. Dempsey has plenty of style over substance: pick carefully and skip the generic brunch places. Holland Village has faded (2024-25 closures reported by The Straits Times), so go there only for the food centre and Chip Bee Gardens.",
+   "vibe": "Dempsey is a hill of former British army barracks turned restaurants, scattered through rain trees. Burnt Ends (wood-fired counter, Michelin star) and Candlenut (Peranakan, Michelin star) are the serious anchors. Claudine is Julien Royer's French brasserie in a 1930s chapel. COMO Dempsey has Bottura's Torno Subito. The rest leans expat-brunch and car-park luxury. The Botanic Gardens are next door: 82 hectares, open 5am to midnight, packed with joggers at dawn, quiet by 8am. Holland Village, a kilometre west, is a dated bar strip around a hawker centre. Chip Bee Gardens, its low-rise shophouse block, has Keong Saik Bakery and Original Sin.",
+   "avoid": [
+    "Jumbo Seafood or generic brunch spots at Dempsey (chain/tourist register)",
+    "Expecting a dinner at Halia (announced closure mid-March 2026) or Corner House (reported closed)",
+    "A night out in Holland V: the bar strip is tired",
+    "Taxis home from Dempsey at 10pm on Fri/Sat: book ahead"
+   ],
+   "known": [
+    "Singapore Botanic Gardens (UNESCO)",
+    "Burnt Ends",
+    "Candlenut",
+    "Colonial barracks dining",
+    "Holland Village food centre"
+   ],
+   "main": [
+    "Dawn run in the Botanic Gardens",
+    "National Orchid Garden",
+    "Counter dinner at Burnt Ends",
+    "Claudine or Candlenut",
+    "Chip Bee Gardens bakery stop"
+   ],
+   "poly": [
+    [
+     1.3125,
+     103.7935
+    ],
+    [
+     1.315,
+     103.8
+    ],
+    [
+     1.3225,
+     103.814
+    ],
+    [
+     1.32,
+     103.8175
+    ],
+    [
+     1.305,
+     103.818
+    ],
+    [
+     1.301,
+     103.812
+    ],
+    [
+     1.303,
+     103.807
+    ],
+    [
+     1.308,
+     103.793
+    ]
+   ]
+  },
+  {
+   "k": "far",
+   "name": "Days out",
+   "short": "Days out",
+   "tag": "Rainforest, islands, ridges, airport",
+   "verdict": "once",
+   "rank": 3,
+   "when": "Weekend mornings before 10am (heat). MacRitchie TreeTop Walk is closed Mondays. Be back at the Ubin jetty by about 5:30pm.",
+   "london": "Day trips: Richmond Park / Box Hill",
+   "nyc": "Bear Mountain / Fire Island day trips",
+   "worth": "Pulau Ubin and the Southern Ridges are worth doing. The Ridges start near her flat. MacRitchie and Bukit Timah are good long runs or hikes. Sentosa is mostly theme park; Tanjong Beach with the new Fico is the redeeming corner. Jewel is a 30-minute stop on the way to a flight, not a day.",
+   "vibe": "The Southern Ridges are a 10km elevated green spine from Mount Faber, minutes from Kampong Bahru, over Henderson Waves and canopy walkways to Kent Ridge, which is practically on the way to campus. Pulau Ubin is the last kampung island: a S$4 bumboat from Changi Point, rented bikes, and the Chek Jawa boardwalk over mangroves. MacRitchie is reservoir rainforest with a suspension bridge 25m up. Bukit Timah is a short, steep primary-forest summit. Sentosa is resort-and-theme-park except Tanjong Beach. Jewel is the airport mall built around a 40m indoor waterfall.",
+   "avoid": [
+    "Sentosa's Siloso/Universal side if you want a beach day: head to Tanjong",
+    "Eating a proper meal at Jewel: chain food court register",
+    "Starting MacRitchie or Bukit Timah after 9am",
+    "Missing the last Ubin boats: be at the jetty by ~5:30pm"
+   ],
+   "known": [
+    "Henderson Waves",
+    "Pulau Ubin / Chek Jawa",
+    "MacRitchie TreeTop Walk",
+    "Jewel Rain Vortex",
+    "Sentosa beaches"
+   ],
+   "main": [
+    "Southern Ridges run from home",
+    "Ubin by bike",
+    "TreeTop Walk loop",
+    "Bukit Timah summit",
+    "Tanjong Beach + Fico"
+   ]
+  },
+  {
+   "k": "onenorth",
+   "name": "Buona Vista / one-north / Rochester Park / Portsdown",
+   "short": "one-north",
+   "tag": "Campus lunches, colonial bungalows",
+   "verdict": "through",
+   "rank": 4,
+   "when": "Weekday lunch between classes (go before 12 or after 1:30 to dodge office queues). Early-evening drinks at Timbre+ or Colbar.",
+   "london": "King's Cross / Paddington Basin tech campus, with Kew-style colonial bungalows tucked behind",
+   "nyc": "Roosevelt Island's Cornell Tech: purpose-built and thin on soul",
+   "worth": "She'll be here daily anyway, so the point is good lunches, not a destination. The real value is the two hawker centres a short walk north (Ghim Moh and Holland Drive), which hold four Bib Gourmand-level stalls between them, plus Colbar for nostalgia. Don't come back here on a weekend.",
+   "vibe": "one-north is a government-planned R&D district of glass towers (Fusionopolis, Biopolis) around INSEAD. Behind it are the black-and-white bungalows of Rochester Park and Wessex Estate, which feel like 1950s Surrey under rain trees. Rochester Park's bungalows now hold restaurants (Les Bouchons, Min Jiang at One-North). Wessex has Colbar, a 1953 British army canteen that still serves fry-ups. Ghim Moh and Holland Drive hawker centres, by Buona Vista MRT, are where the good cheap food is. Kent Ridge Park and its canopy walk sit on the hill to the south and link onto the Southern Ridges.",
+   "avoid": [
+    "Fusionopolis food courts when you could walk 10 min to Ghim Moh",
+    "Assuming the Rail Corridor south toward home is runnable: Henderson-Spooner Rd is closed till Jul 2027",
+    "Ghim Moh on Mondays: many stalls closed"
+   ],
+   "known": [
+    "INSEAD Asia campus",
+    "Black-and-white colonial bungalows",
+    "Ghim Moh hawker centre",
+    "Colbar"
+   ],
+   "main": [
+    "Lunch at Ghim Moh / Holland Drive",
+    "Colbar fry-up",
+    "Kent Ridge canopy walk",
+    "Wessex Estate stroll",
+    "Timbre+ after class"
+   ],
+   "poly": [
+    [
+     1.3125,
+     103.786
+    ],
+    [
+     1.312,
+     103.7905
+    ],
+    [
+     1.306,
+     103.796
+    ],
+    [
+     1.293,
+     103.799
+    ],
+    [
+     1.292,
+     103.793
+    ],
+    [
+     1.296,
+     103.784
+    ],
+    [
+     1.305,
+     103.784
+    ]
+   ]
+  }
+ ],
+ "places": [
+  {
+   "n": "Province",
+   "t": "eat",
+   "h": "joochiat",
+   "at": [
+    1.312892,
+    103.9001332
+   ],
+   "addr": "153 Joo Chiat Road, Singapore 427431",
+   "tier": "nice",
+   "price": "$$$",
+   "tags": [
+    "you",
+    "hidden"
+   ],
+   "p": 1,
+   "src": "Tatler Asia (Katong guide, 2024; chef profile); ieatishootipost ('fine dining with local produce'); The Ranting Panda (2026 roundup)",
+   "london": "Acre",
+   "d": "A tiny tasting counter (8-10 seats) run by chef Law Jia Jun, cooking Southeast Asian flavours from local produce. Of everything here, it's the closest to Acre: one cook, seasonal, no theatre.",
+   "tip": "Seven-course prix fixe at about S$138++, changed every three months. Book on its website. The phone numbers listed online conflict, so use the site.",
+   "open": "high"
+  },
+  {
+   "n": "808 Eating House",
+   "t": "eat",
+   "h": "joochiat",
+   "at": [
+    1.312892,
+    103.9001332
+   ],
+   "addr": "153 Joo Chiat Road, Singapore 427431",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "you"
+   ],
+   "p": 2,
+   "src": "Women's Weekly SG (2023); The Ranting Panda (2026)",
+   "london": "Toklas / Morito",
+   "d": "Chef Eugene Chee's Southeast Asian sharing plates with craft beer and natural wine, in the same shophouse as Province. The relaxed small-plates register she likes.",
+   "tip": "Order the buah keluak pork belly. Reserve via its website.",
+   "open": "medium"
+  },
+  {
+   "n": "La Bottega Enoteca",
+   "t": "eat",
+   "h": "joochiat",
+   "at": [
+    1.3087744,
+    103.9026926
+   ],
+   "addr": "346 Joo Chiat Road, Singapore 427596",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "you",
+    "famous"
+   ],
+   "p": 1,
+   "src": "50 Top Pizza Asia-Pacific 2023 (No. 19); Tatler Asia; Time Out Singapore",
+   "london": "Zia Lucia done properly (she rated Zia Lucia a 2; this is the real thing)",
+   "d": "Antonio Miscellaneo's 72-hour-ferment 'Newpolitan' pizzas. Famously hard to book, and the reviewers agree the hype holds.",
+   "tip": "Book well ahead. Tatler's order is the Marinara (anchovy, olive, oregano).",
+   "open": "high"
+  },
+  {
+   "n": "Fico (East Coast Park)",
+   "t": "eat",
+   "h": "joochiat",
+   "at": [
+    1.3105383,
+    103.9462428
+   ],
+   "addr": "1300 East Coast Parkway, Singapore 468964",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "you",
+    "famous"
+   ],
+   "p": 1,
+   "src": "Michelin Bib Gourmand (2024, 2025, 2026 lists); Michelin East Coast guide (Apr 2025); Daniel Food Diary (Apr 2026)",
+   "london": "The River Cafe on a budget / Padella by the sea",
+   "d": "A white Puglian masseria on the East Coast Park lawn, cooking cucina povera with handmade pasta. One of very few Italian Bibs in Singapore. The setting does half the work, and the focaccina does the rest.",
+   "tip": "Order the San Marzano tomato focaccina with mozzarella, then pasta, then the dessert trolley. Lunch is Thu-Sun only. Book on +65 9665 4153. Run there along the park and taxi home.",
+   "open": "high"
+  },
+  {
+   "n": "Chilli Padi Nonya Restaurant",
+   "t": "eat",
+   "h": "joochiat",
+   "at": [
+    1.3133665,
+    103.9000407
+   ],
+   "addr": "#01-03, 11 Joo Chiat Place, Singapore 427744",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "classic"
+   ],
+   "p": 2,
+   "src": "Michelin Guide (listed); Michelin East Coast & Joo Chiat guide (Apr 2025); Tatler Asia",
+   "d": "An old-school Peranakan dining room with batik tablecloths. Unglamorous, but it's the honest version of Nonya cooking, and most dishes come in three sizes, so two people can cover the menu.",
+   "tip": "Order ayam buah keluak, babi pongteh, chap chye and kueh pie tee.",
+   "open": "high"
+  },
+  {
+   "n": "Kappo Suguru",
+   "t": "eat",
+   "h": "joochiat",
+   "at": [
+    1.3123501,
+    103.9000995
+   ],
+   "addr": "192 Joo Chiat Road, Singapore 427463",
+   "tier": "nice",
+   "price": "$$$$",
+   "tags": [
+    "splurge",
+    "new"
+   ],
+   "p": 3,
+   "src": "The Ranting Panda (2026 Joo Chiat roundup)",
+   "london": "Nobu's quieter, counter-only cousin",
+   "d": "A Japanese kappo omakase counter. Only blog-reviewed so far, which is the weakest sourcing on this list. Worth it only if she wants Japanese in the east.",
+   "tip": "Omakase from S$180++. The reviewer singled out the tallow-aged A5 wagyu. OSM shows another business at this address, so confirm it's open before booking.",
+   "open": "medium"
+  },
+  {
+   "n": "Carlitos",
+   "t": "eat",
+   "h": "joochiat",
+   "at": [
+    1.3086852,
+    103.9027575
+   ],
+   "addr": "350 Joo Chiat Road, Singapore 427598",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "new",
+    "you"
+   ],
+   "p": 3,
+   "src": "The Ranting Panda (2026 Joo Chiat roundup)",
+   "london": "Morito / Barbary Next Door (if it delivers)",
+   "d": "A new Barcelona-bar-style tapas place next to La Bottega. Untested by any serious critic yet, but it's exactly her format.",
+   "tip": "Tapas from S$8, bottles from S$58. Go mid-week as a test.",
+   "open": "medium"
+  },
+  {
+   "n": "Long Phung",
+   "t": "eat",
+   "h": "joochiat",
+   "at": [
+    1.3127242,
+    103.9001345
+   ],
+   "addr": "159 Joo Chiat Road, Singapore 427436",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "classic",
+    "hidden"
+   ],
+   "p": 2,
+   "src": "Time Out Singapore (Katong guide); The Ranting Panda",
+   "d": "A long-running, no-frills Vietnamese canteen left over from Joo Chiat's 90s Vietnamese era. Time Out calls it consistently good for noodle soup.",
+   "tip": "Order the beef pho. Expect a queue at weekend lunch.",
+   "open": "high"
+  },
+  {
+   "n": "Kinnari Thai Cuisine",
+   "t": "eat",
+   "h": "joochiat",
+   "at": [
+    1.311817,
+    103.900842
+   ],
+   "addr": "#01-01, 201 Joo Chiat Road, Singapore 427472",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "The Ranting Panda ('my go-to Thai in the east')",
+   "london": "The anti-Busaba",
+   "d": "A neighbourhood Thai place that's cheap and loved by one serious east-side blogger. Low stakes.",
+   "tip": "Go for a weeknight dinner.",
+   "open": "medium"
+  },
+  {
+   "n": "Casa Cicheti (Joo Chiat)",
+   "t": "eat",
+   "h": "joochiat",
+   "at": [
+    1.310898,
+    103.902338
+   ],
+   "addr": "128 Tembeling Road, Singapore 423638",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [],
+   "p": 3,
+   "src": "The Ranting Panda (2026)",
+   "london": "Padella-adjacent neighbourhood Italian",
+   "d": "The second outlet of the Cicheti group (after Tiong Bahru), in the old Forma space: pasta and pizza in a cosy room. A safe pick, not a destination.",
+   "tip": "Good if La Bottega is full.",
+   "open": "medium"
+  },
+  {
+   "n": "Asador",
+   "t": "eat",
+   "h": "joochiat",
+   "at": [
+    1.313582,
+    103.901005
+   ],
+   "addr": "51 Joo Chiat Place, Singapore 427775",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [],
+   "p": 3,
+   "src": "The Ranting Panda (2022 review)",
+   "london": "Sam's Riverside-lite grill",
+   "d": "A Spanish grill with a neighbourhood vibe. It also runs the 60ml speakeasy.",
+   "tip": "Pair it with a drink at 60ml.",
+   "open": "medium"
+  },
+  {
+   "n": "328 Katong Laksa",
+   "t": "eat",
+   "h": "joochiat",
+   "at": [
+    1.3050004,
+    103.9032941
+   ],
+   "addr": "51 East Coast Road, Singapore 428770",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "famous",
+    "classic",
+    "hawker"
+   ],
+   "p": 1,
+   "src": "Michelin (recognised 2016-17 era, not on the 2026 Bib list); HungryGoWhere 'Food Feuds'",
+   "d": "The benchmark Katong laksa: short-cut noodles in a thick coconut-dried-shrimp broth, eaten with a spoon only. Very famous, and still consistent.",
+   "tip": "Order a small (about S$7) with extra cockles. Then decide whether to try Janggut across the road.",
+   "open": "high"
+  },
+  {
+   "n": "Janggut Laksa (Roxy Square)",
+   "t": "eat",
+   "h": "joochiat",
+   "at": [
+    1.3043505,
+    103.9040606
+   ],
+   "addr": "Roxy Square, 50 East Coast Road, Singapore 428769",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "classic",
+    "hawker"
+   ],
+   "p": 2,
+   "src": "HungryGoWhere 'Food Feuds'; Wikipedia (Katong laksa history)",
+   "d": "The original lineage, selling since 1963. Its broth is lighter and more lemongrass-forward than 328's. Do them back to back to settle it.",
+   "tip": "Order a small bowl, straight after 328.",
+   "open": "high"
+  },
+  {
+   "n": "Chin Mee Chin Confectionery",
+   "t": "eat",
+   "h": "joochiat",
+   "at": [
+    1.3072261,
+    103.907068
+   ],
+   "addr": "204 East Coast Road, Singapore 428903",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "classic",
+    "famous"
+   ],
+   "p": 1,
+   "src": "Eatbook; Seth Lui; Ordinary Patrons (Oct 2025, Aug 2026)",
+   "london": "Jolene for kopi and kaya",
+   "d": "A 1925 kopitiam bakery revived in 2021 by Ebb & Flow, the group behind Michelin-starred Willow. The kaya is still made to the original recipe. It's the most atmospheric breakfast in the east.",
+   "tip": "Order the kaya toast set with soft eggs and kopi, before 9am. Open daily 8am-4pm.",
+   "open": "high"
+  },
+  {
+   "n": "Mr and Mrs Mohgan's Super Crispy Roti Prata",
+   "t": "eat",
+   "h": "joochiat",
+   "at": [
+    1.3097096,
+    103.901986
+   ],
+   "addr": "Tin Yeang Restaurant, 300 Joo Chiat Road, Singapore 427551",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hidden",
+    "hawker"
+   ],
+   "p": 2,
+   "src": "Tatler Asia (Katong guide)",
+   "d": "Some of the crispiest prata on the island, from a husband-and-wife stall inside a coffee shop. A breakfast worth the queue.",
+   "tip": "Order the kosong with fish curry, or the coin prata. Go early. Tatler notes it now opens on weekends; check hours.",
+   "open": "medium"
+  },
+  {
+   "n": "Old Airport Road Food Centre",
+   "t": "eat",
+   "h": "joochiat",
+   "at": [
+    1.3082727,
+    103.8858564
+   ],
+   "addr": "51 Old Airport Road, Singapore 390051",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "famous"
+   ],
+   "p": 1,
+   "src": "Michelin Bib Gourmand 2026 (Nam Sing Hokkien Fried Mee, Lao Fu Zi Fried Kway Teow, To-Ricos Kway Chap); Michelin East Coast guide (Apr 2025)",
+   "d": "Three Bib Gourmand stalls under one roof, in a recently renovated centre. About 2km west of Joo Chiat, so a natural first stop on the way out.",
+   "tip": "Lao Fu Zi for wok hei, Nam Sing for Hokkien mee, To-Ricos for kway chap. Lunch beats dinner.",
+   "open": "high"
+  },
+  {
+   "n": "Kim Choo Kueh Chang",
+   "t": "shop",
+   "h": "joochiat",
+   "at": [
+    1.3058066,
+    103.9045436
+   ],
+   "addr": "East Coast Road, Singapore 428792 (Katong)",
+   "price": "$",
+   "tags": [
+    "classic"
+   ],
+   "p": 2,
+   "src": "Local institution (Peranakan rice dumplings); Michelin East Coast guide lists Peranakan shophouse heritage. No critic review found",
+   "d": "A family Peranakan shop selling nyonya rice dumplings (bak chang) and kueh, with a small heritage display upstairs.",
+   "tip": "Buy a nyonya chang to take home.",
+   "open": "high"
+  },
+  {
+   "n": "Birds of Paradise (Katong)",
+   "t": "cafe",
+   "h": "joochiat",
+   "at": [
+    1.3052848,
+    103.9036492
+   ],
+   "addr": "#01-05, 63 East Coast Road, Singapore 428776",
+   "price": "$",
+   "tags": [
+    "famous"
+   ],
+   "p": 2,
+   "src": "Michelin Guide (listed, Inspectors' favourite); Michelin East Coast guide (Apr 2025)",
+   "london": "Gelupo",
+   "d": "Botanical gelato (sea salt hojicha, white chrysanthemum) on thyme cones. The Michelin listing is deserved.",
+   "tip": "Go after laksa. Open until about 10pm.",
+   "open": "high"
+  },
+  {
+   "n": "Common Man Coffee Roasters (Joo Chiat)",
+   "t": "cafe",
+   "h": "joochiat",
+   "at": [
+    1.312062,
+    103.9006114
+   ],
+   "addr": "185 Joo Chiat Road, Singapore 427456",
+   "price": "$$",
+   "tags": [],
+   "p": 3,
+   "src": "Tatler Asia (Katong guide)",
+   "london": "Granger & Co",
+   "d": "Proper specialty coffee and an Aussie brunch in a shophouse. Reliable, not exciting.",
+   "tip": "Order the 30-hour-ferment sourdough pancakes.",
+   "open": "high"
+  },
+  {
+   "n": "174bingo",
+   "t": "cafe",
+   "h": "joochiat",
+   "at": [
+    1.3127107,
+    103.8998546
+   ],
+   "addr": "#01-01, 174 Joo Chiat Road, Singapore 427445",
+   "price": "$",
+   "tags": [
+    "hidden",
+    "you"
+   ],
+   "p": 2,
+   "src": "Tatler Asia (Katong guide, 2024)",
+   "london": "Jolene / Toklas Bakery",
+   "d": "A Scandinavian-style bakery: cardamom buns, pistachio tart and chicken pies. As of 2024 it was takeaway only.",
+   "tip": "Get the Iranian pistachio tart and a cardamom bun to go.",
+   "open": "medium"
+  },
+  {
+   "n": "Two Men Bagel House (Joo Chiat)",
+   "t": "cafe",
+   "h": "joochiat",
+   "at": [
+    1.3066893,
+    103.904607
+   ],
+   "addr": "465 Joo Chiat Road, Singapore 427677",
+   "price": "$",
+   "tags": [],
+   "p": 3,
+   "src": "The Ranting Panda (2026)",
+   "d": "Good bagels with St. Ali coffee. A useful post-run fuel stop at the south end of Joo Chiat.",
+   "tip": "Order the Firebird bagelwich.",
+   "open": "high"
+  },
+  {
+   "n": "Neptune",
+   "t": "cafe",
+   "h": "joochiat",
+   "at": [
+    1.307846,
+    103.90749
+   ],
+   "addr": "237 East Coast Road, Singapore 428930",
+   "price": "$$",
+   "tags": [],
+   "p": 3,
+   "src": "Tatler Asia (Katong guide)",
+   "d": "A mid-century-modern brunch cafe from the Atlas Coffeehouse / Apollo team.",
+   "tip": "Order the chilli crab scrambled eggs.",
+   "open": "medium"
+  },
+  {
+   "n": "The Lunar Rabbit Boulangerie (Katong)",
+   "t": "cafe",
+   "h": "joochiat",
+   "at": [
+    1.303542,
+    103.896556
+   ],
+   "addr": "350 Tanjong Katong Road, Singapore 437116",
+   "price": "$",
+   "tags": [],
+   "p": 3,
+   "src": "Women's Weekly SG (2023)",
+   "d": "French viennoiserie and tarts, with 40 seats.",
+   "tip": "Closed Tuesdays.",
+   "open": "medium"
+  },
+  {
+   "n": "Joo Chiat Oyster House",
+   "t": "drink",
+   "h": "joochiat",
+   "at": [
+    1.308907,
+    103.902326
+   ],
+   "addr": "#01-05, 328 Joo Chiat Road, Singapore 427585",
+   "price": "$$",
+   "tags": [
+    "you"
+   ],
+   "p": 2,
+   "src": "Women's Weekly SG (2023); The Ranting Panda (2026)",
+   "london": "Caia without the DJ: oysters and cocktails",
+   "d": "An evening oyster-and-cocktail bar with Hyogo oysters flown in weekly and local-flavoured drinks.",
+   "tip": "Evenings only, from 5pm. Order oysters and one local-spice cocktail.",
+   "open": "medium"
+  },
+  {
+   "n": "The Studio by Juice",
+   "t": "drink",
+   "h": "joochiat",
+   "at": [
+    1.3048824,
+    103.9029177
+   ],
+   "addr": "39A East Coast Road, Singapore 428756",
+   "price": "$$",
+   "tags": [
+    "you",
+    "hidden"
+   ],
+   "p": 2,
+   "src": "Tatler Asia (Katong guide)",
+   "d": "A dim first-floor wine room with 200+ bottles. Tell the staff what you like and let them choose. Good for a date.",
+   "tip": "Ask for a skin-contact or natural bottle.",
+   "open": "medium"
+  },
+  {
+   "n": "Baba Chews Bar and Eatery",
+   "t": "drink",
+   "h": "joochiat",
+   "at": [
+    1.304624,
+    103.9047053
+   ],
+   "addr": "Hotel Indigo, 86 East Coast Road, Singapore 428788",
+   "price": "$$",
+   "tags": [],
+   "p": 3,
+   "src": "Honeycombers (Katong happy hours); TableCheck listings",
+   "d": "A hotel bar in the old Joo Chiat police station building, pouring Peranakan-twist cocktails. Fine, not special.",
+   "tip": "Order the Pandan Negroni.",
+   "open": "high"
+  },
+  {
+   "n": "60ml by Asador",
+   "t": "drink",
+   "h": "joochiat",
+   "at": [
+    1.313582,
+    103.901005
+   ],
+   "addr": "Joo Chiat (see Asador, 51 Joo Chiat Place)",
+   "price": "$$",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Little Steps Asia (new bars)",
+   "d": "A speakeasy cocktail bar from the Asador / 94 Amoy St team.",
+   "tip": "Check its exact door before going.",
+   "open": "low"
+  },
+  {
+   "n": "Drunken Farmer (Joo Chiat)",
+   "t": "drink",
+   "h": "joochiat",
+   "at": [
+    1.3121035,
+    103.9006716
+   ],
+   "addr": "185 Joo Chiat Road, Singapore 427456",
+   "price": "$$",
+   "tags": [
+    "you"
+   ],
+   "p": 3,
+   "src": "City Nomads; Little Day Out (no 2025-26 confirmation)",
+   "london": "Toklas-ish natural wine and sourdough",
+   "d": "Natural wine with sourdough pizza and fermented snacks. Possibly closed: nothing dated after 2022.",
+   "tip": "Call +65 6877 4884 before going.",
+   "open": "low"
+  },
+  {
+   "n": "Koon Seng Road shophouses",
+   "t": "see",
+   "h": "joochiat",
+   "at": [
+    1.3103029,
+    103.9025559
+   ],
+   "addr": "Koon Seng Road (off Joo Chiat Road)",
+   "price": "free",
+   "tags": [
+    "famous"
+   ],
+   "p": 1,
+   "src": "Michelin East Coast & Joo Chiat guide (Apr 2025)",
+   "d": "Singapore's most photographed pastel Peranakan terraces, part of the Joo Chiat heritage town designated in 2011.",
+   "tip": "Go at 8am for the light and no crowds.",
+   "open": "high"
+  },
+  {
+   "n": "Medley Alley",
+   "t": "see",
+   "h": "joochiat",
+   "at": [
+    1.3058585,
+    103.9045074
+   ],
+   "addr": "113 East Coast Road (back alley)",
+   "price": "free",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Michelin East Coast & Joo Chiat guide (Apr 2025)",
+   "d": "Back-alley murals built on Peranakan tile motifs. Five minutes, and on the laksa route.",
+   "tip": "Do it between 328 and Birds of Paradise.",
+   "open": "high"
+  },
+  {
+   "n": "Sri Senpaga Vinayagar Temple",
+   "t": "see",
+   "h": "joochiat",
+   "at": [
+    1.3055218,
+    103.9025104
+   ],
+   "addr": "19 Ceylon Road, Singapore 429613",
+   "price": "free",
+   "tags": [
+    "classic"
+   ],
+   "p": 3,
+   "src": "OSM / local landmark (no critic source)",
+   "d": "An ornate Hindu temple with a carved tower, a short walk from Katong's laksa strip.",
+   "tip": "Shoes off. Cover shoulders.",
+   "open": "high"
+  },
+  {
+   "n": "The Intan",
+   "t": "see",
+   "h": "joochiat",
+   "at": [
+    1.314681,
+    103.9009812
+   ],
+   "addr": "69 Joo Chiat Terrace, Singapore 427231",
+   "price": "$$",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Michelin East Coast guide (mentions Joo Chiat private museums); OSM",
+   "d": "A private Peranakan home-museum, packed with heirlooms.",
+   "tip": "By appointment only. Book ahead.",
+   "open": "medium"
+  },
+  {
+   "n": "Little Farms (Katong Point)",
+   "t": "shop",
+   "h": "joochiat",
+   "at": [
+    1.3069285,
+    103.9045314
+   ],
+   "addr": "Katong Point, 451 Joo Chiat Road, Singapore 427664",
+   "price": "$$",
+   "tags": [],
+   "p": 3,
+   "src": "Michelin East Coast guide; City Nomads",
+   "london": "Natoora / Gail's grocer",
+   "d": "A specialty grocer with a bistro, for meal-prep ingredients (her health goal).",
+   "tip": "Happy hour runs 4-8pm.",
+   "open": "high"
+  },
+  {
+   "n": "East Coast Park (Marine Cove)",
+   "t": "do",
+   "h": "joochiat",
+   "at": [
+    1.3013796,
+    103.91289
+   ],
+   "addr": "1000 East Coast Parkway (Marine Cove)",
+   "price": "free",
+   "tags": [
+    "classic"
+   ],
+   "p": 1,
+   "src": "NParks; Michelin East Coast guide",
+   "d": "About 15km of flat seafront path for running, cycling and rollerblading. The best long run in this research.",
+   "tip": "Start at Marine Cove at 6:30am and run east to Fico (about 4km) and back.",
+   "open": "high"
+  },
+  {
+   "n": "Burnt Ends",
+   "t": "eat",
+   "h": "dempsey",
+   "at": [
+    1.304404,
+    103.809125
+   ],
+   "addr": "#01-02, 7 Dempsey Road, Singapore 249671",
+   "tier": "nice",
+   "price": "$$$$",
+   "tags": [
+    "you",
+    "famous",
+    "splurge"
+   ],
+   "p": 1,
+   "src": "Michelin One Star (2026, held since 2018); Asia's 50 Best Restaurants 2026 No. 59 (No. 38 in 2025)",
+   "london": "The Barbary (counter + fire), at River Cafe prices",
+   "d": "Dave Pynt's four-tonne brick-kiln barbecue, eaten at the counter. Buzzy, ingredient-first and smoke-led. If she does one big Singapore dinner, this is the one most likely to land.",
+   "tip": "Book the counter, not a table, as soon as the booking window opens. Order the pulled-pork 'Burnt Ends sanger' and whatever is on the bone. The bar next door is a backup for walk-ins.",
+   "open": "high"
+  },
+  {
+   "n": "Candlenut",
+   "t": "eat",
+   "h": "dempsey",
+   "at": [
+    1.3058126,
+    103.810034
+   ],
+   "addr": "17A Dempsey Road, Singapore 249676",
+   "tier": "nice",
+   "price": "$$$",
+   "tags": [
+    "famous",
+    "classic"
+   ],
+   "p": 1,
+   "src": "Michelin One Star (2026; distinction every year since 2016)",
+   "london": "Gunpowder, elevated: home cooking taken seriously",
+   "d": "Malcolm Lee's Peranakan cooking with Indonesian touches, in an airy bamboo-and-rattan room at COMO Dempsey. The best way into Nonya food at fine-dining level.",
+   "tip": "Order the à la carte sharing plates (buah keluak) rather than the 10+ course tasting menu if she wants buzz over ceremony.",
+   "open": "high"
+  },
+  {
+   "n": "Claudine",
+   "t": "eat",
+   "h": "dempsey",
+   "at": [
+    1.304844,
+    103.8135352
+   ],
+   "addr": "39C Harding Road, Singapore 249541",
+   "tier": "nice",
+   "price": "$$$",
+   "tags": [
+    "you"
+   ],
+   "p": 2,
+   "src": "Michelin Guide (listed, Inspectors' favourite); Honeycombers (Apr 2026)",
+   "london": "Chiltern Firehouse room, Brasserie Zédel-classics menu, but done well",
+   "d": "Julien Royer (Odette, three stars) cooking French brasserie classics in a converted 1930s chapel with an open kitchen. Very handsome room, with real cooking behind it.",
+   "tip": "Order the vol-au-vent and the soufflé, with the strong wine-by-the-glass list. Book a weekend dinner.",
+   "open": "high"
+  },
+  {
+   "n": "Air",
+   "t": "eat",
+   "h": "dempsey",
+   "at": [
+    1.3059964,
+    103.8120059
+   ],
+   "addr": "25B Dempsey Road, Singapore 249918 (pin approximate: 25 Dempsey block)",
+   "tier": "nice",
+   "price": "$$$",
+   "tags": [
+    "you"
+   ],
+   "p": 2,
+   "src": "La Liste Opening of the Year (via Time Out); Honeycombers (Jan 2025); Ordinary Patrons (Jan 2026)",
+   "london": "Acre / Sam's Riverside garden register",
+   "d": "Opened by ex-Noma chef Matthew Orlando as a zero-waste, garden-led restaurant. A local team now runs a contemporary Asian menu. Produce-first, in a lush former civil service clubhouse.",
+   "tip": "Order the purple potato flatbread and the glazed duck. Check whether the set menu (about S$88++ in 2024) is still running.",
+   "open": "high"
+  },
+  {
+   "n": "Torno Subito",
+   "t": "eat",
+   "h": "dempsey",
+   "at": [
+    1.3058018,
+    103.8113676
+   ],
+   "addr": "#01-02, 26 Dempsey Road, Singapore 249686 (COMO Dempsey)",
+   "tier": "medium",
+   "price": "$$$",
+   "tags": [
+    "you"
+   ],
+   "p": 2,
+   "src": "Michelin Guide (listed: 'Iconic', 'Trending'); Tatler Asia; SG Food on Foot 3.5/5 (Sep 2025)",
+   "london": "Via Emilia meets Cecconi's",
+   "d": "Massimo Bottura's playful 1960s-Riviera trattoria. Tatler says the service lacks warmth and the room is louder than the food, but the tortellini is the real thing.",
+   "tip": "Go for the weekday three-course lunch (about S$68++). Order the tortellini in 36-month Parmigiano. Closed Mon-Tue.",
+   "open": "high"
+  },
+  {
+   "n": "Min Jiang at Dempsey",
+   "t": "eat",
+   "h": "dempsey",
+   "at": [
+    1.3047443,
+    103.8081673
+   ],
+   "addr": "7A & 7B Dempsey Road, Singapore 249684",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "classic"
+   ],
+   "p": 2,
+   "src": "Michelin Guide (listed; in 'Singapore's Best Chinese Food')",
+   "d": "Goodwood Park Hotel's Cantonese-Sichuan restaurant in a colonial bungalow. Wood-fired Beijing duck carved at the table, and dim sum at lunch. Good for a group or for parents visiting.",
+   "tip": "Pre-order the duck. Michelin recommends the Kung Pao chicken.",
+   "open": "high"
+  },
+  {
+   "n": "La Terrace",
+   "t": "eat",
+   "h": "dempsey",
+   "at": [
+    1.304844,
+    103.8135352
+   ],
+   "addr": "39C Harding Road, Singapore 249541",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [],
+   "p": 3,
+   "src": "Honeycombers (Apr 2026); Ordinary Patrons",
+   "london": "Granger & Co with French accents",
+   "d": "Claudine's casual, brunch-friendly sibling. Same kitchen, lower stakes.",
+   "tip": "Go for brunch after a Botanic Gardens run.",
+   "open": "high"
+  },
+  {
+   "n": "Atout",
+   "t": "eat",
+   "h": "dempsey",
+   "at": [
+    1.3058984,
+    103.8136013
+   ],
+   "addr": "40C Harding Road, Singapore 249548",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [],
+   "p": 3,
+   "src": "Honeycombers (Apr 2026)",
+   "d": "A French bistro next to Curly's market. Listed, but without strong critic coverage.",
+   "tip": "Treat it as a fallback when Claudine is full.",
+   "open": "medium"
+  },
+  {
+   "n": "Violet Oon Singapore at Dempsey",
+   "t": "eat",
+   "h": "dempsey",
+   "at": [
+    1.3047214,
+    103.8087594
+   ],
+   "addr": "#01-05, 7 Dempsey Road, Singapore 249671",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "new"
+   ],
+   "p": 3,
+   "src": "The Peak (opening, Apr 2025); Honeycombers (Apr 2026)",
+   "london": "The Ivy of Peranakan (she rated The Ivy a 2): polished heritage brand",
+   "d": "The Violet Oon brand's largest flagship, opened April 2025, with an edible garden. Pretty, but Candlenut next door is the serious Peranakan meal.",
+   "tip": "Only for visiting family who want the brand.",
+   "open": "high"
+  },
+  {
+   "n": "Huber's Bistro",
+   "t": "eat",
+   "h": "dempsey",
+   "at": [
+    1.3068074,
+    103.810023
+   ],
+   "addr": "22 Dempsey Road, Singapore 249679",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [],
+   "p": 3,
+   "src": "Ordinary Patrons (May 2024); ANZA (Jul 2025)",
+   "d": "The bistro attached to Singapore's best-known butcher, refreshed in 2024. Simple meat done well.",
+   "tip": "Order the burger or a steak at lunch.",
+   "open": "high"
+  },
+  {
+   "n": "Canchita Peruvian Cuisine",
+   "t": "eat",
+   "h": "dempsey",
+   "at": [
+    1.3035154,
+    103.809959
+   ],
+   "addr": "9 Dempsey Road, Singapore 247698",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [],
+   "p": 3,
+   "src": "Honeycombers (Apr 2026); Moneysmart Dempsey guide",
+   "d": "Peruvian food with a good pisco sour and ceviche, according to the guides. Lifestyle-magazine sourcing only.",
+   "tip": "Order the Ceviche Clásico and a pisco sour.",
+   "open": "high"
+  },
+  {
+   "n": "Samy's Curry",
+   "t": "eat",
+   "h": "dempsey",
+   "at": [
+    1.3059521,
+    103.811963
+   ],
+   "addr": "Block 25 Dempsey Road, Singapore 249670",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "classic",
+    "hidden"
+   ],
+   "p": 1,
+   "src": "Eatbook; Honeycombers ('least pretentious place on Dempsey Hill')",
+   "london": "Tayyabs",
+   "d": "A family-run banana-leaf curry house serving since the 1960s, in a barracks hall. The best-value meal on the hill by a distance. A fish head order pushes it towards medium.",
+   "tip": "Order the fish head curry and masala chicken on banana leaf. Closed Tuesdays (open Wed-Mon, 11-3 and 6-10).",
+   "open": "high"
+  },
+  {
+   "n": "Adam Rd Noo Cheng Big Prawn Noodle",
+   "t": "eat",
+   "h": "dempsey",
+   "at": [
+    1.3241517,
+    103.8141485
+   ],
+   "addr": "Adam Food Centre, 2 Adam Road, Singapore 289876",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker"
+   ],
+   "p": 2,
+   "src": "Michelin Bib Gourmand 2026",
+   "d": "Big-prawn noodle soup at the hawker centre by the Gardens' north (Bukit Timah) end.",
+   "tip": "Order the dry version with soup on the side. Pair it with a Gardens run finishing at the north gate.",
+   "open": "high"
+  },
+  {
+   "n": "Selamat Datang Warong Pak Sapari",
+   "t": "eat",
+   "h": "dempsey",
+   "at": [
+    1.3241517,
+    103.8141485
+   ],
+   "addr": "Adam Food Centre, 2 Adam Road, Singapore 289876",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker"
+   ],
+   "p": 2,
+   "src": "Michelin Bib Gourmand 2026",
+   "d": "Malay noodle specialist, a Bib since 2023.",
+   "tip": "Order the mee soto or mee rebus.",
+   "open": "high"
+  },
+  {
+   "n": "Bahrakath Mutton Soup",
+   "t": "eat",
+   "h": "dempsey",
+   "at": [
+    1.3241517,
+    103.8141485
+   ],
+   "addr": "Adam Food Centre, 2 Adam Road, Singapore 289876",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker"
+   ],
+   "p": 3,
+   "src": "Michelin Bib Gourmand 2026",
+   "d": "Spiced Indian-Muslim mutton soup. The third Bib in the same small centre.",
+   "tip": "Order the soup with bread to dip.",
+   "open": "high"
+  },
+  {
+   "n": "Holland Village Market & Food Centre",
+   "t": "eat",
+   "h": "dempsey",
+   "at": [
+    1.3111022,
+    103.7948879
+   ],
+   "addr": "1 Lorong Mambong, Singapore 277700",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker"
+   ],
+   "p": 3,
+   "src": "Honeycombers Holland V guide (2024); no Bib stalls",
+   "d": "The real reason to stop in Holland V. Ghim Moh, 1km west, has better stalls.",
+   "tip": "Order the laksa (a 363 Katong Laksa branch is on Lorong Mambong).",
+   "open": "high"
+  },
+  {
+   "n": "Original Sin",
+   "t": "eat",
+   "h": "dempsey",
+   "at": [
+    1.3111704,
+    103.7965274
+   ],
+   "addr": "#01-62, Chip Bee Gardens, 43 Jalan Merah Saga, Singapore 278115",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "classic"
+   ],
+   "p": 3,
+   "src": "Honeycombers Holland V guide (2024)",
+   "london": "Comptoir-adjacent; better than it sounds",
+   "d": "A long-running vegetarian Mediterranean restaurant in the Chip Bee Gardens shophouses. Dependable, not thrilling.",
+   "tip": "Good for a vegetarian friend.",
+   "open": "high"
+  },
+  {
+   "n": "MyX",
+   "t": "eat",
+   "h": "dempsey",
+   "at": [
+    1.3119056,
+    103.796917
+   ],
+   "addr": "44 Jalan Merah Saga, Chip Bee Gardens, Singapore 278116",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "new"
+   ],
+   "p": 3,
+   "src": "SG Food on Foot (Jan 2026)",
+   "d": "New from Eleven Co. Group: comfort food from the American coastal South and Latin America. Untested by critics.",
+   "tip": "Only if she's curious.",
+   "open": "medium"
+  },
+  {
+   "n": "Keong Saik Bakery (Chip Bee Gardens)",
+   "t": "cafe",
+   "h": "dempsey",
+   "at": [
+    1.3120964,
+    103.7971935
+   ],
+   "addr": "#01-42, 44 Jalan Merah Saga, Singapore 278116",
+   "price": "$",
+   "tags": [
+    "you"
+   ],
+   "p": 2,
+   "src": "Women's Weekly SG; JTC one-north guide",
+   "london": "Jolene",
+   "d": "Asian-inspired pastries in a retro tiled room. The best bakery stop between campus and Dempsey.",
+   "tip": "Order the Sor Hei Danish and the branch-only black sesame cake.",
+   "open": "high"
+  },
+  {
+   "n": "Curly's",
+   "t": "cafe",
+   "h": "dempsey",
+   "at": [
+    1.3058984,
+    103.8136013
+   ],
+   "addr": "40C Harding Road, Singapore 249548",
+   "price": "$$",
+   "tags": [],
+   "p": 3,
+   "src": "Honeycombers (Apr 2026)",
+   "london": "Daylesford-lite",
+   "d": "An organic market with a cafe, cooking classes and picnic breakfasts.",
+   "tip": "Stock up for meal prep.",
+   "open": "high"
+  },
+  {
+   "n": "Deviate",
+   "t": "drink",
+   "h": "dempsey",
+   "at": [
+    1.3019649,
+    103.8115658
+   ],
+   "addr": "71 Loewen Road, Singapore 248847",
+   "price": "$$",
+   "tags": [
+    "you"
+   ],
+   "p": 2,
+   "src": "Expat Living (Dempsey bars)",
+   "d": "A wine bar with about a dozen by the glass and 300+ bottles, at the quiet Loewen end of Dempsey. The best drink on the hill.",
+   "tip": "Opens from 3pm (2pm weekends).",
+   "open": "medium"
+  },
+  {
+   "n": "The Slow House (Maison Garden)",
+   "t": "drink",
+   "h": "dempsey",
+   "at": [
+    1.304662,
+    103.8102859
+   ],
+   "addr": "#01-01/02/06, 13 Dempsey Road, Singapore 249674",
+   "price": "$$",
+   "tags": [
+    "new"
+   ],
+   "p": 3,
+   "src": "Honeycombers (Apr 2026)",
+   "london": "Petersham Nurseries' bar",
+   "d": "A floral cafe by day and botanical cocktail bar by night. New and pretty, still unproven.",
+   "tip": "Go for an early-evening drink before dinner on the hill.",
+   "open": "high"
+  },
+  {
+   "n": "The Dempsey Cookhouse & Bar",
+   "t": "drink",
+   "h": "dempsey",
+   "at": [
+    1.3055936,
+    103.8103792
+   ],
+   "addr": "17D Dempsey Road, Singapore 249676",
+   "price": "$$$",
+   "tags": [],
+   "p": 3,
+   "src": "Honeycombers (Apr 2026); VisitSingapore bar trail",
+   "london": "Chiltern Firehouse bar (Jean-Georges connection)",
+   "d": "A Jean-Georges-linked room with good gin cocktails. A pre-dinner drink, not a dinner.",
+   "tip": "Order the Summer Negroni.",
+   "open": "medium"
+  },
+  {
+   "n": "Le Bon Funk (Holland V)",
+   "t": "drink",
+   "h": "dempsey",
+   "at": [
+    1.3117601,
+    103.7951685
+   ],
+   "addr": "277 Holland Avenue, Singapore 278994",
+   "price": "$$",
+   "tags": [
+    "you"
+   ],
+   "p": 3,
+   "src": "Honeycombers Holland V guide (Jul 2024); no 2025-26 confirmation found",
+   "london": "Toklas bar",
+   "d": "A natural wine bar with small plates. Status uncertain.",
+   "tip": "Check Instagram before going.",
+   "open": "low"
+  },
+  {
+   "n": "Huber's Butchery",
+   "t": "shop",
+   "h": "dempsey",
+   "at": [
+    1.3068074,
+    103.810023
+   ],
+   "addr": "22 Dempsey Road, Singapore 249679",
+   "price": "$$",
+   "tags": [
+    "classic"
+   ],
+   "p": 3,
+   "src": "Ordinary Patrons; Middle Class",
+   "d": "Singapore's best-known butcher, with 24-hour pickup lockers. Useful for meal prep.",
+   "tip": "Open 9:30am-7pm.",
+   "open": "high"
+  },
+  {
+   "n": "Mr Bucket Chocolaterie",
+   "t": "shop",
+   "h": "dempsey",
+   "at": [
+    1.304662,
+    103.8102859
+   ],
+   "addr": "#01-03/04, 13 Dempsey Road, Singapore 249674",
+   "price": "$$",
+   "tags": [],
+   "p": 3,
+   "src": "Honeycombers (Apr 2026)",
+   "d": "A craft chocolate shop that also runs workshops.",
+   "tip": "A gift stop.",
+   "open": "high"
+  },
+  {
+   "n": "Chip Bee Gardens",
+   "t": "shop",
+   "h": "dempsey",
+   "at": [
+    1.3116899,
+    103.7967188
+   ],
+   "addr": "Jalan Merah Saga, Holland Village",
+   "price": "$$",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Honeycombers; JTC",
+   "d": "A low-rise shophouse block behind Holland V with bakeries, wine and neighbourhood shops. Nicer than the main strip.",
+   "tip": "Walk it from Holland V MRT.",
+   "open": "high"
+  },
+  {
+   "n": "Singapore Botanic Gardens",
+   "t": "do",
+   "h": "dempsey",
+   "at": [
+    1.3146321,
+    103.8156151
+   ],
+   "addr": "1 Cluny Road, Singapore 259569",
+   "price": "free",
+   "tags": [
+    "famous",
+    "classic"
+   ],
+   "p": 1,
+   "src": "NParks (UNESCO site; open 5am-midnight daily)",
+   "london": "Kew, but free and open at dawn",
+   "d": "Singapore's only UNESCO World Heritage Site, and the city's classic running loop: rolling paths, rainforest and lakes. Free.",
+   "tip": "Run it at 6am from Tanglin Gate. The Swan Lake to Bukit Timah gate and back loop is about 4-5km.",
+   "open": "high"
+  },
+  {
+   "n": "National Orchid Garden",
+   "t": "see",
+   "h": "dempsey",
+   "at": [
+    1.3116261,
+    103.814778
+   ],
+   "addr": "Singapore Botanic Gardens, 1 Cluny Road",
+   "price": "$",
+   "tags": [
+    "famous"
+   ],
+   "p": 2,
+   "src": "NParks (the Gardens' only ticketed attraction)",
+   "d": "The world's largest orchid display. Worth one visit even for non-flower people.",
+   "tip": "About S$15 for non-residents (third-party figure; check NParks). 8:30am-7pm, last entry 6pm.",
+   "open": "high"
+  },
+  {
+   "n": "Swan Lake",
+   "t": "see",
+   "h": "dempsey",
+   "at": [
+    1.3080372,
+    103.8160243
+   ],
+   "addr": "Singapore Botanic Gardens (Tanglin end)",
+   "price": "free",
+   "tags": [],
+   "p": 3,
+   "src": "NParks",
+   "d": "The oldest lake in the Gardens, near the Tanglin Gate. The start and finish of the run.",
+   "tip": "Cool down here.",
+   "open": "high"
+  },
+  {
+   "n": "Shaw Foundation Symphony Stage",
+   "t": "do",
+   "h": "dempsey",
+   "at": [
+    1.313756,
+    103.8150421
+   ],
+   "addr": "Lower Palm Valley Road, Singapore Botanic Gardens",
+   "price": "free",
+   "tags": [
+    "hidden"
+   ],
+   "p": 2,
+   "src": "NParks",
+   "d": "A lakeside stage for free weekend concerts on the lawn. Bring a picnic from Curly's.",
+   "tip": "Check the NParks events calendar.",
+   "open": "high"
+  },
+  {
+   "n": "Gallop Extension (Botanic Gardens)",
+   "t": "see",
+   "h": "dempsey",
+   "at": [
+    1.3131833,
+    103.8107834
+   ],
+   "addr": "Gallop Road, Singapore Botanic Gardens",
+   "price": "free",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "NParks / OSM",
+   "d": "The quieter western extension, with forest boardwalks and small museums in colonial bungalows.",
+   "tip": "Add it to the run if you want hills.",
+   "open": "high"
+  },
+  {
+   "n": "Chuan Kee Boneless Braised Duck",
+   "t": "eat",
+   "h": "onenorth",
+   "at": [
+    1.3110003,
+    103.7883742
+   ],
+   "addr": "Ghim Moh Market & Food Centre, 20 Ghim Moh Road, Singapore 270020",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "hidden"
+   ],
+   "p": 1,
+   "src": "Michelin Bib Gourmand 2026",
+   "d": "Teochew boneless braised duck on rice or noodles. The best lunch within reach of campus.",
+   "tip": "Order the duck rice with braised egg. Avoid 12-1pm and Mondays.",
+   "open": "high"
+  },
+  {
+   "n": "Ghim Moh Chwee Kueh",
+   "t": "eat",
+   "h": "onenorth",
+   "at": [
+    1.3110003,
+    103.7883742
+   ],
+   "addr": "Ghim Moh Market & Food Centre, 20 Ghim Moh Road, Singapore 270020",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "classic"
+   ],
+   "p": 2,
+   "src": "Seth Lui (Michelin Plate); Women's Weekly; selling since 1959",
+   "d": "Steamed rice cakes with preserved radish. Breakfast before an 8:30am class.",
+   "tip": "Order six pieces with chilli. Recognition has varied by year (Michelin Plate, per Seth Lui).",
+   "open": "high"
+  },
+  {
+   "n": "Margaret Drive Sin Kee Chicken Rice",
+   "t": "eat",
+   "h": "onenorth",
+   "at": [
+    1.3071672,
+    103.7935224
+   ],
+   "addr": "Stall 5, #01-39, Blk 40 Holland Drive, Singapore 270040",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "famous"
+   ],
+   "p": 1,
+   "src": "Michelin Bib Gourmand 2026 (on the Bib list since 2018)",
+   "d": "Poached-only Hainanese chicken rice, with juicy meat, fragrant rice and ginger. Queues are long but move fast.",
+   "tip": "Closed Mondays. Hours conflict (11am-4pm or 11am-8pm), so go at lunch.",
+   "open": "high"
+  },
+  {
+   "n": "New Lucky Claypot Rice",
+   "t": "eat",
+   "h": "onenorth",
+   "at": [
+    1.3081903,
+    103.7930252
+   ],
+   "addr": "Holland Drive Market & Food Centre, 44 Holland Drive, Singapore 270044",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker"
+   ],
+   "p": 1,
+   "src": "Michelin Bib Gourmand 2026",
+   "d": "Charcoal claypot rice with lap cheong and chicken, and the crispy crust at the bottom. Cooked to order, so it's slow.",
+   "tip": "Call ahead or order first, then wait about 20 min.",
+   "open": "high"
+  },
+  {
+   "n": "Hong Kong Yummy Soup",
+   "t": "eat",
+   "h": "onenorth",
+   "at": [
+    1.2862946,
+    103.8044949
+   ],
+   "addr": "Alexandra Village Food Centre, Blk 120 Bukit Merah Lane 1, Singapore 150120",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "hidden"
+   ],
+   "p": 2,
+   "src": "Michelin Bib Gourmand 2026",
+   "d": "Double-boiled Cantonese soups. Alexandra Village sits between home and campus, near HortPark and the Southern Ridges.",
+   "tip": "Stop here after a Ridges run.",
+   "open": "high"
+  },
+  {
+   "n": "Timbre+ One-North",
+   "t": "eat",
+   "h": "onenorth",
+   "at": [
+    1.2974354,
+    103.7873859
+   ],
+   "addr": "JTC LaunchPad, 73A Ayer Rajah Crescent, Singapore 139957",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [],
+   "p": 2,
+   "src": "JTC one-north guide; Bandwagon (Timbre 20th anniversary, 2025)",
+   "london": "Maltby Street Market energy (she rated it a 2), but it's the campus local",
+   "d": "A container food park with live music, a few minutes from INSEAD. The food is so-so. Go for after-class beers with the cohort, not for dinner.",
+   "tip": "Go for live music and happy hour.",
+   "open": "medium"
+  },
+  {
+   "n": "Colbar",
+   "t": "eat",
+   "h": "onenorth",
+   "at": [
+    1.2937848,
+    103.7964523
+   ],
+   "addr": "9A Whitchurch Road, Wessex Estate, Singapore 138839",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "classic",
+    "hidden"
+   ],
+   "p": 1,
+   "src": "Monocle Singapore travel guide; Eatbook (Aug 2025)",
+   "london": "A Pimlico greasy spoon preserved in amber",
+   "d": "A 1953 British-army canteen, still run by the same couple and barely changed. Western fry-ups under ceiling fans. Peak nostalgia and a great antidote to one-north glass.",
+   "tip": "Order the sirloin with egg, chips and beans (S$30), plus a Tiger. Hours conflict, but it's roughly 11am-10pm, closed Mondays.",
+   "open": "high"
+  },
+  {
+   "n": "Les Bouchons Rochester",
+   "t": "eat",
+   "h": "onenorth",
+   "at": [
+    1.3062278,
+    103.7875897
+   ],
+   "addr": "10 Rochester Park, Singapore 139221",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [],
+   "p": 3,
+   "src": "Time Out Singapore; Women's Weekly SG (2022)",
+   "london": "Brasserie Blanc register (she rated it a 2)",
+   "d": "Steak-frites in a colonial bungalow with a pétanque court. Fine for a cohort dinner, not for her.",
+   "tip": "The weekday set lunch was S$35++ in 2022. Closed Mondays.",
+   "open": "medium"
+  },
+  {
+   "n": "Min Jiang at One-North",
+   "t": "eat",
+   "h": "onenorth",
+   "at": [
+    1.3039766,
+    103.7862897
+   ],
+   "addr": "5 Rochester Park, Singapore 139216",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "classic"
+   ],
+   "p": 3,
+   "src": "OpenTable listing; sister of Michelin-listed Min Jiang at Dempsey (this branch's own Michelin page not found)",
+   "d": "Goodwood Park's Chinese restaurant in a Rochester Park bungalow. The nearest proper sit-down near campus for a group or a recruiter lunch.",
+   "tip": "Dim sum lunch.",
+   "open": "medium"
+  },
+  {
+   "n": "Kent Ridge Park & Canopy Walk",
+   "t": "do",
+   "h": "onenorth",
+   "at": [
+    1.2799729,
+    103.7940918
+   ],
+   "addr": "Kent Ridge Park, Vigilante Drive, Singapore 117282",
+   "price": "free",
+   "tags": [
+    "hidden"
+   ],
+   "p": 2,
+   "src": "NParks HortPark & Southern Ridges guide",
+   "d": "A forested hill just south of campus with a raised canopy walk. The western end of the Southern Ridges.",
+   "tip": "A lunchtime loop when you need air.",
+   "open": "high"
+  },
+  {
+   "n": "one-north Park",
+   "t": "do",
+   "h": "onenorth",
+   "at": [
+    1.3034088,
+    103.790775
+   ],
+   "addr": "one-north Park, Queenstown",
+   "price": "free",
+   "tags": [],
+   "p": 3,
+   "src": "JTC one-north guide",
+   "d": "A linear park through the district. Fine for a short easy run between classes.",
+   "tip": "About 2km end to end.",
+   "open": "high"
+  },
+  {
+   "n": "Wessex Estate",
+   "t": "see",
+   "h": "onenorth",
+   "at": [
+    1.297469,
+    103.7949789
+   ],
+   "addr": "Wessex Estate (off Portsdown Road / Whitchurch Road)",
+   "price": "free",
+   "tags": [
+    "hidden"
+   ],
+   "p": 2,
+   "src": "Remember Singapore (Portsdown colonial houses); Ladyironchef Portsdown guide",
+   "d": "Black-and-white 1940s British officers' houses under rain trees, ten minutes from campus. Pair it with Colbar.",
+   "tip": "Walk it at golden hour.",
+   "open": "high"
+  },
+  {
+   "n": "Rail Corridor (Buona Vista)",
+   "t": "do",
+   "h": "onenorth",
+   "at": [
+    1.3062,
+    103.7905
+   ],
+   "addr": "Rail Corridor access near Buona Vista / Commonwealth",
+   "price": "free",
+   "tags": [],
+   "p": 3,
+   "src": "NParks Rail Corridor closure notices (Feb 2026)",
+   "d": "A 24km green trail on the old KTM railway. The southern stretch toward her flat (Henderson Rd to Spooner Rd) is closed until 31 Jul 2027, so it can't be the run commute.",
+   "tip": "Check railcorridor.nparks.gov.sg for open stretches north of Buona Vista.",
+   "open": "medium"
+  },
+  {
+   "n": "Fico at Tanjong Beach Club",
+   "t": "eat",
+   "h": "far",
+   "at": [
+    1.2433821,
+    103.8280275
+   ],
+   "addr": "120 Tanjong Beach Walk, Sentosa",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "new",
+    "you"
+   ],
+   "p": 1,
+   "src": "Little Big Red Dot (opening 28 Sep 2026); parent Fico is a Michelin Bib Gourmand",
+   "london": "River Cafe on the beach",
+   "d": "The new second Fico, opened 28 September 2026: charcoal grill, aperitivo spread and handmade pasta on Sentosa's best beach. The reason to go to Sentosa at all.",
+   "tip": "Book on +65 9750 5323. Open 9am-9pm at weekends.",
+   "open": "medium"
+  },
+  {
+   "n": "Tanjong Beach Club",
+   "t": "drink",
+   "h": "far",
+   "at": [
+    1.2433821,
+    103.8280275
+   ],
+   "addr": "120 Tanjong Beach Walk, Sentosa",
+   "price": "$$$",
+   "tags": [
+    "famous"
+   ],
+   "p": 2,
+   "src": "Condé Nast Traveller (cited as one of the World's Best Beach Clubs, via SilverKris)",
+   "london": "Caia energy, on sand",
+   "d": "Sentosa's least tacky beach club: cocktails and wood-fired seafood on the quietest beach.",
+   "tip": "Go at sunset on a weekday. Weekends get loud.",
+   "open": "high"
+  },
+  {
+   "n": "Palawan Beach",
+   "t": "do",
+   "h": "far",
+   "at": [
+    1.2477745,
+    103.823979
+   ],
+   "addr": "Palawan Beach Walk, Sentosa",
+   "price": "free",
+   "tags": [],
+   "p": 3,
+   "src": "Sentosa / OSM",
+   "d": "A family beach with a suspension bridge to a tiny islet billed as the southernmost point of continental Asia. A gimmick, and a fun ten minutes.",
+   "tip": "Walk the beach path east to Tanjong.",
+   "open": "high"
+  },
+  {
+   "n": "Fort Siloso & Skywalk",
+   "t": "see",
+   "h": "far",
+   "at": [
+    1.2587673,
+    103.8087985
+   ],
+   "addr": "Siloso Road, Sentosa",
+   "price": "free",
+   "tags": [],
+   "p": 3,
+   "src": "Sentosa / OSM",
+   "d": "A WWII coastal fort with tunnels. The only Sentosa history worth an hour.",
+   "tip": "Go in the morning before the heat.",
+   "open": "high"
+  },
+  {
+   "n": "Sentosa Boardwalk",
+   "t": "do",
+   "h": "far",
+   "at": [
+    1.2609567,
+    103.8235248
+   ],
+   "addr": "Sentosa Boardwalk (from VivoCity / HarbourFront)",
+   "price": "free",
+   "tags": [],
+   "p": 3,
+   "src": "Sentosa / OSM",
+   "d": "A 700m covered walkway from VivoCity onto the island. Walking in is free; it's how to arrive.",
+   "tip": "Walk or run in from HarbourFront, close to her flat.",
+   "open": "high"
+  },
+  {
+   "n": "Changi Point Ferry Terminal",
+   "t": "do",
+   "h": "far",
+   "at": [
+    1.3911453,
+    103.9875986
+   ],
+   "addr": "51 Lorong Bekukong, Singapore 499172",
+   "price": "$",
+   "tags": [
+    "classic"
+   ],
+   "p": 1,
+   "src": "Traveloka / Dollars and Sense / HomeJourney (2026); NParks",
+   "d": "The bumboat to Pulau Ubin. About S$4 each way, cash only. Boats leave when 12 people are aboard.",
+   "tip": "Bring cash. Go before 9am. Be back at the Ubin jetty by 5:30pm.",
+   "open": "high"
+  },
+  {
+   "n": "Chek Jawa Wetlands",
+   "t": "see",
+   "h": "far",
+   "at": [
+    1.408169,
+    103.9892959
+   ],
+   "addr": "Jalan Durian, Pulau Ubin",
+   "price": "free",
+   "tags": [
+    "hidden",
+    "famous"
+   ],
+   "p": 1,
+   "src": "NParks; Pickyourtrail; Traveloka",
+   "d": "A boardwalk of about 1km over mangroves and seagrass, at the far end of Ubin. Rent a bike at the jetty (about S$5-15 a day) and ride over.",
+   "tip": "Check the tides. The boardwalk is free; hours are roughly 8:30am-6pm.",
+   "open": "high"
+  },
+  {
+   "n": "International Muslim Food Stall Nasi Lemak",
+   "t": "eat",
+   "h": "far",
+   "at": [
+    1.3894156,
+    103.9881547
+   ],
+   "addr": "#01-03, Changi Village Hawker Centre, 2 Changi Village Road",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "famous"
+   ],
+   "p": 2,
+   "src": "Eatbook (best nasi lemak list); Culture Trip; Seth Lui Changi Village guide",
+   "d": "The famous Changi Village nasi lemak, by the ferry terminal. The post-Ubin meal.",
+   "tip": "Order the chicken wing set. Hassan Stall (#01-29) for mee rebus is the alternative.",
+   "open": "high"
+  },
+  {
+   "n": "MacRitchie TreeTop Walk",
+   "t": "do",
+   "h": "far",
+   "at": [
+    1.3609912,
+    103.8115908
+   ],
+   "addr": "Central Catchment Nature Reserve (via Venus Drive / Windsor Nature Park)",
+   "price": "free",
+   "tags": [
+    "famous"
+   ],
+   "p": 1,
+   "src": "NParks",
+   "d": "A 250m suspension bridge 25m up in the rainforest canopy, between the reserve's two highest points. Expect macaques.",
+   "tip": "Closed Mondays (except public holidays). Tue-Fri 9am-5pm, weekends from 8:30am, last entry 4:45pm. About 7km round trip from Windsor Nature Park.",
+   "open": "high"
+  },
+  {
+   "n": "MacRitchie Reservoir Park",
+   "t": "do",
+   "h": "far",
+   "at": [
+    1.3431836,
+    103.8358743
+   ],
+   "addr": "Lornie Road, Singapore 298735",
+   "price": "free",
+   "tags": [
+    "classic"
+   ],
+   "p": 2,
+   "src": "NParks",
+   "d": "The trailhead for the longer route. Runners use the reservoir loop of about 11km, which takes in the TreeTop Walk.",
+   "tip": "Start by 7am. Carry water; there are no shops inside.",
+   "open": "high"
+  },
+  {
+   "n": "Marang Trail",
+   "t": "do",
+   "h": "far",
+   "at": [
+    1.2659055,
+    103.8215438
+   ],
+   "addr": "Marang Trail (from HarbourFront MRT, near Kampong Bahru)",
+   "price": "free",
+   "tags": [
+    "hidden"
+   ],
+   "p": 2,
+   "src": "NParks Southern Ridges guide",
+   "d": "A steep stepped forest trail up Mount Faber from HarbourFront. The way onto the Ridges from her door.",
+   "tip": "Hill repeats here count as a workout.",
+   "open": "high"
+  },
+  {
+   "n": "Faber Point (Mount Faber)",
+   "t": "see",
+   "h": "far",
+   "at": [
+    1.2736367,
+    103.8176436
+   ],
+   "addr": "Mount Faber Park, Telok Blangah",
+   "price": "free",
+   "tags": [
+    "classic"
+   ],
+   "p": 3,
+   "src": "NParks",
+   "d": "A harbour lookout with the Sentosa cable car station nearby.",
+   "tip": "Start the Southern Ridges here.",
+   "open": "high"
+  },
+  {
+   "n": "Henderson Waves",
+   "t": "see",
+   "h": "far",
+   "at": [
+    1.2760507,
+    103.8154142
+   ],
+   "addr": "Henderson Waves Bridge, Telok Blangah",
+   "price": "free",
+   "tags": [
+    "famous"
+   ],
+   "p": 1,
+   "src": "NParks; Atlas Obscura",
+   "d": "Singapore's highest pedestrian bridge (36m), a timber wave between Mount Faber and Telok Blangah Hill. Prettiest at dusk.",
+   "tip": "Lit from 7pm. Run through it at dusk.",
+   "open": "high"
+  },
+  {
+   "n": "HortPark",
+   "t": "see",
+   "h": "far",
+   "at": [
+    1.2790739,
+    103.7991008
+   ],
+   "addr": "33 Hyderabad Road, Singapore 119578",
+   "price": "free",
+   "tags": [],
+   "p": 3,
+   "src": "NParks HortPark & Southern Ridges guide",
+   "d": "A gardening hub midway along the Ridges, with toilets and water.",
+   "tip": "Refill here.",
+   "open": "high"
+  },
+  {
+   "n": "Gillman Barracks",
+   "t": "see",
+   "h": "far",
+   "at": [
+    1.2783203,
+    103.8043428
+   ],
+   "addr": "9 Lock Road, Singapore 108937",
+   "price": "free",
+   "tags": [
+    "hidden"
+   ],
+   "p": 2,
+   "src": "OSM; galleries listed on site (ShanghART, Yavuz)",
+   "d": "Contemporary art galleries in 1930s barracks just below the Ridges. Close to her flat.",
+   "tip": "Combine it with the Ridges. Galleries are closed Mondays.",
+   "open": "medium"
+  },
+  {
+   "n": "Labrador Nature Reserve",
+   "t": "do",
+   "h": "far",
+   "at": [
+    1.2661508,
+    103.802741
+   ],
+   "addr": "Labrador Villa Road, Singapore",
+   "price": "free",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "NParks",
+   "d": "Coastal forest with WWII bunkers on the shore. A quiet extension to the Ridges.",
+   "tip": "Go at sunset.",
+   "open": "high"
+  },
+  {
+   "n": "Jewel Changi Airport (Rain Vortex + Canopy Park)",
+   "t": "see",
+   "h": "far",
+   "at": [
+    1.3602243,
+    103.9896749
+   ],
+   "addr": "78 Airport Boulevard, Singapore 819666",
+   "price": "free",
+   "tags": [
+    "famous"
+   ],
+   "p": 3,
+   "src": "Little Day Out; Singapore-tickets (light show times)",
+   "d": "A 40m indoor waterfall in a glass dome. Genuinely spectacular for ten minutes. The rest is a mall.",
+   "tip": "Free view from L3. Light shows nightly around 8pm and 9pm (plus 10pm Fri-Sun); check before going. Fit it around a flight.",
+   "open": "high"
+  },
+  {
+   "n": "Bukit Timah Nature Reserve",
+   "t": "do",
+   "h": "far",
+   "at": [
+    1.3483134,
+    103.7766252
+   ],
+   "addr": "Visitor Centre, 177 Hindhede Drive, Singapore 589333",
+   "price": "free",
+   "tags": [
+    "classic"
+   ],
+   "p": 2,
+   "src": "NParks",
+   "d": "Primary rainforest and Singapore's highest hill (163m). A steep paved route to the summit makes a short brutal run.",
+   "tip": "Go at 7am. Allow 1-2 hours.",
+   "open": "high"
+  },
+  {
+   "n": "Dairy Farm Quarry",
+   "t": "see",
+   "h": "far",
+   "at": [
+    1.3611878,
+    103.7728008
+   ],
+   "addr": "Dairy Farm Nature Park, Bukit Panjang",
+   "price": "free",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "OSM / NParks",
+   "d": "A flooded granite quarry with cliffs. A quiet add-on to Bukit Timah.",
+   "tip": "Walk over after the summit.",
+   "open": "high"
+  }
+ ],
+ "walks": [
+  {
+   "name": "Southern Ridges from the front door",
+   "mins": 75,
+   "km": 10,
+   "best": "6:30am, or dusk for Henderson Waves lit up",
+   "stops": [
+    "Marang Trail",
+    "Faber Point (Mount Faber)",
+    "Henderson Waves",
+    "HortPark",
+    "Kent Ridge Park & Canopy Walk",
+    "Hong Kong Yummy Soup"
+   ],
+   "d": "From Kampong Bahru, drop to HarbourFront and climb the Marang Trail onto Mount Faber. Follow the ridge west over Henderson Waves, along the elevated Forest Walk and through HortPark, then up to the canopy walk in Kent Ridge Park. NParks gives the Mount Faber to Kent Ridge section as 10km (3-5 hours walking, about 75 minutes running). Going on from Kent Ridge Park to INSEAD would be roughly 2-3km more (my estimate, not a measured route), so on a class day it could be a run commute. Detour to Gillman Barracks or Alexandra Village to finish."
+  },
+  {
+   "name": "East Coast Park to Fico",
+   "mins": 60,
+   "km": 9,
+   "best": "Weekend 6:30am, finishing with a Fico lunch (Thu-Sun) or kaya toast back in Katong",
+   "stops": [
+    "East Coast Park (Marine Cove)",
+    "Fico (East Coast Park)",
+    "Chin Mee Chin Confectionery"
+   ],
+   "d": "Flat, continuous seafront path. Start at Marine Cove (via the Katong underpass), run east to Fico at 1300 East Coast Parkway (about 4km) and back. Extend toward the East Coast Lagoon end if you want 15km. There's no shade, so be done by 9am. Kaya toast at Chin Mee Chin afterwards (8am-4pm)."
+  },
+  {
+   "name": "Botanic Gardens dawn loop",
+   "mins": 35,
+   "km": 5,
+   "best": "6am (gates open 5am), before the 8am heat",
+   "stops": [
+    "Swan Lake",
+    "Shaw Foundation Symphony Stage",
+    "National Orchid Garden",
+    "Gallop Extension (Botanic Gardens)",
+    "Adam Rd Noo Cheng Big Prawn Noodle",
+    "La Terrace"
+   ],
+   "d": "Enter by Tanglin Gate past Swan Lake, climb past the Symphony Lake stage, skirt the Orchid Garden and run north through the rainforest to the Bukit Timah end. About 4-5km out and back (estimate). Add the Gallop Extension boardwalks for hills. Finish at Adam Food Centre (three Bib Gourmand stalls) at the north gate, or walk back to Dempsey for brunch at La Terrace."
+  }
+ ]
+}

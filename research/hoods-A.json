@@ -1,0 +1,2168 @@
+{
+ "hoods": [
+  {
+   "k": "chinatown",
+   "name": "Chinatown, Keong Saik, Tanjong Pagar & Telok Ayer/Amoy St",
+   "short": "Chinatown & Keong Saik",
+   "tag": "Shophouses, hawkers, best bars",
+   "verdict": "yes",
+   "rank": 1,
+   "when": "Hawker centres at lunch (11am-1:30pm, or 10:30am to beat queues). Bars and restaurants from 6:30pm Tue-Sat. Avoid Sunday/Monday nights, when many places are shut.",
+   "london": "Soho (Dean St/Frith St bar-and-dining density) crossed with Spitalfields' old lanes",
+   "nyc": "Lower East Side bars bolted onto Chinatown, with a West Village dinner strip",
+   "worth": "This is the highest-yield square kilometre in her patch, maybe in Singapore. It has nine Michelin-starred rooms (two- and three-star among them), most of the city's Asia's 50 Best Bars entries, and four Bib-heavy hawker centres, all inside a 15-minute walk. Every recurring 'where shall we go' answer will come from here.",
+   "vibe": "Low two- and three-storey pastel shophouses on a grid, cut by a few hills (Ann Siang, Duxton, Bukit Pasoh). Keong Saik Road is a former red-light street, now a curve of restaurants, with Jiak Chuan Rd as its side street. Duxton Hill and Duxton Road are bar alleys with a few colonial-era shophouse wine rooms. Amoy St and Telok Ayer are the CBD's lunch-and-after-work strip: suits at Amoy Street Food Centre at noon, cocktails at Native and Stay Gold from 6pm. Chinatown proper, around Pagoda St and Smith St, is the touristy part: souvenir stalls, the Buddha Tooth Relic Temple, and Chinatown Complex's food centre upstairs, which is the real thing. Tanjong Pagar Rd and Tras St hold the Korean-BBQ strip and a cluster of good chef-led rooms (Revolver, Ingleside, Cumi Bali, Fat Prince, Whole Earth). Evenings are buzzy without being clubby.",
+   "avoid": [
+    "Pagoda St and Trengganu St souvenir stalls and their 'Chinatown street food' restaurants",
+    "Lau Pa Sat (on the edge of the patch): tourist satay pricing",
+    "Queueing 40 minutes at Tian Tian at peak when the market has a dozen other good stalls",
+    "Sunday and Monday nights, when many chef-run places are closed",
+    "Liao Fan Hawker Chan: the famous ex-star soy chicken is now essentially a chain"
+   ],
+   "known": [
+    "Maxwell, Amoy Street, Chinatown Complex and Hong Lim hawker centres",
+    "Keong Saik Road dining strip",
+    "Asia's 50 Best Bars cluster (Jigger & Pony, Side Door, Elephant Room, Native, Cat Bite Club, BOP, Sago House)",
+    "Michelin stars: Zén (3), Cloudstreet (2), Born, Nae:um, Nouri, Araya, Ma Cuisine (1)",
+    "Temples: Thian Hock Keng, Sri Mariamman, Buddha Tooth Relic"
+   ],
+   "main": [
+    "Hawker lunch crawl: Maxwell, then Chinatown Complex, then Amoy St",
+    "Counter dinner at Esquina, Revolver or Nouri",
+    "Bar crawl: Duxton Hill to Tanjong Pagar Rd to Amoy St",
+    "Thian Hock Keng and Sri Mariamman temples",
+    "Ann Siang Hill / Club St evening walk"
+   ],
+   "poly": [
+    [
+     1.287,
+     103.842
+    ],
+    [
+     1.287,
+     103.846
+    ],
+    [
+     1.284,
+     103.8495
+    ],
+    [
+     1.279,
+     103.848
+    ],
+    [
+     1.2765,
+     103.846
+    ],
+    [
+     1.2745,
+     103.843
+    ],
+    [
+     1.278,
+     103.84
+    ],
+    [
+     1.283,
+     103.8405
+    ]
+   ]
+  },
+  {
+   "k": "tiong-bahru",
+   "name": "Tiong Bahru (plus the Bukit Merah hawker belt to its west)",
+   "short": "Tiong Bahru",
+   "tag": "Art Deco estate, market breakfasts",
+   "verdict": "yes",
+   "rank": 2,
+   "when": "Weekend mornings 8-11am. Tiong Bahru Market stalls sell out, and Jian Bo is best before 9am. Weekday afternoons are quiet. Dinner is thin: Por Kee, Sin Hoi Sai, Magpie, Casa Cicheti.",
+   "london": "Broadway Market on a Saturday morning, set inside something like the Barbican's residential calm (1930s low-rise curved blocks)",
+   "nyc": "West Village residential blocks, or Carroll Gardens on a weekend",
+   "worth": "Yes, as a breakfast-and-wander neighbourhood ten minutes' walk from her flat. Tiong Bahru Market is one of the best hawker centres in the city, with four 2026 Bib Gourmands under one roof. Don't come for dinner or drinks: the evening scene is a handful of places, and that's fine.",
+   "vibe": "Singapore's oldest public housing estate, built 1930s-50s: white Streamline Moderne walk-ups with curved balconies, spiral back stairs and five-foot-ways, on lanes named after Hokkien pioneers (Eng Hoon, Yong Siak, Seng Poh, Moh Guan, Guan Chuan). Tiong Bahru Market sits in the middle: wet market downstairs, a famously good food centre upstairs. Around it are aunties with trolleys, specialty coffee, the Gontran Cherrier-founded Tiong Bahru Bakery, a few indie bookshops and one pre-war air raid shelter. It is gentrified but still lived-in; old men drink kopi at the Hua Bee coffeeshop. Go west by short cab and the HDB hawker belt starts (Redhill, Bukit Merah View, Alexandra Village), with more Bib stalls and almost no tourists.",
+   "avoid": [
+    "Expecting a bar scene: there isn't one",
+    "Arriving at the market at 1pm on a Sunday, when the best stalls are sold out",
+    "Old listicles: BooksActually, Bincho and the Yong Siak 'Moosehead/Le Bon Funk' claims are dead or wrong"
+   ],
+   "known": [
+    "Tiong Bahru Market & Food Centre",
+    "Art Deco 1930s SIT flats",
+    "Tiong Bahru Bakery (kouign-amann, croissants)",
+    "Pre-war air raid shelter (Blk 78)",
+    "Chwee kueh, lor mee, boneless chicken rice"
+   ],
+   "main": [
+    "Market breakfast: Jian Bo chwee kueh, Hong Heng prawn mee, boneless chicken rice",
+    "Free My Tiong Bahru Heritage Tour (1st Sat/Sun monthly), which ends inside the air raid shelter",
+    "Yong Siak St: Plain Vanilla, Woods in the Books, Micro Bakery",
+    "Monkey God temple (Qi Tian Gong)",
+    "Zi char dinner at Por Kee or chilli crab at Sin Hoi Sai"
+   ],
+   "poly": [
+    [
+     1.287,
+     103.829
+    ],
+    [
+     1.287,
+     103.836
+    ],
+    [
+     1.284,
+     103.8375
+    ],
+    [
+     1.2812,
+     103.8345
+    ],
+    [
+     1.2812,
+     103.8285
+    ],
+    [
+     1.284,
+     103.8272
+    ]
+   ]
+  },
+  {
+   "k": "outram-keppel",
+   "name": "Outram / Kampong Bahru / Everton Park / Bukit Purmei / Mount Faber (her doorstep)",
+   "short": "Doorstep: Kampong Bahru to Mount Faber",
+   "tag": "Ridges, coffee, quiet HDB",
+   "verdict": "yes",
+   "rank": 3,
+   "when": "Run or walk the Southern Ridges at 6:30-8am, before the heat, or at 5:30-7pm for sunset over the port from Henderson Waves. Everton Park cafés run 9am-4pm (Nylon is closed Tuesdays). Pinnacle skybridge 9am-9pm, best at dusk.",
+   "london": "Kennington/Walworth residential streets with a Hampstead Heath-style ridge walk at the end of the road",
+   "nyc": "Morningside Heights next to Riverside Park, quiet blocks then a green ridge",
+   "worth": "Yes, but for living, not dining. The value here is the Southern Ridges (her 'run most days' route, with Henderson Waves and Mount Faber 20-30 minutes on foot), Nylon Coffee, and the Pinnacle skybridge view. There is no critic-grade dinner on this patch. Eat in Tiong Bahru or Keong Saik, both a 10-15 minute walk.",
+   "vibe": "A residential seam between the CBD and the port. Kampong Bahru Rd runs south-west from Outram past old shophouses, the Spottiswoode condos and 1970s HDB slabs, then climbs to Bukit Purmei, a hilltop estate with a 19th-century Teochew temple (Tang Gah Beo), the Sacré-Cœur-inspired Church of St Teresa (1929, national monument) and a royal Malay keramat. Everton Park, near Outram Park MRT, is a ring of old HDB blocks whose void-deck shops have become a quiet café enclave around Nylon Coffee Roasters. The Pinnacle@Duxton towers loom over it. Bukit Purmei leads to Mount Faber and the Southern Ridges: forest trail, Faber Peak, the 274m Henderson Waves bridge. Very local, very calm, almost no tourists except on the ridges.",
+   "avoid": [
+    "Planning a dinner out here: the critic-backed options are elsewhere",
+    "Midday ridge walks (11am-4pm), which are brutal in the heat",
+    "Faber Peak's cable-car restaurants: views, not food",
+    "Turning up at the Pinnacle skybridge without an EZ-Link/CEPAS card, or late, after the daily visitor quota is used up"
+   ],
+   "known": [
+    "Southern Ridges and Henderson Waves",
+    "Pinnacle@Duxton 50th-storey skybridge",
+    "Nylon Coffee Roasters (Everton Park)",
+    "Church of St Teresa",
+    "Ji Xiang Ang Ku Kueh"
+   ],
+   "main": [
+    "Southern Ridges run or walk: Bukit Purmei to Mount Faber to Henderson Waves (to Telok Blangah Hill if the trail has reopened)",
+    "Pinnacle skybridge at dusk",
+    "Everton Park coffee and pastry loop",
+    "Bukit Purmei heritage: Tang Gah Beo, St Teresa, Keramat Bukit Kasita",
+    "Telok Blangah Rise Market for a post-hike braised duck"
+   ],
+   "poly": [
+    [
+     1.2805,
+     103.8395
+    ],
+    [
+     1.276,
+     103.8425
+    ],
+    [
+     1.2705,
+     103.8335
+    ],
+    [
+     1.268,
+     103.82
+    ],
+    [
+     1.2745,
+     103.813
+    ],
+    [
+     1.28,
+     103.825
+    ],
+    [
+     1.2815,
+     103.835
+    ]
+   ]
+  }
+ ],
+ "places": [
+  {
+   "n": "Tiong Bahru Market & Food Centre",
+   "t": "see",
+   "h": "tiong-bahru",
+   "at": [
+    1.2847924,
+    103.832551
+   ],
+   "addr": "30 Seng Poh Rd, 168898",
+   "price": "$",
+   "tags": [
+    "classic",
+    "hawker",
+    "famous"
+   ],
+   "p": 1,
+   "src": "Michelin Guide 2026 (four Bib stalls in the building); OSM",
+   "d": "Wet market downstairs, one of Singapore's great food centres upstairs. Locals use it as the neighbourhood kitchen. It reopened after a three-month renovation in mid-2025.",
+   "tip": "Go 8-10am on a weekend. Grab a table first and mark it with a tissue packet (that's the local 'chope'). Monday is a common stall day off."
+  },
+  {
+   "n": "Tiong Bahru Hainanese Boneless Chicken Rice",
+   "t": "eat",
+   "h": "tiong-bahru",
+   "at": [
+    1.2846286,
+    103.832596
+   ],
+   "addr": "Tiong Bahru Market #02-82, 30 Seng Poh Rd",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "classic"
+   ],
+   "p": 1,
+   "src": "Michelin Bib Gourmand 2026 (held all 10 editions)",
+   "london": "Tayyabs-level 'one thing done perfectly'",
+   "d": "Michelin praises the turmeric-scented rice and juicy, springy-skinned chicken. One of 17 stalls with a Bib in every Singapore edition.",
+   "tip": "Order the boneless Hainanese chicken rice. The roast chicken is also recommended."
+  },
+  {
+   "n": "Hong Heng Fried Sotong Prawn Mee",
+   "t": "eat",
+   "h": "tiong-bahru",
+   "at": [
+    1.2849649,
+    103.8327193
+   ],
+   "addr": "Tiong Bahru Market #02-01",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "classic"
+   ],
+   "p": 1,
+   "src": "Michelin Bib Gourmand 2026 (all 10 editions)",
+   "d": "Hokkien-style fried prawn noodles, cooked to order with squid, prawn and fish, plus house chilli. The best single plate in the market.",
+   "tip": "Expect a wait; each plate is fried to order. Ask for extra lime and sambal."
+  },
+  {
+   "n": "Jian Bo Shui Kueh",
+   "t": "eat",
+   "h": "tiong-bahru",
+   "at": [
+    1.2846506,
+    103.83259
+   ],
+   "addr": "Tiong Bahru Market #02-05",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "classic",
+    "famous"
+   ],
+   "p": 1,
+   "src": "Michelin Guide 2026 (the 'Jian Bo Tiong Bahru Shui Kueh' brand holds a Bib Gourmand; this original market stall is Michelin-listed); Eatbook",
+   "london": "The breakfast pastry counter at Jolene, rice-cake edition",
+   "d": "Steamed rice cakes under salted radish and a secret sauce, here since the market opened in 1955. The ur-Tiong Bahru breakfast.",
+   "tip": "Go before 9am at weekends. Five pieces with the house sambal, plus a kopi from a drinks stall."
+  },
+  {
+   "n": "Lor Mee 178",
+   "t": "eat",
+   "h": "tiong-bahru",
+   "at": [
+    1.2846377,
+    103.8326
+   ],
+   "addr": "Tiong Bahru Market #02-23",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker"
+   ],
+   "p": 2,
+   "src": "Michelin Guide 2026 (Selected; former Bib)",
+   "d": "Thick egg noodles in a starchy braising gravy with fried fish nuggets, pork and bean sprouts, finished with garlic and coriander. Heavy, savoury, very Hokkien.",
+   "tip": "Add black vinegar and the garlic. Good on a rainy morning."
+  },
+  {
+   "n": "Koh Brother Pig's Organ Soup",
+   "t": "eat",
+   "h": "tiong-bahru",
+   "at": [
+    1.2850432,
+    103.832764
+   ],
+   "addr": "Tiong Bahru Market #02-29",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Michelin Bib Gourmand 2026",
+   "d": "Peppery broth with tripe, liver, meatballs and salted mustard greens. Offal people only, but done cleanly.",
+   "tip": "Michelin also flags the pork-belly and chestnut sticky rice sausage."
+  },
+  {
+   "n": "Tow Kwar Pop",
+   "t": "eat",
+   "h": "tiong-bahru",
+   "at": [
+    1.2847924,
+    103.832551
+   ],
+   "addr": "Tiong Bahru Market #02-06",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Michelin Guide 2026 (Selected); Eatbook",
+   "d": "Puffed tofu stuffed with greens in a sweet-spicy peanut sauce, and a good rojak. A snack stall, not a meal.",
+   "tip": "Get the small tow kwar pop (about S$4.50) to share alongside a noodle plate. Pin is the market building."
+  },
+  {
+   "n": "Loo's Hainanese Curry Rice",
+   "t": "eat",
+   "h": "tiong-bahru",
+   "at": [
+    1.2847924,
+    103.832551
+   ],
+   "addr": "Tiong Bahru Market #02-67/68",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "classic"
+   ],
+   "p": 3,
+   "src": "Eatbook (2024); ieatishootipost (Leslie Tay)",
+   "d": "Hainanese pork chop and braised chap chye drowned in curry: a messy, beloved lunch. It moved into the market in 2022.",
+   "tip": "Status: medium confidence. Hours and closing day conflict across sources; it shuts by about 2:45pm. Pin is the market building."
+  },
+  {
+   "n": "Hua Bee (mee pok)",
+   "t": "eat",
+   "h": "tiong-bahru",
+   "at": [
+    1.283633,
+    103.830493
+   ],
+   "addr": "78 Moh Guan Terrace #01-19",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "classic",
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Seth Lui (Feb 2024)",
+   "d": "Seventy-year-old coffeeshop where the film Mee Pok Man was shot. Unfussy fishball noodles and a set-piece old-Singapore room. The yakitori bar that used to run here at night (Bincho) has closed.",
+   "tip": "Morning only. Mee pok dry with chilli, plus kopi."
+  },
+  {
+   "n": "Por Kee Eating House 1996",
+   "t": "eat",
+   "h": "tiong-bahru",
+   "at": [
+    1.284148,
+    103.832786
+   ],
+   "addr": "69 Seng Poh Ln #01-02, 160069",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "classic",
+    "hidden"
+   ],
+   "p": 1,
+   "src": "Eatbook (30th-anniversary review, Jan 2026); Time Out Singapore",
+   "london": "Tayyabs: loud, family-run, everyone's regular",
+   "d": "Tiong Bahru's favourite zi char (Chinese home-style wok cooking), with outdoor tables under the flats. Champagne pork ribs and house beancurd are the cult orders.",
+   "tip": "Go as 3-6 people. Order champagne long rib, HK-style steamed fish, garlic bamboo clams and home-made beancurd. Book or go at 6pm. Daily 11am-2:30pm, 5-10:45pm."
+  },
+  {
+   "n": "Sin Hoi Sai (Tiong Bahru)",
+   "t": "eat",
+   "h": "tiong-bahru",
+   "at": [
+    1.284414,
+    103.834135
+   ],
+   "addr": "Blk 55 Tiong Bahru Rd #01-59/61/63, 160055",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "classic",
+    "hidden"
+   ],
+   "p": 2,
+   "src": "Michelin Guide 2026 (Selected)",
+   "d": "Thirty-year seafood house where you pick live crab from the tank. Michelin calls the outdoor seating 'particularly atmospheric'.",
+   "tip": "Chilli crab or black pepper crab plus mantou. Sit outside. Crab is priced by weight, so ask before ordering."
+  },
+  {
+   "n": "Magpie",
+   "t": "eat",
+   "h": "tiong-bahru",
+   "at": [
+    1.284806,
+    103.833476
+   ],
+   "addr": "57 Eng Hoon St, 160057",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "you",
+    "new"
+   ],
+   "p": 1,
+   "src": "Michelin Guide 2026 (new Selected entry); Time Out Singapore (Feb 2025); Rantingpanda (Aug 2025)",
+   "london": "Toklas/Sam's Riverside: chef-led, relaxed, borderless",
+   "d": "Opened Jan 2025 opposite the market by NZ chef Eliot Thomas and restaurateur Kurt Wagner, serving 'borderless soul food'. The only Tiong Bahru dinner in her Acre/Toklas register, and Michelin added it in its first full year.",
+   "tip": "Book for Fri/Sat. Wed-Thu dinner only; Fri-Sun lunch and dinner; closed Mon-Tue (hours vary across sources, so check)."
+  },
+  {
+   "n": "Casa Cicheti",
+   "t": "eat",
+   "h": "tiong-bahru",
+   "at": [
+    1.283326,
+    103.831015
+   ],
+   "addr": "78 Guan Chuan St #01-41, 160078",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "you",
+    "new"
+   ],
+   "p": 2,
+   "src": "Rantingpanda (Mar 2025); Robb Report SG (Feb 2025); Time Out SG (named as the Cicheti Group's live Tiong Bahru venue, Oct 2025)",
+   "london": "La Famiglia / Padella",
+   "d": "Cicheti Group's trattoria in the old PS Cafe Petit space, with an open kitchen at the door. 'Nea-Romana' pizza and proper pasta. The group's well-loved Bar Cicheti closed; this is where it went.",
+   "tip": "Mortazza fritta and rigatoni alla vodka. Book weekends. Status: medium-high (no 2026 review found)."
+  },
+  {
+   "n": "Tiong Bahru Bakery",
+   "t": "cafe",
+   "h": "tiong-bahru",
+   "at": [
+    1.284241,
+    103.833923
+   ],
+   "addr": "56 Eng Hoon St #01-70, 160056",
+   "price": "$$",
+   "tags": [
+    "famous"
+   ],
+   "p": 2,
+   "src": "City Nomads; Time Out Singapore",
+   "london": "Jolene / Granger & Co weekend queue",
+   "d": "The Gontran Cherrier-founded bakery that put Tiong Bahru on the brunch map. The kouign-amann and croissants are still the benchmark.",
+   "tip": "Queues move fast. Take the kouign-amann away and eat it on the market steps."
+  },
+  {
+   "n": "Merci Marcel (Tiong Bahru)",
+   "t": "cafe",
+   "h": "tiong-bahru",
+   "at": [
+    1.284241,
+    103.833923
+   ],
+   "addr": "56 Eng Hoon St #01-68, 160056",
+   "price": "$$",
+   "tags": [],
+   "p": 3,
+   "src": "City Nomads; property listings referencing it Jan/May 2026",
+   "d": "French all-day café-wine bar. Pleasant terrace, middling food. Useful as a sundowner spot in an estate with few bars.",
+   "tip": "A glass of wine on the terrace at 6pm, not a meal."
+  },
+  {
+   "n": "Plain Vanilla",
+   "t": "cafe",
+   "h": "tiong-bahru",
+   "at": [
+    1.282286,
+    103.830509
+   ],
+   "addr": "1D Yong Siak St, 168641",
+   "price": "$",
+   "tags": [
+    "classic"
+   ],
+   "p": 2,
+   "src": "City Nomads; Shopee guide (2024)",
+   "d": "Rustic bakery-café on the prettiest street in the estate. Good coffee, better bakes.",
+   "tip": "Brown butter financier plus a flat white."
+  },
+  {
+   "n": "Woods in the Books",
+   "t": "shop",
+   "h": "tiong-bahru",
+   "at": [
+    1.282388,
+    103.830373
+   ],
+   "addr": "3 Yong Siak St, 168642",
+   "price": "free",
+   "tags": [
+    "hidden"
+   ],
+   "p": 2,
+   "src": "Tiong Bahru guides 2026 (singapore-spirit, mysgmenu)",
+   "d": "Picture books, graphic novels and illustrated work for adults. A small, beautiful browse.",
+   "tip": "Status: medium confidence. Confirm hours before going."
+  },
+  {
+   "n": "Micro Bakery & Kitchen",
+   "t": "cafe",
+   "h": "tiong-bahru",
+   "at": [
+    1.282857,
+    103.830423
+   ],
+   "addr": "78 Yong Siak St, 163078",
+   "price": "$$",
+   "tags": [
+    "you"
+   ],
+   "p": 3,
+   "src": "Eatbook Tiong Bahru guide (Jul 2024)",
+   "london": "Toklas Bakery",
+   "d": "Sourdough and sandos in a corner unit.",
+   "tip": "Nagaimo croquette sando. Status: medium confidence (2024 source)."
+  },
+  {
+   "n": "Tiong Bahru Galicier Pastry",
+   "t": "shop",
+   "h": "tiong-bahru",
+   "at": [
+    1.284414,
+    103.834135
+   ],
+   "addr": "55 Tiong Bahru Rd #01-39, 160055",
+   "price": "$",
+   "tags": [
+    "classic",
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Wikipedia; local guides",
+   "d": "Old-school Nyonya kueh and traditional cakes. The pre-hipster Tiong Bahru.",
+   "tip": "Kueh salat and ondeh-ondeh to take home. Status: medium confidence."
+  },
+  {
+   "n": "Tiong Bahru Air Raid Shelter",
+   "t": "see",
+   "h": "tiong-bahru",
+   "at": [
+    1.283326,
+    103.831015
+   ],
+   "addr": "Blk 78 Guan Chuan St",
+   "price": "free",
+   "tags": [
+    "hidden"
+   ],
+   "p": 2,
+   "src": "My Community (My Tiong Bahru Heritage Tour, listed through 2026); Eventbrite",
+   "d": "A pre-war civilian air raid shelter under the flats. Only open on guided tours.",
+   "tip": "Book the free volunteer My Tiong Bahru Heritage Tour (1st Sat/Sun of the month, English and Mandarin) on Eventbrite; it ends in the shelter."
+  },
+  {
+   "n": "Qi Tian Gong (Monkey God Temple)",
+   "t": "see",
+   "h": "tiong-bahru",
+   "at": [
+    1.283833,
+    103.834331
+   ],
+   "addr": "44 Eng Hoon St, 169786",
+   "price": "free",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "OneMap; NHB Tiong Bahru heritage trail",
+   "d": "Small temple to Sun Wukong, the Monkey King, in the middle of the Art Deco estate. A two-minute stop.",
+   "tip": "Combine with the bakery across the road."
+  },
+  {
+   "n": "Canjob Taproom",
+   "t": "drink",
+   "h": "tiong-bahru",
+   "at": [
+    1.284857,
+    103.834321
+   ],
+   "addr": "Link Hotel, 50 Tiong Bahru Rd #01-03, 168733",
+   "price": "$$",
+   "tags": [
+    "dive"
+   ],
+   "p": 3,
+   "src": "Eatbook Tiong Bahru guide (Jul 2024)",
+   "d": "Craft-beer taproom and about the only bar-shaped thing in the estate. Fine for one beer.",
+   "tip": "Status: medium confidence (2024 source)."
+  },
+  {
+   "n": "Jia Xiang Mee Siam",
+   "t": "eat",
+   "h": "tiong-bahru",
+   "at": [
+    1.287308,
+    103.818311
+   ],
+   "addr": "Redhill Market #01-35, 85 Redhill Lane, 150085",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "new",
+    "hidden"
+   ],
+   "p": 2,
+   "src": "Michelin Bib Gourmand 2026 (new)",
+   "d": "New 2026 Bib: fifty-year family recipe mee siam, spicy-sweet-tangy gravy with egg and pork crackling. Locals-only Redhill, a short cab west.",
+   "tip": "Mee siam or lontong, lunchtime. Combine with Wok Hei Hor Fun in the same complex."
+  },
+  {
+   "n": "Wok Hei Hor Fun",
+   "t": "eat",
+   "h": "tiong-bahru",
+   "at": [
+    1.287308,
+    103.818311
+   ],
+   "addr": "Redhill Food Centre, 85 Redhill Lane",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Michelin Bib Gourmand 2026",
+   "d": "Smoky wok-fried flat rice noodles in egg gravy.",
+   "tip": "Beef or seafood hor fun. Pin is the food centre."
+  },
+  {
+   "n": "Fu Ming Cooked Food (carrot cake)",
+   "t": "eat",
+   "h": "tiong-bahru",
+   "at": [
+    1.287308,
+    103.818311
+   ],
+   "addr": "Redhill Market, 85 Redhill Lane",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Michelin Bib Gourmand 2026",
+   "d": "Fried carrot cake (radish cake, nothing to do with carrots), white or black.",
+   "tip": "Order half-half."
+  },
+  {
+   "n": "Na Na Curry",
+   "t": "eat",
+   "h": "tiong-bahru",
+   "at": [
+    1.285504,
+    103.821823
+   ],
+   "addr": "Bukit Merah View Market & Hawker Centre, Blk 115 Bukit Merah View",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Michelin Bib Gourmand 2026",
+   "d": "Hainanese-style curry chicken, in an estate food centre with zero tourists.",
+   "tip": "Lunch. Pair with Yong Chun wonton noodles in the same centre."
+  },
+  {
+   "n": "Yong Chun Wan Ton Noodle",
+   "t": "eat",
+   "h": "tiong-bahru",
+   "at": [
+    1.285504,
+    103.821823
+   ],
+   "addr": "Bukit Merah View Market & Hawker Centre",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Michelin Bib Gourmand 2026",
+   "d": "Springy wonton noodles with char siu and chilli.",
+   "tip": "Dry, with extra chilli."
+  },
+  {
+   "n": "Hong Kong Yummy Soup",
+   "t": "eat",
+   "h": "tiong-bahru",
+   "at": [
+    1.286306,
+    103.804493
+   ],
+   "addr": "Alexandra Village Food Centre, 120 Bukit Merah Lane 1",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Michelin Bib Gourmand 2026",
+   "d": "Double-boiled Cantonese soups with rice: the restorative lunch. A cab ride west, not a walk.",
+   "tip": "Combine with Lien Fa's dumplings in the same centre."
+  },
+  {
+   "n": "Tiong Bahru Lien Fa Shui Jing Pau",
+   "t": "eat",
+   "h": "tiong-bahru",
+   "at": [
+    1.286306,
+    103.804493
+   ],
+   "addr": "Alexandra Village Food Centre #01-10, Blk 120 Bukit Merah Lane 1",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Michelin Guide 2026 (Selected)",
+   "d": "Translucent Teochew crystal dumplings with jicama and dried shrimp. It moved out of Tiong Bahru despite the name.",
+   "tip": "With the house chilli. Sweet red-bean and yam versions only after 1pm."
+  },
+  {
+   "n": "Tian Tian Hainanese Chicken Rice",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.2804903,
+    103.8448118
+   ],
+   "addr": "Maxwell Food Centre #01-10/11, 1 Kadayanallur St",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "famous",
+    "classic"
+   ],
+   "p": 2,
+   "src": "Michelin Bib Gourmand 2026 (all 10 editions)",
+   "d": "The most famous chicken rice in Singapore: tender chicken, fragrant rice, tangy chilli. Good but heavily touristed. Do it once.",
+   "tip": "Go at 10:45am or after 2pm. Half chicken to share. Closed Mondays."
+  },
+  {
+   "n": "Maxwell Fuzhou Oyster Cake",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.280331,
+    103.844747
+   ],
+   "addr": "Maxwell Food Centre, 1 Kadayanallur St",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "classic"
+   ],
+   "p": 3,
+   "src": "Michelin Guide 2026 (Selected)",
+   "d": "Deep-fried discs stuffed with oyster, minced pork and peanuts. Eat immediately.",
+   "tip": "A snack between Maxwell mains. Pin is the food centre."
+  },
+  {
+   "n": "A Noodle Story",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.2790364,
+    103.8464494
+   ],
+   "addr": "Amoy Street Food Centre #01-39, 7 Maxwell Rd",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "famous"
+   ],
+   "p": 1,
+   "src": "Michelin Bib Gourmand 2026 (all 10 editions)",
+   "london": "Bento Bab energy: inventive, cheap, queue-worthy",
+   "d": "Singapore-style ramen (wanton mee meets tonkotsu): melt-in-the-mouth pork belly, wontons, a potato-wrapped prawn. A chef-hawker take that lands.",
+   "tip": "Weekday lunch, so expect the office queue at 12:15; go at 11:30. Closed weekends (most of Amoy FC is weekday-only)."
+  },
+  {
+   "n": "Han Kee Fish Soup",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.27934,
+    103.846652
+   ],
+   "addr": "Amoy Street Food Centre, 7 Maxwell Rd",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "classic"
+   ],
+   "p": 2,
+   "src": "Michelin Bib Gourmand 2026",
+   "d": "Clean, sweet sliced-fish soup: the healthy hawker lunch that sells out.",
+   "tip": "Get there before noon. Pin is the food centre."
+  },
+  {
+   "n": "J2 Famous Crispy Curry Puff",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.27934,
+    103.846652
+   ],
+   "addr": "Amoy Street Food Centre, 7 Maxwell Rd",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "classic"
+   ],
+   "p": 3,
+   "src": "Michelin Bib Gourmand 2026",
+   "d": "Flaky spiral-pastry curry puffs.",
+   "tip": "Buy two for later."
+  },
+  {
+   "n": "Hoo Kee Bak Chang",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.27934,
+    103.846652
+   ],
+   "addr": "Amoy Street Food Centre, 7 Maxwell Rd",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "classic"
+   ],
+   "p": 3,
+   "src": "Michelin Bib Gourmand 2026 (all 10 editions)",
+   "d": "Bamboo-leaf rice dumplings with pork, chestnut and salted egg yolk.",
+   "tip": "Take one away for a train or plane."
+  },
+  {
+   "n": "Ah Ter Authentic Teochew Fish Ball Noodles",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.27934,
+    103.846652
+   ],
+   "addr": "Amoy Street Food Centre, 7 Maxwell Rd",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker"
+   ],
+   "p": 3,
+   "src": "Michelin Guide 2026 (Selected)",
+   "d": "Bouncy handmade fishballs, mee pok tossed in chilli and vinegar.",
+   "tip": "Mee pok dry, chilli."
+  },
+  {
+   "n": "Lian He Ben Ji Claypot",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.2825746,
+    103.842981
+   ],
+   "addr": "Chinatown Complex Food Centre #02-198/199, 335 Smith St",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "famous"
+   ],
+   "p": 1,
+   "src": "Michelin Bib Gourmand 2026",
+   "d": "Charcoal claypot rice with chicken, lap cheong and the crunchy scorched crust. Cooked to order, so it's slow.",
+   "tip": "Order, then wait about 20 minutes with a beer from a drinks stall. Dinner is calmer than lunch."
+  },
+  {
+   "n": "Xiu Ji Ikan Bilis Yong Tau Fu",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.282275,
+    103.843239
+   ],
+   "addr": "Chinatown Complex Food Centre #02-87/88, 335 Smith St",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "new"
+   ],
+   "p": 2,
+   "src": "Michelin Bib Gourmand 2026 (new)",
+   "d": "Hakka yong tau foo in a clear anchovy broth, running since the 1960s and newly Bib'd. Light and clean.",
+   "tip": "Stuffed bitter gourd, eggplant, fish cake."
+  },
+  {
+   "n": "The 1950's Coffee",
+   "t": "cafe",
+   "h": "chinatown",
+   "at": [
+    1.282275,
+    103.843239
+   ],
+   "addr": "Chinatown Complex Food Centre, 335 Smith St",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "classic"
+   ],
+   "p": 3,
+   "src": "Michelin Guide 2026 (Selected)",
+   "d": "Charcoal-roasted kopi: the sock-filtered old-school coffee.",
+   "tip": "Kopi C kosong (with evaporated milk, no sugar) if she doesn't want it syrupy."
+  },
+  {
+   "n": "Ji Ji Noodle House",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.2851692,
+    103.8457399
+   ],
+   "addr": "Hong Lim Market & Food Centre #02-48/49, 531A Upper Cross St",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker"
+   ],
+   "p": 2,
+   "src": "Michelin Bib Gourmand 2026",
+   "d": "Wanton noodles with char siu, fried wonton and pork crackling, and a chilli Michelin calls a must.",
+   "tip": "Dry noodles plus a side of wonton soup."
+  },
+  {
+   "n": "Outram Park Fried Kway Teow Mee",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.285324,
+    103.845777
+   ],
+   "addr": "Hong Lim Market & Food Centre, 531A Upper Cross St",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "classic"
+   ],
+   "p": 1,
+   "src": "Michelin Bib Gourmand 2026",
+   "d": "Proper char kway teow: lard, cockles, dark soy, wok hei. Not diet food.",
+   "tip": "Ask for 'more chilli, with cockles'. Queues at lunch."
+  },
+  {
+   "n": "Tai Wah Pork Noodle",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.285324,
+    103.845777
+   ],
+   "addr": "Hong Lim Market & Food Centre, 531A Upper Cross St",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker"
+   ],
+   "p": 3,
+   "src": "Michelin Bib Gourmand 2026",
+   "d": "Vinegary bak chor mee (minced pork noodles) from the same family lineage as the starred Hill St Tai Hwa, without the 90-minute queue.",
+   "tip": "Mee pok dry, with vinegar and chilli."
+  },
+  {
+   "n": "Heng Kee Curry Chicken Noodle",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.285324,
+    103.845777
+   ],
+   "addr": "Hong Lim Market & Food Centre, 531A Upper Cross St",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker"
+   ],
+   "p": 3,
+   "src": "Michelin Bib Gourmand 2026",
+   "d": "Rich coconut curry over bee hoon with chicken and potato.",
+   "tip": "Mix of yellow noodles and bee hoon."
+  },
+  {
+   "n": "Kok Sen",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.2802718,
+    103.841681
+   ],
+   "addr": "4 Keong Saik Rd, 089112",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "you",
+    "classic",
+    "famous"
+   ],
+   "p": 1,
+   "src": "Michelin Bib Gourmand 2026 (all 10 editions)",
+   "london": "Tayyabs: loud, cheap-ish, queue out the door",
+   "d": "Fifty-year zi char on Keong Saik with serious wok hei. This is the Singapore dinner to bring visitors to.",
+   "tip": "Prawn paste chicken, big prawn hor fun, the fish of the day. No bookings and few tables: arrive by 5:45pm or queue."
+  },
+  {
+   "n": "Esquina",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.2799309,
+    103.8420297
+   ],
+   "addr": "16 Jiak Chuan Rd, 089267",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "you"
+   ],
+   "p": 1,
+   "src": "Michelin Guide 2026 (Selected); Rantingpanda Keong Saik guide (Sep 2025)",
+   "london": "Morito / The Barbary Next Door: counter in front of the open kitchen",
+   "d": "Long-running Spanish small-plates room. Michelin says to sit at the ground-floor counter facing the kitchen, which is exactly her format.",
+   "tip": "Ask for the counter. Anchovy sticks with bottarga aioli, octopus, suckling pig. Book."
+  },
+  {
+   "n": "Revolver",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.2781226,
+    103.8442476
+   ],
+   "addr": "56 Tras St, 078995",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "you"
+   ],
+   "p": 1,
+   "src": "Michelin Guide 2026 (Selected)",
+   "london": "Gunpowder meets Brat: live-fire Indian at a counter",
+   "d": "Charcoal grill, brazier and tandoor, watched from the counter. South Asian technique over global produce. The best fit in the patch for her Gunpowder/Tayyabs love with a Barbary-style counter.",
+   "tip": "Counter seats. À la carte or the 'Discovery' menu. Book Thu-Sat."
+  },
+  {
+   "n": "Gaston",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.2798386,
+    103.8414273
+   ],
+   "addr": "25 Keong Saik Rd, 089132",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "you",
+    "new"
+   ],
+   "p": 2,
+   "src": "Michelin Guide 2026 (new Selected entry)",
+   "london": "A Toklas-style wine room with a Burgundian heart (definitely not a Brasserie Blanc)",
+   "d": "Laid-back bistro and wine bar run by a Burgundian owner, with classic French cooking executed carefully. Newly in the guide for 2026.",
+   "tip": "Oeuf en meurette, bourguignon or pôchouse; profiteroles to finish. Good for a late, wine-led dinner."
+  },
+  {
+   "n": "Nómada",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.278918,
+    103.841422
+   ],
+   "addr": "1 Keong Saik Rd #01-05, 089109",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "new"
+   ],
+   "p": 3,
+   "src": "Michelin Guide 2026 (Selected); Rantingpanda (Sep 2025)",
+   "d": "Modern Spanish from ex-Binomio chef Gonzalo Landin: grilled octopus in bonito broth, paella, suckling pig.",
+   "tip": "Foie gras and fig rice, for sharing. Esquina is the better counter; this is the better paella."
+  },
+  {
+   "n": "FOC (Central)",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.280288,
+    103.841706
+   ],
+   "addr": "32 Keong Saik Rd, 089139",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [],
+   "p": 3,
+   "src": "Michelin Guide 2026 (Selected); Rantingpanda (Sep 2025)",
+   "d": "Catalan tapas house, moved here after 11 years on Hongkong St. Lively, groupy, reliable.",
+   "tip": "Seafood senyoret paella. Good for a big INSEAD table (there's a private room for 16)."
+  },
+  {
+   "n": "Olivia",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.280646,
+    103.841552
+   ],
+   "addr": "KeSa House, 55 Keong Saik Rd #01-03, 089158",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [],
+   "p": 3,
+   "src": "Michelin Guide 2026 (Selected); 50 Best Discovery",
+   "d": "Barcelona home cooking from ex-Catalunya chef Alain Devahive, in a glossy room. Polished more than buzzy.",
+   "tip": "A good parents-in-town option."
+  },
+  {
+   "n": "Kafe Utu",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.27977,
+    103.841982
+   ],
+   "addr": "12 Jiak Chuan Rd, 089265",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "you",
+    "hidden"
+   ],
+   "p": 2,
+   "src": "HungryGoWhere (Jul 2025); Time Out Singapore",
+   "london": "Gunpowder-style warmth, with an East African menu",
+   "d": "Three-storey shophouse running as an African café-lounge: Ethiopian doro wat, goat sausage brunch, Ugandan-blend coffee, cocktails at night. Warm and characterful.",
+   "tip": "Weekend brunch, or doro wat at dinner. Closed Monday."
+  },
+  {
+   "n": "Cumi Bali",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.2781933,
+    103.8442371
+   ],
+   "addr": "50 Tras St, 078989",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "classic"
+   ],
+   "p": 2,
+   "src": "Michelin Bib Gourmand 2026",
+   "d": "Homely Indonesian. The whole grilled squid in house spice sauce is the reason to come.",
+   "tip": "Cumi Bali plus nasi kunyit, shared."
+  },
+  {
+   "n": "The Blue Ginger",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.2774155,
+    103.8436792
+   ],
+   "addr": "97 Tanjong Pagar Rd, 088518",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "classic"
+   ],
+   "p": 2,
+   "src": "Michelin Bib Gourmand 2026",
+   "d": "Twenty-plus-year Peranakan (Straits Chinese) house over three floors. Aromatic home cooking, generous and reasonable.",
+   "tip": "Ngo heong, ayam buah keluak, chendol."
+  },
+  {
+   "n": "Whole Earth",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.2772625,
+    103.8446935
+   ],
+   "addr": "76 Peck Seah St, 079331",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Michelin Bib Gourmand 2026",
+   "d": "'Vegetarian cuisine for non-vegetarians': Peranakan-Thai with startlingly meaty mushroom dishes.",
+   "tip": "Mango-tamarind tofu roll with rendang, plus the mushrooms."
+  },
+  {
+   "n": "Fat Prince",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.277961,
+    103.844791
+   ],
+   "addr": "48 Peck Seah St, 079317",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "you",
+    "new"
+   ],
+   "p": 2,
+   "src": "Michelin Guide 2026 (new Selected entry)",
+   "london": "The Barbary-adjacent register: front bar, open kitchen, modern Middle Eastern",
+   "d": "Modern Arabic dishes, with a front bar or open-kitchen seats. A little scene-y, but newly Michelin-listed.",
+   "tip": "Sit at the bar. Hummus, kebab, whole roast chicken, or the 'Feed Me' for groups."
+  },
+  {
+   "n": "Hayop",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.2817671,
+    103.8474694
+   ],
+   "addr": "104 Amoy St, 069924",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "new"
+   ],
+   "p": 2,
+   "src": "Michelin Guide 2026 (new Selected entry)",
+   "d": "Modern Filipino in a wood-lined, maritime-nodding room: something genuinely different in her patch.",
+   "tip": "Wagyu and watermelon sinigang. Pre-order the lechon de leche 48 hours ahead for a group. Try the fruity cocktails."
+  },
+  {
+   "n": "Ingleside",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.2782014,
+    103.8446191
+   ],
+   "addr": "49 Tras St, 078988",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "you",
+    "new"
+   ],
+   "p": 2,
+   "src": "Michelin Guide 2026 (new Selected entry)",
+   "london": "Sam's Riverside meets Acre: ferments, live fire, in-house ageing",
+   "d": "Owner-chef European cooking with ferments, the grill and dry-aged meats, in a marble-and-leather room.",
+   "tip": "Carabineros cooked in beef fat; truffle brioche with miso vinegar."
+  },
+  {
+   "n": "Jungle",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.281413,
+    103.8453743
+   ],
+   "addr": "10 Ann Siang Hill, 069789",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [],
+   "p": 3,
+   "src": "Michelin Bib Gourmand 2026",
+   "london": "Som Saa (which she rated 2), so calibrate",
+   "d": "Cosy modern Thai with balanced flavours and lively service. Michelin likes it; her Som Saa score says it may not be her thing.",
+   "tip": "Chargrilled pork jowl, yellow crab curry. Treat it as a test."
+  },
+  {
+   "n": "Le Bon Funk",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.282341,
+    103.846485
+   ],
+   "addr": "29 Club St, 069414",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "you"
+   ],
+   "p": 2,
+   "src": "50 Best Discovery; Time Out Singapore; City Nomads",
+   "london": "Toklas / Acre: natural wine and chef-y small plates",
+   "d": "Natural-wine bar with serious small plates from Burnt Ends alum Keirin Buck. The closest thing to her London 4.5s on Club St.",
+   "tip": "Foie gras toast, beef tongue 'sammy'; ask for wine by the glass. Status: medium. No 2026-dated coverage, but no closure news either. Call first."
+  },
+  {
+   "n": "Tong Ah Eating House",
+   "t": "cafe",
+   "h": "chinatown",
+   "at": [
+    1.280119,
+    103.841414
+   ],
+   "addr": "35 Keong Saik Rd, 089142",
+   "price": "$",
+   "tags": [
+    "classic"
+   ],
+   "p": 3,
+   "src": "Eatbook (Dec 2022)",
+   "d": "Old-school kopitiam famous for crispy thin kaya toast, relocated a few doors from its triangular original.",
+   "tip": "Crispy thin kaya toast set with soft eggs. Status: medium confidence. Closed or short hours Wednesday."
+  },
+  {
+   "n": "Cloudstreet",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.280977,
+    103.8470099
+   ],
+   "addr": "84 Amoy St, 069903",
+   "tier": "nice",
+   "price": "$$$$",
+   "tags": [
+    "splurge"
+   ],
+   "p": 1,
+   "src": "Michelin 2 stars 2026; Michelin Young Chef award (Mark Tai)",
+   "london": "A two-star version of the produce-led River Cafe ethos: Sri Lankan roots, vegetables even in dessert",
+   "d": "Rishi Naleendra's two-star tasting menu: Sri Lankan and Australian sensibility, produce-obsessed, famous for vegetable-led desserts. Her best special-occasion bet in the patch.",
+   "tip": "Book 4-6 weeks out. Tasting menu only."
+  },
+  {
+   "n": "Born",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.2803952,
+    103.843918
+   ],
+   "addr": "1 Neil Rd #01-01, 088804",
+   "tier": "nice",
+   "price": "$$$$",
+   "tags": [
+    "splurge"
+   ],
+   "p": 1,
+   "src": "Michelin 1 star 2026; Asia's 50 Best Restaurants 2026 #23; Tatler Best 2026",
+   "d": "Zor Tan's French-meets-Chinese tasting menu in a 1903 rickshaw depot (Jinrikisha Station) under a glass ceiling. Personal, strong technique; rising fast on 50 Best.",
+   "tip": "Book weeks ahead. Tasting menu only."
+  },
+  {
+   "n": "Zén",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.2796271,
+    103.84042
+   ],
+   "addr": "41 Bukit Pasoh Rd, 089855",
+   "tier": "nice",
+   "price": "$$$$",
+   "tags": [
+    "splurge",
+    "famous"
+   ],
+   "p": 2,
+   "src": "Michelin 3 stars 2026",
+   "d": "Björn Frantzén's Singapore outpost: neo-Nordic, seafood-led, Japanese-tinged tasting menu in a shophouse. Michelin flags the onion course and the non-alcoholic pairing. Theatre-heavy and very expensive, which leans against her taste.",
+   "tip": "Only if someone else is paying. Book far ahead."
+  },
+  {
+   "n": "Nouri",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.28086,
+    103.84713
+   ],
+   "addr": "72 Amoy St, 069891",
+   "tier": "nice",
+   "price": "$$$$",
+   "tags": [
+    "you",
+    "splurge"
+   ],
+   "p": 1,
+   "src": "Michelin 1 star 2026",
+   "london": "Counter-dining as storytelling; the splurge cousin of Barbary-style counter seats",
+   "d": "Ivan Brehm's 'crossroads' cooking around a big marble communal table and chef's counter. The most intellectually interesting menu in the patch.",
+   "tip": "Ask for the counter or communal table. Tasting menu only."
+  },
+  {
+   "n": "Nae:um",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.28033,
+    103.84755
+   ],
+   "addr": "161 Telok Ayer St, 068615",
+   "tier": "nice",
+   "price": "$$$",
+   "tags": [
+    "splurge"
+   ],
+   "p": 2,
+   "src": "Michelin 1 star 2026; Asia's 50 Best Restaurants 2026 #45 (debut); Tatler Best 2026",
+   "d": "Louis Han's personal contemporary Korean tasting menu (cold buckwheat noodles with dumplings, abalone in pine-nut sauce) in a calm wooden room.",
+   "tip": "Book. Its sibling GU:UM (29 Keong Saik) is the cheaper grill option."
+  },
+  {
+   "n": "Araya",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.278868,
+    103.841816
+   ],
+   "addr": "Mondrian Duxton #01-08, 83 Neil Rd, 089813",
+   "tier": "nice",
+   "price": "$$$$",
+   "tags": [
+    "splurge"
+   ],
+   "p": 3,
+   "src": "Michelin 1 star 2026",
+   "d": "Chilean-Japanese tasting menus (Costa, Andes, Celebrating Chile) from Francisco Araya and Fernanda Guerrero, in a hotel.",
+   "tip": "The cod milt dish is the signature."
+  },
+  {
+   "n": "Ma Cuisine",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.2782652,
+    103.8418934
+   ],
+   "addr": "38 Craig Rd, 089676",
+   "tier": "nice",
+   "price": "$$$",
+   "tags": [
+    "you",
+    "splurge"
+   ],
+   "p": 1,
+   "src": "Michelin 1 star 2026",
+   "london": "Toklas or a Noble Rot wine room, with a star",
+   "d": "Small French bistro built around a serious cellar, with dishes made to share. The most 'her' starred room: great wine and great ingredients, not theatre.",
+   "tip": "Let the sommelier pick. The beef tartare with geoduck and oysters gets written up. Book."
+  },
+  {
+   "n": "Fiz",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.279692,
+    103.844015
+   ],
+   "addr": "21 Tanjong Pagar Rd #01-01/02, 088444",
+   "tier": "nice",
+   "price": "$$$",
+   "tags": [
+    "splurge"
+   ],
+   "p": 3,
+   "src": "Michelin Green Star 2026; Tatler Best 2026",
+   "d": "Hafizzul Hashim's modern Malaysian, with mains shared family-style. Childhood recipes that 'pack a punch'.",
+   "tip": "The full-experience menu with the house cocktails."
+  },
+  {
+   "n": "Jigger & Pony",
+   "t": "drink",
+   "h": "chinatown",
+   "at": [
+    1.274928,
+    103.84355
+   ],
+   "addr": "Amara Singapore, 165 Tanjong Pagar Rd, 088539",
+   "price": "$$$",
+   "tags": [
+    "famous",
+    "classic"
+   ],
+   "p": 1,
+   "src": "Asia's 50 Best Bars 2026 #9 (Best Bar in Singapore)",
+   "london": "Caia's polish without the DJ",
+   "d": "Singapore's best bar by the 50 Best count. Classic-leaning cocktails, polished but relaxed.",
+   "tip": "Walk in early (6-7pm) or book. Start with whatever is on the current menu's first page."
+  },
+  {
+   "n": "Side Door",
+   "t": "drink",
+   "h": "chinatown",
+   "at": [
+    1.280154,
+    103.843743
+   ],
+   "addr": "3 Neil Rd, 088805",
+   "price": "$$",
+   "tags": [
+    "hidden"
+   ],
+   "p": 1,
+   "src": "Asia's 50 Best Bars 2026 #57; Honeycombers (Jun 2026)",
+   "d": "Homey husband-and-wife bar by Maxwell, with deceptively simple, nuanced drinks. A good local.",
+   "tip": "After a Maxwell dinner."
+  },
+  {
+   "n": "The Elephant Room",
+   "t": "drink",
+   "h": "chinatown",
+   "at": [
+    1.279185,
+    103.844082
+   ],
+   "addr": "33 Tanjong Pagar Rd, 088456",
+   "price": "$$",
+   "tags": [],
+   "p": 2,
+   "src": "Asia's 50 Best Bars 2026 #58",
+   "d": "Indian-culture-inspired bar with a spice corner. Savoury, aromatic, not sweet.",
+   "tip": "Ask for something from the spice corner."
+  },
+  {
+   "n": "Native",
+   "t": "drink",
+   "h": "chinatown",
+   "at": [
+    1.280127,
+    103.846848
+   ],
+   "addr": "52A Amoy St, 069878",
+   "price": "$$",
+   "tags": [
+    "classic"
+   ],
+   "p": 2,
+   "src": "Asia's 50 Best Bars 2026 #80",
+   "london": "The produce-first logic of Acre, in a glass",
+   "d": "Sustainability bar built on foraged and regional ingredients, with ferments and an upstairs lab.",
+   "tip": "Sit at the bar and ask what's been foraged this week."
+  },
+  {
+   "n": "Cat Bite Club",
+   "t": "drink",
+   "h": "chinatown",
+   "at": [
+    1.278312,
+    103.843059
+   ],
+   "addr": "75 Duxton Rd, 089534",
+   "price": "$$",
+   "tags": [
+    "hidden"
+   ],
+   "p": 2,
+   "src": "Asia's 50 Best Bars 2026 #86",
+   "d": "Agave and rice-spirit specialist tucked behind a coffeeshop. Best for four or fewer.",
+   "tip": "Mezcal flight. Wed-Sun 5pm-midnight per its site."
+  },
+  {
+   "n": "Bartenders of Pony (BOP)",
+   "t": "drink",
+   "h": "chinatown",
+   "at": [
+    1.277475,
+    103.844058
+   ],
+   "addr": "76 Tras St, 079015",
+   "price": "$$$",
+   "tags": [
+    "new"
+   ],
+   "p": 2,
+   "src": "Asia's 50 Best Bars 2026 #52 (Campari One To Watch)",
+   "d": "Korean-inspired cocktail dining-bar from the Jigger & Pony team. Opened Jan 2026 and onto the extended list within six months.",
+   "tip": "Do dinner and drinks here rather than just a nightcap."
+  },
+  {
+   "n": "Sago House",
+   "t": "drink",
+   "h": "chinatown",
+   "at": [
+    1.27846,
+    103.842866
+   ],
+   "addr": "37 Duxton Hill, 089615",
+   "price": "$$",
+   "tags": [
+    "classic"
+   ],
+   "p": 2,
+   "src": "Asia's 50 Best Bars (top 10 in 2023; 51-100 in 2025); Honeycombers (Jun 2026)",
+   "d": "Hand-built, scruffy-warm bar with a weekly-changing menu. It moved to Duxton Hill in 2023.",
+   "tip": "Tue-Sun from 6pm."
+  },
+  {
+   "n": "Stay Gold",
+   "t": "drink",
+   "h": "chinatown",
+   "at": [
+    1.280131,
+    103.846534
+   ],
+   "addr": "69 Amoy St, 069888",
+   "price": "$$",
+   "tags": [
+    "new"
+   ],
+   "p": 3,
+   "src": "Asia's 50 Best Bars 2026 #97",
+   "london": "Caia-ish: music-first",
+   "d": "Rock-and-roll bar: wine bar at the front, neon cocktail room behind.",
+   "tip": "Later in the night, for the music."
+  },
+  {
+   "n": "Offtrack",
+   "t": "drink",
+   "h": "chinatown",
+   "at": [
+    1.287013,
+    103.847251
+   ],
+   "addr": "#01-01, 34 North Canal Rd, 059290",
+   "price": "$$",
+   "tags": [
+    "you"
+   ],
+   "p": 1,
+   "src": "Asia's 50 Best Bars 2026 #16",
+   "london": "Caia: vibey, DJs, good drinks",
+   "d": "Music-first bar from the Darker than Wax and Ice Cream Sundays collectives: DJs, highballs, pitchers, pan-Asian plates. The closest Singapore match for her Caia 4.5.",
+   "tip": "Weekend DJ nights. Small tables, so go early or accept standing."
+  },
+  {
+   "n": "Tamba",
+   "t": "drink",
+   "h": "chinatown",
+   "at": [
+    1.279816,
+    103.843152
+   ],
+   "addr": "101 Duxton Rd, 089964",
+   "price": "$$",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Honeycombers best cocktail bars (Jun 2026)",
+   "d": "West African-inspired bar with African spirits, a sibling of Kafe Utu.",
+   "tip": "Pair with dinner at Kafe Utu."
+  },
+  {
+   "n": "Live Twice",
+   "t": "drink",
+   "h": "chinatown",
+   "at": [
+    1.27965,
+    103.84035
+   ],
+   "addr": "20 Bukit Pasoh Rd, 089834",
+   "price": "$$$",
+   "tags": [],
+   "p": 3,
+   "src": "Honeycombers best cocktail bars (Jun 2026)",
+   "d": "Mid-century Japanese-style bar with long-steeped whiskies. It shares the address with Gibson.",
+   "tip": "A quiet nightcap after Zén or Kok Sen."
+  },
+  {
+   "n": "Thian Hock Keng Temple",
+   "t": "see",
+   "h": "chinatown",
+   "at": [
+    1.281084,
+    103.847507
+   ],
+   "addr": "158 Telok Ayer St, 068613",
+   "price": "free",
+   "tags": [
+    "classic"
+   ],
+   "p": 1,
+   "src": "OneMap; national monument",
+   "d": "Singapore's oldest Hokkien temple (1840s), built where the shoreline once was. Beautiful carved roofs, and calm in the middle of the CBD.",
+   "tip": "Weekday morning, then lunch at Amoy Street Food Centre."
+  },
+  {
+   "n": "Sri Mariamman Temple",
+   "t": "see",
+   "h": "chinatown",
+   "at": [
+    1.282676,
+    103.845155
+   ],
+   "addr": "244 South Bridge Rd, 058793",
+   "price": "free",
+   "tags": [
+    "classic"
+   ],
+   "p": 2,
+   "src": "OneMap; national monument",
+   "d": "Singapore's oldest Hindu temple, with a riotous gopuram in the middle of Chinatown.",
+   "tip": "Shoes off; shoulders covered."
+  },
+  {
+   "n": "Buddha Tooth Relic Temple",
+   "t": "see",
+   "h": "chinatown",
+   "at": [
+    1.281494,
+    103.844242
+   ],
+   "addr": "288 South Bridge Rd, 058840",
+   "price": "free",
+   "tags": [
+    "famous"
+   ],
+   "p": 2,
+   "src": "OneMap",
+   "d": "Big Tang-style temple (2007) with a museum and a rooftop orchid garden. Touristy, but the roof garden is peaceful.",
+   "tip": "Go up to the rooftop; skip the shop. Modest dress required."
+  },
+  {
+   "n": "Ann Siang Hill Park & Club Street",
+   "t": "do",
+   "h": "chinatown",
+   "at": [
+    1.280793,
+    103.846276
+   ],
+   "addr": "Ann Siang Hill / Club St",
+   "price": "free",
+   "tags": [
+    "hidden"
+   ],
+   "p": 2,
+   "src": "OneMap",
+   "d": "A tiny hilltop park linking Ann Siang Hill to Amoy St, above the prettiest shophouse lanes.",
+   "tip": "Walk it at 6:30pm on the way to Le Bon Funk or Native."
+  },
+  {
+   "n": "Tea Chapter",
+   "t": "cafe",
+   "h": "chinatown",
+   "at": [
+    1.280085,
+    103.843629
+   ],
+   "addr": "9-11 Neil Rd, 088808",
+   "price": "$$",
+   "tags": [
+    "classic",
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Long-running teahouse (no 2026 review found)",
+   "d": "Traditional gongfu tea house in a shophouse.",
+   "tip": "Status: medium confidence. Call before going."
+  },
+  {
+   "n": "Pinnacle@Duxton Skybridge",
+   "t": "do",
+   "h": "outram-keppel",
+   "at": [
+    1.277035,
+    103.841261
+   ],
+   "addr": "Blk 1G, 1 Cantonment Rd (The Pinnacle@Duxton)",
+   "price": "$",
+   "tags": [
+    "hidden",
+    "famous"
+   ],
+   "p": 1,
+   "src": "VisitSingapore; Time Out Singapore; Home & Decor",
+   "d": "A 50th-storey public skybridge on the world's tallest public housing. The best free-ish skyline view near her flat, with no hotel-bar markup.",
+   "tip": "9am-9pm. Small fee (S$5-6 reported), paid by tapping an EZ-Link/CEPAS card at the Blk 1G management office. Daily visitor cap, so go at dusk on a weekday. Closed for some events."
+  },
+  {
+   "n": "Nylon Coffee Roasters",
+   "t": "cafe",
+   "h": "outram-keppel",
+   "at": [
+    1.276883,
+    103.840086
+   ],
+   "addr": "4 Everton Park #01-40, 080004",
+   "price": "$",
+   "tags": [
+    "you",
+    "hidden",
+    "classic"
+   ],
+   "p": 1,
+   "src": "Eatbook (Oct 2026); 2026 coffee rankings",
+   "london": "Prufrock-level coffee in a council-estate void deck",
+   "d": "Singapore's specialty-coffee benchmark in a tiny HDB unit, five minutes from her door. Single origins, precise brewing.",
+   "tip": "Iced long black or the filter of the week. Mon, Wed-Fri 8:30am-4:30pm; Sat-Sun 9am-4:30pm; closed Tue."
+  },
+  {
+   "n": "Quah Song & Co.",
+   "t": "cafe",
+   "h": "outram-keppel",
+   "at": [
+    1.277416,
+    103.839331
+   ],
+   "addr": "2 Everton Park #01-61, 081002",
+   "price": "$",
+   "tags": [
+    "new",
+    "hidden"
+   ],
+   "p": 2,
+   "src": "Eatbook (Oct 2026)",
+   "london": "Jolene-style bakery corner",
+   "d": "Newer Everton Park bakery-café. Butter croissant and white coffee.",
+   "tip": "Morning, before the pastries run out."
+  },
+  {
+   "n": "The Better Half",
+   "t": "cafe",
+   "h": "outram-keppel",
+   "at": [
+    1.277427,
+    103.840001
+   ],
+   "addr": "1 Everton Park #01-43, 081001",
+   "price": "$",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Eatbook (Oct 2026)",
+   "d": "Mini-cake café (carrot walnut, honey kinako).",
+   "tip": "A cake with a Nylon coffee in hand."
+  },
+  {
+   "n": "Ji Xiang Ang Ku Kueh",
+   "t": "shop",
+   "h": "outram-keppel",
+   "at": [
+    1.277427,
+    103.840001
+   ],
+   "addr": "1 Everton Park #01-33, 081001",
+   "price": "$",
+   "tags": [
+    "classic",
+    "hidden"
+   ],
+   "p": 2,
+   "src": "Eatbook (Oct 2026)",
+   "d": "Handmade 'red tortoise' glutinous-rice cakes from S$2: peanut, sweet bean, black sesame, durian. A local institution.",
+   "tip": "Peanut and black sesame. Buy a box as a host gift."
+  },
+  {
+   "n": "Tina's Cafe",
+   "t": "cafe",
+   "h": "outram-keppel",
+   "at": [
+    1.276684,
+    103.839459
+   ],
+   "addr": "Blk 5 Everton Park #01-22, 080005",
+   "price": "$",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Eatbook (Oct 2026); Tanjong Pagar-Tiong Bahru Town Council Food Finds 2026",
+   "d": "Neighbourhood café doing orh nee (yam paste) butter toast and orh nee egg tarts.",
+   "tip": "Orh nee butter toast set (about S$6.50)."
+  },
+  {
+   "n": "Hello Arigato",
+   "t": "cafe",
+   "h": "outram-keppel",
+   "at": [
+    1.276883,
+    103.840086
+   ],
+   "addr": "4 Everton Park #01-02, 080004",
+   "price": "$",
+   "tags": [
+    "new"
+   ],
+   "p": 3,
+   "src": "Eatbook (Oct 2026)",
+   "d": "Japanese-leaning café: tamago sando, strawberry matcha.",
+   "tip": "The tamago sando, when Nylon is closed (Tuesdays)."
+  },
+  {
+   "n": "Meshiya",
+   "t": "eat",
+   "h": "outram-keppel",
+   "at": [
+    1.276674,
+    103.838789
+   ],
+   "addr": "6 Everton Park #01-18, 080006",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "Eatbook (Oct 2026)",
+   "d": "Cheap Japanese udon and katsu don in an HDB unit. A weeknight doorstep dinner, not a destination.",
+   "tip": "Udon from about S$6.50."
+  },
+  {
+   "n": "Telok Blangah Rise Market & Food Centre",
+   "t": "eat",
+   "h": "outram-keppel",
+   "at": [
+    1.272761,
+    103.822364
+   ],
+   "addr": "36 Telok Blangah Rise, 090036",
+   "tier": "cheap",
+   "price": "$",
+   "tags": [
+    "hawker",
+    "hidden"
+   ],
+   "p": 2,
+   "src": "TheSmartLocal Bukit Purmei guide (2024)",
+   "d": "Hikers' hawker centre at the foot of Mount Faber. Chill and local, no stars.",
+   "tip": "JC Teochew Braised Duck (#01-44, 9am-3pm) after a ridge walk. Top Best Chinese Cuisine (#01-41) for zi char."
+  },
+  {
+   "n": "Everyday Bakery",
+   "t": "shop",
+   "h": "outram-keppel",
+   "at": [
+    1.273929,
+    103.825311
+   ],
+   "addr": "109 Bukit Purmei Ave #01-143, 090109",
+   "price": "$",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "TheSmartLocal (2024)",
+   "d": "Old-school estate bakery: kaya waffles, pandan chiffon, egg tarts.",
+   "tip": "Kaya waffle on the way up to Mount Faber. Status: medium confidence."
+  },
+  {
+   "n": "Southern Ridges: Mount Faber to Henderson Waves",
+   "t": "do",
+   "h": "outram-keppel",
+   "at": [
+    1.276027,
+    103.8155
+   ],
+   "addr": "Henderson Waves, Henderson Rd (via Mount Faber Park)",
+   "price": "free",
+   "tags": [
+    "famous",
+    "you"
+   ],
+   "p": 1,
+   "src": "NParks; Wikipedia (Southern Ridges)",
+   "d": "Her running route: forest trail over Mount Faber to the 274m wave-shaped Henderson Waves bridge, 36m above the road, with port and Sentosa views. The best thing about living here.",
+   "tip": "Start 6:30am, or 5:30pm for sunset. From her flat, go via Bukit Purmei to Mount Faber. Telok Blangah Hill's Forest Walk/Earth Trail had a slope-repair closure due to end 31 Jul 2026; check the NParks notice before going further west."
+  },
+  {
+   "n": "Mount Faber Peak",
+   "t": "see",
+   "h": "outram-keppel",
+   "at": [
+    1.271091,
+    103.819768
+   ],
+   "addr": "109 Mount Faber Rd, 099203",
+   "price": "free",
+   "tags": [
+    "famous"
+   ],
+   "p": 3,
+   "src": "OneMap; NParks",
+   "d": "Summit lookout and cable-car station. Good view; the restaurants are for the view, not the food.",
+   "tip": "A water stop on the ridge run, not a meal."
+  },
+  {
+   "n": "Telok Blangah Hill Park",
+   "t": "do",
+   "h": "outram-keppel",
+   "at": [
+    1.278845,
+    103.810545
+   ],
+   "addr": "Telok Blangah Green",
+   "price": "free",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "NParks (closure notice to 31 Jul 2026); Wikipedia",
+   "d": "The next ridge west of Henderson Waves: terrace garden and elevated Forest Walk.",
+   "tip": "Status: check whether the Forest Walk east section and Earth Trail have reopened (closure was due to end 31 Jul 2026)."
+  },
+  {
+   "n": "Church of St Teresa",
+   "t": "see",
+   "h": "outram-keppel",
+   "at": [
+    1.272986,
+    103.827791
+   ],
+   "addr": "510 Kampong Bahru Rd, 099446",
+   "price": "free",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "TheSmartLocal (2024); national monument",
+   "d": "1929 Romanesque-Byzantine church modelled on Sacré-Cœur, on the hill above her road.",
+   "tip": "Look on the walk up to Bukit Purmei."
+  },
+  {
+   "n": "Keramat Bukit Kasita",
+   "t": "see",
+   "h": "outram-keppel",
+   "at": [
+    1.272427,
+    103.826615
+   ],
+   "addr": "532 Kampong Bahru Rd, 099456",
+   "price": "free",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "TheSmartLocal",
+   "d": "Walled royal Malay burial compound (oldest tomb said to date to 1721). Exterior only; entry is for descendants.",
+   "tip": "View the stone archway from the road, respectfully."
+  },
+  {
+   "n": "Tang Gah Beo Temple",
+   "t": "see",
+   "h": "outram-keppel",
+   "at": [
+    1.273916,
+    103.827889
+   ],
+   "addr": "6 Bukit Purmei, 099866",
+   "price": "free",
+   "tags": [
+    "hidden"
+   ],
+   "p": 3,
+   "src": "TheSmartLocal (2024)",
+   "d": "19th-century Taoist temple mixing Teochew roof ornament with a Hokkien hall: an unexpectedly quiet courtyard in the estate.",
+   "tip": "Dress respectfully. Pair with St Teresa."
+  },
+  {
+   "n": "Strangers' Reunion",
+   "t": "cafe",
+   "h": "outram-keppel",
+   "at": [
+    1.276882,
+    103.836356
+   ],
+   "addr": "37 Kampong Bahru Rd",
+   "price": "$$",
+   "tags": [
+    "classic"
+   ],
+   "p": 3,
+   "src": "FoodAdvisor; Burpple (older reviews)",
+   "d": "Long-running brunch-and-coffee café on her own road, known for waffles.",
+   "tip": "Status: low confidence. No 2025-26 evidence found and reviews mention renovation works. Walk past and check before planning around it."
+  }
+ ],
+ "walks": [
+  {
+   "name": "Market breakfast to Chinatown bar: Tiong Bahru, the doorstep and Keong Saik in one loop",
+   "mins": 105,
+   "km": 6.5,
+   "best": "Saturday, 8:30am start for the market (or 3pm start and end with dinner/bars; the skybridge runs to 9pm)",
+   "stops": [
+    "Tiong Bahru Market & Food Centre",
+    "Jian Bo Shui Kueh",
+    "Plain Vanilla",
+    "Woods in the Books",
+    "Tiong Bahru Air Raid Shelter",
+    "Qi Tian Gong (Monkey God Temple)",
+    "Tiong Bahru Bakery",
+    "Nylon Coffee Roasters",
+    "Ji Xiang Ang Ku Kueh",
+    "Pinnacle@Duxton Skybridge",
+    "Sago House",
+    "Kok Sen",
+    "Esquina",
+    "Side Door",
+    "Tian Tian Hainanese Chicken Rice",
+    "Buddha Tooth Relic Temple",
+    "Sri Mariamman Temple",
+    "Ann Siang Hill Park & Club Street",
+    "Native",
+    "Thian Hock Keng Temple"
+   ],
+   "d": "From home on Kampong Bahru Rd, walk north-east about 20 minutes, via Spottiswoode or Jalan Bukit Merah, to Tiong Bahru Market for chwee kueh upstairs. Wander Yong Siak St (Plain Vanilla, Woods in the Books), loop past Blk 78 Guan Chuan St (the air raid shelter) and the Monkey God temple on Eng Hoon St, and grab a kouign-amann at Tiong Bahru Bakery. Walk east along Tiong Bahru Rd and Kampong Bahru Rd to Everton Park for a Nylon coffee (not Tuesdays) and a box of ang ku kueh. Go up the Pinnacle@Duxton skybridge, then Duxton Hill to Keong Saik and Jiak Chuan Rd, Neil Rd to Maxwell, South Bridge Rd past the temples, Ann Siang Hill Park to Club St, and finish at Amoy St and Thian Hock Keng. Cab or MRT home from Telok Ayer or Outram Park."
+  }
+ ]
+}
