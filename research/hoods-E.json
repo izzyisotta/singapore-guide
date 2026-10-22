@@ -1,0 +1,318 @@
+{
+ "hoods": [],
+ "places": [
+  {
+   "n": "Temper",
+   "t": "drink",
+   "h": "chinatown",
+   "at": [
+    1.2787,
+    103.8421
+   ],
+   "addr": "#01-07 Mondrian Singapore Duxton, 83 Neil Rd",
+   "price": "$$$",
+   "tags": [
+    "you",
+    "new"
+   ],
+   "p": 1,
+   "src": "Time Out Singapore; Star Wine List 2026",
+   "pp": "S$60-100",
+   "energy": "buzzy",
+   "cool": 5,
+   "vibe": "Bauhaus wine room upstairs, lounge with DJs Wed-Sat below",
+   "london": "Caia: DJ, music-led, good drinks",
+   "d": "A wine room and cocktail lounge in the Mondrian with live R&B and jazz sessions plus DJs Wednesday to Saturday. Two Star Wine List awards in its first year.",
+   "tip": "Go Friday after 10pm for the DJ; start upstairs with a glass, finish in the lounge."
+  },
+  {
+   "n": "Employees Only",
+   "t": "drink",
+   "h": "chinatown",
+   "at": [
+    1.2821,
+    103.8475
+   ],
+   "addr": "112 Amoy St",
+   "price": "$$$",
+   "tags": [
+    "you",
+    "famous"
+   ],
+   "p": 2,
+   "src": "Tatler Best 20 Bars 2026",
+   "pp": "S$60-100",
+   "energy": "scene",
+   "cool": 4,
+   "vibe": "Loud New York import, fortune-teller at the door, packed and flirty",
+   "london": "Chiltern Firehouse bar: busy, glam, see-and-be-seen",
+   "d": "The NYC bar brand's Singapore outpost: free-poured drinks, a dining room behind and a crowd that stays late. More party than reverence.",
+   "tip": "Late on a Friday; eat in the back room if you want a table."
+  },
+  {
+   "n": "Wakuda",
+   "t": "eat",
+   "h": "marina",
+   "at": [
+    1.2835,
+    103.8606
+   ],
+   "addr": "Hotel Tower 2 lobby, Marina Bay Sands, 10 Bayfront Ave",
+   "tier": "nice",
+   "price": "$$$$",
+   "tags": [
+    "splurge",
+    "famous"
+   ],
+   "p": 2,
+   "src": "Star Wine List; The Hotel Journal (Apr 2026)",
+   "pp": "S$150-250",
+   "energy": "scene",
+   "cool": 3,
+   "vibe": "Dark glam lobby room, banquettes, a dressed-up crowd",
+   "london": "Nobu: glam, expensive Japanese scene",
+   "d": "Tetsuya Wakuda's sleek Japanese room in the MBS lobby, the nearest thing Singapore has to Nobu. Hotel-crowd glossy, but done properly.",
+   "tip": "Book a banquette and order sashimi and the wagyu."
+  },
+  {
+   "n": "Mott 32",
+   "t": "eat",
+   "h": "marina",
+   "at": [
+    1.2842,
+    103.859
+   ],
+   "addr": "Galleria Level, The Shoppes at Marina Bay Sands, 2 Bayfront Ave",
+   "tier": "nice",
+   "price": "$$$",
+   "tags": [
+    "famous"
+   ],
+   "p": 3,
+   "src": "Tatler; Forbes Travel Guide",
+   "pp": "S$120-180",
+   "energy": "scene",
+   "cool": 3,
+   "vibe": "Moody Hong Kong-glam dining room, big groups and dates",
+   "london": "Nobu: glam, expensive, a scene room",
+   "d": "Hong Kong's glam Cantonese brand in a dark, designed room at MBS. The applewood Peking duck is the reason. It's in a mall and it's a chain, so it's slick more than cool.",
+   "tip": "Pre-order the Peking duck and come in a group of four or more."
+  },
+  {
+   "n": "COTE Korean Steakhouse",
+   "t": "eat",
+   "h": "orchard",
+   "at": [
+    1.3043,
+    103.8368
+   ],
+   "addr": "Level 3, COMO Orchard, 30 Bideford Rd",
+   "tier": "nice",
+   "price": "$$$",
+   "tags": [
+    "splurge"
+   ],
+   "p": 2,
+   "src": "Eatbook; Esquire Singapore; Ordinary Patrons (2025)",
+   "pp": "S$130-200",
+   "energy": "scene",
+   "cool": 4,
+   "vibe": "Dark, sexy steakhouse with tabletop grills and a dressed-up crowd",
+   "london": "Chiltern Firehouse: glam, buzzy, a night out",
+   "d": "The Michelin-starred New York Korean steakhouse, now at COMO Orchard: grills in the tables, a loud room and a well-dressed crowd. The latest review is from 2025, so confirm it's still open before you book.",
+   "tip": "Order the Butcher's Feast for the table and start at the bar."
+  },
+  {
+   "n": "Cenzo",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.2818,
+    103.8458
+   ],
+   "addr": "81 Club St",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "you"
+   ],
+   "p": 1,
+   "src": "Time Out Singapore (Jul 2026)",
+   "pp": "S$70-110",
+   "energy": "buzzy",
+   "cool": 4,
+   "vibe": "Small shophouse, chef-run, a grown-up Club St crowd",
+   "london": "Acre: cool neighbourhood small plates, mid-price",
+   "d": "Drew Nocente's Australian-Italian small plates and fresh pasta, with the menu refreshed in 2026 and now open seven days. Time Out says it is more confident than ever.",
+   "tip": "Get the wagyu tartare cannoli and the crab-and-uni tarts, then a pasta each."
+  },
+  {
+   "n": "Maggie's",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.2789,
+    103.8414
+   ],
+   "addr": "#01-04, 1 Keong Saik Rd",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "you",
+    "new"
+   ],
+   "p": 1,
+   "src": "Time Out Singapore (Jul 2026); Honeycombers",
+   "pp": "S$70-110",
+   "energy": "buzzy",
+   "cool": 5,
+   "vibe": "70s grandma-chic: chandeliers, old TVs, a cool Keong Saik crowd",
+   "london": "Toklas meets Chiltern: design-led and buzzy",
+   "d": "A playful 'almost Chinese' bistro from the Marcy's team, in a mad retro room. It is one of the cooler new rooms on Keong Saik.",
+   "tip": "Golden Prawn Croque Madame and cod milt; book a Friday."
+  },
+  {
+   "n": "Marcy's",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.2788,
+    103.8435
+   ],
+   "addr": "39-40 Duxton Rd",
+   "tier": "nice",
+   "price": "$$$",
+   "tags": [
+    "you"
+   ],
+   "p": 1,
+   "src": "Time Out Singapore; F Zine; Seth Lui",
+   "pp": "S$90-140",
+   "energy": "scene",
+   "cool": 4,
+   "vibe": "Edgy, sexy seafood bistro-bar, loud music, glamorous Duxton crowd",
+   "london": "Chiltern Firehouse: glam, buzzy, the scene",
+   "d": "A seafood sharing-plates bar with a dark, mirrored room and a party feel late on. Reviewers rave about the sauces. Its company filings are current to April 2026, but the newest reviews date from 2024.",
+   "tip": "Start with crab toast at the bar, then book a late table for the arroz negro."
+  },
+  {
+   "n": "Firangi Superstar",
+   "t": "eat",
+   "h": "chinatown",
+   "at": [
+    1.278,
+    103.8424
+   ],
+   "addr": "20 Craig Rd",
+   "tier": "medium",
+   "price": "$$$",
+   "tags": [
+    "you"
+   ],
+   "p": 2,
+   "src": "The Infatuation Singapore",
+   "pp": "S$80-120",
+   "energy": "buzzy",
+   "cool": 3,
+   "vibe": "Art-deco colonial fantasy rooms, birthdays and dates",
+   "london": "Cecconi's: polished, buzzy, people-watching",
+   "d": "Indian food in a theatrical set of designed rooms. It's fun, it's buzzy, and it's a bit of a stage set. The tandoori lamb saddle is the order. Only an undated listing confirms it is open, so check before you go.",
+   "tip": "Chai masala cocktail first, then the tandoori lamb saddle to share."
+  },
+  {
+   "n": "Night Hawk",
+   "t": "drink",
+   "h": "chinatown",
+   "at": [
+    1.2789,
+    103.8441
+   ],
+   "addr": "#01-02, 43 Tanjong Pagar Rd",
+   "price": "$$$",
+   "tags": [
+    "you",
+    "hidden"
+   ],
+   "p": 2,
+   "src": "Tatler Best 20 Bars 2026",
+   "pp": "S$60-90",
+   "energy": "calm",
+   "cool": 4,
+   "vibe": "25-seat retro-futurist Hopper-diner speakeasy, date-y",
+   "london": "",
+   "d": "A tiny cocktail bar built around the Edward Hopper painting, with small American plates. Intimate rather than loud.",
+   "tip": "Go as two, early, before the Tanjong Pagar crawl fills it."
+  },
+  {
+   "n": "Gibson",
+   "t": "drink",
+   "h": "chinatown",
+   "at": [
+    1.2791,
+    103.8409
+   ],
+   "addr": "Level 2, 20 Bukit Pasoh Rd",
+   "price": "$$$",
+   "tags": [
+    "classic"
+   ],
+   "p": 3,
+   "src": "Tatler Best 20 Bars 2026",
+   "pp": "S$60-100",
+   "energy": "buzzy",
+   "cool": 3,
+   "vibe": "Polished, playful upstairs bar, raw-bar snacks, dressed-up after-work crowd",
+   "london": "Cecconi's: polished, buzzy",
+   "d": "The Jigger & Pony group's upstairs bar, ten years old in 2026 with a 'Timeless' menu and tableside blazer serves. It's a good first stop before Live Twice downstairs.",
+   "tip": "Order the house Gibson with the quail egg, then go downstairs to Live Twice."
+  },
+  {
+   "n": "Fura",
+   "t": "drink",
+   "h": "chinatown",
+   "at": [
+    1.2804,
+    103.8466
+   ],
+   "addr": "Level 2, 74A Amoy St",
+   "price": "$$$",
+   "tags": [
+    "you"
+   ],
+   "p": 3,
+   "src": "Tatler Best 20 Bars 2026",
+   "pp": "S$60-90",
+   "energy": "calm",
+   "cool": 4,
+   "vibe": "Upstairs townhouse bar with a garden, creative and green-minded",
+   "london": "Toklas: design-led, chill, creative crowd",
+   "d": "A sustainability-minded cocktail bar with inventive small plates in a second-floor townhouse. Quieter and more designed than its Amoy St neighbours.",
+   "tip": "Eat here as well: the small plates work as dinner."
+  },
+  {
+   "n": "Common Man Coffee Roasters",
+   "t": "eat",
+   "h": "river",
+   "at": [
+    1.2919,
+    103.8385
+   ],
+   "addr": "#01-00, 22 Martin Rd",
+   "tier": "medium",
+   "price": "$$",
+   "tags": [
+    "classic"
+   ],
+   "p": 3,
+   "src": "Ordinary Patrons; Honest Food Talks",
+   "pp": "S$25-40",
+   "energy": "buzzy",
+   "cool": 3,
+   "vibe": "Airy all-day brunch café, expat and Robertson Quay crowd",
+   "london": "Granger & Co: airy, brunchy, easy",
+   "d": "The 2013 flagship that started Robertson Quay's café scene. It's a proper brunch room, busy at weekends. It is a chain now, and the most recent review is from 2023, so check it before you go.",
+   "tip": "Weekday morning, before the weekend queue."
+  }
+ ],
+ "walks": []
+}

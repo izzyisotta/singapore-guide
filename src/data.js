@@ -1023,7 +1023,11 @@ const PLACES = [
 "src": "Michelin Bib Gourmand 2026 (every edition since 2016)",
 "london": "",
 "d": "Michelin praises the turmeric-scented rice and juicy, springy-skinned chicken. One of 17 stalls with a Bib in every Singapore edition.",
-"tip": "Order the boneless Hainanese chicken rice. The roast chicken is also recommended."
+"tip": "Order the boneless Hainanese chicken rice. The roast chicken is also recommended.",
+"pp": "S$5-8",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Market-floor stall with a lunchtime queue of estate regulars"
 },
 {
 "n": "Hong Heng Fried Sotong Prawn Mee",
@@ -1043,7 +1047,12 @@ const PLACES = [
 "p": 1,
 "src": "Michelin Bib Gourmand 2026 (every edition since 2016)",
 "d": "Hokkien-style fried prawn noodles, cooked to order with squid, prawn and fish, plus house chilli. The best single plate in the market.",
-"tip": "Expect a wait; each plate is fried to order. Ask for extra lime and sambal."
+"tip": "Expect a wait; each plate is fried to order. Ask for extra lime and sambal.",
+"pp": "S$6-10",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Upstairs-market stall, wok noise and a steady line",
+"london": ""
 },
 {
 "n": "Jian Bo Shui Kueh",
@@ -1063,9 +1072,13 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Michelin Guide 2026 (the 'Jian Bo Tiong Bahru Shui Kueh' brand holds a Bib Gourmand; this original market stall is Michelin-listed); Eatbook",
-"london": "The breakfast pastry counter at Jolene, rice-cake edition",
+"london": "",
 "d": "Steamed rice cakes under salted radish and a secret sauce, here since the market opened in 1955. The ur-Tiong Bahru breakfast.",
-"tip": "Go before 9am at weekends. Five pieces with the house sambal, plus a kopi from a drinks stall."
+"tip": "Go before 9am at weekends. Five pieces with the house sambal, plus a kopi from a drinks stall.",
+"pp": "S$3-5",
+"energy": "buzzy",
+"cool": 3,
+"vibe": "1955 breakfast stall, the Tiong Bahru morning ritual"
 },
 {
 "n": "Lor Mee 178",
@@ -1084,7 +1097,12 @@ const PLACES = [
 "p": 2,
 "src": "Michelin Guide 2026 (Selected; former Bib)",
 "d": "Thick egg noodles in a starchy braising gravy with fried fish nuggets, pork and bean sprouts, finished with garlic and coriander. Heavy, savoury, very Hokkien.",
-"tip": "Add black vinegar and the garlic. Good on a rainy morning."
+"tip": "Add black vinegar and the garlic. Good on a rainy morning.",
+"pp": "S$4-6",
+"energy": "buzzy",
+"cool": 1,
+"vibe": "Plain hawker stall, older local regulars",
+"london": ""
 },
 {
 "n": "Koh Brother Pig's Organ Soup",
@@ -1104,7 +1122,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin Bib Gourmand 2026",
 "d": "Peppery broth with tripe, liver, meatballs and salted mustard greens. Offal people only, but done cleanly.",
-"tip": "Michelin also flags the pork-belly and chestnut sticky rice sausage."
+"tip": "Michelin also flags the pork-belly and chestnut sticky rice sausage.",
+"pp": "S$5-8",
+"energy": "calm",
+"cool": 1,
+"vibe": "Quiet stall for offal regulars",
+"london": ""
 },
 {
 "n": "Tow Kwar Pop",
@@ -1124,7 +1147,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin Guide 2026 (Selected); Eatbook",
 "d": "Puffed tofu stuffed with greens in a sweet-spicy peanut sauce, and a good rojak. A snack stall, not a meal.",
-"tip": "Get the small tow kwar pop (about S$4.50) to share alongside a noodle plate. Pin is the market building."
+"tip": "Get the small tow kwar pop (about S$4.50) to share alongside a noodle plate. Pin is the market building.",
+"pp": "S$4-6",
+"energy": "calm",
+"cool": 1,
+"vibe": "Snack stall, grab and go",
+"london": ""
 },
 {
 "n": "Loo's Hainanese Curry Rice",
@@ -1144,7 +1172,12 @@ const PLACES = [
 "p": 3,
 "src": "Eatbook (2024); ieatishootipost (Leslie Tay)",
 "d": "Hainanese pork chop and braised chap chye drowned in curry: a messy, beloved lunch. It moved into the market in 2022.",
-"tip": "Status: medium confidence. Hours and closing day conflict across sources; it shuts by about 2:45pm. Pin is the market building."
+"tip": "Status: medium confidence. Hours and closing day conflict across sources; it shuts by about 2:45pm. Pin is the market building.",
+"pp": "S$6-9",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Messy lunch-rush stall, office workers and old-timers",
+"london": ""
 },
 {
 "n": "Hua Bee (mee pok)",
@@ -1158,13 +1191,19 @@ const PLACES = [
 "tier": "cheap",
 "price": "$",
 "tags": [
+"you",
 "classic",
 "hidden"
 ],
 "p": 3,
 "src": "Seth Lui (Feb 2024)",
 "d": "Seventy-year-old coffeeshop where the film Mee Pok Man was shot. Unfussy fishball noodles and a set-piece old-Singapore room. The yakitori bar that used to run here at night (Bincho) has closed.",
-"tip": "Morning only. Mee pok dry with chilli, plus kopi."
+"tip": "Morning only. Mee pok dry with chilli, plus kopi.",
+"pp": "S$5-7",
+"energy": "calm",
+"cool": 4,
+"vibe": "Photogenic old coffeeshop with marble tables, a film-set room",
+"london": ""
 },
 {
 "n": "Por Kee Eating House 1996",
@@ -1178,14 +1217,19 @@ const PLACES = [
 "tier": "medium",
 "price": "$$",
 "tags": [
+"you",
 "classic",
 "hidden"
 ],
 "p": 1,
 "src": "Eatbook (30th-anniversary review, Jan 2026); Time Out Singapore",
-"london": "",
+"london": "Tayyabs: loud, cheap, beloved local institution",
 "d": "Tiong Bahru's favourite zi char (Chinese home-style wok cooking), with outdoor tables under the flats. Champagne pork ribs and house beancurd are the cult orders.",
-"tip": "Go as 3-6 people. Order champagne long rib, HK-style steamed fish, garlic bamboo clams and home-made beancurd. Book or go at 6pm. Daily 11am-2:30pm, 5-10:45pm."
+"tip": "Go as 3-6 people. Order champagne long rib, HK-style steamed fish, garlic bamboo clams and home-made beancurd. Book or go at 6pm. Daily 11am-2:30pm, 5-10:45pm.",
+"pp": "S$35-50",
+"energy": "buzzy",
+"cool": 3,
+"vibe": "Plastic tables under the flats, loud groups and beer towers"
 },
 {
 "n": "Sin Hoi Sai (Tiong Bahru)",
@@ -1205,7 +1249,12 @@ const PLACES = [
 "p": 2,
 "src": "Michelin Guide 2026 (Selected)",
 "d": "Thirty-year seafood house where you pick live crab from the tank. Michelin calls the outdoor seating 'particularly atmospheric'.",
-"tip": "Chilli crab or black pepper crab plus mantou. Sit outside. Crab is priced by weight, so ask before ordering."
+"tip": "Chilli crab or black pepper crab plus mantou. Sit outside. Crab is priced by weight, so ask before ordering.",
+"pp": "S$40-70",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Outdoor tables and crab tanks, family feasts late into the night",
+"london": ""
 },
 {
 "n": "Magpie",
@@ -1224,9 +1273,13 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Michelin Guide 2026 (new Selected entry); Time Out Singapore (Feb 2025); Rantingpanda (Aug 2025)",
-"london": "Toklas/Sam's Riverside: chef-led, relaxed, borderless",
+"london": "Acre: cool neighbourhood chef-led small plates",
 "d": "Opened Jan 2025 opposite the market by NZ chef Eliot Thomas and restaurateur Kurt Wagner, serving 'borderless soul food'. The only Tiong Bahru dinner in your Acre/Toklas register, and Michelin added it in its first full year.",
-"tip": "Book for Fri/Sat. Wed-Thu dinner only; Fri-Sun lunch and dinner; closed Mon-Tue (hours vary across sources, so check)."
+"tip": "Book for Fri/Sat. Wed-Thu dinner only; Fri-Sun lunch and dinner; closed Mon-Tue (hours vary across sources, so check).",
+"pp": "S$70-110",
+"energy": "buzzy",
+"cool": 4,
+"vibe": "Chef-owned neighbourhood room with a young, creative, wine-drinking crowd"
 },
 {
 "n": "Casa Cicheti (Tiong Bahru)",
@@ -1245,9 +1298,13 @@ const PLACES = [
 ],
 "p": 2,
 "src": "Rantingpanda (Mar 2025); Robb Report SG (Feb 2025); Time Out SG (named as the Cicheti Group's live Tiong Bahru venue, Oct 2025)",
-"london": "La Famiglia / Padella",
+"london": "Padella, sit-down: easy pasta, neighbourhood buzz",
 "d": "Cicheti Group's trattoria in the old PS Cafe Petit space, with an open kitchen at the door. 'Nea-Romana' pizza and proper pasta. The group's well-loved Bar Cicheti closed; this is where it went.",
-"tip": "Mortazza fritta and rigatoni alla vodka. Book weekends. Status: medium-high (no 2026 review found)."
+"tip": "Mortazza fritta and rigatoni alla vodka. Book weekends. Status: medium-high (no 2026 review found).",
+"pp": "S$50-80",
+"energy": "buzzy",
+"cool": 3,
+"vibe": "Open-kitchen neighbourhood trattoria, couples and friends"
 },
 {
 "n": "Tiong Bahru Bakery",
@@ -1410,7 +1467,12 @@ const PLACES = [
 "p": 3,
 "src": "Eatbook Tiong Bahru guide (Jul 2024)",
 "d": "Craft-beer taproom and about the only bar-shaped thing in the estate. Fine for one beer.",
-"tip": "Status: medium confidence (2024 source)."
+"tip": "Status: medium confidence (2024 source).",
+"pp": "S$15-30",
+"energy": "calm",
+"cool": 2,
+"vibe": "Estate taproom, one-beer stop",
+"london": ""
 },
 {
 "n": "Jia Xiang Mee Siam",
@@ -1431,7 +1493,12 @@ const PLACES = [
 "p": 2,
 "src": "Michelin Bib Gourmand 2026 (new)",
 "d": "New 2026 Bib: fifty-year family recipe mee siam, spicy-sweet-tangy gravy with egg and pork crackling. Locals-only Redhill, a short cab west.",
-"tip": "Mee siam or lontong, lunchtime. Combine with Wok Hei Hor Fun in the same complex."
+"tip": "Mee siam or lontong, lunchtime. Combine with Wok Hei Hor Fun in the same complex.",
+"pp": "S$4-6",
+"energy": "calm",
+"cool": 1,
+"vibe": "Locals-only estate stall",
+"london": ""
 },
 {
 "n": "Wok Hei Hor Fun",
@@ -1451,7 +1518,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin Bib Gourmand 2026",
 "d": "Smoky wok-fried flat rice noodles in egg gravy.",
-"tip": "Beef or seafood hor fun. Pin is the food centre."
+"tip": "Beef or seafood hor fun. Pin is the food centre.",
+"pp": "S$5-8",
+"energy": "calm",
+"cool": 1,
+"vibe": "Ordinary food-centre stall",
+"london": ""
 },
 {
 "n": "Fu Ming Cooked Food (carrot cake)",
@@ -1471,7 +1543,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin Bib Gourmand 2026",
 "d": "Fried carrot cake (radish cake, nothing to do with carrots), white or black.",
-"tip": "Order half-half."
+"tip": "Order half-half.",
+"pp": "S$4-6",
+"energy": "calm",
+"cool": 1,
+"vibe": "Ordinary food-centre stall",
+"london": ""
 },
 {
 "n": "Na Na Curry",
@@ -1491,7 +1568,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin Bib Gourmand 2026",
 "d": "Hainanese-style curry chicken, in an estate food centre with zero tourists.",
-"tip": "Lunch. Pair with Yong Chun wonton noodles in the same centre."
+"tip": "Lunch. Pair with Yong Chun wonton noodles in the same centre.",
+"pp": "S$5-8",
+"energy": "calm",
+"cool": 1,
+"vibe": "Estate food centre, zero tourists",
+"london": ""
 },
 {
 "n": "Yong Chun Wan Ton Noodle",
@@ -1511,7 +1593,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin Bib Gourmand 2026",
 "d": "Springy wonton noodles with char siu and chilli.",
-"tip": "Dry, with extra chilli."
+"tip": "Dry, with extra chilli.",
+"pp": "S$4-6",
+"energy": "calm",
+"cool": 1,
+"vibe": "Ordinary noodle stall",
+"london": ""
 },
 {
 "n": "Hong Kong Yummy Soup",
@@ -1531,7 +1618,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin Bib Gourmand 2026",
 "d": "Double-boiled Cantonese soups with rice: the restorative lunch. A cab ride west, not a walk.",
-"tip": "Combine with Lien Fa's dumplings in the same centre."
+"tip": "Combine with Lien Fa's dumplings in the same centre.",
+"pp": "S$6-10",
+"energy": "calm",
+"cool": 1,
+"vibe": "Restorative lunch counter, no scene",
+"london": ""
 },
 {
 "n": "Tiong Bahru Lien Fa Shui Jing Pau",
@@ -1551,7 +1643,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin Guide 2026 (Selected)",
 "d": "Translucent Teochew crystal dumplings with jicama and dried shrimp. It moved out of Tiong Bahru despite the name.",
-"tip": "With the house chilli. Sweet red-bean and yam versions only after 1pm."
+"tip": "With the house chilli. Sweet red-bean and yam versions only after 1pm.",
+"pp": "S$3-6",
+"energy": "calm",
+"cool": 1,
+"vibe": "Takeaway dumpling counter",
+"london": ""
 },
 {
 "n": "Tian Tian Hainanese Chicken Rice",
@@ -1572,7 +1669,12 @@ const PLACES = [
 "p": 2,
 "src": "Michelin Bib Gourmand 2026 (every edition since 2016)",
 "d": "The most famous chicken rice in Singapore: tender chicken, fragrant rice, tangy chilli. Good but heavily touristed. Do it once.",
-"tip": "Go at 10:45am or after 2pm. Half chicken to share. Closed Mondays."
+"tip": "Go at 10:45am or after 2pm. Half chicken to share. Closed Mondays.",
+"pp": "S$5-8",
+"energy": "chaotic",
+"cool": 1,
+"vibe": "Tourist queue in Maxwell's busiest aisle",
+"london": ""
 },
 {
 "n": "Maxwell Fuzhou Oyster Cake",
@@ -1592,7 +1694,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin Guide 2026 (Selected)",
 "d": "Deep-fried discs stuffed with oyster, minced pork and peanuts. Eat immediately.",
-"tip": "A snack between Maxwell mains. Pin is the food centre."
+"tip": "A snack between Maxwell mains. Pin is the food centre.",
+"pp": "S$3-5",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Fryer stall, eat standing",
+"london": ""
 },
 {
 "n": "A Noodle Story",
@@ -1606,14 +1713,19 @@ const PLACES = [
 "tier": "cheap",
 "price": "$",
 "tags": [
+"you",
 "hawker",
 "famous"
 ],
 "p": 1,
 "src": "Michelin Bib Gourmand 2026 (every edition since 2016)",
-"london": "",
+"london": "Padella: cheap, cool, queue-worthy",
 "d": "Singapore-style ramen (wanton mee meets tonkotsu): melt-in-the-mouth pork belly, wontons, a potato-wrapped prawn. A chef-hawker take that lands.",
-"tip": "Weekday lunch, so expect the office queue at 12:15; go at 11:30. Closed weekends (most of Amoy FC is weekday-only)."
+"tip": "Weekday lunch, so expect the office queue at 12:15; go at 11:30. Closed weekends (most of Amoy FC is weekday-only).",
+"pp": "S$8-12",
+"energy": "buzzy",
+"cool": 3,
+"vibe": "Chef-hawker stall with a young-professional queue"
 },
 {
 "n": "Han Kee Fish Soup",
@@ -1633,7 +1745,12 @@ const PLACES = [
 "p": 2,
 "src": "Michelin Bib Gourmand 2026",
 "d": "Clean, sweet sliced-fish soup: the healthy hawker lunch that sells out.",
-"tip": "Get there before noon. Pin is the food centre."
+"tip": "Get there before noon. Pin is the food centre.",
+"pp": "S$5-8",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Office-lunch queue that sells out",
+"london": ""
 },
 {
 "n": "J2 Famous Crispy Curry Puff",
@@ -1653,7 +1770,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin Bib Gourmand 2026",
 "d": "Flaky spiral-pastry curry puffs.",
-"tip": "Buy two for later."
+"tip": "Buy two for later.",
+"pp": "S$2-5",
+"energy": "calm",
+"cool": 1,
+"vibe": "Takeaway counter",
+"london": ""
 },
 {
 "n": "Hoo Kee Bak Chang",
@@ -1673,7 +1795,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin Bib Gourmand 2026 (every edition since 2016)",
 "d": "Bamboo-leaf rice dumplings with pork, chestnut and salted egg yolk.",
-"tip": "Take one away for a train or plane."
+"tip": "Take one away for a train or plane.",
+"pp": "S$4-7",
+"energy": "calm",
+"cool": 1,
+"vibe": "Takeaway counter",
+"london": ""
 },
 {
 "n": "Ah Ter Authentic Teochew Fish Ball Noodles",
@@ -1692,7 +1819,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin Guide 2026 (Selected)",
 "d": "Bouncy handmade fishballs, mee pok tossed in chilli and vinegar.",
-"tip": "Mee pok dry, chilli."
+"tip": "Mee pok dry, chilli.",
+"pp": "S$5-7",
+"energy": "calm",
+"cool": 2,
+"vibe": "Old-school stall, local regulars",
+"london": ""
 },
 {
 "n": "Lian He Ben Ji Claypot",
@@ -1712,7 +1844,12 @@ const PLACES = [
 "p": 1,
 "src": "Michelin Bib Gourmand 2026",
 "d": "Charcoal claypot rice with chicken, lap cheong and the crunchy scorched crust. Cooked to order, so it's slow.",
-"tip": "Order, then wait about 20 minutes with a beer from a drinks stall. Dinner is calmer than lunch."
+"tip": "Order, then wait about 20 minutes with a beer from a drinks stall. Dinner is calmer than lunch.",
+"pp": "S$15-25",
+"energy": "chaotic",
+"cool": 2,
+"vibe": "Long evening wait at the charcoal stoves, food-complex crowd",
+"london": ""
 },
 {
 "n": "Xiu Ji Ikan Bilis Yong Tau Fu",
@@ -1732,7 +1869,12 @@ const PLACES = [
 "p": 2,
 "src": "Michelin Bib Gourmand 2026 (new)",
 "d": "Hakka yong tau foo in a clear anchovy broth, running since the 1960s and newly Bib'd. Light and clean.",
-"tip": "Stuffed bitter gourd, eggplant, fish cake."
+"tip": "Stuffed bitter gourd, eggplant, fish cake.",
+"pp": "S$5-8",
+"energy": "calm",
+"cool": 1,
+"vibe": "Quiet heritage stall",
+"london": ""
 },
 {
 "n": "The 1950's Coffee",
@@ -1770,7 +1912,12 @@ const PLACES = [
 "p": 2,
 "src": "Michelin Bib Gourmand 2026",
 "d": "Wanton noodles with char siu, fried wonton and pork crackling, and a chilli Michelin calls a must.",
-"tip": "Dry noodles plus a side of wonton soup."
+"tip": "Dry noodles plus a side of wonton soup.",
+"pp": "S$5-8",
+"energy": "calm",
+"cool": 2,
+"vibe": "Plain noodle shop, local lunch crowd",
+"london": ""
 },
 {
 "n": "Outram Park Fried Kway Teow Mee",
@@ -1790,7 +1937,12 @@ const PLACES = [
 "p": 1,
 "src": "Michelin Bib Gourmand 2026",
 "d": "Proper char kway teow: lard, cockles, dark soy, wok hei. Not diet food.",
-"tip": "Ask for 'more chilli, with cockles'. Queues at lunch."
+"tip": "Ask for 'more chilli, with cockles'. Queues at lunch.",
+"pp": "S$4-6",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Hawker wok stall, local queue",
+"london": ""
 },
 {
 "n": "Tai Wah Pork Noodle",
@@ -1809,7 +1961,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin Bib Gourmand 2026",
 "d": "Vinegary bak chor mee (minced pork noodles) from the same family lineage as the starred Hill St Tai Hwa, without the 90-minute queue.",
-"tip": "Mee pok dry, with vinegar and chilli."
+"tip": "Mee pok dry, with vinegar and chilli.",
+"pp": "S$6-10",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Busy noodle stall, locals",
+"london": ""
 },
 {
 "n": "Heng Kee Curry Chicken Noodle",
@@ -1828,7 +1985,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin Bib Gourmand 2026",
 "d": "Rich coconut curry over bee hoon with chicken and potato.",
-"tip": "Mix of yellow noodles and bee hoon."
+"tip": "Mix of yellow noodles and bee hoon.",
+"pp": "S$5-8",
+"energy": "calm",
+"cool": 1,
+"vibe": "Ordinary curry-noodle stall",
+"london": ""
 },
 {
 "n": "Kok Sen",
@@ -1848,9 +2010,13 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Michelin Bib Gourmand 2026 (every edition since 2016)",
-"london": "",
+"london": "Tayyabs: loud, cheap, queue, institution",
 "d": "Fifty-year zi char on Keong Saik with serious wok hei. This is the Singapore dinner to bring visitors to.",
-"tip": "Prawn paste chicken, big prawn hor fun, the fish of the day. No bookings and few tables: arrive by 5:45pm or queue."
+"tip": "Prawn paste chicken, big prawn hor fun, the fish of the day. No bookings and few tables: arrive by 5:45pm or queue.",
+"pp": "S$35-50",
+"energy": "chaotic",
+"cool": 4,
+"vibe": "Open-front Keong Saik coffeeshop, packed tables and beer, locals plus in-the-know expats"
 },
 {
 "n": "Esquina",
@@ -1868,9 +2034,13 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Michelin Guide 2026 (Selected); Rantingpanda Keong Saik guide (Sep 2025)",
-"london": "Morito / The Barbary Next Door: counter in front of the open kitchen",
+"london": "The Barbary Next Door: tiny buzzy kitchen counter",
 "d": "Long-running Spanish small-plates room. Michelin says to sit at the ground-floor counter facing the kitchen, which is exactly your format.",
-"tip": "Ask for the counter. Anchovy sticks with bottarga aioli, octopus, suckling pig. Book."
+"tip": "Ask for the counter. Anchovy sticks with bottarga aioli, octopus, suckling pig. Book.",
+"pp": "S$80-120",
+"energy": "buzzy",
+"cool": 3,
+"vibe": "Narrow counter facing the kitchen, date-night couples"
 },
 {
 "n": "Revolver",
@@ -1888,9 +2058,13 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Michelin Guide 2026 (Selected)",
-"london": "Gunpowder meets Brat: live-fire Indian at a counter",
+"london": "Gunpowder: small, buzzy, cool, a step pricier",
 "d": "Charcoal grill, brazier and tandoor, watched from the counter. South Asian technique over global produce. The best fit in the patch for you Gunpowder/Tayyabs love with a Barbary-style counter.",
-"tip": "Counter seats. À la carte or the 'Discovery' menu. Book Thu-Sat."
+"tip": "Counter seats. À la carte or the 'Discovery' menu. Book Thu-Sat.",
+"pp": "S$100-150",
+"energy": "buzzy",
+"cool": 4,
+"vibe": "Moody counter round the fire, loud playlist, cool CBD crowd"
 },
 {
 "n": "Gaston",
@@ -1909,9 +2083,13 @@ const PLACES = [
 ],
 "p": 2,
 "src": "Michelin Guide 2026 (new Selected entry)",
-"london": "A Toklas-style wine room with a Burgundian heart (definitely not a Brasserie Blanc)",
+"london": "Toklas: chill, grown-up wine-room ease",
 "d": "Laid-back bistro and wine bar run by a Burgundian owner, with classic French cooking executed carefully. Newly in the guide for 2026.",
-"tip": "Oeuf en meurette, bourguignon or pôchouse; profiteroles to finish. Good for a late, wine-led dinner."
+"tip": "Oeuf en meurette, bourguignon or pôchouse; profiteroles to finish. Good for a late, wine-led dinner.",
+"pp": "S$70-110",
+"energy": "calm",
+"cool": 3,
+"vibe": "Relaxed bistro-wine bar, French regulars and couples"
 },
 {
 "n": "Nómada",
@@ -1925,12 +2103,18 @@ const PLACES = [
 "tier": "medium",
 "price": "$$",
 "tags": [
+"you",
 "new"
 ],
 "p": 3,
 "src": "Michelin Guide 2026 (Selected); Rantingpanda (Sep 2025)",
 "d": "Modern Spanish from ex-Binomio chef Gonzalo Landin: grilled octopus in bonito broth, paella, suckling pig.",
-"tip": "Foie gras and fig rice, for sharing. Esquina is the better counter; this is the better paella."
+"tip": "Foie gras and fig rice, for sharing. Esquina is the better counter; this is the better paella.",
+"pp": "S$80-120",
+"energy": "buzzy",
+"cool": 3,
+"vibe": "Small smart-casual room, after-work crowd",
+"london": "Morito: buzzy small plates, a notch up"
 },
 {
 "n": "FOC (Central)",
@@ -1947,7 +2131,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin Guide 2026 (Selected); Rantingpanda (Sep 2025)",
 "d": "Catalan tapas house, moved here after 11 years on Hongkong St. Lively, groupy, reliable.",
-"tip": "Seafood senyoret paella. Good for a big INSEAD table (there's a private room for 16)."
+"tip": "Seafood senyoret paella. Good for a big INSEAD table (there's a private room for 16).",
+"pp": "S$70-100",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Big groupy tapas hall, birthday tables and pitchers",
+"london": ""
 },
 {
 "n": "Olivia",
@@ -1964,7 +2153,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin Guide 2026 (Selected); 50 Best Discovery",
 "d": "Barcelona home cooking from ex-Catalunya chef Alain Devahive, in a glossy room. Polished more than buzzy.",
-"tip": "A good parents-in-town option."
+"tip": "A good parents-in-town option.",
+"pp": "S$90-140",
+"energy": "calm",
+"cool": 3,
+"vibe": "Glossy room, polished couples and business dinners",
+"london": ""
 },
 {
 "n": "Kafe Utu",
@@ -1983,9 +2177,13 @@ const PLACES = [
 ],
 "p": 2,
 "src": "HungryGoWhere (Jul 2025); Time Out Singapore",
-"london": "Gunpowder-style warmth, with an East African menu",
+"london": "Granger & Co: easy brunch with more character",
 "d": "Three-storey shophouse running as an African café-lounge: Ethiopian doro wat, goat sausage brunch, Ugandan-blend coffee, cocktails at night. Warm and characterful.",
-"tip": "Weekend brunch, or doro wat at dinner. Closed Monday."
+"tip": "Weekend brunch, or doro wat at dinner. Closed Monday.",
+"pp": "S$40-70",
+"energy": "buzzy",
+"cool": 4,
+"vibe": "Three-storey plant-filled shophouse, weekend brunch crowd, cocktails upstairs"
 },
 {
 "n": "Cumi Bali",
@@ -2004,7 +2202,12 @@ const PLACES = [
 "p": 2,
 "src": "Michelin Bib Gourmand 2026",
 "d": "Homely Indonesian. The whole grilled squid in house spice sauce is the reason to come.",
-"tip": "Cumi Bali plus nasi kunyit, shared."
+"tip": "Cumi Bali plus nasi kunyit, shared.",
+"pp": "S$25-40",
+"energy": "calm",
+"cool": 1,
+"vibe": "Homely, dated room, quiet lunches",
+"london": ""
 },
 {
 "n": "The Blue Ginger",
@@ -2023,7 +2226,12 @@ const PLACES = [
 "p": 2,
 "src": "Michelin Bib Gourmand 2026",
 "d": "Twenty-plus-year Peranakan (Straits Chinese) house over three floors. Aromatic home cooking, generous and reasonable.",
-"tip": "Ngo heong, ayam buah keluak, chendol."
+"tip": "Ngo heong, ayam buah keluak, chendol.",
+"pp": "S$40-60",
+"energy": "calm",
+"cool": 2,
+"vibe": "Old-school shophouse dining rooms, families and visiting parents",
+"london": ""
 },
 {
 "n": "Whole Earth",
@@ -2042,7 +2250,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin Bib Gourmand 2026",
 "d": "'Vegetarian cuisine for non-vegetarians': Peranakan-Thai with startlingly meaty mushroom dishes.",
-"tip": "Mango-tamarind tofu roll with rendang, plus the mushrooms."
+"tip": "Mango-tamarind tofu roll with rendang, plus the mushrooms.",
+"pp": "S$40-60",
+"energy": "calm",
+"cool": 2,
+"vibe": "Sensible quiet room, family groups",
+"london": ""
 },
 {
 "n": "Fat Prince",
@@ -2061,9 +2274,13 @@ const PLACES = [
 ],
 "p": 2,
 "src": "Michelin Guide 2026 (new Selected entry)",
-"london": "The Barbary-adjacent register: front bar, open kitchen, modern Middle Eastern",
+"london": "The Barbary Next Door: bar seats, open-kitchen buzz",
 "d": "Modern Arabic dishes, with a front bar or open-kitchen seats. A little scene-y, but newly Michelin-listed.",
-"tip": "Sit at the bar. Hummus, kebab, whole roast chicken, or the 'Feed Me' for groups."
+"tip": "Sit at the bar. Hummus, kebab, whole roast chicken, or the 'Feed Me' for groups.",
+"pp": "S$60-90",
+"energy": "buzzy",
+"cool": 3,
+"vibe": "Front bar and open kitchen, after-work cocktail crowd"
 },
 {
 "n": "Hayop",
@@ -2077,12 +2294,18 @@ const PLACES = [
 "tier": "medium",
 "price": "$$",
 "tags": [
+"you",
 "new"
 ],
 "p": 2,
 "src": "Michelin Guide 2026 (new Selected entry)",
 "d": "Modern Filipino in a wood-lined, maritime-nodding room: something genuinely different in your patch.",
-"tip": "Wagyu and watermelon sinigang. Pre-order the lechon de leche 48 hours ahead for a group. Try the fruity cocktails."
+"tip": "Wagyu and watermelon sinigang. Pre-order the lechon de leche 48 hours ahead for a group. Try the fruity cocktails.",
+"pp": "S$70-100",
+"energy": "buzzy",
+"cool": 3,
+"vibe": "Intimate wood-lined room, curious foodie crowd",
+"london": "Gunpowder: small, buzzy, something different"
 },
 {
 "n": "Ingleside",
@@ -2101,9 +2324,13 @@ const PLACES = [
 ],
 "p": 2,
 "src": "Michelin Guide 2026 (new Selected entry)",
-"london": "Sam's Riverside meets Acre: ferments, live fire, in-house ageing",
+"london": "Acre, dressed up: chef-led, a bit pricier",
 "d": "Owner-chef European cooking with ferments, the grill and dry-aged meats, in a marble-and-leather room.",
-"tip": "Carabineros cooked in beef fat; truffle brioche with miso vinegar."
+"tip": "Carabineros cooked in beef fat; truffle brioche with miso vinegar.",
+"pp": "S$100-150",
+"energy": "calm",
+"cool": 3,
+"vibe": "Marble-and-leather grown-up room, quietly confident"
 },
 {
 "n": "Jungle",
@@ -2116,12 +2343,18 @@ const PLACES = [
 "addr": "10 Ann Siang Hill, 069789",
 "tier": "medium",
 "price": "$$",
-"tags": [],
+"tags": [
+"you"
+],
 "p": 3,
 "src": "Michelin Bib Gourmand 2026",
-"london": "Som Saa (which you rated 2), so calibrate",
+"london": "Gunpowder: small, buzzy, mid-price",
 "d": "Cosy modern Thai with balanced flavours and lively service. Michelin likes it; your Som Saa score says it may not be your thing.",
-"tip": "Chargrilled pork jowl, yellow crab curry. Treat it as a test."
+"tip": "Chargrilled pork jowl, yellow crab curry. Treat it as a test.",
+"pp": "S$50-80",
+"energy": "buzzy",
+"cool": 3,
+"vibe": "Cosy, playlist-led room with a young crowd"
 },
 {
 "n": "Le Bon Funk",
@@ -2139,9 +2372,13 @@ const PLACES = [
 ],
 "p": 2,
 "src": "50 Best Discovery; Time Out Singapore; City Nomads",
-"london": "Toklas / Acre: natural wine and chef-y small plates",
+"london": "The Barbary Next Door: tiny, buzzy, cool",
 "d": "Natural-wine bar with serious small plates from Burnt Ends alum Keirin Buck. The closest thing to your London 4.5s on Club St.",
-"tip": "Foie gras toast, beef tongue 'sammy'; ask for wine by the glass. Status: medium. No 2026-dated coverage, but no closure news either. Call first."
+"tip": "Foie gras toast, beef tongue 'sammy'; ask for wine by the glass. Status: medium. No 2026-dated coverage, but no closure news either. Call first.",
+"pp": "S$80-120",
+"energy": "buzzy",
+"cool": 5,
+"vibe": "Tiny packed natural-wine bar, the Club St in-crowd"
 },
 {
 "n": "Tong Ah Eating House",
@@ -2179,7 +2416,11 @@ const PLACES = [
 "src": "Michelin 2 stars 2026; Michelin Young Chef award (Mark Tai)",
 "london": "",
 "d": "Rishi Naleendra's two-star tasting menu: Sri Lankan and Australian sensibility, produce-obsessed, famous for vegetable-led desserts. Your best special-occasion bet in the patch.",
-"tip": "Book 4-6 weeks out. Tasting menu only."
+"tip": "Book 4-6 weeks out. Tasting menu only.",
+"pp": "S$350+",
+"energy": "calm",
+"cool": 4,
+"vibe": "Sleek two-star room, special-occasion crowd"
 },
 {
 "n": "Born",
@@ -2198,7 +2439,12 @@ const PLACES = [
 "p": 1,
 "src": "Michelin 1 star 2026; Asia's 50 Best Restaurants 2026 #23; Tatler Best 2026",
 "d": "Zor Tan's French-meets-Chinese tasting menu in a 1903 rickshaw depot (Jinrikisha Station) under a glass ceiling. Personal, strong technique; rising fast on 50 Best.",
-"tip": "Book weeks ahead. Tasting menu only."
+"tip": "Book weeks ahead. Tasting menu only.",
+"pp": "S$350+",
+"energy": "calm",
+"cool": 4,
+"vibe": "Soaring glass-roofed heritage room, hushed and theatrical",
+"london": ""
 },
 {
 "n": "Zén",
@@ -2218,7 +2464,12 @@ const PLACES = [
 "p": 2,
 "src": "Michelin 3 stars 2026",
 "d": "Björn Frantzén's Singapore outpost: neo-Nordic, seafood-led, Japanese-tinged tasting menu in a shophouse. Michelin flags the onion course and the non-alcoholic pairing. Theatre-heavy and very expensive, which leans against your taste.",
-"tip": "Only if someone else is paying. Book far ahead."
+"tip": "Only if someone else is paying. Book far ahead.",
+"pp": "S$600+",
+"energy": "calm",
+"cool": 3,
+"vibe": "Hushed three-floor theatre, wealthy gourmand crowd",
+"london": ""
 },
 {
 "n": "Nouri",
@@ -2237,9 +2488,13 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Michelin 1 star 2026",
-"london": "Counter-dining as storytelling; the splurge cousin of Barbary-style counter seats",
+"london": "The Barbary Next Door, splurge: counter seats, chatty",
 "d": "Ivan Brehm's 'crossroads' cooking around a big marble communal table and chef's counter. The most intellectually interesting menu in the patch.",
-"tip": "Ask for the counter or communal table. Tasting menu only."
+"tip": "Ask for the counter or communal table. Tasting menu only.",
+"pp": "S$300+",
+"energy": "calm",
+"cool": 4,
+"vibe": "Communal marble table and counter, chatty, intellectual crowd"
 },
 {
 "n": "Nae:um",
@@ -2258,7 +2513,12 @@ const PLACES = [
 "p": 2,
 "src": "Michelin 1 star 2026; Asia's 50 Best Restaurants 2026 #45 (debut); Tatler Best 2026",
 "d": "Louis Han's personal contemporary Korean tasting menu (cold buckwheat noodles with dumplings, abalone in pine-nut sauce) in a calm wooden room.",
-"tip": "Book. Its sibling GU:UM (29 Keong Saik) is the cheaper grill option."
+"tip": "Book. Its sibling GU:UM (29 Keong Saik) is the cheaper grill option.",
+"pp": "S$250+",
+"energy": "calm",
+"cool": 3,
+"vibe": "Calm wooden room, quiet tasting-menu couples",
+"london": ""
 },
 {
 "n": "Araya",
@@ -2277,7 +2537,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin 1 star 2026",
 "d": "Chilean-Japanese tasting menus (Costa, Andes, Celebrating Chile) from Francisco Araya and Fernanda Guerrero, in a hotel.",
-"tip": "The cod milt dish is the signature."
+"tip": "The cod milt dish is the signature.",
+"pp": "S$350+",
+"energy": "calm",
+"cool": 3,
+"vibe": "Hotel tasting room, formal",
+"london": ""
 },
 {
 "n": "Ma Cuisine",
@@ -2296,9 +2561,13 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Michelin 1 star 2026",
-"london": "Toklas or a Noble Rot wine room, with a star",
+"london": "La Famiglia: warm, wine-led, regulars' room",
 "d": "Small French bistro built around a serious cellar, with dishes made to share. The most 'you' starred room: great wine and great ingredients, not theatre.",
-"tip": "Let the sommelier pick. The beef tartare with geoduck and oysters gets written up. Book."
+"tip": "Let the sommelier pick. The beef tartare with geoduck and oysters gets written up. Book.",
+"pp": "S$150-250",
+"energy": "buzzy",
+"cool": 4,
+"vibe": "Small convivial bistro, wine people and expat regulars"
 },
 {
 "n": "Fiz",
@@ -2317,7 +2586,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin Green Star 2026 (a sustainability award, not a cooking rating); Tatler Best 2026",
 "d": "Hafizzul Hashim's modern Malaysian, with mains shared family-style. Childhood recipes that 'pack a punch'.",
-"tip": "The full-experience menu with the house cocktails."
+"tip": "The full-experience menu with the house cocktails.",
+"pp": "S$200-300",
+"energy": "calm",
+"cool": 3,
+"vibe": "Modern dining room, family-style mains",
+"london": ""
 },
 {
 "n": "Jigger & Pony",
@@ -2330,14 +2604,19 @@ const PLACES = [
 "addr": "Amara Singapore, 165 Tanjong Pagar Rd, 088539",
 "price": "$$$",
 "tags": [
+"you",
 "famous",
 "classic"
 ],
 "p": 1,
 "src": "Asia's 50 Best Bars 2026 #9 (Best Bar in Singapore)",
-"london": "Caia's polish without the DJ",
+"london": "Cecconi's: polished, buzzy, people-watching",
 "d": "Singapore's best bar by the 50 Best count. Classic-leaning cocktails, polished but relaxed.",
-"tip": "Walk in early (6-7pm) or book. Start with whatever is on the current menu's first page."
+"tip": "Walk in early (6-7pm) or book. Start with whatever is on the current menu's first page.",
+"pp": "S$70-120",
+"energy": "buzzy",
+"cool": 4,
+"vibe": "Polished, lively bar, well-dressed after-work crowd"
 },
 {
 "n": "Side Door",
@@ -2350,12 +2629,18 @@ const PLACES = [
 "addr": "3 Neil Rd, 088805",
 "price": "$$",
 "tags": [
+"you",
 "hidden"
 ],
 "p": 1,
 "src": "Asia's 50 Best Bars 2026 #57; Honeycombers (Jun 2026)",
 "d": "Homey husband-and-wife bar by Maxwell, with deceptively simple, nuanced drinks. A good local.",
-"tip": "After a Maxwell dinner."
+"tip": "After a Maxwell dinner.",
+"pp": "S$50-80",
+"energy": "calm",
+"cool": 3,
+"vibe": "Plant-filled neighbourhood bar, low-key regulars",
+"london": ""
 },
 {
 "n": "The Elephant Room",
@@ -2371,7 +2656,12 @@ const PLACES = [
 "p": 2,
 "src": "Asia's 50 Best Bars 2026 #58",
 "d": "Indian-culture-inspired bar with a spice corner. Savoury, aromatic, not sweet.",
-"tip": "Ask for something from the spice corner."
+"tip": "Ask for something from the spice corner.",
+"pp": "S$50-80",
+"energy": "buzzy",
+"cool": 3,
+"vibe": "Moody Tanjong Pagar cocktail bar, bar-crawl crowd",
+"london": ""
 },
 {
 "n": "Native",
@@ -2384,13 +2674,18 @@ const PLACES = [
 "addr": "52A Amoy St, 069878",
 "price": "$$",
 "tags": [
+"you",
 "classic"
 ],
 "p": 2,
 "src": "Asia's 50 Best Bars 2026 #80",
-"london": "The produce-first logic of Acre, in a glass",
+"london": "",
 "d": "Sustainability bar built on foraged and regional ingredients, with ferments and an upstairs lab.",
-"tip": "Sit at the bar and ask what's been foraged this week."
+"tip": "Sit at the bar and ask what's been foraged this week.",
+"pp": "S$60-90",
+"energy": "buzzy",
+"cool": 4,
+"vibe": "Tight shophouse bar, bartender-nerd and expat crowd"
 },
 {
 "n": "Cat Bite Club",
@@ -2403,12 +2698,18 @@ const PLACES = [
 "addr": "75 Duxton Rd, 089534",
 "price": "$$",
 "tags": [
+"you",
 "hidden"
 ],
 "p": 2,
 "src": "Asia's 50 Best Bars 2026 #86",
 "d": "Agave and rice-spirit specialist tucked behind a coffeeshop. Best for four or fewer.",
-"tip": "Mezcal flight. Wed-Sun 5pm-midnight per its site."
+"tip": "Mezcal flight. Wed-Sun 5pm-midnight per its site.",
+"pp": "S$50-80",
+"energy": "calm",
+"cool": 4,
+"vibe": "Hidden behind a Duxton café, small and in-the-know",
+"london": ""
 },
 {
 "n": "Bartenders of Pony (BOP)",
@@ -2421,12 +2722,18 @@ const PLACES = [
 "addr": "76 Tras St, 079015",
 "price": "$$$",
 "tags": [
+"you",
 "new"
 ],
 "p": 2,
 "src": "Asia's 50 Best Bars 2026 #52 (Campari One To Watch)",
 "d": "Korean-inspired cocktail dining-bar from the Jigger & Pony team. Opened Jan 2026 and onto the extended list within six months.",
-"tip": "Do dinner and drinks here rather than just a nightcap."
+"tip": "Do dinner and drinks here rather than just a nightcap.",
+"pp": "S$80-130",
+"energy": "buzzy",
+"cool": 5,
+"vibe": "The new-in-2026 hot ticket, Korean drinking-dining bar",
+"london": "Chiltern Firehouse bar: new, hot, hard to get in"
 },
 {
 "n": "Sago House",
@@ -2439,12 +2746,18 @@ const PLACES = [
 "addr": "37 Duxton Hill, 089615",
 "price": "$$",
 "tags": [
+"you",
 "classic"
 ],
 "p": 2,
 "src": "Asia's 50 Best Bars (top 10 in 2023; 51-100 in 2025); Honeycombers (Jun 2026)",
 "d": "Hand-built, scruffy-warm bar with a weekly-changing menu. It moved to Duxton Hill in 2023.",
-"tip": "Tue-Sun from 6pm."
+"tip": "Tue-Sun from 6pm.",
+"pp": "S$40-70",
+"energy": "buzzy",
+"cool": 4,
+"vibe": "Scruffy hand-built bar, friendly regulars, free pretzels",
+"london": ""
 },
 {
 "n": "Stay Gold",
@@ -2457,13 +2770,18 @@ const PLACES = [
 "addr": "69 Amoy St, 069888",
 "price": "$$",
 "tags": [
+"you",
 "new"
 ],
 "p": 3,
 "src": "Asia's 50 Best Bars 2026 #97",
-"london": "Caia-ish: music-first",
+"london": "Caia: music-first, vibey",
 "d": "Rock-and-roll bar: wine bar at the front, neon cocktail room behind.",
-"tip": "Later in the night, for the music."
+"tip": "Later in the night, for the music.",
+"pp": "S$50-80",
+"energy": "buzzy",
+"cool": 4,
+"vibe": "Neon and velvet, rock playlist, late Amoy St crowd"
 },
 {
 "n": "Offtrack",
@@ -2480,9 +2798,13 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Asia's 50 Best Bars 2026 #16",
-"london": "Caia: vibey, DJs, good drinks",
+"london": "Caia: DJ, music-led, vibey",
 "d": "Music-first bar from the Darker than Wax and Ice Cream Sundays collectives: DJs, highballs, pitchers, pan-Asian plates. The closest Singapore match for you Caia 4.5.",
-"tip": "Weekend DJ nights. Small tables, so go early or accept standing."
+"tip": "Weekend DJ nights. Small tables, so go early or accept standing.",
+"pp": "S$40-70",
+"energy": "buzzy",
+"cool": 5,
+"vibe": "Vintage speakers and DJs, young creative crowd spilling outside"
 },
 {
 "n": "Tamba",
@@ -2500,7 +2822,12 @@ const PLACES = [
 "p": 3,
 "src": "Honeycombers best cocktail bars (Jun 2026)",
 "d": "West African-inspired bar with African spirits, a sibling of Kafe Utu.",
-"tip": "Pair with dinner at Kafe Utu."
+"tip": "Pair with dinner at Kafe Utu.",
+"pp": "S$50-80",
+"energy": "buzzy",
+"cool": 3,
+"vibe": "Small warm bar with an Afro soundtrack",
+"london": ""
 },
 {
 "n": "Live Twice",
@@ -2512,11 +2839,18 @@ const PLACES = [
 ],
 "addr": "20 Bukit Pasoh Rd, 089834",
 "price": "$$$",
-"tags": [],
+"tags": [
+"you"
+],
 "p": 3,
 "src": "Honeycombers best cocktail bars (Jun 2026)",
 "d": "Mid-century Japanese-style bar with long-steeped whiskies. It shares the address with Gibson.",
-"tip": "A quiet nightcap after Zén or Kok Sen."
+"tip": "A quiet nightcap after Zén or Kok Sen.",
+"pp": "S$60-100",
+"energy": "calm",
+"cool": 4,
+"vibe": "Dim mid-century Tokyo-style bar, date-y",
+"london": ""
 },
 {
 "n": "Thian Hock Keng Temple",
@@ -2759,7 +3093,12 @@ const PLACES = [
 "p": 3,
 "src": "Eatbook (Oct 2026)",
 "d": "Cheap Japanese udon and katsu don in an HDB unit. A weeknight doorstep dinner, not a destination.",
-"tip": "Udon from about S$6.50."
+"tip": "Udon from about S$6.50.",
+"pp": "S$12-20",
+"energy": "calm",
+"cool": 1,
+"vibe": "HDB-unit doorstep dinner",
+"london": ""
 },
 {
 "n": "Telok Blangah Rise Market & Food Centre",
@@ -2779,7 +3118,12 @@ const PLACES = [
 "p": 2,
 "src": "TheSmartLocal Bukit Purmei guide (2024)",
 "d": "Hikers' hawker centre at the foot of Mount Faber. Chill and local, no stars.",
-"tip": "JC Teochew Braised Duck (#01-44, 9am-3pm) after a ridge walk. Top Best Chinese Cuisine (#01-41) for zi char."
+"tip": "JC Teochew Braised Duck (#01-44, 9am-3pm) after a ridge walk. Top Best Chinese Cuisine (#01-41) for zi char.",
+"pp": "S$5-10",
+"energy": "calm",
+"cool": 1,
+"vibe": "Hikers' hawker centre, local and sleepy",
+"london": ""
 },
 {
 "n": "Everyday Bakery",
@@ -2959,14 +3303,17 @@ const PLACES = [
 "tier": "cheap",
 "price": "$",
 "tags": [
-"hawker",
-"you"
+"hawker"
 ],
 "p": 1,
 "src": "Michelin Bib Gourmand 2026 (first awarded 2024)",
-"london": "Tayyabs: the charcoal naan and seekh",
+"london": "",
 "d": "A charcoal tandoor stall whose naans are good enough to eat plain. Seekh kebab and chicken tikka are generous.",
-"tip": "Garlic naan, seekh kebab, butter chicken. Open 9am-11pm daily per Michelin."
+"tip": "Garlic naan, seekh kebab, butter chicken. Open 9am-11pm daily per Michelin.",
+"pp": "S$8-15",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Tekka stall, tandoor smoke and families"
 },
 {
 "n": "Allauddin's Briyani",
@@ -2986,7 +3333,12 @@ const PLACES = [
 "p": 2,
 "src": "Michelin Guide 2026 (Selected)",
 "d": "Long-running Tekka biryani counter. Fragrant, not greasy.",
-"tip": "Mutton biryani. Go before the lunch rush."
+"tip": "Mutton biryani. Go before the lunch rush.",
+"pp": "S$6-10",
+"energy": "buzzy",
+"cool": 1,
+"vibe": "Food-centre counter",
+"london": ""
 },
 {
 "n": "Heng Gi Goose and Duck Rice",
@@ -3006,7 +3358,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin Guide 2026 (Selected)",
 "d": "Teochew braised duck in an Indian hawker centre. It shows how mixed Tekka is.",
-"tip": "Braised duck rice with the dark sauce and an egg. Sells out by early afternoon."
+"tip": "Braised duck rice with the dark sauce and an egg. Sells out by early afternoon.",
+"pp": "S$5-8",
+"energy": "calm",
+"cool": 1,
+"vibe": "Food-centre stall",
+"london": ""
 },
 {
 "n": "545 Whampoa Prawn Noodles",
@@ -3025,7 +3382,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin Guide 2026 (Selected)",
 "d": "Prawn-stock noodle soup, rich and sweet.",
-"tip": "Dry version with the soup on the side. Pin is the Tekka building, not the exact stall: find unit #01-326."
+"tip": "Dry version with the soup on the side. Pin is the Tekka building, not the exact stall: find unit #01-326.",
+"pp": "S$5-8",
+"energy": "calm",
+"cool": 1,
+"vibe": "Food-centre stall",
+"london": ""
 },
 {
 "n": "Bismillah Biryani",
@@ -3039,14 +3401,17 @@ const PLACES = [
 "tier": "cheap",
 "price": "$",
 "tags": [
-"you",
 "famous"
 ],
 "p": 1,
 "src": "Michelin Bib Gourmand 2026 (multi-year)",
-"london": "Tayyabs, for biryani",
+"london": "",
 "d": "A small Dunlop St shop doing dum-style biryani properly: long-grain rice, tender meat, restrained spicing.",
-"tip": "Mutton biryani plus a mutton seekh kebab. Lunch."
+"tip": "Mutton biryani plus a mutton seekh kebab. Lunch.",
+"pp": "S$10-18",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Small shop, office-lunch queue"
 },
 {
 "n": "Muthu's Curry",
@@ -3060,14 +3425,19 @@ const PLACES = [
 "tier": "medium",
 "price": "$$",
 "tags": [
+"you",
 "classic",
 "famous"
 ],
 "p": 2,
 "src": "Michelin Bib Gourmand 2026",
-"london": "",
+"london": "Tayyabs: loud, chaotic, institution",
 "d": "The fish-head-curry institution. A big hall, banana leaves, loud families. The reference version of the dish.",
-"tip": "Half a fish-head curry for 2-3 people, masala chicken, rice on banana leaf. Go instead of Banana Leaf Apolo."
+"tip": "Half a fish-head curry for 2-3 people, masala chicken, rice on banana leaf. Go instead of Banana Leaf Apolo.",
+"pp": "S$30-50",
+"energy": "chaotic",
+"cool": 2,
+"vibe": "Big bright hall, loud families, banana leaves, tourists"
 },
 {
 "n": "Lagnaa",
@@ -3086,7 +3456,12 @@ const PLACES = [
 "p": 2,
 "src": "Michelin Bib Gourmand 2026",
 "d": "Three floors: tables downstairs, barefoot floor seating upstairs. You choose your spice level, 1 to 10. Home-style North and South Indian.",
-"tip": "Go upstairs and say level 4-5 unless you're showing off. There's a chilli challenge on full-moon nights."
+"tip": "Go upstairs and say level 4-5 unless you're showing off. There's a chilli challenge on full-moon nights.",
+"pp": "S$25-40",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Multi-floor family room, spice-level gimmick",
+"london": ""
 },
 {
 "n": "Mustard",
@@ -3105,7 +3480,12 @@ const PLACES = [
 "p": 2,
 "src": "Michelin Guide 2026 (Selected)",
 "d": "Bengali and Punjabi cooking. Rarer regional food (mustard-oil fish) than the Tamil places around it.",
-"tip": "Get the Bengali dishes: fish in mustard and the kulcha. Weekday dinner is quiet."
+"tip": "Get the Bengali dishes: fish in mustard and the kulcha. Weekday dinner is quiet.",
+"pp": "S$25-40",
+"energy": "calm",
+"cool": 1,
+"vibe": "Plain dining room",
+"london": ""
 },
 {
 "n": "Podi & Poriyal",
@@ -3124,7 +3504,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin Guide 2026 (Selected)",
 "d": "South Indian vegetarian, more careful than the canteen tier. At the far north end of Serangoon Rd, near Farrer Park.",
-"tip": "Dosa with the podis, and a thali. Pair it with the Sakya Muni and Leong San temples across the road."
+"tip": "Dosa with the podis, and a thali. Pair it with the Sakya Muni and Leong San temples across the road.",
+"pp": "S$20-30",
+"energy": "calm",
+"cool": 1,
+"vibe": "Plain vegetarian dining room",
+"london": ""
 },
 {
 "n": "Komala Vilas",
@@ -3143,7 +3528,12 @@ const PLACES = [
 "p": 3,
 "src": "Heritage vegetarian canteen (since 1947). No current critic listing found; my pick, lower confidence",
 "d": "A no-frills South Indian vegetarian canteen, run the old way. Fine for a dosa and filter coffee between sights.",
-"tip": "Masala dosa and filter coffee upstairs. The rice meal at lunch is unlimited."
+"tip": "Masala dosa and filter coffee upstairs. The rice meal at lunch is unlimited.",
+"pp": "S$6-12",
+"energy": "chaotic",
+"cool": 2,
+"vibe": "No-frills canteen, rushed and old-school",
+"london": ""
 },
 {
 "n": "MTR (Mavalli Tiffin Rooms)",
@@ -3162,7 +3552,12 @@ const PLACES = [
 "p": 3,
 "src": "Outpost of the Bengaluru institution (est. 1924). No Singapore critic listing found; lower confidence",
 "d": "Bangalore-style breakfast: rava idli, crisp dosa, filter coffee. Clean and dependable.",
-"tip": "Rava idli and masala dosa at breakfast."
+"tip": "Rava idli and masala dosa at breakfast.",
+"pp": "S$8-15",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Clean breakfast canteen, families",
+"london": ""
 },
 {
 "n": "Apartment Coffee",
@@ -3364,9 +3759,13 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Michelin Guide 2026 (new Selected entry); Time Out Singapore 50 Best Restaurants; Grazia",
-"london": "Morito / Acre",
+"london": "Toklas: design-led, creative crowd, mid-high",
 "d": "New-generation Singaporean cooking from ex-Naked Finn chef Marcus Leow. Sharing plates, fermentation-led, in a rattan-and-wood upstairs room. The most you-shaped new place in the patch.",
-"tip": "Book dinner. Set menu was S$88++ for four courses in 2025 (now possibly five), so budget about S$110-130 a head with ++ and a drink. Order the red prawn kueh pie tee, wok-fried nasi ulam and the corn salat."
+"tip": "Book dinner. Set menu was S$88++ for four courses in 2025 (now possibly five), so budget about S$110-130 a head with ++ and a drink. Order the red prawn kueh pie tee, wok-fried nasi ulam and the corn salat.",
+"pp": "S$90-130",
+"energy": "buzzy",
+"cool": 4,
+"vibe": "Rattan-and-wood upstairs room, young design-conscious crowd"
 },
 {
 "n": "The Coconut Club",
@@ -3385,9 +3784,13 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Michelin Bib Gourmand 2026 (since 2018)",
-"london": "",
+"london": "Padella: cheap, cool, queue-worthy",
 "d": "The nasi lemak everyone measures against: coconut rice from fresh-pressed milk, ayam goreng berempah, very good sambal. In a whitewashed shophouse.",
-"tip": "Nasi lemak plus the sago gula melaka. Lunch walk-in is easier, and you can book online."
+"tip": "Nasi lemak plus the sago gula melaka. Lunch walk-in is easier, and you can book online.",
+"pp": "S$20-35",
+"energy": "buzzy",
+"cool": 4,
+"vibe": "Whitewashed shophouse, queue of locals and expats"
 },
 {
 "n": "Singapore Zam Zam",
@@ -3401,14 +3804,19 @@ const PLACES = [
 "tier": "cheap",
 "price": "$",
 "tags": [
+"you",
 "classic",
 "famous"
 ],
 "p": 2,
 "src": "No current critic rating found; listed for the institution (est. 1908), with Time Out and Travelfish mentions",
-"london": "",
+"london": "Tayyabs: cheap, chaotic, institution",
 "d": "A century-old Indian-Muslim canteen opposite the mosque. Murtabak flipped at the front window, and it's loud and rough. Go for the institution as well as the food.",
-"tip": "Mutton murtabak (small is plenty) and teh tarik. Avoid Victory next door, the rival."
+"tip": "Mutton murtabak (small is plenty) and teh tarik. Avoid Victory next door, the rival.",
+"pp": "S$8-15",
+"energy": "chaotic",
+"cool": 3,
+"vibe": "Century-old canteen, murtabak window, loud and rough"
 },
 {
 "n": "Rumah Makan Minang",
@@ -3422,14 +3830,17 @@ const PLACES = [
 "tier": "cheap",
 "price": "$",
 "tags": [
-"you",
 "hidden"
 ],
 "p": 1,
 "src": "Time Out Singapore; Eatbook; Seth Lui",
 "london": "",
 "d": "Minangkabau nasi padang with 20+ dishes at the counter. Rendang that's dark and properly dry, plus grilled fish and petai prawns.",
-"tip": "Go 11.30am. Beef rendang, dendeng balado, ayam panggang, sambal goreng. Hours conflict between sources, so check."
+"tip": "Go 11.30am. Beef rendang, dendeng balado, ayam panggang, sambal goreng. Hours conflict between sources, so check.",
+"pp": "S$8-15",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Nasi padang counter, lunch rush"
 },
 {
 "n": "Hjh Maimunah",
@@ -3449,7 +3860,12 @@ const PLACES = [
 "p": 2,
 "src": "Time Out Singapore; former Michelin Bib Gourmand (not in 2026 list)",
 "d": "Nasi padang and Malay home cooking with a huge spread. Fell off the 2026 Bib list but still the local benchmark.",
-"tip": "Get there before noon. Tahu telor, beef rendang, Sundanese grilled chicken. Closed Sundays."
+"tip": "Get there before noon. Tahu telor, beef rendang, Sundanese grilled chicken. Closed Sundays.",
+"pp": "S$8-15",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Canteen spread, lunch rush",
+"london": ""
 },
 {
 "n": "Alaturka",
@@ -3467,9 +3883,13 @@ const PLACES = [
 ],
 "p": 3,
 "src": "Former Michelin Bib Gourmand (2016); Honeycombers",
-"london": "Not Barbary-level. A dependable Turkish local",
+"london": "",
 "d": "The one Bussorah St Turkish place worth sitting down at: charcoal kebabs, meze, mosque view. Honest, not exciting.",
-"tip": "Mixed meze and Iskender. Outdoor table at dusk."
+"tip": "Mixed meze and Iskender. Outdoor table at dusk.",
+"pp": "S$35-55",
+"energy": "calm",
+"cool": 2,
+"vibe": "Tourist-street terrace with a mosque view"
 },
 {
 "n": "Kampong Glam Cafe",
@@ -3489,7 +3909,12 @@ const PLACES = [
 "p": 3,
 "src": "Honeycombers; Eventful SG",
 "d": "Outdoor kopitiam-style Malay canteen on the corner. Cheap and cheerful, and good for a teh-and-nasi-lemak pause.",
-"tip": "Mee rebus or nasi lemak and teh tarik, late afternoon."
+"tip": "Mee rebus or nasi lemak and teh tarik, late afternoon.",
+"pp": "S$5-12",
+"energy": "buzzy",
+"cool": 3,
+"vibe": "Open-air corner kopitiam, late-night locals",
+"london": ""
 },
 {
 "n": "Bhai Sarbat",
@@ -3688,14 +4113,19 @@ const PLACES = [
 "addr": "Parkview Square, 600 North Bridge Rd",
 "price": "$$$",
 "tags": [
+"you",
 "famous",
 "splurge"
 ],
 "p": 1,
 "src": "Tatler Best 20 Bars in Singapore 2026; former World's and Asia's 50 Best Bars (not on 2026 lists)",
-"london": "Chiltern Firehouse bar energy, in an art-deco lobby",
+"london": "Chiltern Firehouse: glam, dressy, see-and-be-seen",
 "d": "A vast 1920s-Gotham lobby with a three-storey gin tower. It's theatrical, but the drinks and service hold up. Off the 2026 50 Best lists, still a must-see room.",
-"tip": "Book a table. Order a martini from the gin list, or anything from the Champagne side. Dress up a bit."
+"tip": "Book a table. Order a martini from the gin list, or anything from the Champagne side. Dress up a bit.",
+"pp": "S$70-120",
+"energy": "scene",
+"cool": 4,
+"vibe": "Gotham-deco lobby, glam dressed-up crowd plus tourists"
 },
 {
 "n": "Bar Stories",
@@ -3713,7 +4143,12 @@ const PLACES = [
 "p": 3,
 "src": "Punch; Time Out Singapore; City Nomads (undated)",
 "d": "Bespoke-cocktail bar with no menu: bartenders build drinks from a conversation. The one real bar on Haji Lane.",
-"tip": "Tell them what you like and let them go. Closed Mondays. Couldn't confirm 2025-26 status, so check before going."
+"tip": "Tell them what you like and let them go. Closed Mondays. Couldn't confirm 2025-26 status, so check before going.",
+"pp": "S$50-80",
+"energy": "calm",
+"cool": 3,
+"vibe": "Upstairs Haji Lane bar, chatty bartenders",
+"london": ""
 },
 {
 "n": "Seroja",
@@ -3727,14 +4162,17 @@ const PLACES = [
 "tier": "nice",
 "price": "$$$$",
 "tags": [
-"you",
 "splurge"
 ],
 "p": 1,
 "src": "Michelin 2 stars 2026 (promoted from 1, Green Star); Asia's 50 Best Restaurants 2026 #20",
-"london": "Acre's produce-first instinct, as a two-star tasting menu",
+"london": "",
 "d": "Kevin Wong's Malay-archipelago tasting menu: 24 seats, foraged and regional produce, serious and personal. Your best splurge in Singapore if you do one.",
-"tip": "Tasting menu only. Book weeks ahead and check current price (expect S$300+). Dinner over lunch."
+"tip": "Tasting menu only. Book weeks ahead and check current price (expect S$300+). Dinner over lunch.",
+"pp": "S$400+",
+"energy": "calm",
+"cool": 4,
+"vibe": "24-seat serious tasting room"
 },
 {
 "n": "1887 by André",
@@ -3748,13 +4186,19 @@ const PLACES = [
 "tier": "nice",
 "price": "$$$$",
 "tags": [
+"you",
 "new",
 "splurge"
 ],
 "p": 2,
 "src": "Michelin 2 stars 2026 (debut); Wallpaper*; Options (The Edge)",
 "d": "André Chiang's comeback in Singapore, opened in 2026 inside Raffles. A 42-seat room critics call breathtaking. It has moved from a set tasting menu to à la carte or build-your-own courses. Some reviews say ostentatious.",
-"tip": "A 4-5 course self-built set is the lower-risk way in. Over-18s only. Check current pricing."
+"tip": "A 4-5 course self-built set is the lower-risk way in. Over-18s only. Check current pricing.",
+"pp": "S$400+",
+"energy": "scene",
+"cool": 4,
+"vibe": "Breathtaking Raffles room, the 2026 hot ticket, dressy",
+"london": "Chiltern Firehouse: the glam, hard-to-book splurge"
 },
 {
 "n": "Yì by Jereme Leung",
@@ -3773,7 +4217,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin Guide 2026 (Selected)",
 "d": "Refined regional Chinese in the Raffles complex. Polished and expensive.",
-"tip": "Weekend dim sum lunch is the value route."
+"tip": "Weekend dim sum lunch is the value route.",
+"pp": "S$150-250",
+"energy": "calm",
+"cool": 2,
+"vibe": "Polished hotel Chinese, business dinners",
+"london": ""
 },
 {
 "n": "Whitegrass",
@@ -3792,7 +4241,12 @@ const PLACES = [
 "p": 2,
 "src": "Michelin 1 star 2026",
 "d": "Modern French in a soft, pretty room in the old convent. Classic fine dining, less personal than Seroja.",
-"tip": "Lunch menu is the smart booking."
+"tip": "Lunch menu is the smart booking.",
+"pp": "S$300+",
+"energy": "calm",
+"cool": 3,
+"vibe": "Soft, pretty fine-dining room, hushed",
+"london": ""
 },
 {
 "n": "Lei Garden",
@@ -3811,7 +4265,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin 1 star 2026",
 "d": "Hong Kong Cantonese institution, part of a multi-outlet group, starred and unflashy. Weekend dim sum is the move.",
-"tip": "Weekend dim sum. Book."
+"tip": "Weekend dim sum. Book.",
+"pp": "S$70-120",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Weekend dim-sum families in a hotel-mall room",
+"london": ""
 },
 {
 "n": "Garibaldi",
@@ -3829,9 +4288,13 @@ const PLACES = [
 ],
 "p": 3,
 "src": "Michelin Guide 2026 (Selected)",
-"london": "Cecconi's: a polished Italian room",
+"london": "",
 "d": "Long-running upscale Italian on Purvis St. Reliable pasta and fish, a corporate crowd.",
-"tip": "Set lunch. Not a destination."
+"tip": "Set lunch. Not a destination.",
+"pp": "S$120-180",
+"energy": "calm",
+"cool": 2,
+"vibe": "Corporate Italian, suits and expense accounts"
 },
 {
 "n": "Gunther's",
@@ -3851,7 +4314,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin Guide 2026 (Selected)",
 "d": "Gunther Hubrechsen's French room, famous for its cold angel-hair pasta with Oscietra caviar. Old-guard luxury.",
-"tip": "Order the caviar pasta. Lunch."
+"tip": "Order the caviar pasta. Lunch.",
+"pp": "S$300+",
+"energy": "calm",
+"cool": 2,
+"vibe": "Old-guard luxury, hushed",
+"london": ""
 },
 {
 "n": "Yet Con",
@@ -3871,7 +4339,12 @@ const PLACES = [
 "p": 3,
 "src": "Heritage Hainanese house (est. 1940). No current critic listing found; lower confidence",
 "d": "Old Hainanese chicken-rice house with formica tables. Go for the room more than the chicken.",
-"tip": "Chicken rice and pork chop."
+"tip": "Chicken rice and pork chop.",
+"pp": "S$15-25",
+"energy": "calm",
+"cool": 3,
+"vibe": "Formica-and-fan time capsule",
+"london": ""
 },
 {
 "n": "Pondok Makan Indonesia",
@@ -3891,7 +4364,12 @@ const PLACES = [
 "p": 2,
 "src": "Michelin Guide 2026 (Selected); Seth Lui",
 "d": "Malay and Indonesian hawker stall. The charcoal mutton satay is the reason to come.",
-"tip": "Mutton satay and mee rebus. Mon-Tue 8am-7pm, Wed-Sun to 8pm."
+"tip": "Mutton satay and mee rebus. Mon-Tue 8am-7pm, Wed-Sun to 8pm.",
+"pp": "S$6-12",
+"energy": "calm",
+"cool": 1,
+"vibe": "Hawker stall",
+"london": ""
 },
 {
 "n": "Nutmeg & Clove",
@@ -3909,9 +4387,13 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Asia's 50 Best Bars 2026 #12; The World's 50 Best Bars 2026 #38",
-"london": "Caia, minus the DJ: the cocktail-bar end of your list",
+"london": "",
 "d": "Singapore-history-themed cocktails, with flavours drawn from hawker food and landmarks, executed precisely. The best bar in your patch by a distance.",
-"tip": "Mon-Thu 5pm-midnight, Fri-Sat 4pm-midnight, closed Sundays. Then go upstairs to Last Word."
+"tip": "Mon-Thu 5pm-midnight, Fri-Sat 4pm-midnight, closed Sundays. Then go upstairs to Last Word.",
+"pp": "S$60-90",
+"energy": "buzzy",
+"cool": 4,
+"vibe": "Lively Purvis St cocktail bar, cocktail-literate crowd"
 },
 {
 "n": "Last Word",
@@ -3929,7 +4411,12 @@ const PLACES = [
 "p": 2,
 "src": "Difford's Guide (Nutmeg & Clove sister bar)",
 "d": "Minimal upstairs bar for classic cocktails and simple Japanese food. A quieter second stop.",
-"tip": "Order a classic, such as a Last Word."
+"tip": "Order a classic, such as a Last Word.",
+"pp": "S$50-80",
+"energy": "calm",
+"cool": 3,
+"vibe": "Minimal upstairs bar, quiet second stop",
+"london": ""
 },
 {
 "n": "Mr Stork",
@@ -3947,7 +4434,12 @@ const PLACES = [
 "p": 3,
 "src": "OSM listing; not verified in 2025-26 critic sources, low confidence",
 "d": "Open-air rooftop bar with tepees and a skyline view. Go for the view, not the drinks.",
-"tip": "Sunset. Check it's still operating before going."
+"tip": "Sunset. Check it's still operating before going.",
+"pp": "S$40-70",
+"energy": "buzzy",
+"cool": 3,
+"vibe": "Rooftop tepees, view-seekers and hotel guests",
+"london": ""
 },
 {
 "n": "Kwan Im Thong Hood Cho Temple",
@@ -4053,13 +4545,19 @@ const PLACES = [
 "tier": "cheap",
 "price": "$",
 "tags": [
+"you",
 "classic",
 "famous"
 ],
 "p": 1,
 "src": "Time Out Singapore (best cheap eats); NHB Heritage Business Registry; Mothership (Jan 2026 hours)",
 "d": "The supper dim sum institution since 1962, now a multi-outlet brand; this is the original. Open daily 7am-2am, till 4am Fri-Sat (from Jan 2026). Queues after midnight are part of it.",
-"tip": "Mee sua kueh, salted egg custard bun, xiao long bao, chilli oil wontons. Go after 11pm."
+"tip": "Mee sua kueh, salted egg custard bun, xiao long bao, chilli oil wontons. Go after 11pm.",
+"pp": "S$15-25",
+"energy": "chaotic",
+"cool": 3,
+"vibe": "Supper-time chaos and a post-midnight queue",
+"london": "Tayyabs: loud, cheap, queue, institution"
 },
 {
 "n": "Berseh Food Centre",
@@ -4079,7 +4577,12 @@ const PLACES = [
 "p": 2,
 "src": "Michelin Bib Gourmand 2026 (Kelantan Kway Chap); Michelin Guide 2026 Selected (Fu He Turtle Soup)",
 "d": "A local hawker centre with two Michelin-listed stalls upstairs.",
-"tip": "Kelantan Kway Chap & Pig Organ Soup at #02-39. At Fu He Turtle Soup, get the lamb ribs."
+"tip": "Kelantan Kway Chap & Pig Organ Soup at #02-39. At Fu He Turtle Soup, get the lamb ribs.",
+"pp": "S$5-10",
+"energy": "calm",
+"cool": 1,
+"vibe": "Local food centre",
+"london": ""
 },
 {
 "n": "Sungei Road Laksa",
@@ -4099,7 +4602,12 @@ const PLACES = [
 "p": 2,
 "src": "Miss Tam Chiak; Straits Times feature (via secondary)",
 "d": "Laksa since 1956 on a charcoal-fired pot, with a fresh coconut-milk gravy. Eaten with a spoon only, as cut noodles.",
-"tip": "Morning to early afternoon. Sells out."
+"tip": "Morning to early afternoon. Sells out.",
+"pp": "S$4-6",
+"energy": "calm",
+"cool": 2,
+"vibe": "Heritage stall, quiet",
+"london": ""
 },
 {
 "n": "Beach Road Scissor-Cut Curry Rice",
@@ -4119,7 +4627,12 @@ const PLACES = [
 "p": 3,
 "src": "ieatishootipost (Leslie Tay); Eatbook",
 "d": "Hainanese curry rice: pork chop, braised pork and cabbage cut with scissors and drowned in two gravies. Ugly and delicious.",
-"tip": "Open till about 3.30am, a supper alternative to Swee Choon."
+"tip": "Open till about 3.30am, a supper alternative to Swee Choon.",
+"pp": "S$5-8",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Busy lunch stall",
+"london": ""
 },
 {
 "n": "Yong Kee Seafood",
@@ -4139,7 +4652,12 @@ const PLACES = [
 "p": 3,
 "src": "Time Out Singapore; ieatishootipost; Makansutra; Michelin feature (chefs' late-night pick)",
 "d": "Late-night zi char corner kopitiam, famous for crispy, part-burnt beehoon.",
-"tip": "Chao tar beehoon. Daily 5.30pm-3am, closed the first Wed of the month."
+"tip": "Chao tar beehoon. Daily 5.30pm-3am, closed the first Wed of the month.",
+"pp": "S$25-40",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Late-night corner kopitiam, beer and wok",
+"london": ""
 },
 {
 "n": "Kok Kee Wanton Mee",
@@ -4158,7 +4676,12 @@ const PLACES = [
 "p": 3,
 "src": "Eatbook",
 "d": "Cult wanton mee with springy noodles and a sticky, sweet sauce. Moved from Lavender Food Square.",
-"tip": "Medium confidence on the current address. Check before going."
+"tip": "Medium confidence on the current address. Check before going.",
+"pp": "S$5-8",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Cult stall, local queue",
+"london": ""
 },
 {
 "n": "Cheeselads",
@@ -4172,13 +4695,17 @@ const PLACES = [
 "tier": "medium",
 "price": "$$",
 "tags": [
-"you",
 "hidden"
 ],
 "p": 2,
 "src": "Time Out Singapore; Chope (reviews Sept 2025)",
 "d": "Artisanal cheese bar with an outdoor terrace by Jalan Besar Stadium. Platters, truffle brie, decent wine. A relaxed wine-and-cheese evening, not a destination dinner.",
-"tip": "House platter and a bottle. Service is slow on busy Saturdays. Hours conflict, so check."
+"tip": "House platter and a bottle. Service is slow on busy Saturdays. Hours conflict, so check.",
+"pp": "S$40-70",
+"energy": "calm",
+"cool": 2,
+"vibe": "Terrace cheese bar, relaxed",
+"london": ""
 },
 {
 "n": "Chye Seng Huat Hardware",
@@ -4234,7 +4761,12 @@ const PLACES = [
 "p": 3,
 "src": "Time Out Singapore (older); Burpple",
 "d": "Craft-beer taproom with 23 taps in the old Chinese Druggists Association building. Unfussy.",
-"tip": "Latest reviews found are from 2019, so confirm it's open."
+"tip": "Latest reviews found are from 2019, so confirm it's open.",
+"pp": "S$30-50",
+"energy": "buzzy",
+"cool": 3,
+"vibe": "Heritage-building taproom, craft-beer crowd",
+"london": ""
 },
 {
 "n": "Petain Road terraces",
@@ -4436,7 +4968,12 @@ const PLACES = [
 "p": 3,
 "src": "Institution (Singapore Sling birthplace)",
 "d": "Peanut shells on the floor, a S$30-plus Sling and a queue of tourists. It is famous, but the drinking is not good.",
-"tip": "Only if a visitor insists. Nutmeg & Clove is a 5-minute walk away."
+"tip": "Only if a visitor insists. Nutmeg & Clove is a 5-minute walk away.",
+"pp": "S$40-70",
+"energy": "chaotic",
+"cool": 1,
+"vibe": "Tourist queue and peanut shells",
+"london": "The Ivy (2): famous, touristy, coasting"
 },
 {
 "n": "Basheer Graphic Books",
@@ -4476,7 +5013,12 @@ const PLACES = [
 "p": 1,
 "src": "Michelin 3 stars 2026; Asia's 50 Best 2026 No. 19 (Best Restaurant in Singapore); Lesley Liu Asia's Best Sommelier",
 "d": "Julien Royer's French cooking, the city's benchmark. Polished and ingredient-obsessed, and warmer than its reputation in the newly redone room.",
-"tip": "Book weeks out; lunch is the cheaper way in. This is the one splurge to make."
+"tip": "Book weeks out; lunch is the cheaper way in. This is the one splurge to make.",
+"pp": "S$450+",
+"energy": "calm",
+"cool": 4,
+"vibe": "Pastel gallery room, polished special-occasion crowd",
+"london": ""
 },
 {
 "n": "Jaan by Kirk Westaway",
@@ -4495,7 +5037,12 @@ const PLACES = [
 "p": 2,
 "src": "Michelin 2 stars 2026",
 "d": "Devon-born Kirk Westaway's modern British cooking 70 floors up. Produce-led English food with the best dining-room view in the city.",
-"tip": "Lunch for the view in daylight at a lower price."
+"tip": "Lunch for the view in daylight at a lower price.",
+"pp": "S$350+",
+"energy": "calm",
+"cool": 3,
+"vibe": "70th-floor view room, celebratory",
+"london": ""
 },
 {
 "n": "True Blue Cuisine",
@@ -4509,13 +5056,17 @@ const PLACES = [
 "tier": "medium",
 "price": "$$",
 "tags": [
-"classic",
-"you"
+"classic"
 ],
 "p": 1,
 "src": "Michelin Bib Gourmand 2026",
 "d": "Peranakan home cooking in a house full of family antiques beside the museum. It feels like someone's grandmother's dining room, and the food matches.",
-"tip": "Ayam buah keluak (black-nut chicken). Closed Sundays."
+"tip": "Ayam buah keluak (black-nut chicken). Closed Sundays.",
+"pp": "S$50-80",
+"energy": "calm",
+"cool": 2,
+"vibe": "Antique-crammed family dining room",
+"london": ""
 },
 {
 "n": "National Kitchen by Violet Oon",
@@ -4534,7 +5085,12 @@ const PLACES = [
 "p": 3,
 "src": "Long-running Violet Oon institution; no 2026 critic review found",
 "d": "Peranakan classics in a colonial-glam room inside the Gallery. Pretty and reliable, but True Blue cooks with more soul.",
-"tip": "Dry laksa and kueh pie tee for a post-gallery lunch. Confirm it's still open (only older listings found)."
+"tip": "Dry laksa and kueh pie tee for a post-gallery lunch. Confirm it's still open (only older listings found).",
+"pp": "S$60-90",
+"energy": "calm",
+"cool": 2,
+"vibe": "Colonial-glam gallery room, tourists and parents",
+"london": "The Ivy (2): polished heritage, safe crowd"
 },
 {
 "n": "Chin Chin Eating House",
@@ -4555,7 +5111,12 @@ const PLACES = [
 "p": 2,
 "src": "ieatishootipost (Leslie Tay); Miss Tam Chiak",
 "d": "Hainanese coffee shop going since 1934, with chicken rice, pork chop and chap chye. Uneven by Leslie Tay's account, but the real old Purvis St.",
-"tip": "Hainanese pork chop and chicken rice before drinks at Nutmeg & Clove. Status not re-verified for 2026."
+"tip": "Hainanese pork chop and chicken rice before drinks at Nutmeg & Clove. Status not re-verified for 2026.",
+"pp": "S$8-12",
+"energy": "calm",
+"cool": 2,
+"vibe": "Old Purvis St coffee shop",
+"london": ""
 },
 {
 "n": "Labyrinth",
@@ -4575,7 +5136,12 @@ const PLACES = [
 "p": 1,
 "src": "Michelin 1 star 2026; Asia's 50 Best 2026 No. 40",
 "d": "LG Han reworks Singapore hawker and childhood dishes with local produce. This is the tasting menu that actually teaches you the city, with a fun front of house.",
-"tip": "Do it early in your stay. Book ahead."
+"tip": "Do it early in your stay. Book ahead.",
+"pp": "S$300+",
+"energy": "buzzy",
+"cool": 4,
+"vibe": "Fun front of house, chatty tasting room",
+"london": ""
 },
 {
 "n": "Shoukouwa",
@@ -4594,7 +5160,12 @@ const PLACES = [
 "p": 2,
 "src": "Michelin 2 stars 2026",
 "d": "Edomae sushi counter, a handful of seats, fish flown from Japan. Counter dining at its most serious.",
-"tip": "Lunch omakase is the lower entry price."
+"tip": "Lunch omakase is the lower entry price.",
+"pp": "S$400+",
+"energy": "calm",
+"cool": 3,
+"vibe": "Handful of seats, reverent sushi counter",
+"london": ""
 },
 {
 "n": "Saint Pierre",
@@ -4613,7 +5184,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin 2 stars 2026",
 "d": "Emmanuel Stroobant's contemporary French on the bay. Accomplished but formal.",
-"tip": "Only if Odette is full."
+"tip": "Only if Odette is full.",
+"pp": "S$350+",
+"energy": "calm",
+"cool": 2,
+"vibe": "Formal bayside room",
+"london": ""
 },
 {
 "n": "Cherry Garden by Chef Fei",
@@ -4632,7 +5208,12 @@ const PLACES = [
 "p": 2,
 "src": "Michelin 1 star 2026 (new)",
 "d": "Teochew-Cantonese from Chef Fei in a redone room. One of the strongest Chinese kitchens in the city right now.",
-"tip": "Dim sum lunch is the cheaper way in."
+"tip": "Dim sum lunch is the cheaper way in.",
+"pp": "S$100-180",
+"energy": "calm",
+"cool": 3,
+"vibe": "Refined hotel Chinese, redone room",
+"london": ""
 },
 {
 "n": "Jin Ting Wan",
@@ -4646,13 +5227,19 @@ const PLACES = [
 "tier": "nice",
 "price": "$$$$",
 "tags": [
+"you",
 "new",
 "splurge"
 ],
 "p": 3,
 "src": "Michelin 1 star 2026 (new) + Sommelier Award; Time Out SG",
 "d": "Cantonese with dim sum and a big Chinese-wine list, 55 floors up. Glossier than you like, but critics rate it.",
-"tip": "Dim sum lunch for the view."
+"tip": "Dim sum lunch for the view.",
+"pp": "S$150-250",
+"energy": "scene",
+"cool": 3,
+"vibe": "55th-floor glossy view room",
+"london": "Nobu: glam, expensive, the view"
 },
 {
 "n": "Waku Ghin",
@@ -4671,7 +5258,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin 1 star 2026",
 "d": "Tetsuya Wakuda's Japanese-European tasting counter. Famous for the marinated botan shrimp with uni and caviar. Very expensive.",
-"tip": "Only as a special-occasion counter seat."
+"tip": "Only as a special-occasion counter seat.",
+"pp": "S$500+",
+"energy": "calm",
+"cool": 3,
+"vibe": "Exclusive hotel tasting counter",
+"london": ""
 },
 {
 "n": "CUT by Wolfgang Puck",
@@ -4688,7 +5280,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin 1 star 2026",
 "d": "Starred steakhouse inside the casino mall: excellent beef, but this is the celebrity-outpost register she dislikes.",
-"tip": "Skip unless someone else is paying and wants steak."
+"tip": "Skip unless someone else is paying and wants steak.",
+"pp": "S$200-300",
+"energy": "scene",
+"cool": 2,
+"vibe": "Casino-mall celebrity steakhouse",
+"london": "Nobu: celebrity outpost, but casino setting"
 },
 {
 "n": "Tenshima",
@@ -4702,13 +5299,17 @@ const PLACES = [
 "tier": "nice",
 "price": "$$$",
 "tags": [
-"new",
-"you"
+"new"
 ],
 "p": 2,
 "src": "Michelin 1 star 2026 (new)",
 "d": "Tempura omakase counter in an unlikely mall. You watch each piece come out of the oil.",
-"tip": "Sit at the counter; lunch sets are the value play."
+"tip": "Sit at the counter; lunch sets are the value play.",
+"pp": "S$200-300",
+"energy": "calm",
+"cool": 3,
+"vibe": "Mall tempura counter, quiet",
+"london": ""
 },
 {
 "n": "Sushi Sakuta",
@@ -4727,7 +5328,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin 2 stars 2026",
 "d": "Two-star sushi counter. Pick it or Shoukouwa, not both.",
-"tip": "Book well ahead."
+"tip": "Book well ahead.",
+"pp": "S$400+",
+"energy": "calm",
+"cool": 3,
+"vibe": "Reverent two-star counter",
+"london": ""
 },
 {
 "n": "Summer Pavilion",
@@ -4746,7 +5352,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin 1 star 2026",
 "d": "Hotel Cantonese, long starred: dim sum and double-boiled soups.",
-"tip": "Weekday dim sum lunch."
+"tip": "Weekday dim sum lunch.",
+"pp": "S$100-180",
+"energy": "calm",
+"cool": 2,
+"vibe": "Hotel Cantonese, families",
+"london": ""
 },
 {
 "n": "Yong Fu",
@@ -4765,7 +5376,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin 1 star 2026",
 "d": "Ningbo seafood cooking: rare in Singapore, starred in 2026.",
-"tip": "For a group dinner with Chinese classmates."
+"tip": "For a group dinner with Chinese classmates.",
+"pp": "S$100-180",
+"energy": "calm",
+"cool": 2,
+"vibe": "Hotel-style Chinese room",
+"london": ""
 },
 {
 "n": "Marguerite",
@@ -4782,7 +5398,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin 1 star 2026",
 "d": "Garden-inspired tasting menu inside the Flower Dome. Lovely setting; style risks outrunning substance.",
-"tip": "Lunch, with a dome visit attached."
+"tip": "Lunch, with a dome visit attached.",
+"pp": "S$250+",
+"energy": "calm",
+"cool": 3,
+"vibe": "Glasshouse inside the Flower Dome",
+"london": ""
 },
 {
 "n": "Supertree Grove & Garden Rhapsody",
@@ -4916,11 +5537,18 @@ const PLACES = [
 ],
 "addr": "Rooftop, The Fullerton Bay Hotel, 80 Collyer Quay",
 "price": "$$$",
-"tags": [],
+"tags": [
+"you"
+],
 "p": 2,
 "src": "World's 50 Best Discovery; Time Out SG",
 "d": "Rooftop pool bar facing MBS head-on, with DJs Wednesday-Sunday. You come for the view and the drinks are fine.",
-"tip": "Sunset; hours conflict across listings, so check."
+"tip": "Sunset; hours conflict across listings, so check.",
+"pp": "S$50-90",
+"energy": "scene",
+"cool": 3,
+"vibe": "Rooftop pool bar with DJs and an MBS view, hotel crowd",
+"london": "Caia, on a rooftop: DJs and a view"
 },
 {
 "n": "MO Bar",
@@ -4936,7 +5564,12 @@ const PLACES = [
 "p": 2,
 "src": "Time Out SG (Mar 2026 menu); former Asia's 50 Best Bars entrant",
 "d": "Serious hotel bar with bay views and a 2026 'Modern Localism' menu plus its own house gin.",
-"tip": "Window seat for the bay."
+"tip": "Window seat for the bay.",
+"pp": "S$60-100",
+"energy": "calm",
+"cool": 3,
+"vibe": "Bay-view hotel bar, polished",
+"london": ""
 },
 {
 "n": "Lau Pa Sat",
@@ -4957,7 +5590,12 @@ const PLACES = [
 "p": 1,
 "src": "Heritage hawker market; Broadsheet / Makansutra canon",
 "d": "Victorian cast-iron market turned food court. Stalls inside are average-to-good; the satay street outside is the reason to come.",
-"tip": "From about 7pm Boon Tat St closes to cars: order satay at Best Satay 7 & 8 with a cold Tiger."
+"tip": "From about 7pm Boon Tat St closes to cars: order satay at Best Satay 7 & 8 with a cold Tiger.",
+"pp": "S$10-20",
+"energy": "chaotic",
+"cool": 2,
+"vibe": "Victorian market hall, satay-street smoke and crowds",
+"london": "Maltby Street Market (2): crowded, scrappy"
 },
 {
 "n": "Market Street Hawker Centre",
@@ -4977,7 +5615,12 @@ const PLACES = [
 "p": 2,
 "src": "Time Out SG; Seth Lui",
 "d": "The old Golden Shoe hawkers (56 stalls) rehoused in a 2022 tower. A real CBD lunch with locals, not tourists.",
-"tip": "Before 12 or after 1.45pm on weekdays; closed or quiet on weekends for many stalls."
+"tip": "Before 12 or after 1.45pm on weekdays; closed or quiet on weekends for many stalls.",
+"pp": "S$5-10",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "CBD lunch crush in a tower",
+"london": ""
 },
 {
 "n": "Ya Kun Kaya Toast (Far East Square)",
@@ -5015,7 +5658,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin Bib Gourmand 2026",
 "d": "Honest North Indian on a busy terrace. The weekday lunch is the bargain Michelin flags.",
-"tip": "Mutton dum biryani; lunch."
+"tip": "Mutton dum biryani; lunch.",
+"pp": "S$30-50",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Busy terrace, weekday office lunch",
+"london": ""
 },
 {
 "n": "Willow",
@@ -5034,7 +5682,12 @@ const PLACES = [
 "p": 1,
 "src": "Michelin 1 star 2026 (since 2023)",
 "d": "Ex-Zén chef Nicolas Tam's pan-Asian tasting menu in a calm, organic-textured room with counter seats. Precise but playful, and fully your register.",
-"tip": "Ask for the counter. Amadai is his signature (Michelin)."
+"tip": "Ask for the counter. Amadai is his signature (Michelin).",
+"pp": "S$250+",
+"energy": "calm",
+"cool": 4,
+"vibe": "Organic-textured counter room, quietly confident",
+"london": ""
 },
 {
 "n": "28 HongKong Street",
@@ -5047,13 +5700,19 @@ const PLACES = [
 "addr": "28 Hongkong Street",
 "price": "$$$",
 "tags": [
+"you",
 "hidden",
 "classic"
 ],
 "p": 2,
 "src": "Former Asia's 50 Best Bars No. 4 / World's 50 Best No. 10; Punch; FACT Awards nominee",
 "d": "The original unmarked-door speakeasy that put Singapore on the bar map. Still one of the better quiet drinks in town.",
-"tip": "Book; closed Sunday."
+"tip": "Book; closed Sunday.",
+"pp": "S$60-90",
+"energy": "calm",
+"cool": 3,
+"vibe": "Unmarked-door speakeasy, dim and quiet",
+"london": ""
 },
 {
 "n": "Pop City x Pony",
@@ -5066,13 +5725,18 @@ const PLACES = [
 "addr": "Level 2, 19 Cecil Street, 049704",
 "price": "$$$",
 "tags": [
-"hidden",
-"you"
+"you",
+"hidden"
 ],
 "p": 2,
 "src": "Tatler Best 20 Bars 2026",
 "d": "Japanese craft cocktails and small plates in a heritage building, reached by a fire-escape staircase. From the Jigger & Pony group.",
-"tip": "Go hungry; the snacks are part of it."
+"tip": "Go hungry; the snacks are part of it.",
+"pp": "S$60-90",
+"energy": "buzzy",
+"cool": 4,
+"vibe": "Fire-escape entry, J-pop and music-subculture crowd",
+"london": "Caia: music-led, vibey"
 },
 {
 "n": "Boat Quay",
@@ -5104,13 +5768,17 @@ const PLACES = [
 "tier": "nice",
 "price": "$$$",
 "tags": [
-"you",
 "splurge"
 ],
 "p": 1,
 "src": "Michelin 2 stars 2026",
 "d": "Busan-born Sun Kim's Korean-modern single menu, mostly seafood and vegetables, with a Korean non-alcoholic pairing. Bold flavours, minimalist plating. Your best splurge on the river.",
-"tip": "Steamed Jeju abalone with gochujang seaweed risotto is the signature. Check opening days when booking."
+"tip": "Steamed Jeju abalone with gochujang seaweed risotto is the signature. Check opening days when booking.",
+"pp": "S$300+",
+"energy": "calm",
+"cool": 3,
+"vibe": "Minimalist tasting room",
+"london": ""
 },
 {
 "n": "Lerouy",
@@ -5123,13 +5791,16 @@ const PLACES = [
 "addr": "7 Mohamed Sultan Road, 238957",
 "tier": "nice",
 "price": "$$$",
-"tags": [
-"you"
-],
+"tags": [],
 "p": 2,
 "src": "Michelin 1 star 2026",
 "d": "Alsatian Christophe Lerouy's omakase-style French facing an open kitchen. Chef's-table energy, odd and clever flavour pairings.",
-"tip": "You pick the number of courses; small bar for a drink before. Closed Sun-Mon."
+"tip": "You pick the number of courses; small bar for a drink before. Closed Sun-Mon.",
+"pp": "S$250+",
+"energy": "calm",
+"cool": 3,
+"vibe": "Chef's-table counter, focused",
+"london": ""
 },
 {
 "n": "JAG",
@@ -5142,14 +5813,16 @@ const PLACES = [
 "addr": "#02-02 STPI, 41 Robertson Quay, 238236",
 "tier": "nice",
 "price": "$$$",
-"tags": [
-"you"
-],
+"tags": [],
 "p": 1,
 "src": "Michelin 1 star 2026 + Service Award 2026 (Maryjoy Lim)",
-"london": "The River Cafe (produce-first)",
+"london": "",
 "d": "Vegetable-led French cooking from peak-season Savoie produce, in a white warehouse room above a print gallery. The most River Cafe-minded kitchen in this patch, with a great cheese trolley.",
-"tip": "Lunch Wed-Sat; finish on the cheese trolley and digestifs."
+"tip": "Lunch Wed-Sat; finish on the cheese trolley and digestifs.",
+"pp": "S$250+",
+"energy": "calm",
+"cool": 3,
+"vibe": "White warehouse room above a gallery, quiet"
 },
 {
 "n": "Kotuwa",
@@ -5167,9 +5840,13 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Michelin Bib Gourmand 2026",
-"london": "Gunpowder / Hoppers",
+"london": "Gunpowder: small, buzzy, cool, mid",
 "d": "Rishi Naleendra's Sri Lankan, now at New Bahru. Michelin says the crab is the reason to come. One reviewer finds it toned down since the move, but it is still the best Bib on the river.",
-"tip": "Crab curry with hoppers. A la carte keeps it mid-price (set menu reported S$155)."
+"tip": "Crab curry with hoppers. A la carte keeps it mid-price (set menu reported S$155).",
+"pp": "S$60-90",
+"energy": "buzzy",
+"cool": 4,
+"vibe": "Moody room in New Bahru's creative hub"
 },
 {
 "n": "The Coconut Club (New Bahru)",
@@ -5183,13 +5860,18 @@ const PLACES = [
 "tier": "medium",
 "price": "$$",
 "tags": [
-"famous",
-"you"
+"you",
+"famous"
 ],
 "p": 2,
 "src": "Michelin Bib Gourmand 2026 (Beach Rd branch); Broadsheet, Sep 2026",
 "d": "The city's most-praised nasi lemak: obsessive coconut rice, sambal and fried chicken. This is the newer branch; the Bib is for Beach Rd.",
-"tip": "Nasi lemak + ayam goreng berempah; lunch."
+"tip": "Nasi lemak + ayam goreng berempah; lunch.",
+"pp": "S$20-35",
+"energy": "buzzy",
+"cool": 3,
+"vibe": "New Bahru branch, design-campus crowd",
+"london": "Padella: cheap, cool, casual"
 },
 {
 "n": "Artichoke Pizza Parlor",
@@ -5207,9 +5889,13 @@ const PLACES = [
 ],
 "p": 3,
 "src": "Chope listing; SilverKris on Bjorn Shen (no 2026 critic review found)",
-"london": "Padella-casual",
+"london": "Padella: casual, cool, cheap-ish",
 "d": "Bjorn Shen's cult Middle Eastern Artichoke switched in late 2025 to a new-school pizza parlour. The talent is still there, but it's not the old mezze menu.",
-"tip": "Medium confidence on current menu; check before going."
+"tip": "Medium confidence on current menu; check before going.",
+"pp": "S$40-60",
+"energy": "buzzy",
+"cool": 3,
+"vibe": "Playful pizza room from a cult chef"
 },
 {
 "n": "Song Fa Bak Kut Teh (New Bridge Rd)",
@@ -5229,7 +5915,12 @@ const PLACES = [
 "p": 2,
 "src": "Michelin Bib Gourmand 2026",
 "d": "Teochew peppery pork-rib soup with endless refills, at the original shop. Touristy queue but genuinely good.",
-"tip": "Go 10.30am or 3pm to dodge the line; add you tiao to dunk."
+"tip": "Go 10.30am or 3pm to dodge the line; add you tiao to dunk.",
+"pp": "S$12-20",
+"energy": "chaotic",
+"cool": 2,
+"vibe": "Tourist queue, refill culture",
+"london": ""
 },
 {
 "n": "Zion Riverside Food Centre",
@@ -5249,7 +5940,12 @@ const PLACES = [
 "p": 1,
 "src": "Michelin Bib Gourmand 2026 (two stalls)",
 "d": "Proper neighbourhood hawker centre by the river with two Bib stalls. A ten-minute ride from home.",
-"tip": "No.18 Zion Road Fried Kway Teow and Zhi Wei Xian Zion Road Big Prawn Noodle; evening."
+"tip": "No.18 Zion Road Fried Kway Teow and Zhi Wei Xian Zion Road Big Prawn Noodle; evening.",
+"pp": "S$5-10",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Neighbourhood hawker centre",
+"london": ""
 },
 {
 "n": "Bar Bon Funk",
@@ -5267,9 +5963,13 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Asia's 50 Best Bars 2026 No. 90 (new entry); Tatler Best 20 Bars 2026",
-"london": "Caia",
+"london": "Caia: DJs, vibey, music-led",
 "d": "Living-room bar with vinyl, DJ nights and fermentation-driven cocktails, spun off from Le Bon Funk. Your Caia, five minutes from the river.",
-"tip": "Book; DJ nights; lamb skewer and the baloney sandwich."
+"tip": "Book; DJ nights; lamb skewer and the baloney sandwich.",
+"pp": "S$50-80",
+"energy": "buzzy",
+"cool": 5,
+"vibe": "Living-room bar, vinyl and DJ nights, New Bahru creative crowd"
 },
 {
 "n": "New Bahru",
@@ -5377,7 +6077,12 @@ const PLACES = [
 "p": 2,
 "src": "Michelin 3 stars 2026; Asia's 50 Best 2026 No. 38",
 "d": "Classical French with a legendary wine list. More formal and old-school than Odette.",
-"tip": "Only if Odette is booked or for a wine-led night; lunch is the gentler price."
+"tip": "Only if Odette is booked or for a wine-led night; lunch is the gentler price.",
+"pp": "S$500+",
+"energy": "calm",
+"cool": 2,
+"vibe": "Classical, formal room",
+"london": ""
 },
 {
 "n": "Buona Terra",
@@ -5390,13 +6095,16 @@ const PLACES = [
 "addr": "29 Scotts Road, 228224",
 "tier": "nice",
 "price": "$$$",
-"tags": [
-"you"
-],
+"tags": [],
 "p": 2,
 "src": "Michelin 1 star 2026",
 "d": "Contemporary Italian in a refurbished colonial house, with a strong Italian and natural wine list. Your best Italian bet in this patch.",
-"tip": "Hand-made tagliatelle with white truffle when in season (Oct-Dec)."
+"tip": "Hand-made tagliatelle with white truffle when in season (Oct-Dec).",
+"pp": "S$150-250",
+"energy": "calm",
+"cool": 3,
+"vibe": "Pretty colonial house, quiet couples",
+"london": ""
 },
 {
 "n": "Loca Niru",
@@ -5416,7 +6124,12 @@ const PLACES = [
 "p": 2,
 "src": "Michelin 1 star 2026 (new) + Young Chef Award (Shusuke Kubota); Time Out SG",
 "d": "French-Japanese tasting menu in a restored 1885 Teochew mansion. New, ambitious, and the room alone is worth seeing.",
-"tip": "Book for a celebration; Dhoby Ghaut end of Orchard."
+"tip": "Book for a celebration; Dhoby Ghaut end of Orchard.",
+"pp": "S$350+",
+"energy": "calm",
+"cool": 4,
+"vibe": "Restored 1885 mansion, stunning room",
+"london": ""
 },
 {
 "n": "Imperial Treasure Fine Teochew Cuisine",
@@ -5435,7 +6148,12 @@ const PLACES = [
 "p": 2,
 "src": "Michelin 1 star 2026",
 "d": "Starred Teochew from the Imperial Treasure restaurant group, in ION Orchard: cold crab, braised goose, oyster omelette done properly. Reliable rather than a one-off room.",
-"tip": "Go with a group to share; the mall setting is the price of the food."
+"tip": "Go with a group to share; the mall setting is the price of the food.",
+"pp": "S$80-130",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Mall Chinese, families and business lunches",
+"london": ""
 },
 {
 "n": "Shisen Hanten",
@@ -5452,7 +6170,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin 1 star 2026",
 "d": "Chen Kentaro's Japanese-Sichuan. Mapo tofu and dan dan are the point.",
-"tip": "Lunch sets."
+"tip": "Lunch sets.",
+"pp": "S$150-250",
+"energy": "calm",
+"cool": 2,
+"vibe": "Hotel Sichuan, formal",
+"london": ""
 },
 {
 "n": "Iggy's",
@@ -5471,7 +6194,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin 1 star 2026",
 "d": "The pioneer of Singapore fine dining, still starred. Hotel setting.",
-"tip": "Wine-led dinner."
+"tip": "Wine-led dinner.",
+"pp": "S$350+",
+"energy": "calm",
+"cool": 2,
+"vibe": "Hotel fine dining, old guard",
+"london": ""
 },
 {
 "n": "Summer Palace",
@@ -5488,7 +6216,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin 1 star 2026",
 "d": "Hotel Cantonese, refined dim sum.",
-"tip": "Weekend dim sum, then Manhattan bar is upstairs."
+"tip": "Weekend dim sum, then Manhattan bar is upstairs.",
+"pp": "S$100-180",
+"energy": "calm",
+"cool": 2,
+"vibe": "Hotel Cantonese, refined",
+"london": ""
 },
 {
 "n": "Sushi Ichi",
@@ -5505,7 +6238,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin 1 star 2026",
 "d": "Ginza-pedigree sushi counter.",
-"tip": "Lunch counter."
+"tip": "Lunch counter.",
+"pp": "S$400+",
+"energy": "calm",
+"cool": 2,
+"vibe": "Reverent sushi counter",
+"london": ""
 },
 {
 "n": "Sushi Kimura+",
@@ -5524,7 +6262,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin 1 star 2026 (new)",
 "d": "Tomoo Kimura's aged-fish sushi counter, newly starred.",
-"tip": "Book ahead."
+"tip": "Book ahead.",
+"pp": "S$400+",
+"energy": "calm",
+"cool": 3,
+"vibe": "Reverent sushi counter",
+"london": ""
 },
 {
 "n": "Omakase @ Stevens",
@@ -5537,13 +6280,16 @@ const PLACES = [
 "addr": "#01-03, 30 Stevens Road, 257840",
 "tier": "nice",
 "price": "$$$$",
-"tags": [
-"you"
-],
+"tags": [],
 "p": 3,
 "src": "Michelin 1 star 2026",
 "d": "16-seat pine counter: Osaka chef, French technique, seasonal Japanese produce, 6 or 8 courses.",
-"tip": "Counter only; reserve."
+"tip": "Counter only; reserve.",
+"pp": "S$250+",
+"energy": "calm",
+"cool": 3,
+"vibe": "Intimate pine counter",
+"london": ""
 },
 {
 "n": "Indocafé - The White House",
@@ -5557,12 +6303,18 @@ const PLACES = [
 "tier": "medium",
 "price": "$$",
 "tags": [
+"you",
 "classic"
 ],
 "p": 2,
 "src": "Michelin Bib Gourmand 2026 (listed as Indocafé, Newton)",
 "d": "Peranakan in a dark-wood colonial bungalow. Careful spice work, and it feels like a proper night out.",
-"tip": "Wagyu cheek rendang; laksa."
+"tip": "Wagyu cheek rendang; laksa.",
+"pp": "S$60-90",
+"energy": "calm",
+"cool": 3,
+"vibe": "Dark-wood colonial bungalow, a proper night out",
+"london": "La Famiglia: warm, old-school, a little grand"
 },
 {
 "n": "Tambuah Mas (Paragon)",
@@ -5581,7 +6333,12 @@ const PLACES = [
 "p": 3,
 "src": "Michelin Guide 2026 (Selected)",
 "d": "Old-school Indonesian; reviews in 2026 are split.",
-"tip": "Beef rendang; a mall lunch, not a destination."
+"tip": "Beef rendang; a mall lunch, not a destination.",
+"pp": "S$30-50",
+"energy": "calm",
+"cool": 1,
+"vibe": "Old mall dining room",
+"london": ""
 },
 {
 "n": "Chatterbox",
@@ -5601,7 +6358,12 @@ const PLACES = [
 "p": 3,
 "src": "No current critic rating found; listed as the institution it is (2025-26 blog reviews mixed)",
 "d": "The famous S$30-plus hotel chicken rice. A Singapore rite, but hawker chicken rice is better and a fifth of the price.",
-"tip": "Book or face a 1-2hr wait; chicken rice only."
+"tip": "Book or face a 1-2hr wait; chicken rice only.",
+"pp": "S$35-50",
+"energy": "buzzy",
+"cool": 1,
+"vibe": "Hotel coffee house, tourists",
+"london": "The Ivy (2): famous, safe, touristy"
 },
 {
 "n": "Izakaya Naniwa",
@@ -5615,14 +6377,18 @@ const PLACES = [
 "tier": "medium",
 "price": "$$",
 "tags": [
-"hidden",
-"you"
+"you",
+"hidden"
 ],
 "p": 2,
 "src": "Eatbook (2024)",
-"london": "Bento Bab-level casual",
+"london": "",
 "d": "Adults-only Kyoto obanzai izakaya with a menu that changes daily. A favourite of Japanese expats in a scruffy mall full of them.",
-"tip": "Must order a drink; Tue-Sat from 6.30pm. Status last confirmed 2024."
+"tip": "Must order a drink; Tue-Sat from 6.30pm. Status last confirmed 2024.",
+"pp": "S$50-80",
+"energy": "buzzy",
+"cool": 3,
+"vibe": "Scruffy mall izakaya full of Japanese expats"
 },
 {
 "n": "Newton Food Centre",
@@ -5642,7 +6408,12 @@ const PLACES = [
 "p": 2,
 "src": "Michelin Bib Gourmand 2026 (Alliance Seafood, Heng, Hup Kee, Kwang Kee, Song Kee)",
 "d": "The Crazy Rich Asians hawker centre. Touty and pricier than elsewhere, but five Bib stalls.",
-"tip": "Alliance Seafood sambal stingray; Hup Kee oyster omelette (new Bib 2026); Heng carrot cake. Agree prices first."
+"tip": "Alliance Seafood sambal stingray; Hup Kee oyster omelette (new Bib 2026); Heng carrot cake. Agree prices first.",
+"pp": "S$15-30",
+"energy": "chaotic",
+"cool": 1,
+"vibe": "Touts and tourists",
+"london": "Maltby Street Market (2): crowded, touristy"
 },
 {
 "n": "Da Shi Jia Big Prawn Mee",
@@ -5662,7 +6433,12 @@ const PLACES = [
 "p": 2,
 "src": "Michelin Bib Gourmand 2026",
 "d": "Rich prawn-head broth noodles with big prawns at the River Valley end of Orchard.",
-"tip": "Big prawn mee, dry with soup on the side."
+"tip": "Big prawn mee, dry with soup on the side.",
+"pp": "S$10-20",
+"energy": "calm",
+"cool": 2,
+"vibe": "Plain noodle shop",
+"london": ""
 },
 {
 "n": "Killiney Kopitiam",
@@ -5693,12 +6469,18 @@ const PLACES = [
 "addr": "Level 2, Conrad Singapore Orchard, 1 Cuscaden Road",
 "price": "$$$",
 "tags": [
+"you",
 "classic"
 ],
 "p": 2,
 "src": "Tatler Best 20 Bars 2026 (off Asia's 50 Best Bars 2026)",
 "d": "Glam New York-style hotel bar with barrel-aged cocktails and a famous Sunday brunch. Off the 50 Best list now but still polished.",
-"tip": "Weeknight Martini; the Sunday brunch is the indulgence."
+"tip": "Weeknight Martini; the Sunday brunch is the indulgence.",
+"pp": "S$80-120",
+"energy": "scene",
+"cool": 3,
+"vibe": "Glam NY-style hotel bar, Sunday-brunch crowd",
+"london": "Cecconi's: polished, buzzy, people-watching"
 },
 {
 "n": "Origin Bar",
@@ -5714,7 +6496,12 @@ const PLACES = [
 "p": 2,
 "src": "Asia's 50 Best Bars 2026 No. 43; Tatler Best 20 Bars 2026",
 "d": "Blue-and-gold hotel bar with storytelling menus, ranked in 2026.",
-"tip": "After the Botanic Gardens at dusk."
+"tip": "After the Botanic Gardens at dusk.",
+"pp": "S$60-100",
+"energy": "calm",
+"cool": 2,
+"vibe": "Blue-and-gold hotel bar",
+"london": ""
 },
 {
 "n": "No.5 Emerald Hill",
@@ -5733,7 +6520,12 @@ const PLACES = [
 "p": 3,
 "src": "Seth Lui (Oct 2026)",
 "d": "Peanut-shells shophouse bar in a Peranakan terrace. Pure nostalgia, cheap-ish beer.",
-"tip": "Happy hour, then walk up Emerald Hill."
+"tip": "Happy hour, then walk up Emerald Hill.",
+"pp": "S$30-50",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Nostalgic peanut-shell bar, expats and tourists",
+"london": ""
 },
 {
 "n": "Singapore Botanic Gardens",
@@ -5845,10 +6637,14 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Tatler Asia (Katong guide, 2024; chef profile); ieatishootipost ('fine dining with local produce'); The Ranting Panda (2026 roundup)",
-"london": "Acre",
+"london": "Acre: one chef, seasonal, no fuss",
 "d": "A tiny tasting counter (8-10 seats) run by chef Law Jia Jun, cooking Southeast Asian flavours from local produce. Of everything here, it's the closest to Acre: one cook, seasonal, no theatre.",
 "tip": "Seven-course prix fixe at about S$138++, changed every three months. Book on its website. The phone numbers listed online conflict, so use the site.",
-"open": "high"
+"open": "high",
+"pp": "S$200-300",
+"energy": "calm",
+"cool": 4,
+"vibe": "8-seat counter, one cook"
 },
 {
 "n": "808 Eating House",
@@ -5866,10 +6662,14 @@ const PLACES = [
 ],
 "p": 2,
 "src": "Women's Weekly SG (2023); The Ranting Panda (2026)",
-"london": "Toklas / Morito",
+"london": "Acre: cool neighbourhood small plates",
 "d": "Chef Eugene Chee's Southeast Asian sharing plates with craft beer and natural wine, in the same shophouse as Province. The relaxed small-plates register you like.",
 "tip": "Order the buah keluak pork belly. Reserve via its website.",
-"open": "medium"
+"open": "medium",
+"pp": "S$50-80",
+"energy": "buzzy",
+"cool": 4,
+"vibe": "Shophouse sharing plates and natural wine, east-side cool crowd"
 },
 {
 "n": "La Bottega Enoteca",
@@ -5888,10 +6688,14 @@ const PLACES = [
 ],
 "p": 1,
 "src": "50 Top Pizza Asia-Pacific 2023 (No. 19); Tatler Asia; Time Out Singapore",
-"london": "",
+"london": "Padella: cool, queue-worthy, casual",
 "d": "Antonio Miscellaneo's 72-hour-ferment 'Newpolitan' pizzas. Famously hard to book, and the reviewers agree the hype holds.",
 "tip": "Book well ahead. Tatler's order is the Marinara (anchovy, olive, oregano).",
-"open": "high"
+"open": "high",
+"pp": "S$40-70",
+"energy": "buzzy",
+"cool": 4,
+"vibe": "Hard-to-book pizza room, Joo Chiat locals"
 },
 {
 "n": "Fico (East Coast Park)",
@@ -5910,10 +6714,14 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Michelin Bib Gourmand (2024, 2025, 2026 lists); Michelin East Coast guide (Apr 2025); Daniel Food Diary (Apr 2026)",
-"london": "Padella-ish pasta with a sea view",
+"london": "The River Cafe: sunny, relaxed, the long lunch",
 "d": "A white Puglian masseria on the East Coast Park lawn, cooking cucina povera with handmade pasta. One of very few Italian Bibs in Singapore. The setting does half the work, and the focaccina does the rest.",
 "tip": "Order the San Marzano tomato focaccina with mozzarella, then pasta, then the dessert trolley. Lunch is Thu-Sun only. Book on +65 9665 4153. Run there along the park and taxi home.",
-"open": "high"
+"open": "high",
+"pp": "S$60-90",
+"energy": "calm",
+"cool": 4,
+"vibe": "White masseria on the lawn by the sea, sunny long lunch"
 },
 {
 "n": "Chilli Padi Nonya Restaurant",
@@ -5933,7 +6741,12 @@ const PLACES = [
 "src": "Michelin Guide (listed); Michelin East Coast & Joo Chiat guide (Apr 2025); Tatler Asia",
 "d": "An old-school Peranakan dining room with batik tablecloths. Unglamorous, but it's the honest version of Nonya cooking, and most dishes come in three sizes, so two people can cover the menu.",
 "tip": "Order ayam buah keluak, babi pongteh, chap chye and kueh pie tee.",
-"open": "high"
+"open": "high",
+"pp": "S$30-50",
+"energy": "calm",
+"cool": 1,
+"vibe": "Old-school batik-tablecloth room",
+"london": ""
 },
 {
 "n": "Kappo Suguru",
@@ -5955,7 +6768,11 @@ const PLACES = [
 "london": "",
 "d": "A Japanese kappo omakase counter. Only blog-reviewed so far, which is the weakest sourcing on this list. Worth it only if you want Japanese in the east.",
 "tip": "Omakase from S$180++. The reviewer singled out the tallow-aged A5 wagyu. OSM shows another business at this address, so confirm it's open before booking.",
-"open": "medium"
+"open": "medium",
+"pp": "S$250+",
+"energy": "calm",
+"cool": 2,
+"vibe": "Quiet kappo counter"
 },
 {
 "n": "Carlitos",
@@ -5969,15 +6786,19 @@ const PLACES = [
 "tier": "medium",
 "price": "$$",
 "tags": [
-"new",
-"you"
+"you",
+"new"
 ],
 "p": 3,
 "src": "The Ranting Panda (2026 Joo Chiat roundup)",
-"london": "Morito / Barbary Next Door (if it delivers)",
+"london": "Morito: buzzy tapas counter",
 "d": "A new Barcelona-bar-style tapas place next to La Bottega. Untested by any serious critic yet, but it's exactly your format.",
 "tip": "Tapas from S$8, bottles from S$58. Go mid-week as a test.",
-"open": "medium"
+"open": "medium",
+"pp": "S$50-80",
+"energy": "buzzy",
+"cool": 3,
+"vibe": "New Barcelona-style tapas bar on the Joo Chiat strip"
 },
 {
 "n": "Long Phung",
@@ -5998,7 +6819,12 @@ const PLACES = [
 "src": "Time Out Singapore (Katong guide); The Ranting Panda",
 "d": "A long-running, no-frills Vietnamese canteen left over from Joo Chiat's 90s Vietnamese era. Time Out calls it consistently good for noodle soup.",
 "tip": "Order the beef pho. Expect a queue at weekend lunch.",
-"open": "high"
+"open": "high",
+"pp": "S$10-15",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "No-frills canteen",
+"london": ""
 },
 {
 "n": "Kinnari Thai Cuisine",
@@ -6016,10 +6842,14 @@ const PLACES = [
 ],
 "p": 3,
 "src": "The Ranting Panda ('my go-to Thai in the east')",
-"london": "The anti-Busaba",
+"london": "",
 "d": "A neighbourhood Thai place that's cheap and loved by one serious east-side blogger. Low stakes.",
 "tip": "Go for a weeknight dinner.",
-"open": "medium"
+"open": "medium",
+"pp": "S$15-25",
+"energy": "calm",
+"cool": 1,
+"vibe": "Neighbourhood Thai, low stakes"
 },
 {
 "n": "Casa Cicheti (Joo Chiat)",
@@ -6035,10 +6865,14 @@ const PLACES = [
 "tags": [],
 "p": 3,
 "src": "The Ranting Panda (2026)",
-"london": "Padella-adjacent neighbourhood Italian",
+"london": "",
 "d": "The second outlet of the Cicheti group (after Tiong Bahru), in the old Forma space: pasta and pizza in a cosy room. A safe pick, not a destination.",
 "tip": "Good if La Bottega is full.",
-"open": "medium"
+"open": "medium",
+"pp": "S$50-80",
+"energy": "calm",
+"cool": 3,
+"vibe": "Cosy neighbourhood Italian"
 },
 {
 "n": "Asador",
@@ -6051,13 +6885,19 @@ const PLACES = [
 "addr": "51 Joo Chiat Place, Singapore 427775",
 "tier": "medium",
 "price": "$$",
-"tags": [],
+"tags": [
+"you"
+],
 "p": 3,
 "src": "The Ranting Panda (2022 review)",
-"london": "Sam's Riverside-lite grill",
+"london": "Morito: buzzy Spanish, mid",
 "d": "A Spanish grill with a neighbourhood vibe. It also runs the 60ml speakeasy.",
 "tip": "Pair it with a drink at 60ml.",
-"open": "medium"
+"open": "medium",
+"pp": "S$70-110",
+"energy": "buzzy",
+"cool": 3,
+"vibe": "Spanish grill, neighbourhood crowd"
 },
 {
 "n": "328 Katong Laksa",
@@ -6079,7 +6919,12 @@ const PLACES = [
 "src": "Michelin (recognised 2016-17 era, not on the 2026 Bib list); HungryGoWhere 'Food Feuds'",
 "d": "The benchmark Katong laksa: short-cut noodles in a thick coconut-dried-shrimp broth, eaten with a spoon only. Very famous, and still consistent.",
 "tip": "Order a small (about S$7) with extra cockles. Then decide whether to try Janggut across the road.",
-"open": "high"
+"open": "high",
+"pp": "S$6-10",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Famous corner shop, steady queue",
+"london": ""
 },
 {
 "n": "Janggut Laksa (Roxy Square)",
@@ -6100,7 +6945,12 @@ const PLACES = [
 "src": "HungryGoWhere 'Food Feuds' only; lower confidence",
 "d": "The original lineage, selling since 1963. Its broth is lighter and more lemongrass-forward than 328's. Do them back to back to settle it.",
 "tip": "Order a small bowl, straight after 328.",
-"open": "high"
+"open": "high",
+"pp": "S$5-8",
+"energy": "calm",
+"cool": 1,
+"vibe": "Mall food-court stall",
+"london": ""
 },
 {
 "n": "Chin Mee Chin Confectionery",
@@ -6114,15 +6964,20 @@ const PLACES = [
 "tier": "cheap",
 "price": "$",
 "tags": [
+"you",
 "classic",
 "famous"
 ],
 "p": 1,
 "src": "Eatbook; Seth Lui; Ordinary Patrons (Oct 2025, Aug 2026)",
-"london": "Jolene for kopi and kaya",
+"london": "Jolene: cool bakery-café with a queue",
 "d": "A 1925 kopitiam bakery revived in 2021 by Ebb & Flow, the group behind Michelin-starred Willow. The kaya is still made to the original recipe. It's the most atmospheric breakfast in the east.",
 "tip": "Order the kaya toast set with soft eggs and kopi, before 9am. Open daily 8am-4pm.",
-"open": "high"
+"open": "high",
+"pp": "S$8-15",
+"energy": "buzzy",
+"cool": 4,
+"vibe": "Restored 1925 kopitiam, tiled and photogenic, weekend queue"
 },
 {
 "n": "Mr and Mrs Mohgan's Super Crispy Roti Prata",
@@ -6143,7 +6998,12 @@ const PLACES = [
 "src": "Tatler Asia (Katong guide)",
 "d": "Some of the crispiest prata on the island, from a husband-and-wife stall inside a coffee shop. A breakfast worth the queue.",
 "tip": "Order the kosong with fish curry, or the coin prata. Go early. Tatler notes it now opens on weekends; check hours.",
-"open": "medium"
+"open": "medium",
+"pp": "S$3-6",
+"energy": "buzzy",
+"cool": 3,
+"vibe": "Coffeeshop breakfast queue",
+"london": ""
 },
 {
 "n": "Old Airport Road Food Centre",
@@ -6164,7 +7024,12 @@ const PLACES = [
 "src": "Michelin Bib Gourmand 2026 (Nam Sing Hokkien Fried Mee, Lao Fu Zi Fried Kway Teow, To-Ricos Kway Chap); Michelin East Coast guide (Apr 2025)",
 "d": "Three Bib Gourmand stalls under one roof, in a recently renovated centre. About 2km west of Joo Chiat, so a natural first stop on the way out.",
 "tip": "Lao Fu Zi for wok hei, Nam Sing for Hokkien mee, To-Ricos for kway chap. Lunch beats dinner.",
-"open": "high"
+"open": "high",
+"pp": "S$5-12",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Big local hawker centre",
+"london": ""
 },
 {
 "n": "Kim Choo Kueh Chang",
@@ -6310,10 +7175,14 @@ const PLACES = [
 ],
 "p": 2,
 "src": "Women's Weekly SG (2023); The Ranting Panda (2026)",
-"london": "Caia without the DJ: oysters and cocktails",
+"london": "",
 "d": "An evening oyster-and-cocktail bar with Hyogo oysters flown in weekly and local-flavoured drinks.",
 "tip": "Evenings only, from 5pm. Order oysters and one local-spice cocktail.",
-"open": "medium"
+"open": "medium",
+"pp": "S$60-100",
+"energy": "buzzy",
+"cool": 4,
+"vibe": "Oysters and cocktails, date-y and current"
 },
 {
 "n": "The Studio by Juice",
@@ -6333,7 +7202,12 @@ const PLACES = [
 "src": "Tatler Asia (Katong guide)",
 "d": "A dim first-floor wine room with 200+ bottles. Tell the staff what you like and let them choose. Good for a date.",
 "tip": "Ask for a skin-contact or natural bottle.",
-"open": "medium"
+"open": "medium",
+"pp": "S$60-100",
+"energy": "calm",
+"cool": 4,
+"vibe": "Dim first-floor wine room, date night",
+"london": "Toklas: chill, wine-led, creative"
 },
 {
 "n": "Baba Chews Bar and Eatery",
@@ -6350,7 +7224,12 @@ const PLACES = [
 "src": "Honeycombers (Katong happy hours); TableCheck listings",
 "d": "A hotel bar in the old Joo Chiat police station building, pouring Peranakan-twist cocktails. Fine, not special.",
 "tip": "Order the Pandan Negroni.",
-"open": "high"
+"open": "high",
+"pp": "S$40-60",
+"energy": "calm",
+"cool": 2,
+"vibe": "Hotel bar, fine",
+"london": ""
 },
 {
 "n": "60ml by Asador",
@@ -6369,7 +7248,12 @@ const PLACES = [
 "src": "Little Steps Asia (new bars)",
 "d": "A speakeasy cocktail bar from the Asador / 94 Amoy St team.",
 "tip": "Check its exact door before going.",
-"open": "low"
+"open": "low",
+"pp": "S$50-80",
+"energy": "calm",
+"cool": 3,
+"vibe": "Speakeasy cocktail room",
+"london": ""
 },
 {
 "n": "Drunken Farmer (Joo Chiat)",
@@ -6381,15 +7265,17 @@ const PLACES = [
 ],
 "addr": "185 Joo Chiat Road, Singapore 427456",
 "price": "$$",
-"tags": [
-"you"
-],
+"tags": [],
 "p": 3,
 "src": "City Nomads; Little Day Out (no 2025-26 confirmation)",
-"london": "Toklas-ish natural wine and sourdough",
+"london": "",
 "d": "Natural wine with sourdough pizza and fermented snacks. Possibly closed: nothing dated after 2022.",
 "tip": "Call +65 6877 4884 before going.",
-"open": "low"
+"open": "low",
+"pp": "S$50-80",
+"energy": "buzzy",
+"cool": 3,
+"vibe": "Natural wine and pizza, possibly closed"
 },
 {
 "n": "Koon Seng Road shophouses",
@@ -6522,10 +7408,14 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Michelin One Star (2026, held since 2018); Asia's 50 Best Restaurants 2026 No. 59 (No. 38 in 2025)",
-"london": "The Barbary's counter and fire, at four or five times the price: budget S$250+ a head",
+"london": "Chiltern Firehouse: hardest table, buzzy scene",
 "d": "Dave Pynt's four-tonne brick-kiln barbecue, eaten at the counter. Buzzy, ingredient-first and smoke-led. If you do one big Singapore dinner, this is the one most likely to land.",
 "tip": "Book the counter, not a table, as soon as the booking window opens. Order the pulled-pork 'Burnt Ends sanger' and whatever is on the bone. The bar next door is a backup for walk-ins.",
-"open": "high"
+"open": "high",
+"pp": "S$250+",
+"energy": "buzzy",
+"cool": 5,
+"vibe": "Smoky counter, loud, the hardest booking in town"
 },
 {
 "n": "Candlenut",
@@ -6539,15 +7429,20 @@ const PLACES = [
 "tier": "nice",
 "price": "$$$",
 "tags": [
+"you",
 "famous",
 "classic"
 ],
 "p": 1,
 "src": "Michelin One Star (2026; distinction every year since 2016)",
-"london": "Gunpowder, elevated: home cooking taken seriously",
+"london": "Toklas: design-led, chill",
 "d": "Malcolm Lee's Peranakan cooking with Indonesian touches, in an airy bamboo-and-rattan room at COMO Dempsey. The best way into Nonya food at fine-dining level.",
 "tip": "Order the à la carte sharing plates (buah keluak) rather than the 10+ course tasting menu if you want buzz over ceremony.",
-"open": "high"
+"open": "high",
+"pp": "S$120-180",
+"energy": "calm",
+"cool": 3,
+"vibe": "Airy bamboo-and-rattan room at COMO Dempsey"
 },
 {
 "n": "Claudine",
@@ -6565,10 +7460,14 @@ const PLACES = [
 ],
 "p": 2,
 "src": "Michelin Guide (listed, Inspectors' favourite); Honeycombers (Apr 2026)",
-"london": "Chiltern Firehouse room, Brasserie Zédel-classics menu, but done well",
+"london": "Chiltern Firehouse: glam, handsome, see-and-be-seen",
 "d": "Julien Royer (Odette, three stars) cooking French brasserie classics in a converted 1930s chapel with an open kitchen. Very handsome room, with real cooking behind it.",
 "tip": "Order the vol-au-vent and the soufflé, with the strong wine-by-the-glass list. Book a weekend dinner.",
-"open": "high"
+"open": "high",
+"pp": "S$150-220",
+"energy": "scene",
+"cool": 4,
+"vibe": "Converted chapel, open kitchen, dressed-up crowd"
 },
 {
 "n": "Air",
@@ -6586,10 +7485,14 @@ const PLACES = [
 ],
 "p": 2,
 "src": "La Liste Opening of the Year (via Time Out); Honeycombers (Jan 2025); Ordinary Patrons (Jan 2026)",
-"london": "Acre / Sam's Riverside garden register",
+"london": "The River Cafe: relaxed, garden, expensive lunch",
 "d": "Opened by ex-Noma chef Matthew Orlando as a zero-waste, garden-led restaurant. A local team now runs a contemporary Asian menu. Produce-first, in a lush former civil service clubhouse.",
 "tip": "Order the purple potato flatbread and the glazed duck. Check whether the set menu (about S$88++ in 2024) is still running.",
-"open": "high"
+"open": "high",
+"pp": "S$150-220",
+"energy": "calm",
+"cool": 3,
+"vibe": "Lush garden clubhouse"
 },
 {
 "n": "Torno Subito",
@@ -6607,10 +7510,14 @@ const PLACES = [
 ],
 "p": 2,
 "src": "Michelin Guide (listed: 'Iconic', 'Trending'); Tatler Asia; SG Food on Foot 3.5/5 (Sep 2025)",
-"london": "",
+"london": "Cecconi's: buzzy, polished Italian, people-watching",
 "d": "Massimo Bottura's playful 1960s-Riviera trattoria. Tatler says the service lacks warmth and the room is louder than the food, but the tortellini is the real thing.",
 "tip": "Go for the weekday three-course lunch (about S$68++). Order the tortellini in 36-month Parmigiano. Closed Mon-Tue.",
-"open": "high"
+"open": "high",
+"pp": "S$100-150",
+"energy": "buzzy",
+"cool": 4,
+"vibe": "1960s Riviera colour, loud and fun"
 },
 {
 "n": "Min Jiang at Dempsey",
@@ -6630,7 +7537,12 @@ const PLACES = [
 "src": "Michelin Guide (listed; in 'Singapore's Best Chinese Food')",
 "d": "Goodwood Park Hotel's Cantonese-Sichuan restaurant in a colonial bungalow. Wood-fired Beijing duck carved at the table, and dim sum at lunch. Good for a group or for parents visiting.",
 "tip": "Pre-order the duck. Michelin recommends the Kung Pao chicken.",
-"open": "high"
+"open": "high",
+"pp": "S$70-110",
+"energy": "calm",
+"cool": 2,
+"vibe": "Colonial bungalow, families",
+"london": ""
 },
 {
 "n": "La Terrace",
@@ -6643,13 +7555,19 @@ const PLACES = [
 "addr": "39C Harding Road, Singapore 249541",
 "tier": "medium",
 "price": "$$",
-"tags": [],
+"tags": [
+"you"
+],
 "p": 3,
 "src": "Honeycombers (Apr 2026); Ordinary Patrons",
-"london": "Granger & Co with French accents",
+"london": "Granger & Co: airy, brunchy, easy",
 "d": "Claudine's casual, brunch-friendly sibling. Same kitchen, lower stakes.",
 "tip": "Go for brunch after a Botanic Gardens run.",
-"open": "high"
+"open": "high",
+"pp": "S$40-70",
+"energy": "calm",
+"cool": 3,
+"vibe": "Brunch terrace"
 },
 {
 "n": "Atout",
@@ -6667,7 +7585,12 @@ const PLACES = [
 "src": "Honeycombers (Apr 2026)",
 "d": "A French bistro next to Curly's market. Listed, but without strong critic coverage.",
 "tip": "Treat it as a fallback when Claudine is full.",
-"open": "medium"
+"open": "medium",
+"pp": "S$60-100",
+"energy": "calm",
+"cool": 3,
+"vibe": "French bistro by Curly's market",
+"london": ""
 },
 {
 "n": "Violet Oon Singapore at Dempsey",
@@ -6685,10 +7608,14 @@ const PLACES = [
 ],
 "p": 3,
 "src": "The Peak (opening, Apr 2025); Honeycombers (Apr 2026)",
-"london": "The Ivy of Peranakan (you rated The Ivy a 2): polished heritage brand",
+"london": "The Ivy (2): glossy brand, polished",
 "d": "The Violet Oon brand's largest flagship, opened April 2025, with an edible garden. Pretty, but Candlenut next door is the serious Peranakan meal.",
 "tip": "Only for visiting family who want the brand.",
-"open": "high"
+"open": "high",
+"pp": "S$60-100",
+"energy": "scene",
+"cool": 2,
+"vibe": "Big pretty heritage-brand flagship"
 },
 {
 "n": "Huber's Bistro",
@@ -6706,7 +7633,12 @@ const PLACES = [
 "src": "Ordinary Patrons (May 2024); ANZA (Jul 2025)",
 "d": "The bistro attached to Singapore's best-known butcher, refreshed in 2024. Simple meat done well.",
 "tip": "Order the burger or a steak at lunch.",
-"open": "high"
+"open": "high",
+"pp": "S$50-80",
+"energy": "calm",
+"cool": 2,
+"vibe": "Butcher's bistro, simple",
+"london": ""
 },
 {
 "n": "Canchita Peruvian Cuisine",
@@ -6724,7 +7656,12 @@ const PLACES = [
 "src": "Honeycombers (Apr 2026); Moneysmart Dempsey guide",
 "d": "Peruvian food with a good pisco sour and ceviche, according to the guides. Lifestyle-magazine sourcing only.",
 "tip": "Order the Ceviche Clásico and a pisco sour.",
-"open": "high"
+"open": "high",
+"pp": "S$60-90",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Casual Peruvian, Dempsey crowd",
+"london": ""
 },
 {
 "n": "Samy's Curry",
@@ -6738,15 +7675,20 @@ const PLACES = [
 "tier": "cheap",
 "price": "$",
 "tags": [
+"you",
 "classic",
 "hidden"
 ],
 "p": 1,
 "src": "Eatbook; Honeycombers ('least pretentious place on Dempsey Hill')",
-"london": "",
+"london": "Tayyabs: cheap, loud, institution",
 "d": "A family-run banana-leaf curry house serving since the 1960s, in a barracks hall. The best-value meal on the hill by a distance. A fish head order pushes it towards medium.",
 "tip": "About S$15 a head without fish head; a fish-head curry for the table pushes it to S$30-35.",
-"open": "high"
+"open": "high",
+"pp": "S$20-35",
+"energy": "chaotic",
+"cool": 3,
+"vibe": "Barracks hall, ceiling fans, banana leaves"
 },
 {
 "n": "Adam Rd Noo Cheng Big Prawn Noodle",
@@ -6766,7 +7708,12 @@ const PLACES = [
 "src": "Michelin Bib Gourmand 2026",
 "d": "Big-prawn noodle soup at the hawker centre by the Gardens' north (Bukit Timah) end.",
 "tip": "Order the dry version with soup on the side. Pair it with a Gardens run finishing at the north gate.",
-"open": "high"
+"open": "high",
+"pp": "S$8-12",
+"energy": "calm",
+"cool": 1,
+"vibe": "Hawker stall",
+"london": ""
 },
 {
 "n": "Selamat Datang Warong Pak Sapari",
@@ -6786,7 +7733,12 @@ const PLACES = [
 "src": "Michelin Bib Gourmand 2026",
 "d": "Malay noodle specialist, a Bib since 2023.",
 "tip": "Order the mee soto or mee rebus.",
-"open": "high"
+"open": "high",
+"pp": "S$5-8",
+"energy": "calm",
+"cool": 1,
+"vibe": "Hawker stall",
+"london": ""
 },
 {
 "n": "Bahrakath Mutton Soup",
@@ -6806,7 +7758,12 @@ const PLACES = [
 "src": "Michelin Bib Gourmand 2026",
 "d": "Spiced Indian-Muslim mutton soup. The third Bib in the same small centre.",
 "tip": "Order the soup with bread to dip.",
-"open": "high"
+"open": "high",
+"pp": "S$6-10",
+"energy": "calm",
+"cool": 1,
+"vibe": "Hawker stall",
+"london": ""
 },
 {
 "n": "Holland Village Market & Food Centre",
@@ -6826,7 +7783,12 @@ const PLACES = [
 "src": "Honeycombers Holland V guide (2024); no Bib stalls",
 "d": "The real reason to stop in Holland V. Ghim Moh, 1km west, has better stalls.",
 "tip": "Order the laksa (a 363 Katong Laksa branch is on Lorong Mambong).",
-"open": "high"
+"open": "high",
+"pp": "S$5-10",
+"energy": "buzzy",
+"cool": 1,
+"vibe": "Neighbourhood hawker centre",
+"london": ""
 },
 {
 "n": "Original Sin",
@@ -6844,10 +7806,14 @@ const PLACES = [
 ],
 "p": 3,
 "src": "Honeycombers Holland V guide (2024)",
-"london": "Comptoir-adjacent; better than it sounds",
+"london": "",
 "d": "A long-running vegetarian Mediterranean restaurant in the Chip Bee Gardens shophouses. Dependable, not thrilling.",
 "tip": "Good for a vegetarian friend.",
-"open": "high"
+"open": "high",
+"pp": "S$50-80",
+"energy": "calm",
+"cool": 2,
+"vibe": "Dependable shophouse room"
 },
 {
 "n": "MyX",
@@ -6867,7 +7833,12 @@ const PLACES = [
 "src": "SG Food on Foot (Jan 2026)",
 "d": "New from Eleven Co. Group: comfort food from the American coastal South and Latin America. Untested by critics.",
 "tip": "Only if you're curious.",
-"open": "medium"
+"open": "medium",
+"pp": "S$50-80",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "New group-run room, untested",
+"london": ""
 },
 {
 "n": "Keong Saik Bakery (Chip Bee Gardens)",
@@ -6924,7 +7895,12 @@ const PLACES = [
 "src": "Expat Living (Dempsey bars)",
 "d": "A wine bar with about a dozen by the glass and 300+ bottles, at the quiet Loewen end of Dempsey. The best drink on the hill.",
 "tip": "Opens from 3pm (2pm weekends).",
-"open": "medium"
+"open": "medium",
+"pp": "S$60-100",
+"energy": "calm",
+"cool": 3,
+"vibe": "Quiet wine bar at Loewen",
+"london": "Toklas: chill wine room"
 },
 {
 "n": "The Slow House (Maison Garden)",
@@ -6937,14 +7913,19 @@ const PLACES = [
 "addr": "#01-01/02/06, 13 Dempsey Road, Singapore 249674",
 "price": "$$",
 "tags": [
+"you",
 "new"
 ],
 "p": 3,
 "src": "Honeycombers (Apr 2026)",
-"london": "Petersham Nurseries' bar",
+"london": "Jolene: pretty café by day",
 "d": "A floral cafe by day and botanical cocktail bar by night. New and pretty, still unproven.",
 "tip": "Go for an early-evening drink before dinner on the hill.",
-"open": "high"
+"open": "high",
+"pp": "S$50-80",
+"energy": "calm",
+"cool": 3,
+"vibe": "Floral café by day, cocktail bar by night"
 },
 {
 "n": "The Dempsey Cookhouse & Bar",
@@ -6956,13 +7937,19 @@ const PLACES = [
 ],
 "addr": "17D Dempsey Road, Singapore 249676",
 "price": "$$$",
-"tags": [],
+"tags": [
+"you"
+],
 "p": 3,
 "src": "Honeycombers (Apr 2026); VisitSingapore bar trail",
-"london": "Chiltern Firehouse bar (Jean-Georges connection)",
+"london": "Cecconi's: polished, buzzy, people-watching",
 "d": "A Jean-Georges-linked room with good gin cocktails. A pre-dinner drink, not a dinner.",
 "tip": "Order the Summer Negroni.",
-"open": "medium"
+"open": "medium",
+"pp": "S$60-100",
+"energy": "scene",
+"cool": 3,
+"vibe": "Jean-Georges room, chandeliers, Dempsey set"
 },
 {
 "n": "Le Bon Funk (Holland V)",
@@ -6974,15 +7961,17 @@ const PLACES = [
 ],
 "addr": "277 Holland Avenue, Singapore 278994",
 "price": "$$",
-"tags": [
-"you"
-],
+"tags": [],
 "p": 3,
 "src": "Honeycombers Holland V guide (Jul 2024); no 2025-26 confirmation found",
-"london": "Toklas bar",
+"london": "",
 "d": "A natural wine bar with small plates. Status uncertain.",
 "tip": "Check Instagram before going.",
-"open": "low"
+"open": "low",
+"pp": "S$60-90",
+"energy": "buzzy",
+"cool": 3,
+"vibe": "Natural wine bar, status uncertain"
 },
 {
 "n": "Huber's Butchery",
@@ -7132,7 +8121,12 @@ const PLACES = [
 "src": "Michelin Bib Gourmand 2026",
 "d": "Teochew boneless braised duck on rice or noodles. The best lunch within reach of campus.",
 "tip": "Order the duck rice with braised egg. Avoid 12-1pm and Mondays.",
-"open": "high"
+"open": "high",
+"pp": "S$5-8",
+"energy": "calm",
+"cool": 1,
+"vibe": "Hawker stall",
+"london": ""
 },
 {
 "n": "Ghim Moh Chwee Kueh",
@@ -7153,7 +8147,12 @@ const PLACES = [
 "src": "Seth Lui (Michelin Plate); Women's Weekly; selling since 1959",
 "d": "Steamed rice cakes with preserved radish. Breakfast before an 8:30am class.",
 "tip": "Order six pieces with chilli. Recognition has varied by year (Michelin Plate, per Seth Lui).",
-"open": "high"
+"open": "high",
+"pp": "S$3-5",
+"energy": "calm",
+"cool": 1,
+"vibe": "Hawker stall",
+"london": ""
 },
 {
 "n": "Margaret Drive Sin Kee Chicken Rice",
@@ -7174,7 +8173,12 @@ const PLACES = [
 "src": "Michelin Bib Gourmand 2026 (on the Bib list since 2018)",
 "d": "Poached-only Hainanese chicken rice, with juicy meat, fragrant rice and ginger. Queues are long but move fast.",
 "tip": "Closed Mondays. Hours conflict (11am-4pm or 11am-8pm), so go at lunch.",
-"open": "high"
+"open": "high",
+"pp": "S$5-8",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Fast-moving lunch queue",
+"london": ""
 },
 {
 "n": "New Lucky Claypot Rice",
@@ -7194,7 +8198,12 @@ const PLACES = [
 "src": "Michelin Bib Gourmand 2026",
 "d": "Charcoal claypot rice with lap cheong and chicken, and the crispy crust at the bottom. Cooked to order, so it's slow.",
 "tip": "Call ahead or order first, then wait about 20 min.",
-"open": "high"
+"open": "high",
+"pp": "S$10-20",
+"energy": "calm",
+"cool": 1,
+"vibe": "Hawker stall, slow",
+"london": ""
 },
 {
 "n": "Timbre+ One-North",
@@ -7210,10 +8219,14 @@ const PLACES = [
 "tags": [],
 "p": 2,
 "src": "My pick, for convenience: the campus local. The food is middling",
-"london": "Maltby Street Market energy, which you rated a 2",
+"london": "Maltby Street Market (2): crowded, scrappy",
 "d": "A container food park with live music, a few minutes from INSEAD. The food is so-so. Go for after-class beers with the cohort, not for dinner.",
 "tip": "Go for live music and happy hour.",
-"open": "medium"
+"open": "medium",
+"pp": "S$15-30",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Container food park, live music, cohort beers"
 },
 {
 "n": "Colbar",
@@ -7227,15 +8240,20 @@ const PLACES = [
 "tier": "medium",
 "price": "$$",
 "tags": [
+"you",
 "classic",
 "hidden"
 ],
 "p": 1,
 "src": "Monocle Singapore travel guide; Eatbook (Aug 2025)",
-"london": "A Pimlico greasy spoon preserved in amber",
+"london": "",
 "d": "A 1953 British-army canteen, still run by the same couple and barely changed. Western fry-ups under ceiling fans. Peak nostalgia and a great antidote to one-north glass.",
 "tip": "Order the sirloin with egg, chips and beans (S$30), plus a Tiger. Hours conflict, but it's roughly 11am-10pm, closed Mondays.",
-"open": "high"
+"open": "high",
+"pp": "S$20-35",
+"energy": "calm",
+"cool": 4,
+"vibe": "1953 army canteen under ceiling fans, nostalgic"
 },
 {
 "n": "Les Bouchons Rochester",
@@ -7251,10 +8269,14 @@ const PLACES = [
 "tags": [],
 "p": 3,
 "src": "Time Out Singapore; Women's Weekly SG (2022)",
-"london": "Brasserie Blanc register (you rated it a 2)",
+"london": "Brasserie Blanc (2): safe, chain-ish bistro",
 "d": "Steak-frites in a colonial bungalow with a pétanque court. Fine for a cohort dinner, not for you.",
 "tip": "The weekday set lunch was S$35++ in 2022. Closed Mondays.",
-"open": "medium"
+"open": "medium",
+"pp": "S$60-90",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Colonial bungalow steak-frites, cohort dinners"
 },
 {
 "n": "Min Jiang at One-North",
@@ -7274,7 +8296,12 @@ const PLACES = [
 "src": "No independent rating for this branch found (its Dempsey sister is Michelin-listed); lower confidence",
 "d": "Goodwood Park's Chinese restaurant in a Rochester Park bungalow. The nearest proper sit-down near campus for a group or a recruiter lunch.",
 "tip": "Dim sum lunch.",
-"open": "medium"
+"open": "medium",
+"pp": "S$60-100",
+"energy": "calm",
+"cool": 2,
+"vibe": "Bungalow Chinese, groups",
+"london": ""
 },
 {
 "n": "Kent Ridge Park & Canopy Walk",
@@ -7367,7 +8394,11 @@ const PLACES = [
 "london": "",
 "d": "Fico's second site, opened 28 Sep 2026 inside a Sentosa beach club. Untested: about three weeks old and no critic has been yet, so the parent's Bib Gourmand does not transfer. Beach-club setting, so style-over-substance risk.",
 "tip": "Book on +65 9750 5323. Open 9am-9pm at weekends.",
-"open": "medium"
+"open": "medium",
+"pp": "S$60-100",
+"energy": "buzzy",
+"cool": 3,
+"vibe": "Beach-club setting, untested"
 },
 {
 "n": "Tanjong Beach Club",
@@ -7380,14 +8411,19 @@ const PLACES = [
 "addr": "120 Tanjong Beach Walk, Sentosa",
 "price": "$$$",
 "tags": [
+"you",
 "famous"
 ],
 "p": 2,
 "src": "Condé Nast Traveller (cited as one of the World's Best Beach Clubs, via SilverKris)",
-"london": "Caia energy, on sand",
+"london": "Caia: DJ-led, vibey, on sand",
 "d": "Sentosa's least tacky beach club: cocktails and wood-fired seafood on the quietest beach.",
 "tip": "Go at sunset on a weekday. Weekends get loud.",
-"open": "high"
+"open": "high",
+"pp": "S$60-100",
+"energy": "scene",
+"cool": 4,
+"vibe": "Sentosa beach club, DJs and sunset crowd"
 },
 {
 "n": "Palawan Beach",
@@ -7498,7 +8534,12 @@ const PLACES = [
 "src": "Eatbook (best nasi lemak list); Culture Trip; Seth Lui Changi Village guide",
 "d": "The famous Changi Village nasi lemak, by the ferry terminal. The post-Ubin meal.",
 "tip": "Order the chicken wing set. Hassan Stall (#01-29) for mee rebus is the alternative.",
-"open": "high"
+"open": "high",
+"pp": "S$4-7",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Changi Village stall by the ferry",
+"london": ""
 },
 {
 "n": "MacRitchie TreeTop Walk",
@@ -7706,6 +8747,294 @@ const PLACES = [
 "d": "A flooded granite quarry with cliffs. A quiet add-on to Bukit Timah.",
 "tip": "Walk over after the summit.",
 "open": "high"
+},
+{
+"n": "Temper",
+"t": "drink",
+"h": "chinatown",
+"at": [
+1.2787,
+103.8421
+],
+"addr": "#01-07 Mondrian Singapore Duxton, 83 Neil Rd",
+"price": "$$$",
+"tags": [
+"you",
+"new"
+],
+"p": 1,
+"src": "Time Out Singapore; Star Wine List 2026",
+"pp": "S$60-100",
+"energy": "buzzy",
+"cool": 5,
+"vibe": "Bauhaus wine room upstairs, lounge with DJs Wed-Sat below",
+"london": "Caia: DJ, music-led, good drinks",
+"d": "A wine room and cocktail lounge in the Mondrian with live R&B and jazz sessions plus DJs Wednesday to Saturday. Two Star Wine List awards in its first year.",
+"tip": "Go Friday after 10pm for the DJ; start upstairs with a glass, finish in the lounge."
+},
+{
+"n": "Employees Only",
+"t": "drink",
+"h": "chinatown",
+"at": [
+1.2821,
+103.8475
+],
+"addr": "112 Amoy St",
+"price": "$$$",
+"tags": [
+"you",
+"famous"
+],
+"p": 2,
+"src": "Tatler Best 20 Bars 2026",
+"pp": "S$60-100",
+"energy": "scene",
+"cool": 4,
+"vibe": "Loud New York import, fortune-teller at the door, packed and flirty",
+"london": "Chiltern Firehouse bar: busy, glam, see-and-be-seen",
+"d": "The NYC bar brand's Singapore outpost: free-poured drinks, a dining room behind and a crowd that stays late. More party than reverence.",
+"tip": "Late on a Friday; eat in the back room if you want a table."
+},
+{
+"n": "Wakuda",
+"t": "eat",
+"h": "marina",
+"at": [
+1.2835,
+103.8606
+],
+"addr": "Hotel Tower 2 lobby, Marina Bay Sands, 10 Bayfront Ave",
+"tier": "nice",
+"price": "$$$$",
+"tags": [
+"splurge",
+"famous"
+],
+"p": 2,
+"src": "Star Wine List; The Hotel Journal (Apr 2026)",
+"pp": "S$150-250",
+"energy": "scene",
+"cool": 3,
+"vibe": "Dark glam lobby room, banquettes, a dressed-up crowd",
+"london": "Nobu: glam, expensive Japanese scene",
+"d": "Tetsuya Wakuda's sleek Japanese room in the MBS lobby, the nearest thing Singapore has to Nobu. Hotel-crowd glossy, but done properly.",
+"tip": "Book a banquette and order sashimi and the wagyu."
+},
+{
+"n": "Mott 32",
+"t": "eat",
+"h": "marina",
+"at": [
+1.2842,
+103.859
+],
+"addr": "Galleria Level, The Shoppes at Marina Bay Sands, 2 Bayfront Ave",
+"tier": "nice",
+"price": "$$$",
+"tags": [
+"famous"
+],
+"p": 3,
+"src": "Tatler; Forbes Travel Guide",
+"pp": "S$120-180",
+"energy": "scene",
+"cool": 3,
+"vibe": "Moody Hong Kong-glam dining room, big groups and dates",
+"london": "Nobu: glam, expensive, a scene room",
+"d": "Hong Kong's glam Cantonese brand in a dark, designed room at MBS. The applewood Peking duck is the reason. It's in a mall and it's a chain, so it's slick more than cool.",
+"tip": "Pre-order the Peking duck and come in a group of four or more."
+},
+{
+"n": "COTE Korean Steakhouse",
+"t": "eat",
+"h": "orchard",
+"at": [
+1.3043,
+103.8368
+],
+"addr": "Level 3, COMO Orchard, 30 Bideford Rd",
+"tier": "nice",
+"price": "$$$",
+"tags": [
+"splurge"
+],
+"p": 2,
+"src": "Eatbook; Esquire Singapore; Ordinary Patrons (2025)",
+"pp": "S$130-200",
+"energy": "scene",
+"cool": 4,
+"vibe": "Dark, sexy steakhouse with tabletop grills and a dressed-up crowd",
+"london": "Chiltern Firehouse: glam, buzzy, a night out",
+"d": "The Michelin-starred New York Korean steakhouse, now at COMO Orchard: grills in the tables, a loud room and a well-dressed crowd. The latest review is from 2025, so confirm it's still open before you book.",
+"tip": "Order the Butcher's Feast for the table and start at the bar."
+},
+{
+"n": "Cenzo",
+"t": "eat",
+"h": "chinatown",
+"at": [
+1.2818,
+103.8458
+],
+"addr": "81 Club St",
+"tier": "medium",
+"price": "$$",
+"tags": [
+"you"
+],
+"p": 1,
+"src": "Time Out Singapore (Jul 2026)",
+"pp": "S$70-110",
+"energy": "buzzy",
+"cool": 4,
+"vibe": "Small shophouse, chef-run, a grown-up Club St crowd",
+"london": "Acre: cool neighbourhood small plates, mid-price",
+"d": "Drew Nocente's Australian-Italian small plates and fresh pasta, with the menu refreshed in 2026 and now open seven days. Time Out says it is more confident than ever.",
+"tip": "Get the wagyu tartare cannoli and the crab-and-uni tarts, then a pasta each."
+},
+{
+"n": "Maggie's",
+"t": "eat",
+"h": "chinatown",
+"at": [
+1.2789,
+103.8414
+],
+"addr": "#01-04, 1 Keong Saik Rd",
+"tier": "medium",
+"price": "$$",
+"tags": [
+"you",
+"new"
+],
+"p": 1,
+"src": "Time Out Singapore (Jul 2026); Honeycombers",
+"pp": "S$70-110",
+"energy": "buzzy",
+"cool": 5,
+"vibe": "70s grandma-chic: chandeliers, old TVs, a cool Keong Saik crowd",
+"london": "Toklas meets Chiltern: design-led and buzzy",
+"d": "A playful 'almost Chinese' bistro from the Marcy's team, in a mad retro room. It is one of the cooler new rooms on Keong Saik.",
+"tip": "Golden Prawn Croque Madame and cod milt; book a Friday."
+},
+{
+"n": "Marcy's",
+"t": "eat",
+"h": "chinatown",
+"at": [
+1.2788,
+103.8435
+],
+"addr": "39-40 Duxton Rd",
+"tier": "nice",
+"price": "$$$",
+"tags": [
+"you"
+],
+"p": 1,
+"src": "Time Out Singapore; F Zine; Seth Lui",
+"pp": "S$90-140",
+"energy": "scene",
+"cool": 4,
+"vibe": "Edgy, sexy seafood bistro-bar, loud music, glamorous Duxton crowd",
+"london": "Chiltern Firehouse: glam, buzzy, the scene",
+"d": "A seafood sharing-plates bar with a dark, mirrored room and a party feel late on. Reviewers rave about the sauces. Its company filings are current to April 2026, but the newest reviews date from 2024.",
+"tip": "Start with crab toast at the bar, then book a late table for the arroz negro."
+},
+{
+"n": "Firangi Superstar",
+"t": "eat",
+"h": "chinatown",
+"at": [
+1.278,
+103.8424
+],
+"addr": "20 Craig Rd",
+"tier": "medium",
+"price": "$$$",
+"tags": [
+"you"
+],
+"p": 2,
+"src": "The Infatuation Singapore",
+"pp": "S$80-120",
+"energy": "buzzy",
+"cool": 3,
+"vibe": "Art-deco colonial fantasy rooms, birthdays and dates",
+"london": "Cecconi's: polished, buzzy, people-watching",
+"d": "Indian food in a theatrical set of designed rooms. It's fun, it's buzzy, and it's a bit of a stage set. The tandoori lamb saddle is the order. Only an undated listing confirms it is open, so check before you go.",
+"tip": "Chai masala cocktail first, then the tandoori lamb saddle to share."
+},
+{
+"n": "Night Hawk",
+"t": "drink",
+"h": "chinatown",
+"at": [
+1.2789,
+103.8441
+],
+"addr": "#01-02, 43 Tanjong Pagar Rd",
+"price": "$$$",
+"tags": [
+"you",
+"hidden"
+],
+"p": 2,
+"src": "Tatler Best 20 Bars 2026",
+"pp": "S$60-90",
+"energy": "calm",
+"cool": 4,
+"vibe": "25-seat retro-futurist Hopper-diner speakeasy, date-y",
+"london": "",
+"d": "A tiny cocktail bar built around the Edward Hopper painting, with small American plates. Intimate rather than loud.",
+"tip": "Go as two, early, before the Tanjong Pagar crawl fills it."
+},
+{
+"n": "Gibson",
+"t": "drink",
+"h": "chinatown",
+"at": [
+1.2791,
+103.8409
+],
+"addr": "Level 2, 20 Bukit Pasoh Rd",
+"price": "$$$",
+"tags": [
+"classic"
+],
+"p": 3,
+"src": "Tatler Best 20 Bars 2026",
+"pp": "S$60-100",
+"energy": "buzzy",
+"cool": 3,
+"vibe": "Polished, playful upstairs bar, raw-bar snacks, dressed-up after-work crowd",
+"london": "Cecconi's: polished, buzzy",
+"d": "The Jigger & Pony group's upstairs bar, ten years old in 2026 with a 'Timeless' menu and tableside blazer serves. It's a good first stop before Live Twice downstairs.",
+"tip": "Order the house Gibson with the quail egg, then go downstairs to Live Twice."
+},
+{
+"n": "Fura",
+"t": "drink",
+"h": "chinatown",
+"at": [
+1.2804,
+103.8466
+],
+"addr": "Level 2, 74A Amoy St",
+"price": "$$$",
+"tags": [
+"you"
+],
+"p": 3,
+"src": "Tatler Best 20 Bars 2026",
+"pp": "S$60-90",
+"energy": "calm",
+"cool": 4,
+"vibe": "Upstairs townhouse bar with a garden, creative and green-minded",
+"london": "Toklas: design-led, chill, creative crowd",
+"d": "A sustainability-minded cocktail bar with inventive small plates in a second-floor townhouse. Quieter and more designed than its Amoy St neighbours.",
+"tip": "Eat here as well: the small plates work as dinner."
 }
 ];
 const WALKS = [
@@ -7952,9 +9281,9 @@ const TOP = [
  {n:'Kotuwa', why:'Sri Lankan from a two-star chef, now at New Bahru on the river. Your Gunpowder: hoppers, kottu, the crab curry. Then Bar Bon Funk upstairs.'},
  {n:'Belimbing', why:'New-generation Singaporean small plates above the Coconut Club. The most Morito/Acre-shaped new opening in town.'},
  {n:'Esquina', why:'Sit at the ground-floor counter facing the kitchen on Jiak Chuan Rd. The Keong Saik weeknight.'},
- {n:'Seroja', why:'Two Michelin stars, 24 seats, Malay-archipelago produce. The splurge, if there is one. Book weeks out.'},
+ {n:'1887 by André', why:'André Chiang\'s return, inside Raffles: two stars, Opening of the Year, a breathtaking room and the hot ticket of 2026. Your Chiltern Firehouse night. Book now.'},
  {n:'Tiong Bahru Market & Food Centre', why:'Saturday breakfast upstairs (chwee kueh, chicken rice, prawn mee), then wander the Art Deco estate.'},
- {n:'Tekka Centre (hawker floor and wet market)', why:'Four Michelin-listed stalls in one building. Delhi Lahori naan at 9am is your Tayyabs.'},
+ {n:'Kok Sen', why:'Open-front Keong Saik coffeeshop, packed tables and beer towers, everyone\'s regular. Your Tayyabs. Arrive by 5:45pm.'},
  {n:'Southern Ridges: Mount Faber to Henderson Waves', why:'Your run, from the front door: up Mount Faber to the wave bridge, before 7:30am.'},
  {n:'Ma Cuisine', why:'A French bistro built around a serious cellar, with a star. The Toklas / Noble Rot room.'},
  {n:'Nutmeg & Clove', why:'No. 12 in Asia: Singapore history in a glass. Then upstairs to Last Word.'},
@@ -7962,7 +9291,7 @@ const TOP = [
  {n:'Fico (East Coast Park)', why:'Bib Gourmand pasta by the sea, Padella-ish. Run East Coast Park first.'},
  {n:'The Coconut Club', why:'The nasi lemak everyone measures against. Padella-style: one dish, done obsessively.'},
  {n:'Province', why:'Katong\'s chef-led neighbourhood room: your Acre in the east. Pair it with a Joo Chiat afternoon.'},
- {n:'Meta', why:'Two Michelin stars on Mohamed Sultan Rd: Korean-modern, seafood and vegetables, one menu. The river\'s big night.'},
+ {n:'Maggie\'s', why:'The coolest new room on Keong Saik: 70s grandma-chic, chandeliers, a playful almost-Chinese bistro. Book a Friday.'},
  {n:'Jigger & Pony', why:'No. 9 in Asia, the best bar in Singapore on the 2026 list. Book or go early.'},
  {n:'Singapore Botanic Gardens', why:'Kew, but free and open from 5am. A dawn loop, then breakfast at Dempsey.'},
  {n:'Sultan Mosque (Masjid Sultan)', why:'The golden dome at dusk from Bussorah St, then the reopened Malay Heritage Centre next door.'},

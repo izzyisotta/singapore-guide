@@ -1,0 +1,1966 @@
+{
+ "rescore": [
+  {
+   "n": "Tiong Bahru Hainanese Boneless Chicken Rice",
+   "pp": "S$5-8",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Market-floor stall with a lunchtime queue of estate regulars",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Hong Heng Fried Sotong Prawn Mee",
+   "pp": "S$6-10",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Upstairs-market stall, wok noise and a steady line",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Jian Bo Shui Kueh",
+   "pp": "S$3-5",
+   "energy": "buzzy",
+   "cool": 3,
+   "vibe": "1955 breakfast stall, the Tiong Bahru morning ritual",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Lor Mee 178",
+   "pp": "S$4-6",
+   "energy": "buzzy",
+   "cool": 1,
+   "vibe": "Plain hawker stall, older local regulars",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Koh Brother Pig's Organ Soup",
+   "pp": "S$5-8",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Quiet stall for offal regulars",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Tow Kwar Pop",
+   "pp": "S$4-6",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Snack stall, grab and go",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Loo's Hainanese Curry Rice",
+   "pp": "S$6-9",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Messy lunch-rush stall, office workers and old-timers",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Hua Bee (mee pok)",
+   "pp": "S$5-7",
+   "energy": "calm",
+   "cool": 4,
+   "vibe": "Photogenic old coffeeshop with marble tables, a film-set room",
+   "london": "",
+   "you": true
+  },
+  {
+   "n": "Por Kee Eating House 1996",
+   "pp": "S$35-50",
+   "energy": "buzzy",
+   "cool": 3,
+   "vibe": "Plastic tables under the flats, loud groups and beer towers",
+   "london": "Tayyabs: loud, cheap, beloved local institution",
+   "you": true
+  },
+  {
+   "n": "Sin Hoi Sai (Tiong Bahru)",
+   "pp": "S$40-70",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Outdoor tables and crab tanks, family feasts late into the night",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Magpie",
+   "pp": "S$70-110",
+   "energy": "buzzy",
+   "cool": 4,
+   "vibe": "Chef-owned neighbourhood room with a young, creative, wine-drinking crowd",
+   "london": "Acre: cool neighbourhood chef-led small plates",
+   "you": true
+  },
+  {
+   "n": "Casa Cicheti (Tiong Bahru)",
+   "pp": "S$50-80",
+   "energy": "buzzy",
+   "cool": 3,
+   "vibe": "Open-kitchen neighbourhood trattoria, couples and friends",
+   "london": "Padella, sit-down: easy pasta, neighbourhood buzz",
+   "you": true
+  },
+  {
+   "n": "Canjob Taproom",
+   "pp": "S$15-30",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Estate taproom, one-beer stop",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Jia Xiang Mee Siam",
+   "pp": "S$4-6",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Locals-only estate stall",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Wok Hei Hor Fun",
+   "pp": "S$5-8",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Ordinary food-centre stall",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Fu Ming Cooked Food (carrot cake)",
+   "pp": "S$4-6",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Ordinary food-centre stall",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Na Na Curry",
+   "pp": "S$5-8",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Estate food centre, zero tourists",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Yong Chun Wan Ton Noodle",
+   "pp": "S$4-6",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Ordinary noodle stall",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Hong Kong Yummy Soup",
+   "pp": "S$6-10",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Restorative lunch counter, no scene",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Tiong Bahru Lien Fa Shui Jing Pau",
+   "pp": "S$3-6",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Takeaway dumpling counter",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Tian Tian Hainanese Chicken Rice",
+   "pp": "S$5-8",
+   "energy": "chaotic",
+   "cool": 1,
+   "vibe": "Tourist queue in Maxwell's busiest aisle",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Maxwell Fuzhou Oyster Cake",
+   "pp": "S$3-5",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Fryer stall, eat standing",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "A Noodle Story",
+   "pp": "S$8-12",
+   "energy": "buzzy",
+   "cool": 3,
+   "vibe": "Chef-hawker stall with a young-professional queue",
+   "london": "Padella: cheap, cool, queue-worthy",
+   "you": true
+  },
+  {
+   "n": "Han Kee Fish Soup",
+   "pp": "S$5-8",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Office-lunch queue that sells out",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "J2 Famous Crispy Curry Puff",
+   "pp": "S$2-5",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Takeaway counter",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Hoo Kee Bak Chang",
+   "pp": "S$4-7",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Takeaway counter",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Ah Ter Authentic Teochew Fish Ball Noodles",
+   "pp": "S$5-7",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Old-school stall, local regulars",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Lian He Ben Ji Claypot",
+   "pp": "S$15-25",
+   "energy": "chaotic",
+   "cool": 2,
+   "vibe": "Long evening wait at the charcoal stoves, food-complex crowd",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Xiu Ji Ikan Bilis Yong Tau Fu",
+   "pp": "S$5-8",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Quiet heritage stall",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Ji Ji Noodle House",
+   "pp": "S$5-8",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Plain noodle shop, local lunch crowd",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Outram Park Fried Kway Teow Mee",
+   "pp": "S$4-6",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Hawker wok stall, local queue",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Tai Wah Pork Noodle",
+   "pp": "S$6-10",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Busy noodle stall, locals",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Heng Kee Curry Chicken Noodle",
+   "pp": "S$5-8",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Ordinary curry-noodle stall",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Kok Sen",
+   "pp": "S$35-50",
+   "energy": "chaotic",
+   "cool": 4,
+   "vibe": "Open-front Keong Saik coffeeshop, packed tables and beer, locals plus in-the-know expats",
+   "london": "Tayyabs: loud, cheap, queue, institution",
+   "you": true
+  },
+  {
+   "n": "Esquina",
+   "pp": "S$80-120",
+   "energy": "buzzy",
+   "cool": 3,
+   "vibe": "Narrow counter facing the kitchen, date-night couples",
+   "london": "The Barbary Next Door: tiny buzzy kitchen counter",
+   "you": true
+  },
+  {
+   "n": "Revolver",
+   "pp": "S$100-150",
+   "energy": "buzzy",
+   "cool": 4,
+   "vibe": "Moody counter round the fire, loud playlist, cool CBD crowd",
+   "london": "Gunpowder: small, buzzy, cool, a step pricier",
+   "you": true
+  },
+  {
+   "n": "Gaston",
+   "pp": "S$70-110",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Relaxed bistro-wine bar, French regulars and couples",
+   "london": "Toklas: chill, grown-up wine-room ease",
+   "you": true
+  },
+  {
+   "n": "Nómada",
+   "pp": "S$80-120",
+   "energy": "buzzy",
+   "cool": 3,
+   "vibe": "Small smart-casual room, after-work crowd",
+   "london": "Morito: buzzy small plates, a notch up",
+   "you": true
+  },
+  {
+   "n": "FOC (Central)",
+   "pp": "S$70-100",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Big groupy tapas hall, birthday tables and pitchers",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Olivia",
+   "pp": "S$90-140",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Glossy room, polished couples and business dinners",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Kafe Utu",
+   "pp": "S$40-70",
+   "energy": "buzzy",
+   "cool": 4,
+   "vibe": "Three-storey plant-filled shophouse, weekend brunch crowd, cocktails upstairs",
+   "london": "Granger & Co: easy brunch with more character",
+   "you": true
+  },
+  {
+   "n": "Cumi Bali",
+   "pp": "S$25-40",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Homely, dated room, quiet lunches",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "The Blue Ginger",
+   "pp": "S$40-60",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Old-school shophouse dining rooms, families and visiting parents",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Whole Earth",
+   "pp": "S$40-60",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Sensible quiet room, family groups",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Fat Prince",
+   "pp": "S$60-90",
+   "energy": "buzzy",
+   "cool": 3,
+   "vibe": "Front bar and open kitchen, after-work cocktail crowd",
+   "london": "The Barbary Next Door: bar seats, open-kitchen buzz",
+   "you": true
+  },
+  {
+   "n": "Hayop",
+   "pp": "S$70-100",
+   "energy": "buzzy",
+   "cool": 3,
+   "vibe": "Intimate wood-lined room, curious foodie crowd",
+   "london": "Gunpowder: small, buzzy, something different",
+   "you": true
+  },
+  {
+   "n": "Ingleside",
+   "pp": "S$100-150",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Marble-and-leather grown-up room, quietly confident",
+   "london": "Acre, dressed up: chef-led, a bit pricier",
+   "you": true
+  },
+  {
+   "n": "Jungle",
+   "pp": "S$50-80",
+   "energy": "buzzy",
+   "cool": 3,
+   "vibe": "Cosy, playlist-led room with a young crowd",
+   "london": "Gunpowder: small, buzzy, mid-price",
+   "you": true
+  },
+  {
+   "n": "Le Bon Funk",
+   "pp": "S$80-120",
+   "energy": "buzzy",
+   "cool": 5,
+   "vibe": "Tiny packed natural-wine bar, the Club St in-crowd",
+   "london": "The Barbary Next Door: tiny, buzzy, cool",
+   "you": true
+  },
+  {
+   "n": "Cloudstreet",
+   "pp": "S$350+",
+   "energy": "calm",
+   "cool": 4,
+   "vibe": "Sleek two-star room, special-occasion crowd",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Born",
+   "pp": "S$350+",
+   "energy": "calm",
+   "cool": 4,
+   "vibe": "Soaring glass-roofed heritage room, hushed and theatrical",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Zén",
+   "pp": "S$600+",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Hushed three-floor theatre, wealthy gourmand crowd",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Nouri",
+   "pp": "S$300+",
+   "energy": "calm",
+   "cool": 4,
+   "vibe": "Communal marble table and counter, chatty, intellectual crowd",
+   "london": "The Barbary Next Door, splurge: counter seats, chatty",
+   "you": true
+  },
+  {
+   "n": "Nae:um",
+   "pp": "S$250+",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Calm wooden room, quiet tasting-menu couples",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Araya",
+   "pp": "S$350+",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Hotel tasting room, formal",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Ma Cuisine",
+   "pp": "S$150-250",
+   "energy": "buzzy",
+   "cool": 4,
+   "vibe": "Small convivial bistro, wine people and expat regulars",
+   "london": "La Famiglia: warm, wine-led, regulars' room",
+   "you": true
+  },
+  {
+   "n": "Fiz",
+   "pp": "S$200-300",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Modern dining room, family-style mains",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Jigger & Pony",
+   "pp": "S$70-120",
+   "energy": "buzzy",
+   "cool": 4,
+   "vibe": "Polished, lively bar, well-dressed after-work crowd",
+   "london": "Cecconi's: polished, buzzy, people-watching",
+   "you": true
+  },
+  {
+   "n": "Side Door",
+   "pp": "S$50-80",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Plant-filled neighbourhood bar, low-key regulars",
+   "london": "",
+   "you": true
+  },
+  {
+   "n": "The Elephant Room",
+   "pp": "S$50-80",
+   "energy": "buzzy",
+   "cool": 3,
+   "vibe": "Moody Tanjong Pagar cocktail bar, bar-crawl crowd",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Native",
+   "pp": "S$60-90",
+   "energy": "buzzy",
+   "cool": 4,
+   "vibe": "Tight shophouse bar, bartender-nerd and expat crowd",
+   "london": "",
+   "you": true
+  },
+  {
+   "n": "Cat Bite Club",
+   "pp": "S$50-80",
+   "energy": "calm",
+   "cool": 4,
+   "vibe": "Hidden behind a Duxton café, small and in-the-know",
+   "london": "",
+   "you": true
+  },
+  {
+   "n": "Bartenders of Pony (BOP)",
+   "pp": "S$80-130",
+   "energy": "buzzy",
+   "cool": 5,
+   "vibe": "The new-in-2026 hot ticket, Korean drinking-dining bar",
+   "london": "Chiltern Firehouse bar: new, hot, hard to get in",
+   "you": true
+  },
+  {
+   "n": "Sago House",
+   "pp": "S$40-70",
+   "energy": "buzzy",
+   "cool": 4,
+   "vibe": "Scruffy hand-built bar, friendly regulars, free pretzels",
+   "london": "",
+   "you": true
+  },
+  {
+   "n": "Stay Gold",
+   "pp": "S$50-80",
+   "energy": "buzzy",
+   "cool": 4,
+   "vibe": "Neon and velvet, rock playlist, late Amoy St crowd",
+   "london": "Caia: music-first, vibey",
+   "you": true
+  },
+  {
+   "n": "Offtrack",
+   "pp": "S$40-70",
+   "energy": "buzzy",
+   "cool": 5,
+   "vibe": "Vintage speakers and DJs, young creative crowd spilling outside",
+   "london": "Caia: DJ, music-led, vibey",
+   "you": true
+  },
+  {
+   "n": "Tamba",
+   "pp": "S$50-80",
+   "energy": "buzzy",
+   "cool": 3,
+   "vibe": "Small warm bar with an Afro soundtrack",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Live Twice",
+   "pp": "S$60-100",
+   "energy": "calm",
+   "cool": 4,
+   "vibe": "Dim mid-century Tokyo-style bar, date-y",
+   "london": "",
+   "you": true
+  },
+  {
+   "n": "Meshiya",
+   "pp": "S$12-20",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "HDB-unit doorstep dinner",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Telok Blangah Rise Market & Food Centre",
+   "pp": "S$5-10",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Hikers' hawker centre, local and sleepy",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Delhi Lahori",
+   "pp": "S$8-15",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Tekka stall, tandoor smoke and families",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Allauddin's Briyani",
+   "pp": "S$6-10",
+   "energy": "buzzy",
+   "cool": 1,
+   "vibe": "Food-centre counter",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Heng Gi Goose and Duck Rice",
+   "pp": "S$5-8",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Food-centre stall",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "545 Whampoa Prawn Noodles",
+   "pp": "S$5-8",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Food-centre stall",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Bismillah Biryani",
+   "pp": "S$10-18",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Small shop, office-lunch queue",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Muthu's Curry",
+   "pp": "S$30-50",
+   "energy": "chaotic",
+   "cool": 2,
+   "vibe": "Big bright hall, loud families, banana leaves, tourists",
+   "london": "Tayyabs: loud, chaotic, institution",
+   "you": true
+  },
+  {
+   "n": "Lagnaa",
+   "pp": "S$25-40",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Multi-floor family room, spice-level gimmick",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Mustard",
+   "pp": "S$25-40",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Plain dining room",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Podi & Poriyal",
+   "pp": "S$20-30",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Plain vegetarian dining room",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Komala Vilas",
+   "pp": "S$6-12",
+   "energy": "chaotic",
+   "cool": 2,
+   "vibe": "No-frills canteen, rushed and old-school",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "MTR (Mavalli Tiffin Rooms)",
+   "pp": "S$8-15",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Clean breakfast canteen, families",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Belimbing",
+   "pp": "S$90-130",
+   "energy": "buzzy",
+   "cool": 4,
+   "vibe": "Rattan-and-wood upstairs room, young design-conscious crowd",
+   "london": "Toklas: design-led, creative crowd, mid-high",
+   "you": true
+  },
+  {
+   "n": "The Coconut Club",
+   "pp": "S$20-35",
+   "energy": "buzzy",
+   "cool": 4,
+   "vibe": "Whitewashed shophouse, queue of locals and expats",
+   "london": "Padella: cheap, cool, queue-worthy",
+   "you": true
+  },
+  {
+   "n": "Singapore Zam Zam",
+   "pp": "S$8-15",
+   "energy": "chaotic",
+   "cool": 3,
+   "vibe": "Century-old canteen, murtabak window, loud and rough",
+   "london": "Tayyabs: cheap, chaotic, institution",
+   "you": true
+  },
+  {
+   "n": "Rumah Makan Minang",
+   "pp": "S$8-15",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Nasi padang counter, lunch rush",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Hjh Maimunah",
+   "pp": "S$8-15",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Canteen spread, lunch rush",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Alaturka",
+   "pp": "S$35-55",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Tourist-street terrace with a mosque view",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Kampong Glam Cafe",
+   "pp": "S$5-12",
+   "energy": "buzzy",
+   "cool": 3,
+   "vibe": "Open-air corner kopitiam, late-night locals",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Atlas",
+   "pp": "S$70-120",
+   "energy": "scene",
+   "cool": 4,
+   "vibe": "Gotham-deco lobby, glam dressed-up crowd plus tourists",
+   "london": "Chiltern Firehouse: glam, dressy, see-and-be-seen",
+   "you": true
+  },
+  {
+   "n": "Bar Stories",
+   "pp": "S$50-80",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Upstairs Haji Lane bar, chatty bartenders",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Seroja",
+   "pp": "S$400+",
+   "energy": "calm",
+   "cool": 4,
+   "vibe": "24-seat serious tasting room",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "1887 by André",
+   "pp": "S$400+",
+   "energy": "scene",
+   "cool": 4,
+   "vibe": "Breathtaking Raffles room, the 2026 hot ticket, dressy",
+   "london": "Chiltern Firehouse: the glam, hard-to-book splurge",
+   "you": true
+  },
+  {
+   "n": "Yì by Jereme Leung",
+   "pp": "S$150-250",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Polished hotel Chinese, business dinners",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Whitegrass",
+   "pp": "S$300+",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Soft, pretty fine-dining room, hushed",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Lei Garden",
+   "pp": "S$70-120",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Weekend dim-sum families in a hotel-mall room",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Garibaldi",
+   "pp": "S$120-180",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Corporate Italian, suits and expense accounts",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Gunther's",
+   "pp": "S$300+",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Old-guard luxury, hushed",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Yet Con",
+   "pp": "S$15-25",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Formica-and-fan time capsule",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Pondok Makan Indonesia",
+   "pp": "S$6-12",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Hawker stall",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Nutmeg & Clove",
+   "pp": "S$60-90",
+   "energy": "buzzy",
+   "cool": 4,
+   "vibe": "Lively Purvis St cocktail bar, cocktail-literate crowd",
+   "london": "",
+   "you": true
+  },
+  {
+   "n": "Last Word",
+   "pp": "S$50-80",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Minimal upstairs bar, quiet second stop",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Mr Stork",
+   "pp": "S$40-70",
+   "energy": "buzzy",
+   "cool": 3,
+   "vibe": "Rooftop tepees, view-seekers and hotel guests",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Swee Choon Tim Sum",
+   "pp": "S$15-25",
+   "energy": "chaotic",
+   "cool": 3,
+   "vibe": "Supper-time chaos and a post-midnight queue",
+   "london": "Tayyabs: loud, cheap, queue, institution",
+   "you": true
+  },
+  {
+   "n": "Berseh Food Centre",
+   "pp": "S$5-10",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Local food centre",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Sungei Road Laksa",
+   "pp": "S$4-6",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Heritage stall, quiet",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Beach Road Scissor-Cut Curry Rice",
+   "pp": "S$5-8",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Busy lunch stall",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Yong Kee Seafood",
+   "pp": "S$25-40",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Late-night corner kopitiam, beer and wok",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Kok Kee Wanton Mee",
+   "pp": "S$5-8",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Cult stall, local queue",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Cheeselads",
+   "pp": "S$40-70",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Terrace cheese bar, relaxed",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Druggists",
+   "pp": "S$30-50",
+   "energy": "buzzy",
+   "cool": 3,
+   "vibe": "Heritage-building taproom, craft-beer crowd",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Long Bar",
+   "pp": "S$40-70",
+   "energy": "chaotic",
+   "cool": 1,
+   "vibe": "Tourist queue and peanut shells",
+   "london": "The Ivy (2): famous, touristy, coasting",
+   "you": false
+  },
+  {
+   "n": "Odette",
+   "pp": "S$450+",
+   "energy": "calm",
+   "cool": 4,
+   "vibe": "Pastel gallery room, polished special-occasion crowd",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Jaan by Kirk Westaway",
+   "pp": "S$350+",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "70th-floor view room, celebratory",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "True Blue Cuisine",
+   "pp": "S$50-80",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Antique-crammed family dining room",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "National Kitchen by Violet Oon",
+   "pp": "S$60-90",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Colonial-glam gallery room, tourists and parents",
+   "london": "The Ivy (2): polished heritage, safe crowd",
+   "you": false
+  },
+  {
+   "n": "Chin Chin Eating House",
+   "pp": "S$8-12",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Old Purvis St coffee shop",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Labyrinth",
+   "pp": "S$300+",
+   "energy": "buzzy",
+   "cool": 4,
+   "vibe": "Fun front of house, chatty tasting room",
+   "london": "",
+   "you": true
+  },
+  {
+   "n": "Shoukouwa",
+   "pp": "S$400+",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Handful of seats, reverent sushi counter",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Saint Pierre",
+   "pp": "S$350+",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Formal bayside room",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Cherry Garden by Chef Fei",
+   "pp": "S$100-180",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Refined hotel Chinese, redone room",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Jin Ting Wan",
+   "pp": "S$150-250",
+   "energy": "scene",
+   "cool": 3,
+   "vibe": "55th-floor glossy view room",
+   "london": "Nobu: glam, expensive, the view",
+   "you": true
+  },
+  {
+   "n": "Waku Ghin",
+   "pp": "S$500+",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Exclusive hotel tasting counter",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "CUT by Wolfgang Puck",
+   "pp": "S$200-300",
+   "energy": "scene",
+   "cool": 2,
+   "vibe": "Casino-mall celebrity steakhouse",
+   "london": "Nobu: celebrity outpost, but casino setting",
+   "you": false
+  },
+  {
+   "n": "Tenshima",
+   "pp": "S$200-300",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Mall tempura counter, quiet",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Sushi Sakuta",
+   "pp": "S$400+",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Reverent two-star counter",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Summer Pavilion",
+   "pp": "S$100-180",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Hotel Cantonese, families",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Yong Fu",
+   "pp": "S$100-180",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Hotel-style Chinese room",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Marguerite",
+   "pp": "S$250+",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Glasshouse inside the Flower Dome",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Lantern",
+   "pp": "S$50-90",
+   "energy": "scene",
+   "cool": 3,
+   "vibe": "Rooftop pool bar with DJs and an MBS view, hotel crowd",
+   "london": "Caia, on a rooftop: DJs and a view",
+   "you": true
+  },
+  {
+   "n": "MO Bar",
+   "pp": "S$60-100",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Bay-view hotel bar, polished",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Lau Pa Sat",
+   "pp": "S$10-20",
+   "energy": "chaotic",
+   "cool": 2,
+   "vibe": "Victorian market hall, satay-street smoke and crowds",
+   "london": "Maltby Street Market (2): crowded, scrappy",
+   "you": false
+  },
+  {
+   "n": "Market Street Hawker Centre",
+   "pp": "S$5-10",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "CBD lunch crush in a tower",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Anglo Indian (Shenton Way)",
+   "pp": "S$30-50",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Busy terrace, weekday office lunch",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Willow",
+   "pp": "S$250+",
+   "energy": "calm",
+   "cool": 4,
+   "vibe": "Organic-textured counter room, quietly confident",
+   "london": "",
+   "you": true
+  },
+  {
+   "n": "28 HongKong Street",
+   "pp": "S$60-90",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Unmarked-door speakeasy, dim and quiet",
+   "london": "",
+   "you": true
+  },
+  {
+   "n": "Pop City x Pony",
+   "pp": "S$60-90",
+   "energy": "buzzy",
+   "cool": 4,
+   "vibe": "Fire-escape entry, J-pop and music-subculture crowd",
+   "london": "Caia: music-led, vibey",
+   "you": true
+  },
+  {
+   "n": "Meta",
+   "pp": "S$300+",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Minimalist tasting room",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Lerouy",
+   "pp": "S$250+",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Chef's-table counter, focused",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "JAG",
+   "pp": "S$250+",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "White warehouse room above a gallery, quiet",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Kotuwa",
+   "pp": "S$60-90",
+   "energy": "buzzy",
+   "cool": 4,
+   "vibe": "Moody room in New Bahru's creative hub",
+   "london": "Gunpowder: small, buzzy, cool, mid",
+   "you": true
+  },
+  {
+   "n": "The Coconut Club (New Bahru)",
+   "pp": "S$20-35",
+   "energy": "buzzy",
+   "cool": 3,
+   "vibe": "New Bahru branch, design-campus crowd",
+   "london": "Padella: cheap, cool, casual",
+   "you": true
+  },
+  {
+   "n": "Artichoke Pizza Parlor",
+   "pp": "S$40-60",
+   "energy": "buzzy",
+   "cool": 3,
+   "vibe": "Playful pizza room from a cult chef",
+   "london": "Padella: casual, cool, cheap-ish",
+   "you": true
+  },
+  {
+   "n": "Song Fa Bak Kut Teh (New Bridge Rd)",
+   "pp": "S$12-20",
+   "energy": "chaotic",
+   "cool": 2,
+   "vibe": "Tourist queue, refill culture",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Zion Riverside Food Centre",
+   "pp": "S$5-10",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Neighbourhood hawker centre",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Bar Bon Funk",
+   "pp": "S$50-80",
+   "energy": "buzzy",
+   "cool": 5,
+   "vibe": "Living-room bar, vinyl and DJ nights, New Bahru creative crowd",
+   "london": "Caia: DJs, vibey, music-led",
+   "you": true
+  },
+  {
+   "n": "Les Amis",
+   "pp": "S$500+",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Classical, formal room",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Buona Terra",
+   "pp": "S$150-250",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Pretty colonial house, quiet couples",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Loca Niru",
+   "pp": "S$350+",
+   "energy": "calm",
+   "cool": 4,
+   "vibe": "Restored 1885 mansion, stunning room",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Imperial Treasure Fine Teochew Cuisine",
+   "pp": "S$80-130",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Mall Chinese, families and business lunches",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Shisen Hanten",
+   "pp": "S$150-250",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Hotel Sichuan, formal",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Iggy's",
+   "pp": "S$350+",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Hotel fine dining, old guard",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Summer Palace",
+   "pp": "S$100-180",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Hotel Cantonese, refined",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Sushi Ichi",
+   "pp": "S$400+",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Reverent sushi counter",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Sushi Kimura+",
+   "pp": "S$400+",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Reverent sushi counter",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Omakase @ Stevens",
+   "pp": "S$250+",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Intimate pine counter",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Indocafé - The White House",
+   "pp": "S$60-90",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Dark-wood colonial bungalow, a proper night out",
+   "london": "La Famiglia: warm, old-school, a little grand",
+   "you": true
+  },
+  {
+   "n": "Tambuah Mas (Paragon)",
+   "pp": "S$30-50",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Old mall dining room",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Chatterbox",
+   "pp": "S$35-50",
+   "energy": "buzzy",
+   "cool": 1,
+   "vibe": "Hotel coffee house, tourists",
+   "london": "The Ivy (2): famous, safe, touristy",
+   "you": false
+  },
+  {
+   "n": "Izakaya Naniwa",
+   "pp": "S$50-80",
+   "energy": "buzzy",
+   "cool": 3,
+   "vibe": "Scruffy mall izakaya full of Japanese expats",
+   "london": "",
+   "you": true
+  },
+  {
+   "n": "Newton Food Centre",
+   "pp": "S$15-30",
+   "energy": "chaotic",
+   "cool": 1,
+   "vibe": "Touts and tourists",
+   "london": "Maltby Street Market (2): crowded, touristy",
+   "you": false
+  },
+  {
+   "n": "Da Shi Jia Big Prawn Mee",
+   "pp": "S$10-20",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Plain noodle shop",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Manhattan",
+   "pp": "S$80-120",
+   "energy": "scene",
+   "cool": 3,
+   "vibe": "Glam NY-style hotel bar, Sunday-brunch crowd",
+   "london": "Cecconi's: polished, buzzy, people-watching",
+   "you": true
+  },
+  {
+   "n": "Origin Bar",
+   "pp": "S$60-100",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Blue-and-gold hotel bar",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "No.5 Emerald Hill",
+   "pp": "S$30-50",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Nostalgic peanut-shell bar, expats and tourists",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Province",
+   "pp": "S$200-300",
+   "energy": "calm",
+   "cool": 4,
+   "vibe": "8-seat counter, one cook",
+   "london": "Acre: one chef, seasonal, no fuss",
+   "you": true
+  },
+  {
+   "n": "808 Eating House",
+   "pp": "S$50-80",
+   "energy": "buzzy",
+   "cool": 4,
+   "vibe": "Shophouse sharing plates and natural wine, east-side cool crowd",
+   "london": "Acre: cool neighbourhood small plates",
+   "you": true
+  },
+  {
+   "n": "La Bottega Enoteca",
+   "pp": "S$40-70",
+   "energy": "buzzy",
+   "cool": 4,
+   "vibe": "Hard-to-book pizza room, Joo Chiat locals",
+   "london": "Padella: cool, queue-worthy, casual",
+   "you": true
+  },
+  {
+   "n": "Fico (East Coast Park)",
+   "pp": "S$60-90",
+   "energy": "calm",
+   "cool": 4,
+   "vibe": "White masseria on the lawn by the sea, sunny long lunch",
+   "london": "The River Cafe: sunny, relaxed, the long lunch",
+   "you": true
+  },
+  {
+   "n": "Chilli Padi Nonya Restaurant",
+   "pp": "S$30-50",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Old-school batik-tablecloth room",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Kappo Suguru",
+   "pp": "S$250+",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Quiet kappo counter",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Carlitos",
+   "pp": "S$50-80",
+   "energy": "buzzy",
+   "cool": 3,
+   "vibe": "New Barcelona-style tapas bar on the Joo Chiat strip",
+   "london": "Morito: buzzy tapas counter",
+   "you": true
+  },
+  {
+   "n": "Long Phung",
+   "pp": "S$10-15",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "No-frills canteen",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Kinnari Thai Cuisine",
+   "pp": "S$15-25",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Neighbourhood Thai, low stakes",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Casa Cicheti (Joo Chiat)",
+   "pp": "S$50-80",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Cosy neighbourhood Italian",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Asador",
+   "pp": "S$70-110",
+   "energy": "buzzy",
+   "cool": 3,
+   "vibe": "Spanish grill, neighbourhood crowd",
+   "london": "Morito: buzzy Spanish, mid",
+   "you": true
+  },
+  {
+   "n": "328 Katong Laksa",
+   "pp": "S$6-10",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Famous corner shop, steady queue",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Janggut Laksa (Roxy Square)",
+   "pp": "S$5-8",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Mall food-court stall",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Chin Mee Chin Confectionery",
+   "pp": "S$8-15",
+   "energy": "buzzy",
+   "cool": 4,
+   "vibe": "Restored 1925 kopitiam, tiled and photogenic, weekend queue",
+   "london": "Jolene: cool bakery-café with a queue",
+   "you": true
+  },
+  {
+   "n": "Mr and Mrs Mohgan's Super Crispy Roti Prata",
+   "pp": "S$3-6",
+   "energy": "buzzy",
+   "cool": 3,
+   "vibe": "Coffeeshop breakfast queue",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Old Airport Road Food Centre",
+   "pp": "S$5-12",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Big local hawker centre",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Joo Chiat Oyster House",
+   "pp": "S$60-100",
+   "energy": "buzzy",
+   "cool": 4,
+   "vibe": "Oysters and cocktails, date-y and current",
+   "london": "",
+   "you": true
+  },
+  {
+   "n": "The Studio by Juice",
+   "pp": "S$60-100",
+   "energy": "calm",
+   "cool": 4,
+   "vibe": "Dim first-floor wine room, date night",
+   "london": "Toklas: chill, wine-led, creative",
+   "you": true
+  },
+  {
+   "n": "Baba Chews Bar and Eatery",
+   "pp": "S$40-60",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Hotel bar, fine",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "60ml by Asador",
+   "pp": "S$50-80",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Speakeasy cocktail room",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Drunken Farmer (Joo Chiat)",
+   "pp": "S$50-80",
+   "energy": "buzzy",
+   "cool": 3,
+   "vibe": "Natural wine and pizza, possibly closed",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Burnt Ends",
+   "pp": "S$250+",
+   "energy": "buzzy",
+   "cool": 5,
+   "vibe": "Smoky counter, loud, the hardest booking in town",
+   "london": "Chiltern Firehouse: hardest table, buzzy scene",
+   "you": true
+  },
+  {
+   "n": "Candlenut",
+   "pp": "S$120-180",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Airy bamboo-and-rattan room at COMO Dempsey",
+   "london": "Toklas: design-led, chill",
+   "you": true
+  },
+  {
+   "n": "Claudine",
+   "pp": "S$150-220",
+   "energy": "scene",
+   "cool": 4,
+   "vibe": "Converted chapel, open kitchen, dressed-up crowd",
+   "london": "Chiltern Firehouse: glam, handsome, see-and-be-seen",
+   "you": true
+  },
+  {
+   "n": "Air",
+   "pp": "S$150-220",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Lush garden clubhouse",
+   "london": "The River Cafe: relaxed, garden, expensive lunch",
+   "you": true
+  },
+  {
+   "n": "Torno Subito",
+   "pp": "S$100-150",
+   "energy": "buzzy",
+   "cool": 4,
+   "vibe": "1960s Riviera colour, loud and fun",
+   "london": "Cecconi's: buzzy, polished Italian, people-watching",
+   "you": true
+  },
+  {
+   "n": "Min Jiang at Dempsey",
+   "pp": "S$70-110",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Colonial bungalow, families",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "La Terrace",
+   "pp": "S$40-70",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Brunch terrace",
+   "london": "Granger & Co: airy, brunchy, easy",
+   "you": true
+  },
+  {
+   "n": "Atout",
+   "pp": "S$60-100",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "French bistro by Curly's market",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Violet Oon Singapore at Dempsey",
+   "pp": "S$60-100",
+   "energy": "scene",
+   "cool": 2,
+   "vibe": "Big pretty heritage-brand flagship",
+   "london": "The Ivy (2): glossy brand, polished",
+   "you": false
+  },
+  {
+   "n": "Huber's Bistro",
+   "pp": "S$50-80",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Butcher's bistro, simple",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Canchita Peruvian Cuisine",
+   "pp": "S$60-90",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Casual Peruvian, Dempsey crowd",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Samy's Curry",
+   "pp": "S$20-35",
+   "energy": "chaotic",
+   "cool": 3,
+   "vibe": "Barracks hall, ceiling fans, banana leaves",
+   "london": "Tayyabs: cheap, loud, institution",
+   "you": true
+  },
+  {
+   "n": "Adam Rd Noo Cheng Big Prawn Noodle",
+   "pp": "S$8-12",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Hawker stall",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Selamat Datang Warong Pak Sapari",
+   "pp": "S$5-8",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Hawker stall",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Bahrakath Mutton Soup",
+   "pp": "S$6-10",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Hawker stall",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Holland Village Market & Food Centre",
+   "pp": "S$5-10",
+   "energy": "buzzy",
+   "cool": 1,
+   "vibe": "Neighbourhood hawker centre",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Original Sin",
+   "pp": "S$50-80",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Dependable shophouse room",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "MyX",
+   "pp": "S$50-80",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "New group-run room, untested",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Deviate",
+   "pp": "S$60-100",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Quiet wine bar at Loewen",
+   "london": "Toklas: chill wine room",
+   "you": true
+  },
+  {
+   "n": "The Slow House (Maison Garden)",
+   "pp": "S$50-80",
+   "energy": "calm",
+   "cool": 3,
+   "vibe": "Floral café by day, cocktail bar by night",
+   "london": "Jolene: pretty café by day",
+   "you": true
+  },
+  {
+   "n": "The Dempsey Cookhouse & Bar",
+   "pp": "S$60-100",
+   "energy": "scene",
+   "cool": 3,
+   "vibe": "Jean-Georges room, chandeliers, Dempsey set",
+   "london": "Cecconi's: polished, buzzy, people-watching",
+   "you": true
+  },
+  {
+   "n": "Le Bon Funk (Holland V)",
+   "pp": "S$60-90",
+   "energy": "buzzy",
+   "cool": 3,
+   "vibe": "Natural wine bar, status uncertain",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Chuan Kee Boneless Braised Duck",
+   "pp": "S$5-8",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Hawker stall",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Ghim Moh Chwee Kueh",
+   "pp": "S$3-5",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Hawker stall",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Margaret Drive Sin Kee Chicken Rice",
+   "pp": "S$5-8",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Fast-moving lunch queue",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "New Lucky Claypot Rice",
+   "pp": "S$10-20",
+   "energy": "calm",
+   "cool": 1,
+   "vibe": "Hawker stall, slow",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Timbre+ One-North",
+   "pp": "S$15-30",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Container food park, live music, cohort beers",
+   "london": "Maltby Street Market (2): crowded, scrappy",
+   "you": false
+  },
+  {
+   "n": "Colbar",
+   "pp": "S$20-35",
+   "energy": "calm",
+   "cool": 4,
+   "vibe": "1953 army canteen under ceiling fans, nostalgic",
+   "london": "",
+   "you": true
+  },
+  {
+   "n": "Les Bouchons Rochester",
+   "pp": "S$60-90",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Colonial bungalow steak-frites, cohort dinners",
+   "london": "Brasserie Blanc (2): safe, chain-ish bistro",
+   "you": false
+  },
+  {
+   "n": "Min Jiang at One-North",
+   "pp": "S$60-100",
+   "energy": "calm",
+   "cool": 2,
+   "vibe": "Bungalow Chinese, groups",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Fico at Tanjong Beach Club",
+   "pp": "S$60-100",
+   "energy": "buzzy",
+   "cool": 3,
+   "vibe": "Beach-club setting, untested",
+   "london": "",
+   "you": false
+  },
+  {
+   "n": "Tanjong Beach Club",
+   "pp": "S$60-100",
+   "energy": "scene",
+   "cool": 4,
+   "vibe": "Sentosa beach club, DJs and sunset crowd",
+   "london": "Caia: DJ-led, vibey, on sand",
+   "you": true
+  },
+  {
+   "n": "International Muslim Food Stall Nasi Lemak",
+   "pp": "S$4-7",
+   "energy": "buzzy",
+   "cool": 2,
+   "vibe": "Changi Village stall by the ferry",
+   "london": "",
+   "you": false
+  }
+ ]
+}

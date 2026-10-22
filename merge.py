@@ -15,6 +15,17 @@ for p in places:
     for k, v in ov['set'].get(p['n'], {}).items():
         if v is None: p.pop(k, None)
         else: p[k] = v
+vf = root/'research/vibe.json'   # vibe/price/coolness pass (her correction, 22 Oct: taste = vibe, not cuisine)
+if vf.exists():
+    V = {r['n']: r for r in json.loads(vf.read_text()).get('rescore', [])}
+    for p in places:
+        r = V.get(p['n'])
+        if not r: continue
+        for k in ('pp', 'energy', 'cool', 'vibe', 'london'):
+            if k in r: p[k] = r[k]
+        if 'you' in r:
+            t = [x for x in p.get('tags', []) if x != 'you']
+            p['tags'] = (['you'] + t) if r['you'] else t
 rank = {k: i+1 for i, k in enumerate(cfg['rank'])}
 for h in hoods:
     h['rank'] = rank.get(h['k'])

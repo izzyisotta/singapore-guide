@@ -254,6 +254,7 @@ svg.z2 .pin text{display:block}
 .prac .p{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:14px 16px;box-shadow:var(--shadow)}
 .prac .p h3{font-family:var(--serif);font-size:19px;margin-bottom:4px}
 .prac .p p{margin:0;font-size:14px;color:var(--ink2)}
+.card .vibe,.panel .vibe{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 10px;font-size:12.5px;color:var(--ink2);margin:6px 0 2px}.vibe b{font-family:var(--mono);font-size:11px;font-weight:500;color:var(--ink)}.vibe .en{font-family:var(--mono);font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}.vibe .en.scene{color:var(--plum)}.vibe .en.buzzy{color:var(--pop)}.vibe .cool{letter-spacing:1px;color:var(--pop);font-size:10px}.vibe .vt{flex-basis:100%;font-style:italic}
 .tierhd{grid-column:1/-1;font-family:var(--serif);font-size:24px;margin:18px 0 0;padding-bottom:6px;border-bottom:1px solid var(--line)}.tierhd span{font-family:var(--mono);font-size:12px;color:var(--muted);margin-left:6px}
 .card .src{display:flex;flex-direction:column;gap:2px;font-size:12px;color:var(--muted);margin:6px 0 2px;line-height:1.4}.card .src b,.panel .src b{font-family:var(--mono);font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink2);margin-right:4px;font-weight:500}.panel .src{display:flex;flex-direction:column;gap:2px;font-size:13px;color:var(--muted);margin:8px 0}
 .foot-note{margin-top:30px;font-size:12px;color:var(--muted);max-width:80ch;line-height:1.5}
@@ -297,7 +298,7 @@ svg.z2 .pin text{display:block}
 
   <!-- EAT -->
   <section class="view" id="v-eat">
-    <p class="intro"><b>Split three ways: Cheap</b> (hawker, kopitiam, casual, under S$25 a head), <b>Medium</b> (S$25-90) and <b>Nice</b> (S$90+, the big nights). Every card says <b>who rates it</b>, by name: mostly the Michelin Guide 2026 (stars, Bib Gourmand, Selected), Asia's 50 Best Restaurants and Bars 2026, Tatler Best 2026 and Time Out, plus Leslie Tay and the hawker blogs for stalls. London critics have not written up these streets recently, so none are cited; instead, where a place matches one of your London 4s and 5s, the card names it. Orange-edged cards are the ones nearest that register (River Cafe, Barbary, Toklas, Acre, Morito: produce first, a counter, no theatre).</p>
+    <p class="intro"><b>Split three ways: Cheap</b> (hawker, kopitiam, casual, under S$25 a head), <b>Medium</b> (S$25-90) and <b>Nice</b> (S$90+, the big nights). Every card says <b>who rates it</b>, by name: mostly the Michelin Guide 2026 (stars, Bib Gourmand, Selected), Asia's 50 Best Restaurants and Bars 2026, Tatler Best 2026 and Time Out, plus Leslie Tay and the hawker blogs for stalls. Each card also gives the <b>vibe</b>: price a head, the room's energy (buzzy, calm, scene, chaotic), a coolness score out of five, and the closest of your London places <b>by vibe and price, not cuisine</b> (a Cantonese room can be Chiltern Firehouse; a hawker stall can be Padella). Orange-edged cards are the ones that should land for you on that basis. <b>Cool 4+</b> and <b>Sort: coolest first</b> find where the in-the-know crowd is going now.</p>
     <div class="filters" id="eatfilters"></div>
     <div class="grid" id="eatgrid"></div>
   </section>
@@ -375,7 +376,7 @@ function RP(s){ if(typeof s==='string' && !/^W?[\d.]+\//.test(s)){ const p=byNam
 const HAS_L = typeof L !== 'undefined';
 
 // ---------- state ----------
-const state = { tiers:new Set(), view:'map', types:new Set(['eat','drink','cafe','shop','see','do']), tags:new Set(), p1:false, hood:'', sort:'p', sel:null, selHood:null, walk:null };
+const state = { cool:false, tiers:new Set(), view:'map', types:new Set(['eat','drink','cafe','shop','see','do']), tags:new Set(), p1:false, hood:'', sort:'p', sel:null, selHood:null, walk:null };
 let suppressClick=false;
 
 // ================= LEAFLET MAP =================
@@ -502,15 +503,16 @@ function filterBar(el, cfg){
   s+=`<div class="fgroup"><span class="lbl">Type</span>`+cfg.types.map(t=>`<button class="chip ${state.types.has(t)?'on':''}" data-type="${t}">${TYPE[t]}</button>`).join('')+`</div>`;
   s+=`<div class="fgroup"><span class="lbl">Vibe</span>`+['you','hidden','famous','classic','hawker','dive','new','splurge'].map(t=>`<button class="chip ${state.tags.has(t)?'on':''}" data-tag="${t}"><span class="dot" style="--c:var(--${({you:'pop',hidden:'accent',famous:'blue',classic:'ochre',hawker:'brick',dive:'slate',new:'plum',splurge:'ink'})[t]})"></span>${TAGL[t]}</button>`).join('')+`</div>`;
   if(cfg.tier){ s+=`<div class="fgroup"><span class="lbl">Price</span>`+['cheap','medium','nice'].map(t=>`<button class="chip ${state.tiers.has(t)?'on':''}" data-tier="${t}">${({cheap:'Cheap',medium:'Medium',nice:'Nice'})[t]}</button>`).join('')+`</div>`; }
-  s+=`<div class="fgroup"><button class="chip ${state.p1?'on':''}" data-p1="1">Priority 1 only</button><button class="chip ${state.tags.has('★')?'on':''}" data-tag="★">★ my shortlist</button></div>`;
+  s+=`<div class="fgroup"><button class="chip ${state.cool?'on':''}" data-cool="1">Cool 4+</button><button class="chip ${state.p1?'on':''}" data-p1="1">Priority 1 only</button><button class="chip ${state.tags.has('★')?'on':''}" data-tag="★">★ my shortlist</button></div>`;
   if(cfg.hood){ s+=`<div class="fgroup"><select class="sel" data-hood><option value="">All neighbourhoods</option>`+MAPHOODS.map(h=>`<option value="${h.k}" ${state.hood===h.k?'selected':''}>${esc(h.short)}</option>`).join('')+`<option value="far" ${state.hood==='far'?'selected':''}>Further out</option></select>`;
-    s+=`<select class="sel" data-sort><option value="p" ${state.sort==='p'?'selected':''}>Sort: priority</option><option value="d" ${state.sort==='d'?'selected':''}>Sort: nearest to home</option><option value="h" ${state.sort==='h'?'selected':''}>Sort: neighbourhood</option></select></div>`; }
+    s+=`<select class="sel" data-sort><option value="p" ${state.sort==='p'?'selected':''}>Sort: priority</option><option value="c" ${state.sort==='c'?'selected':''}>Sort: coolest first</option><option value="d" ${state.sort==='d'?'selected':''}>Sort: nearest to home</option><option value="h" ${state.sort==='h'?'selected':''}>Sort: neighbourhood</option></select></div>`; }
   s+=`<span class="lbl" style="font-family:var(--mono);font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)">P1 do it · P2 if it fits · P3 if passing</span><span class="count" data-count></span>`;
   el.innerHTML=s;
   el.onclick=e=>{ const b=e.target.closest('button'); if(!b) return;
     if(b.dataset.type){ const t=b.dataset.type; if(state.types.has(t)&&state.types.size===1) return; state.types.has(t)?state.types.delete(t):state.types.add(t); }
     if(b.dataset.tag){ const t=b.dataset.tag; state.tags.has(t)?state.tags.delete(t):state.tags.add(t); }
     if(b.dataset.p1){ state.p1=!state.p1; }
+    if(b.dataset.cool){ state.cool=!state.cool; }
     if(b.dataset.tier){ const t=b.dataset.tier; state.tiers.has(t)?state.tiers.delete(t):state.tiers.add(t); }
     render(); };
   el.onchange=e=>{ if(e.target.dataset.hood!==undefined) state.hood=e.target.value; if(e.target.dataset.sort!==undefined) state.sort=e.target.value; render(); };
@@ -518,20 +520,23 @@ function filterBar(el, cfg){
 function passes(p, typeSet, useHood=true){
   if(!typeSet.has(p.t)) return false;
   if(state.p1 && p.p!==1) return false;
+  if(state.cool && !((p.cool||0)>=4)) return false;
   for(const t of state.tags){ if(t==='★'){ if(!shortlist.has(p.n)) return false; } else if(!p.tags.includes(t)) return false; }
   if(useHood && state.hood && p.h!==state.hood) return false;
   if(state.view==='eat' && state.tiers.size && !(p.t==='eat' && state.tiers.has(p.tier))) return false;
   return true;
 }
-function sortPlaces(arr){ const a=[...arr]; if(state.sort==='d') a.sort((x,y)=>x.km-y.km); else if(state.sort==='h') a.sort((x,y)=>(HOODIDX[x.h]??99)-(HOODIDX[y.h]??99)||x.p-y.p); else a.sort((x,y)=>x.p-y.p||x.km-y.km); return a; }
+function sortPlaces(arr){ const a=[...arr]; if(state.sort==='c') a.sort((x,y)=>(y.cool||0)-(x.cool||0)||x.p-y.p); else if(state.sort==='d') a.sort((x,y)=>x.km-y.km); else if(state.sort==='h') a.sort((x,y)=>(HOODIDX[x.h]??99)-(HOODIDX[y.h]??99)||x.p-y.p); else a.sort((x,y)=>x.p-y.p||x.km-y.km); return a; }
 
 // ---------- badges / cards ----------
 function badges(p, withP=true){ return `<div class="badges">${withP?`<span class="b p${p.p}">P${p.p}</span>`:''}${p.tags.map(t=>`<span class="b ${t}">${TAGL[t]}</span>`).join('')}</div>`; }
-function srcLine(p){ return (p.src||p.london)?`<div class="src">${p.src?`<span><b>Who rates it</b> ${esc(p.src)}</span>`:''}${p.london?`<span><b>London match</b> ${esc(p.london)}</span>`:''}</div>`:''; }
+function vibeLine(p){ return (p.vibe||p.pp)?`<div class="vibe">${p.pp?`<b>${esc(p.pp)}</b>`:''}${p.energy?`<span class="en ${p.energy}">${esc(p.energy)}</span>`:''}${p.cool?`<span class="cool" title="coolness">${'●'.repeat(p.cool)}${'○'.repeat(5-p.cool)}</span>`:''}${p.vibe?`<span class="vt">${esc(p.vibe)}</span>`:''}</div>`:''; }
+function srcLine(p){ return (p.src||p.london)?`<div class="src">${p.london?`<span><b>London vibe</b> ${esc(p.london)}</span>`:''}${p.src?`<span><b>Who rates it</b> ${esc(p.src)}</span>`:''}</div>`:''; }
 function card(p){ const hood=HOODBY[p.h]; return `<article class="card ${p.tags.includes('you')?'you':''}" data-id="${p.id}">
   <div class="hd"><h3>${esc(p.n)}</h3><span class="price">${esc(p.tier?({cheap:'Cheap',medium:'Medium',nice:'Nice'})[p.tier]+' · ':'')}${esc(p.price||'')}</span></div>
   <div class="where"><b>${esc(TYPE[p.t])}</b> · ${esc(hood?hood.short:'Further out')} · ${walkStr(p)}${p.addr?` · ${esc(p.addr)}`:''}</div>
   ${badges(p)}
+  ${vibeLine(p)}
   <p>${esc(p.d)}</p>
   ${p.tip?`<div class="tip"><b>The move</b>${esc(p.tip)}</div>`:''}
   ${srcLine(p)}
@@ -559,6 +564,7 @@ function placePanel(p){ const hood=HOODBY[p.h];
   return `<div class="eyebrow"><span>${esc(TYPE[p.t])}</span><span>·</span><button class="linkbtn" data-hood="${p.h}">${esc(hood?hood.short:'Further out')}</button></div>
     <h2>${esc(p.n)}</h2>
     ${badges(p)}
+    ${vibeLine(p)}
     <div class="meta"><span>${walkStr(p)}</span>${p.addr?`<span>${esc(p.addr)}</span>`:''}${p.price?`<span>${esc(p.price)}</span>`:''}</div>
     <p>${esc(p.d)}</p>
     ${p.tip?`<div class="tip"><b>The move</b>${esc(p.tip)}</div>`:''}
