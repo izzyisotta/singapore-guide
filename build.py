@@ -4,6 +4,11 @@ import pathlib
 root = pathlib.Path(__file__).parent
 app = (root/'src/app.html').read_text()
 html = app.replace('/*FONTS*/', (root/'src/fonts.css').read_text()).replace('/*DATA*/', (root/'src/data.js').read_text())
+import shutil, subprocess, tempfile
+if shutil.which('node'):
+    with tempfile.NamedTemporaryFile('w', suffix='.js', delete=False) as t: t.write((root/'src/data.js').read_text())
+    r = subprocess.run(['node', '--check', t.name], capture_output=True, text=True)
+    if r.returncode: raise SystemExit('data.js has a syntax error, not building:\n' + r.stderr[:600])
 (root/'index.html').write_text(html)
 print('built index.html', len(html), 'bytes')
 # vault copy (her rule: every page lives in the vault next to its subject, wrapped by a companion .md)

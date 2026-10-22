@@ -1,0 +1,176 @@
+{
+ "_why": "Corrections applied on top of the raw research: blind review 22 Oct 2026 + cross-batch conflicts.",
+ "drop": [
+  {
+   "n": "Kotuwa",
+   "h": "little-india",
+   "why": "moved to New Bahru in 2024 (Michelin); batch C has the right address"
+  },
+  {
+   "n": "Offtrack",
+   "h": "cbd",
+   "why": "duplicate of the Chinatown entry"
+  }
+ ],
+ "rename": {
+  "Casa Cicheti": "Casa Cicheti (Tiong Bahru)"
+ },
+ "set": {
+  "Tekka Centre (hawker floor and wet market)": {
+   "t": "see",
+   "tier": null,
+   "london": ""
+  },
+  "Pop City x Pony": {
+   "at": [
+    1.28244,
+    103.85051
+   ]
+  },
+  "Burnt Ends": {
+   "london": "The Barbary's counter and fire, at four or five times the price: budget S$250+ a head"
+  },
+  "Fico (East Coast Park)": {
+   "london": "Padella-ish pasta with a sea view"
+  },
+  "Fico at Tanjong Beach Club": {
+   "london": "",
+   "tags": [
+    "new"
+   ],
+   "p": 3,
+   "d": "Fico's second site, opened 28 Sep 2026 inside a Sentosa beach club. Untested: about three weeks old and no critic has been yet, so the parent's Bib Gourmand does not transfer. Beach-club setting, so style-over-substance risk.",
+   "src": "Opening report only (Little Big Red Dot, Sep 2026); no review yet"
+  },
+  "Cloudstreet": {
+   "london": ""
+  },
+  "Belimbing": {
+   "tier": "nice",
+   "tip": "Book dinner. Set menu was S$88++ for four courses in 2025 (now possibly five), so budget about S$110-130 a head with ++ and a drink. Order the red prawn kueh pie tee, wok-fried nasi ulam and the corn salat."
+  },
+  "Torno Subito": {
+   "tier": "nice",
+   "london": ""
+  },
+  "Air": {
+   "tier": "nice"
+  },
+  "Samy's Curry": {
+   "london": "",
+   "tip": "About S$15 a head without fish head; a fish-head curry for the table pushes it to S$30-35."
+  },
+  "Min Jiang at One-North": {
+   "src": "No independent rating for this branch found (its Dempsey sister is Michelin-listed); lower confidence"
+  },
+  "Janggut Laksa (Roxy Square)": {
+   "src": "HungryGoWhere 'Food Feuds' only; lower confidence"
+  },
+  "Singapore Zam Zam": {
+   "src": "No current critic rating found; listed for the institution (est. 1908), with Time Out and Travelfish mentions",
+   "london": ""
+  },
+  "Timbre+ One-North": {
+   "src": "My pick, for convenience: the campus local. The food is middling",
+   "london": "Maltby Street Market energy, which you rated a 2"
+  },
+  "Fiz": {
+   "src": "Michelin Green Star 2026 (a sustainability award, not a cooking rating); Tatler Best 2026"
+  },
+  "Lei Garden": {
+   "tier": "nice",
+   "d": "Hong Kong Cantonese institution, part of a multi-outlet group, starred and unflashy. Weekend dim sum is the move."
+  },
+  "Swee Choon Tim Sum": {
+   "d": "The supper dim sum institution since 1962, now a multi-outlet brand; this is the original. Open daily 7am-2am, till 4am Fri-Sat (from Jan 2026). Queues after midnight are part of it."
+  },
+  "Muthu's Curry": {
+   "london": ""
+  },
+  "Tiong Bahru Hainanese Boneless Chicken Rice": {
+   "london": ""
+  },
+  "Por Kee Eating House 1996": {
+   "london": ""
+  },
+  "Kappo Suguru": {
+   "london": ""
+  },
+  "Bismillah Biryani": {
+   "london": "Tayyabs, for biryani"
+  },
+  "Delhi Lahori": {
+   "london": "Tayyabs: the charcoal naan and seekh"
+  },
+  "Seroja": {
+   "london": "Acre's produce-first instinct, as a two-star tasting menu"
+  },
+  "Garibaldi": {
+   "london": "Cecconi's: a polished Italian room"
+  },
+  "Kok Sen": {
+   "london": ""
+  },
+  "Rumah Makan Minang": {
+   "london": ""
+  },
+  "A Noodle Story": {
+   "london": ""
+  },
+  "La Bottega Enoteca": {
+   "london": ""
+  },
+  "The Coconut Club": {
+   "london": ""
+  },
+  "Chatterbox": {
+   "src": "No current critic rating found; listed as the institution it is (2025-26 blog reviews mixed)"
+  },
+  "Imperial Treasure Fine Teochew Cuisine": {
+   "d": "Starred Teochew from the Imperial Treasure restaurant group, in ION Orchard: cold crab, braised goose, oyster omelette done properly. Reliable rather than a one-off room."
+  }
+ },
+ "replace": [
+  [
+   "(all 10 editions)",
+   "(every edition since 2016)"
+  ],
+  [
+   "(held all 10 editions)",
+   "(every edition since 2016)"
+  ],
+  [
+   ", plus Kotuwa (Sri Lankan, Bib Gourmand), which is the closest thing here to Gunpowder",
+   ""
+  ],
+  [
+   "Dinner at Kotuwa or Muthu's",
+   "Dinner at Muthu's or Lagnaa"
+  ],
+  [
+   "Kotuwa sits at the end on Dickson Rd if you're doing it as a dinner route. ",
+   ""
+  ],
+  [
+   "the expensive, glossy register she doesn't rate",
+   "the expensive, glossy register you don't rate"
+  ],
+  [
+   "she doesn't",
+   "you don't"
+  ],
+  [
+   "she does",
+   "you do"
+  ],
+  [
+   "she wants",
+   "you want"
+  ]
+ ],
+ "walk_drop_stops": {
+  "Tekka to the mosque, ending at Atlas": [
+   "Kotuwa"
+  ]
+ }
+}

@@ -1,7 +1,7 @@
 // ---------- Top priorities (the "if you only do 20 things") ----------
 const TOP = [
- {n:'Burnt Ends', why:'The one big Singapore dinner: counter seats, a four-tonne brick kiln, ingredients first. Your Barbary, with a Michelin star. Book today.'},
- {n:'Kotuwa', why:'Sri Lankan from a two-star chef in a loud, easy room. Your Gunpowder. Hoppers, kottu, a crab curry.'},
+ {n:'Burnt Ends', why:'The one big Singapore dinner: counter seats, a four-tonne brick kiln, ingredients first. The Barbary\'s format at four or five times the price (S$250+ a head). Book the moment the window opens.'},
+ {n:'Kotuwa', why:'Sri Lankan from a two-star chef, now at New Bahru on the river. Your Gunpowder: hoppers, kottu, the crab curry. Then Bar Bon Funk upstairs.'},
  {n:'Belimbing', why:'New-generation Singaporean small plates above the Coconut Club. The most Morito/Acre-shaped new opening in town.'},
  {n:'Esquina', why:'Sit at the ground-floor counter facing the kitchen on Jiak Chuan Rd. The Keong Saik weeknight.'},
  {n:'Seroja', why:'Two Michelin stars, 24 seats, Malay-archipelago produce. The splurge, if there is one. Book weeks out.'},
@@ -11,11 +11,11 @@ const TOP = [
  {n:'Ma Cuisine', why:'A French bistro built around a serious cellar, with a star. The Toklas / Noble Rot room.'},
  {n:'Nutmeg & Clove', why:'No. 12 in Asia: Singapore history in a glass. Then upstairs to Last Word.'},
  {n:'Offtrack', why:'DJs, a vintage sound system, highballs. The nearest thing to Caia.'},
- {n:'Fico (East Coast Park)', why:'Pasta by the sea for Bib Gourmand prices: River Cafe on a budget. Run East Coast Park first.'},
+ {n:'Fico (East Coast Park)', why:'Bib Gourmand pasta by the sea, Padella-ish. Run East Coast Park first.'},
  {n:'The Coconut Club', why:'The nasi lemak everyone measures against. Padella-style: one dish, done obsessively.'},
  {n:'Province', why:'Katong\'s chef-led neighbourhood room: your Acre in the east. Pair it with a Joo Chiat afternoon.'},
+ {n:'Meta', why:'Two Michelin stars on Mohamed Sultan Rd: Korean-modern, seafood and vegetables, one menu. The river\'s big night.'},
  {n:'Jigger & Pony', why:'No. 9 in Asia, the best bar in Singapore on the 2026 list. Book or go early.'},
- {n:'Revolver', why:'Live-fire Indian at a counter in Tanjong Pagar: Gunpowder meets Brat.'},
  {n:'Singapore Botanic Gardens', why:'Kew, but free and open from 5am. A dawn loop, then breakfast at Dempsey.'},
  {n:'Sultan Mosque (Masjid Sultan)', why:'The golden dome at dusk from Bussorah St, then the reopened Malay Heritage Centre next door.'},
  {n:'Walk 1: market breakfast to Chinatown bar', walk:'w1', why:'Tiong Bahru, Everton Park, the Duxton skybridge, Keong Saik and Amoy St in one long Saturday.'},

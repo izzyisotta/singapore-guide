@@ -83,7 +83,7 @@ const HOODS = [
 "short": "Tiong Bahru",
 "tag": "Art Deco estate, market breakfasts",
 "verdict": "yes",
-"rank": 2,
+"rank": 3,
 "when": "Weekend mornings 8-11am. Tiong Bahru Market stalls sell out, and Jian Bo is best before 9am. Weekday afternoons are quiet. Dinner is thin: Por Kee, Sin Hoi Sai, Magpie, Casa Cicheti.",
 "london": "Broadway Market on a Saturday morning, set inside something like the Barbican's residential calm (1930s low-rise curved blocks)",
 "nyc": "West Village residential blocks, or Carroll Gardens on a weekend",
@@ -141,7 +141,7 @@ const HOODS = [
 "short": "Doorstep: Kampong Bahru to Mount Faber",
 "tag": "Ridges, coffee, quiet HDB",
 "verdict": "yes",
-"rank": 7,
+"rank": 9,
 "when": "Run or walk the Southern Ridges at 6:30-8am, before the heat, or at 5:30-7pm for sunset over the port from Henderson Waves. Everton Park cafés run 9am-4pm (Nylon is closed Tuesdays). Pinnacle skybridge 9am-9pm, best at dusk.",
 "london": "Kennington/Walworth residential streets with a Hampstead Heath-style ridge walk at the end of the road",
 "nyc": "Morningside Heights next to Riverside Park, quiet blocks then a green ridge",
@@ -204,11 +204,11 @@ const HOODS = [
 "short": "Little India",
 "tag": "Tandoor smoke, temple bells",
 "verdict": "yes",
-"rank": 4,
+"rank": 5,
 "when": "Weekend morning (Tekka at 8-10am) or a weekday evening for dinner. Sunday afternoon and evening is very crowded with migrant workers on their day off. Lively, but hard work. Deepavali season (Oct-Nov) brings lights on Serangoon Rd.",
 "london": "Southall and Tooting, with a bit of Whitechapel Rd. A working community high street rather than a scene.",
 "nyc": "Jackson Heights (74th St)",
-"worth": "Yes, and it's the strongest food patch on this list for you: two Michelin Bibs and three Selected stalls inside one hawker centre, plus Kotuwa (Sri Lankan, Bib Gourmand), which is the closest thing here to Gunpowder. Very little is nice in the sense of a dining room, so come for cooking, not décor.",
+"worth": "Yes, and it's the strongest food patch on this list for you: two Michelin Bibs and three Selected stalls inside one hawker centre. Very little is nice in the sense of a dining room, so come for cooking, not décor.",
 "vibe": "Serangoon Road is loud, hot and dense. Garland stalls on Campbell Lane thread jasmine and marigold, gold shops run down Serangoon, and the gopuram of Sri Veeramakaliamman is crowded with painted figures. Tekka Centre is the anchor: a wet market downstairs (goat carcasses, fresh turmeric, curry leaves by the kilo) and a hawker floor where the tandoor at Delhi Lahori runs all day. Behind the main drag, Dunlop St, Upper Dickson Rd and Race Course Rd hold the eating: banana-leaf curry houses, biryani counters and a few small newer places. It is unpolished and nobody is performing heritage for you. Mustafa Centre, a 24-hour department store, sits on Syed Alwi Rd at the north-east edge.",
 "avoid": [
 "Banana-leaf places on the Serangoon Rd frontage that tout at the door. Walk one street back.",
@@ -229,7 +229,7 @@ const HOODS = [
 "Sri Veeramakaliamman Temple",
 "Indian Heritage Centre",
 "Tan Teng Niah house",
-"Dinner at Kotuwa or Muthu's",
+"Dinner at Muthu's or Lagnaa",
 "Biryani at Bismillah"
 ],
 "poly": [
@@ -269,7 +269,7 @@ const HOODS = [
 "short": "Kampong Glam",
 "tag": "Mosque, murtabak, Malay modern",
 "verdict": "yes",
-"rank": 6,
+"rank": 8,
 "when": "Late afternoon into evening: the mosque at golden hour, then dinner and drinks. Avoid Friday midday (prayers). Malay Heritage Centre is closed Mondays.",
 "london": "Brick Lane crossed with Edgware Road. Heritage community streets with a creative layer on top, and real tourist overspill on Haji Lane.",
 "nyc": "Atlantic Avenue (Brooklyn) meets the Lower East Side",
@@ -326,7 +326,7 @@ const HOODS = [
 "short": "Bugis",
 "tag": "Raffles, Purvis, serious tables",
 "verdict": "through",
-"rank": 8,
+"rank": 10,
 "when": "Evenings, for a booked dinner and a cocktail. The temples on Waterloo St are best in the morning.",
 "london": "Holborn and Covent Garden: central, mixed, a few great addresses among a lot of mall.",
 "nyc": "Flatiron and NoMad",
@@ -389,7 +389,7 @@ const HOODS = [
 "short": "Jalan Besar",
 "tag": "Shophouses, supper, coffee",
 "verdict": "once",
-"rank": 9,
+"rank": 11,
 "when": "Weekend late morning for coffee and the Petain Rd houses, or after 11pm for supper (Swee Choon is open till 2am, 4am on Fri-Sat).",
 "london": "Kingsland Road, Haggerston: workshops, cafés, late-night canteens, getting cooler.",
 "nyc": "Greenpoint, Brooklyn",
@@ -446,12 +446,325 @@ const HOODS = [
 ]
 },
 {
+"k": "civic",
+"name": "Civic District & Bras Basah",
+"short": "Civic",
+"tag": "Museums, colonial, Purvis bars",
+"verdict": "yes",
+"rank": 6,
+"when": "Weekday late morning for museums (cool inside at midday), then dusk on the Padang and drinks on Purvis St from 6pm",
+"london": "South Kensington meets Whitehall: museum quarter wrapped round civic buildings",
+"nyc": "Museum Mile crossed with the City Hall Park blocks",
+"worth": "Yes. This is where Singapore's best museums are (the Asian Civilisations Museum and the Peranakan Museum especially), it holds the city's top restaurant (Odette), and two of its best cocktail bars share one shophouse on Purvis St. Do it in pieces, not one heroic loop in the heat.",
+"vibe": "White colonial set-pieces on a green: the Padang cricket field, the old Supreme Court and City Hall fused into the National Gallery, St Andrew's Cathedral, Raffles Hotel's arcades. Behind them Fort Canning Hill is a properly shaded park with a much-photographed spiral tree tunnel. Armenian St is the quiet, pretty museum lane (Peranakan Museum, True Blue next door). Chijmes is a former convent turned courtyard restaurant compound, part lovely and part corporate-dinner. North towards Bras Basah it gets scruffier and more interesting: Bras Basah Complex is a 1980s block of second-hand and art bookshops, and Purvis St has old Hainanese coffee shops next to Nutmeg & Clove and Last Word. It is dead on Sunday evenings and at its best on a weekday at golden hour.",
+"avoid": [
+"The Singapore Sling at Long Bar: a tourist tax in a theme-park room",
+"Walking Fort Canning at 1pm in the sun; go before 10am or after 5pm",
+"Chijmes's generic bar-restaurants on a Friday office-party night",
+"Smoke & Mirrors at the National Gallery: reported closed in 2026"
+],
+"known": [
+"National Gallery Singapore and Odette",
+"Raffles Hotel",
+"Peranakan Museum and Armenian St",
+"Fort Canning Park",
+"Chijmes",
+"Purvis St Hainanese food and cocktail bars"
+],
+"main": [
+"Asian Civilisations Museum",
+"Peranakan Museum, then lunch at True Blue",
+"National Gallery permanent galleries + rooftop",
+"Fort Canning tree tunnel early morning",
+"Bras Basah Complex bookshops",
+"Drinks at Nutmeg & Clove / Last Word"
+],
+"poly": [
+[
+1.2975,
+103.844
+],
+[
+1.299,
+103.8545
+],
+[
+1.2965,
+103.8572
+],
+[
+1.2905,
+103.8556
+],
+[
+1.287,
+103.8526
+],
+[
+1.2895,
+103.847
+],
+[
+1.2925,
+103.8435
+]
+]
+},
+{
+"k": "river",
+"name": "Robertson Quay & River Valley",
+"short": "The river",
+"tag": "Quiet quay, serious kitchens",
+"verdict": "yes",
+"rank": 2,
+"when": "Evenings from 6pm; weekend mornings for coffee and a riverside walk",
+"london": "Hammersmith riverside with a slice of Hackney (New Bahru)",
+"nyc": "West Village calm with a DUMBO-ish converted-school creative cluster",
+"worth": "Yes, and it is your closest patch (Outram/Havelock side, a 25-30 minute walk or a short taxi from Kampong Bahru). It is the densest cluster of food that fits your taste in this whole patch: Meta and Lerouy next door to each other on Mohamed Sultan Rd, JAG's vegetable-led French at STPI, Kotuwa's Sri Lankan at New Bahru. Clarke Quay itself is the bit to skip.",
+"vibe": "The Singapore River upstream of the bridges is a residential quay: low-rise warehouses, condos, a shaded promenade with joggers and dog walkers, and riverside tables that feel more Sunday lunch than nightlife. Robertson Quay is the café-and-wine stretch (Toby's Estate, Common Man round the corner on Martin Rd). Mohamed Sultan Rd has restored townhouses now holding two of the city's best counter-style tasting menus. New Bahru on Kim Yam Rd is the old Nan Chiau school converted in 2024 into a lifestyle cluster: Kotuwa, The Coconut Club, Artichoke, Bar Bon Funk, shops and a lot of good-looking people. Downstream, Clarke Quay is neon, clubs and touts: walk through it to get to Boat Quay, don't stop. Zion Riverside at the western end is a proper neighbourhood hawker centre.",
+"avoid": [
+"Clarke Quay's riverside chain bars and touted seafood",
+"Riverside Point seafood with tourist pricing",
+"Expecting buzz on a Monday: half the good kitchens are dark early in the week"
+],
+"known": [
+"Riverside promenade",
+"Mohamed Sultan Rd starred restaurants",
+"New Bahru",
+"STPI print gallery",
+"Clarke Quay nightlife (to avoid)"
+],
+"main": [
+"Dinner at Meta, Lerouy or JAG",
+"Kotuwa crab curry at New Bahru",
+"Bar Bon Funk for vinyl and cocktails",
+"Coffee + river walk on a weekend morning",
+"STPI gallery (free)",
+"Char kway teow at Zion Riverside"
+],
+"poly": [
+[
+1.296,
+103.832
+],
+[
+1.295,
+103.843
+],
+[
+1.2905,
+103.848
+],
+[
+1.288,
+103.8465
+],
+[
+1.2885,
+103.84
+],
+[
+1.291,
+103.83
+]
+]
+},
+{
+"k": "marina",
+"name": "Marina Bay & Gardens by the Bay",
+"short": "Marina Bay",
+"tag": "Skyline spectacle, hotel dining",
+"verdict": "once",
+"rank": 12,
+"when": "Dusk on a weekday: Supertrees at sunset, Garden Rhapsody at 7.45pm, then the bay",
+"london": "Canary Wharf with Kew's glasshouses stuck on the end",
+"nyc": "Hudson Yards with a botanical garden attached",
+"worth": "Do it once properly, at dusk, and you have done it. The Supertrees light show and the Cloud Forest are genuinely spectacular, and Marina Barrage is a lovely free picnic lawn. The food is almost entirely hotel and casino fine dining: a few are excellent (Labyrinth, Shoukouwa, Cherry Garden), but most of it is exactly the expensive, glossy register you don't rate.",
+"vibe": "Built on reclaimed land, it looks it: Marina Bay Sands' three towers and the boat on top, the lotus-shaped ArtScience Museum, the Esplanade's spiky durian domes, and across the bay the Fullerton and the CBD towers. The promenade loop over the Helix and Jubilee bridges is the best free thing, especially after dark. Gardens by the Bay is two cooled domes (Flower Dome, Cloud Forest with its indoor waterfall) and the Supertree Grove, which is free at ground level and lit nightly. Inside MBS it is a luxury mall over a casino: celebrity-chef outposts, canal gondolas, crowds. Most restaurants here sit in hotel lobbies or malls. The cheap-eats option at the Gardens, Satay by the Bay, was reported closed from October 2026.",
+"avoid": [
+"Dining at MBS on a celebrity name alone",
+"The paid SkyPark deck when the Lantern or Jaan view comes with a drink or a meal",
+"Satay by the Bay: reported closed from Oct 2026",
+"Midday in the Gardens outside the domes"
+],
+"known": [
+"Marina Bay Sands",
+"Supertree Grove and Garden Rhapsody",
+"Cloud Forest and Flower Dome",
+"Merlion",
+"Esplanade",
+"Marina Barrage"
+],
+"main": [
+"Supertrees at dusk + Garden Rhapsody",
+"Cloud Forest",
+"Bay promenade loop over the Helix Bridge",
+"Marina Barrage lawn at sunset",
+"Esplanade free concerts",
+"Drinks at Lantern or MO Bar"
+],
+"poly": [
+[
+1.2935,
+103.856
+],
+[
+1.296,
+103.861
+],
+[
+1.29,
+103.864
+],
+[
+1.284,
+103.872
+],
+[
+1.278,
+103.87
+],
+[
+1.278,
+103.862
+],
+[
+1.2815,
+103.853
+],
+[
+1.2865,
+103.854
+]
+]
+},
+{
+"k": "cbd",
+"name": "Raffles Place, Boat Quay & Shenton Way",
+"short": "CBD",
+"tag": "Towers, hawkers, hidden bars",
+"verdict": "through",
+"rank": 14,
+"when": "Weekday lunch for the hawker centres; 9pm onwards for the Hongkong St bars; avoid Sundays",
+"london": "The City around Bank and Leadenhall, with a riverside pub row",
+"nyc": "Financial District / Stone Street",
+"worth": "Walk through it rather than spend a day here. It is worth going for three things: lunch at Lau Pa Sat or Market Street Hawker Centre, Willow's counter, and the cluster of very good bars on and around Hongkong St (28HKS, Offtrack, Pop City x Pony).",
+"vibe": "Glass towers over a shophouse riverbank. Boat Quay's restored shophouses front the river with touted seafood and pubs: pretty from Cavenagh Bridge, poor to eat at. One street back, Hongkong St and Circular Rd hide the better bars behind unmarked doors. At lunch the CBD is a stampede of lanyards into Lau Pa Sat (the Victorian cast-iron market) and the CapitaSpring hawker centre. On weekday evenings Boon Tat St beside Lau Pa Sat closes to cars and turns into satay smoke. On weekends it empties out.",
+"avoid": [
+"Boat Quay riverside seafood restaurants with touts",
+"Lau Pa Sat at 12.30pm on a weekday (queues); go at 11.30am or after 1.45pm",
+"Sunday visits: much of it is shut"
+],
+"known": [
+"Lau Pa Sat and the satay street",
+"Boat Quay",
+"Fullerton Hotel",
+"Hongkong St speakeasies"
+],
+"main": [
+"Satay on Boon Tat St",
+"Lunch at Market Street Hawker Centre",
+"Kaya toast at the original Ya Kun",
+"Willow counter dinner",
+"Bar crawl: 28HKS, Offtrack, Pop City x Pony"
+],
+"poly": [
+[
+1.2895,
+103.8465
+],
+[
+1.2875,
+103.8525
+],
+[
+1.283,
+103.854
+],
+[
+1.278,
+103.8525
+],
+[
+1.2765,
+103.848
+],
+[
+1.282,
+103.8465
+],
+[
+1.286,
+103.8455
+]
+]
+},
+{
+"k": "orchard",
+"name": "Orchard Road & Tanglin",
+"short": "Orchard",
+"tag": "Malls, gardens, hotel dining",
+"verdict": "once",
+"rank": 13,
+"when": "Botanic Gardens at 7am or 5pm; Orchard itself only for a specific errand, or Emerald Hill for a drink at dusk",
+"london": "Oxford Street into Knightsbridge, with Holland Park (Tanglin) at the end",
+"nyc": "Fifth Avenue in Midtown",
+"worth": "Orchard Rd is a 2km air-conditioned mall corridor and not worth a day in itself. The reasons to go are the Botanic Gardens (UNESCO-listed and genuinely great), Emerald Hill's Peranakan terraces, Kinokuniya, and a handful of serious tables (Les Amis, Buona Terra, Loca Niru, Imperial Treasure Fine Teochew). Newton Food Centre at the top of Scotts Rd is the famous hawker stop, but it is touristy.",
+"vibe": "Wide boulevard, shade trees, mall after mall (ION, Paragon, Takashimaya, Tangs), with luxury flagships at street level and food courts in every basement. Look for the pockets: Emerald Hill is a quiet lane of ornate 1900s Peranakan terraces with a strip of old bars at the bottom. Cuppage Plaza is an unglamorous block full of Japanese expat izakayas. Killiney Rd at the River Valley end still has old kopitiams. West past Tanglin Mall it turns leafy, expat and residential, and runs into the Botanic Gardens. The dining is mostly in hotels, which is fine for Cantonese and sushi and less fine for anything relaxed.",
+"avoid": [
+"Mall-hopping as an activity",
+"Newton touts and unpriced seafood (agree the price before you order)",
+"Hotel-lobby brunch buffets"
+],
+"known": [
+"Orchard Road malls",
+"Singapore Botanic Gardens",
+"Emerald Hill",
+"Newton Food Centre",
+"Kinokuniya"
+],
+"main": [
+"Botanic Gardens early, plus the Orchid Garden",
+"Emerald Hill walk + drink at No.5",
+"Kinokuniya",
+"Dinner at Les Amis, Buona Terra or Loca Niru",
+"Newton for chilli crab and oyster omelette",
+"Cuppage Plaza izakaya"
+],
+"poly": [
+[
+1.315,
+103.815
+],
+[
+1.3125,
+103.84
+],
+[
+1.302,
+103.847
+],
+[
+1.2975,
+103.841
+],
+[
+1.3,
+103.823
+],
+[
+1.307,
+103.813
+]
+]
+},
+{
 "k": "joochiat",
 "name": "Joo Chiat / Katong / East Coast",
 "short": "Joo Chiat",
 "tag": "Peranakan shophouses, laksa, seafront",
 "verdict": "yes",
-"rank": 3,
+"rank": 4,
 "when": "Saturday: a morning run on East Coast Park, laksa or kaya toast, then the shophouse walk. Or a weeknight dinner on Joo Chiat Road. Chin Mee Chin's Katong shop shuts around 4pm.",
 "london": "Stoke Newington Church Street crossed with the pastel terraces of Notting Hill: neighbourhood restaurants in old terraced houses, not destination dining",
 "nyc": "Carroll Gardens / Park Slope: brownstones with good, unflashy local spots",
@@ -513,7 +826,7 @@ const HOODS = [
 "short": "Dempsey",
 "tag": "Barracks restaurants, garden runs",
 "verdict": "yes",
-"rank": 5,
+"rank": 7,
 "when": "Early morning (the Gardens open at 5am) for a run, then breakfast. Or a dinner at Burnt Ends, Claudine or Candlenut. Holland V is a quick lunch, not an evening.",
 "london": "Holland Park and Kew with Petersham Nurseries-style restaurants: money, greenery, colonial buildings",
 "nyc": "Central Park's Upper West Side edge; Holland V is a tired Bleecker Street",
@@ -580,7 +893,7 @@ const HOODS = [
 "short": "Days out",
 "tag": "Rainforest, islands, ridges, airport",
 "verdict": "once",
-"rank": 11,
+"rank": 16,
 "when": "Weekend mornings before 10am (heat). MacRitchie TreeTop Walk is closed Mondays. Be back at the Ubin jetty by about 5:30pm.",
 "london": "Day trips: Richmond Park / Box Hill",
 "nyc": "Bear Mountain / Fire Island day trips",
@@ -614,7 +927,7 @@ const HOODS = [
 "short": "one-north",
 "tag": "Campus lunches, colonial bungalows",
 "verdict": "through",
-"rank": 10,
+"rank": 15,
 "when": "Weekday lunch between classes (go before 12 or after 1:30 to dodge office queues). Early-evening drinks at Timbre+ or Colbar.",
 "london": "King's Cross / Paddington Basin tech campus, with Kew-style colonial bungalows tucked behind",
 "nyc": "Roosevelt Island's Cornell Tech: purpose-built and thin on soul",
@@ -707,8 +1020,8 @@ const PLACES = [
 "classic"
 ],
 "p": 1,
-"src": "Michelin Bib Gourmand 2026 (held all 10 editions)",
-"london": "Tayyabs-level 'one thing done perfectly'",
+"src": "Michelin Bib Gourmand 2026 (every edition since 2016)",
+"london": "",
 "d": "Michelin praises the turmeric-scented rice and juicy, springy-skinned chicken. One of 17 stalls with a Bib in every Singapore edition.",
 "tip": "Order the boneless Hainanese chicken rice. The roast chicken is also recommended."
 },
@@ -728,7 +1041,7 @@ const PLACES = [
 "classic"
 ],
 "p": 1,
-"src": "Michelin Bib Gourmand 2026 (all 10 editions)",
+"src": "Michelin Bib Gourmand 2026 (every edition since 2016)",
 "d": "Hokkien-style fried prawn noodles, cooked to order with squid, prawn and fish, plus house chilli. The best single plate in the market.",
 "tip": "Expect a wait; each plate is fried to order. Ask for extra lime and sambal."
 },
@@ -870,7 +1183,7 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Eatbook (30th-anniversary review, Jan 2026); Time Out Singapore",
-"london": "Tayyabs: loud, family-run, everyone's regular",
+"london": "",
 "d": "Tiong Bahru's favourite zi char (Chinese home-style wok cooking), with outdoor tables under the flats. Champagne pork ribs and house beancurd are the cult orders.",
 "tip": "Go as 3-6 people. Order champagne long rib, HK-style steamed fish, garlic bamboo clams and home-made beancurd. Book or go at 6pm. Daily 11am-2:30pm, 5-10:45pm."
 },
@@ -916,7 +1229,7 @@ const PLACES = [
 "tip": "Book for Fri/Sat. Wed-Thu dinner only; Fri-Sun lunch and dinner; closed Mon-Tue (hours vary across sources, so check)."
 },
 {
-"n": "Casa Cicheti",
+"n": "Casa Cicheti (Tiong Bahru)",
 "t": "eat",
 "h": "tiong-bahru",
 "at": [
@@ -1257,7 +1570,7 @@ const PLACES = [
 "classic"
 ],
 "p": 2,
-"src": "Michelin Bib Gourmand 2026 (all 10 editions)",
+"src": "Michelin Bib Gourmand 2026 (every edition since 2016)",
 "d": "The most famous chicken rice in Singapore: tender chicken, fragrant rice, tangy chilli. Good but heavily touristed. Do it once.",
 "tip": "Go at 10:45am or after 2pm. Half chicken to share. Closed Mondays."
 },
@@ -1297,8 +1610,8 @@ const PLACES = [
 "famous"
 ],
 "p": 1,
-"src": "Michelin Bib Gourmand 2026 (all 10 editions)",
-"london": "Bento Bab energy: inventive, cheap, queue-worthy",
+"src": "Michelin Bib Gourmand 2026 (every edition since 2016)",
+"london": "",
 "d": "Singapore-style ramen (wanton mee meets tonkotsu): melt-in-the-mouth pork belly, wontons, a potato-wrapped prawn. A chef-hawker take that lands.",
 "tip": "Weekday lunch, so expect the office queue at 12:15; go at 11:30. Closed weekends (most of Amoy FC is weekday-only)."
 },
@@ -1358,7 +1671,7 @@ const PLACES = [
 "classic"
 ],
 "p": 3,
-"src": "Michelin Bib Gourmand 2026 (all 10 editions)",
+"src": "Michelin Bib Gourmand 2026 (every edition since 2016)",
 "d": "Bamboo-leaf rice dumplings with pork, chestnut and salted egg yolk.",
 "tip": "Take one away for a train or plane."
 },
@@ -1534,8 +1847,8 @@ const PLACES = [
 "famous"
 ],
 "p": 1,
-"src": "Michelin Bib Gourmand 2026 (all 10 editions)",
-"london": "Tayyabs: loud, cheap-ish, queue out the door",
+"src": "Michelin Bib Gourmand 2026 (every edition since 2016)",
+"london": "",
 "d": "Fifty-year zi char on Keong Saik with serious wok hei. This is the Singapore dinner to bring visitors to.",
 "tip": "Prawn paste chicken, big prawn hor fun, the fish of the day. No bookings and few tables: arrive by 5:45pm or queue."
 },
@@ -1864,7 +2177,7 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Michelin 2 stars 2026; Michelin Young Chef award (Mark Tai)",
-"london": "A two-star version of the produce-led River Cafe ethos: Sri Lankan roots, vegetables even in dessert",
+"london": "",
 "d": "Rishi Naleendra's two-star tasting menu: Sri Lankan and Australian sensibility, produce-obsessed, famous for vegetable-led desserts. Your best special-occasion bet in the patch.",
 "tip": "Book 4-6 weeks out. Tasting menu only."
 },
@@ -2002,7 +2315,7 @@ const PLACES = [
 "splurge"
 ],
 "p": 3,
-"src": "Michelin Green Star 2026; Tatler Best 2026",
+"src": "Michelin Green Star 2026 (a sustainability award, not a cooking rating); Tatler Best 2026",
 "d": "Hafizzul Hashim's modern Malaysian, with mains shared family-style. Childhood recipes that 'pack a punch'.",
 "tip": "The full-experience menu with the house cocktails."
 },
@@ -2615,14 +2928,13 @@ const PLACES = [
 },
 {
 "n": "Tekka Centre (hawker floor and wet market)",
-"t": "eat",
+"t": "see",
 "h": "little-india",
 "at": [
 1.3062231,
 103.8505301
 ],
 "addr": "665 Buffalo Rd",
-"tier": "cheap",
 "price": "$",
 "tags": [
 "hawker",
@@ -2631,7 +2943,7 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Michelin Guide 2026 (Delhi Lahori Bib; Allauddin's, Heng Gi and 545 Whampoa are Selected)",
-"london": "Tayyabs",
+"london": "",
 "d": "The best-value food building in your patch: four Michelin-listed stalls under one roof, with a wet market below that's worth a walk-through.",
 "tip": "Go 8-10am. Get naan and seekh from Delhi Lahori, biryani from Allauddin's, prawn noodles at 545 Whampoa. Go down to the market for fresh curry leaves and turmeric."
 },
@@ -2652,7 +2964,7 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Michelin Bib Gourmand 2026 (first awarded 2024)",
-"london": "Tayyabs",
+"london": "Tayyabs: the charcoal naan and seekh",
 "d": "A charcoal tandoor stall whose naans are good enough to eat plain. Seekh kebab and chicken tikka are generous.",
 "tip": "Garlic naan, seekh kebab, butter chicken. Open 9am-11pm daily per Michelin."
 },
@@ -2732,30 +3044,9 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Michelin Bib Gourmand 2026 (multi-year)",
-"london": "Tayyabs",
+"london": "Tayyabs, for biryani",
 "d": "A small Dunlop St shop doing dum-style biryani properly: long-grain rice, tender meat, restrained spicing.",
 "tip": "Mutton biryani plus a mutton seekh kebab. Lunch."
-},
-{
-"n": "Kotuwa",
-"t": "eat",
-"h": "little-india",
-"at": [
-1.3051213,
-103.8546295
-],
-"addr": "Wanderlust Hotel, 2 Dickson Rd",
-"tier": "medium",
-"price": "$$",
-"tags": [
-"you",
-"famous"
-],
-"p": 1,
-"src": "Michelin Bib Gourmand 2026; Time Out Singapore; chef Rishi Naleendra (Cloudstreet, 2 stars)",
-"london": "Gunpowder (and Hoppers)",
-"d": "Sri Lankan cooking from a two-star chef in a relaxed, buzzy room. Hoppers, kottu and seafood curries. Your Gunpowder-shaped place in Singapore.",
-"tip": "Book. Order hoppers, kottu roti, lychee achcharu and a crab or chicken curry, and share everything."
 },
 {
 "n": "Muthu's Curry",
@@ -2774,7 +3065,7 @@ const PLACES = [
 ],
 "p": 2,
 "src": "Michelin Bib Gourmand 2026",
-"london": "Tayyabs",
+"london": "",
 "d": "The fish-head-curry institution. A big hall, banana leaves, loud families. The reference version of the dish.",
 "tip": "Half a fish-head curry for 2-3 people, masala chicken, rice on banana leaf. Go instead of Banana Leaf Apolo."
 },
@@ -3065,7 +3356,7 @@ const PLACES = [
 103.8601805
 ],
 "addr": "Level 2, 269A Beach Rd (above The Coconut Club)",
-"tier": "medium",
+"tier": "nice",
 "price": "$$$",
 "tags": [
 "you",
@@ -3075,7 +3366,7 @@ const PLACES = [
 "src": "Michelin Guide 2026 (new Selected entry); Time Out Singapore 50 Best Restaurants; Grazia",
 "london": "Morito / Acre",
 "d": "New-generation Singaporean cooking from ex-Naked Finn chef Marcus Leow. Sharing plates, fermentation-led, in a rattan-and-wood upstairs room. The most you-shaped new place in the patch.",
-"tip": "Book dinner. In 2025 it was 4 courses for S$88, now possibly 5, so check. Order the red prawn kueh pie tee, wok-fried nasi ulam and the corn salat."
+"tip": "Book dinner. Set menu was S$88++ for four courses in 2025 (now possibly five), so budget about S$110-130 a head with ++ and a drink. Order the red prawn kueh pie tee, wok-fried nasi ulam and the corn salat."
 },
 {
 "n": "The Coconut Club",
@@ -3094,7 +3385,7 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Michelin Bib Gourmand 2026 (since 2018)",
-"london": "Padella (one dish, done obsessively)",
+"london": "",
 "d": "The nasi lemak everyone measures against: coconut rice from fresh-pressed milk, ayam goreng berempah, very good sambal. In a whitewashed shophouse.",
 "tip": "Nasi lemak plus the sago gula melaka. Lunch walk-in is easier, and you can book online."
 },
@@ -3114,8 +3405,8 @@ const PLACES = [
 "famous"
 ],
 "p": 2,
-"src": "Heritage (est. 1908); Time Out Singapore; Travelfish",
-"london": "Tayyabs",
+"src": "No current critic rating found; listed for the institution (est. 1908), with Time Out and Travelfish mentions",
+"london": "",
 "d": "A century-old Indian-Muslim canteen opposite the mosque. Murtabak flipped at the front window, and it's loud and rough. Go for the institution as well as the food.",
 "tip": "Mutton murtabak (small is plenty) and teh tarik. Avoid Victory next door, the rival."
 },
@@ -3136,7 +3427,7 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Time Out Singapore; Eatbook; Seth Lui",
-"london": "Bento Bab (point-and-choose canteen done well)",
+"london": "",
 "d": "Minangkabau nasi padang with 20+ dishes at the counter. Rendang that's dark and properly dry, plus grilled fish and petai prawns.",
 "tip": "Go 11.30am. Beef rendang, dendeng balado, ayam panggang, sambal goreng. Hours conflict between sources, so check."
 },
@@ -3441,7 +3732,7 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Michelin 2 stars 2026 (promoted from 1, Green Star); Asia's 50 Best Restaurants 2026 #20",
-"london": "The River Cafe-level occasion, with an Acre-style produce focus",
+"london": "Acre's produce-first instinct, as a two-star tasting menu",
 "d": "Kevin Wong's Malay-archipelago tasting menu: 24 seats, foraged and regional produce, serious and personal. Your best splurge in Singapore if you do one.",
 "tip": "Tasting menu only. Book weeks ahead and check current price (expect S$300+). Dinner over lunch."
 },
@@ -3519,7 +3810,7 @@ const PLACES = [
 ],
 "p": 3,
 "src": "Michelin 1 star 2026",
-"d": "Old-school Hong Kong Cantonese: roast meats, double-boiled soups, a dim sum lunch with aunties.",
+"d": "Hong Kong Cantonese institution, part of a multi-outlet group, starred and unflashy. Weekend dim sum is the move.",
 "tip": "Weekend dim sum. Book."
 },
 {
@@ -3538,7 +3829,7 @@ const PLACES = [
 ],
 "p": 3,
 "src": "Michelin Guide 2026 (Selected)",
-"london": "Cecconi's (a polished Italian room, not River Cafe)",
+"london": "Cecconi's: a polished Italian room",
 "d": "Long-running upscale Italian on Purvis St. Reliable pasta and fish, a corporate crowd.",
 "tip": "Set lunch. Not a destination."
 },
@@ -3767,7 +4058,7 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Time Out Singapore (best cheap eats); NHB Heritage Business Registry; Mothership (Jan 2026 hours)",
-"d": "The supper dim sum institution, since 1962. Open daily from January 2026, 7am-2am, and till 4am on Fri-Sat. Queues after midnight are part of it.",
+"d": "The supper dim sum institution since 1962, now a multi-outlet brand; this is the original. Open daily 7am-2am, till 4am Fri-Sat (from Jan 2026). Queues after midnight are part of it.",
 "tip": "Mee sua kueh, salted egg custard bun, xiao long bao, chilli oil wontons. Go after 11pm."
 },
 {
@@ -3983,6 +4274,1561 @@ const PLACES = [
 "tip": "Check the Singapore Premier League fixtures."
 },
 {
+"n": "Asian Civilisations Museum",
+"t": "see",
+"h": "civic",
+"at": [
+1.2874463,
+103.8514197
+],
+"addr": "1 Empress Place, 179555",
+"price": "$",
+"tags": [
+"classic",
+"you"
+],
+"p": 1,
+"src": "National Heritage Board museum",
+"d": "The best museum in the city: pan-Asian trade, religion and craft in a riverside colonial building. The Tang shipwreck gallery is the one to see.",
+"tip": "Ticketed. Go late morning, then walk out onto the river at Cavenagh Bridge."
+},
+{
+"n": "Peranakan Museum",
+"t": "see",
+"h": "civic",
+"at": [
+1.2942801,
+103.8491007
+],
+"addr": "39 Armenian Street, 179941",
+"price": "$",
+"tags": [
+"classic",
+"you"
+],
+"p": 1,
+"src": "National Heritage Board museum",
+"d": "Small, beautiful museum on Straits Chinese culture in an old school building. It is the best primer for the food you'll eat here.",
+"tip": "Pair it with lunch at True Blue next door."
+},
+{
+"n": "National Gallery Singapore",
+"t": "see",
+"h": "civic",
+"at": [
+1.2902557,
+103.8514709
+],
+"addr": "1 St Andrew's Road, 178957",
+"price": "$$",
+"tags": [
+"famous"
+],
+"p": 2,
+"src": "National museum",
+"d": "The old Supreme Court and City Hall joined under one canopy. The Southeast Asian collection is strong, and the building is half the point.",
+"tip": "Ticketed. The rooftop over the Padang is the view. Odette is on the ground floor."
+},
+{
+"n": "Fort Canning Park",
+"t": "do",
+"h": "civic",
+"at": [
+1.2940381,
+103.8467029
+],
+"addr": "River Valley Road, 179037",
+"price": "free",
+"tags": [
+"classic"
+],
+"p": 2,
+"src": "NParks",
+"d": "Shaded hill park with colonial history, spice garden and lawns. One of the few central places that feels cool at 8am.",
+"tip": "Enter from the Tree Tunnel side early before the photo queue forms."
+},
+{
+"n": "Fort Canning Tree Tunnel",
+"t": "see",
+"h": "civic",
+"at": [
+1.2972953,
+103.8463119
+],
+"addr": "Fort Canning Park, near Dhoby Ghaut entrance",
+"price": "free",
+"tags": [
+"famous"
+],
+"p": 3,
+"src": "NParks",
+"d": "The spiral look-up shot everyone posts. Worth 2 minutes, not a queue.",
+"tip": "Before 8.30am or skip."
+},
+{
+"n": "National Museum of Singapore",
+"t": "see",
+"h": "civic",
+"at": [
+1.2965624,
+103.8484117
+],
+"addr": "93 Stamford Road, 178897",
+"price": "$",
+"tags": [
+"classic"
+],
+"p": 3,
+"src": "National Heritage Board museum",
+"d": "The history-of-Singapore museum in a domed 1887 building. Good once, a bit school-trip.",
+"tip": "Do it on a rainy afternoon."
+},
+{
+"n": "Chijmes",
+"t": "see",
+"h": "civic",
+"at": [
+1.2951844,
+103.8518708
+],
+"addr": "30 Victoria Street, 187996",
+"price": "free",
+"tags": [
+"classic"
+],
+"p": 3,
+"src": "Heritage site",
+"d": "Former convent with a gothic chapel and a sunken courtyard of restaurants. The architecture is lovely; most of the bars are office-party generic.",
+"tip": "Come for Whitegrass or Lei Garden, not the courtyard bars."
+},
+{
+"n": "Raffles Hotel",
+"t": "see",
+"h": "civic",
+"at": [
+1.2945685,
+103.854012
+],
+"addr": "1 Beach Road, 189673",
+"price": "free",
+"tags": [
+"famous",
+"classic"
+],
+"p": 3,
+"src": "World's 50 Best Hotels 2026 (No. 17, via Time Out SG)",
+"d": "The 1887 colonial grand hotel. Its arcades and courtyards are worth a stroll; the main lobby is guests-only.",
+"tip": "Look, then eat at 1887 by André or leave. Skip Long Bar."
+},
+{
+"n": "Long Bar",
+"t": "drink",
+"h": "civic",
+"at": [
+1.2951307,
+103.8534677
+],
+"addr": "Raffles Arcade, 1 Beach Road",
+"price": "$$$",
+"tags": [
+"famous"
+],
+"p": 3,
+"src": "Institution (Singapore Sling birthplace)",
+"d": "Peanut shells on the floor, a S$30-plus Sling and a queue of tourists. It is famous, but the drinking is not good.",
+"tip": "Only if a visitor insists. Nutmeg & Clove is a 5-minute walk away."
+},
+{
+"n": "Basheer Graphic Books",
+"t": "shop",
+"h": "civic",
+"at": [
+1.2966377,
+103.8536159
+],
+"addr": "#04-19 Bras Basah Complex, 231 Bain Street, 180231",
+"price": "$$",
+"tags": [
+"hidden",
+"you",
+"classic"
+],
+"p": 2,
+"src": "Time Out SG; NHB Heritage Business Registry; Indie Bookshop Day Oct 2026",
+"d": "Design, architecture and art bookshop since 1991, in a gloriously dated 1980s block full of second-hand bookshops.",
+"tip": "Wander the whole of Bras Basah Complex; registry lists unit #04-15, so check."
+},
+{
+"n": "Odette",
+"t": "eat",
+"h": "civic",
+"at": [
+1.2899467,
+103.851523
+],
+"addr": "#01-04 National Gallery, 1 St Andrew's Road, 178957",
+"tier": "nice",
+"price": "$$$$",
+"tags": [
+"splurge",
+"famous"
+],
+"p": 1,
+"src": "Michelin 3 stars 2026; Asia's 50 Best 2026 No. 19 (Best Restaurant in Singapore); Lesley Liu Asia's Best Sommelier",
+"d": "Julien Royer's French cooking, the city's benchmark. Polished and ingredient-obsessed, and warmer than its reputation in the newly redone room.",
+"tip": "Book weeks out; lunch is the cheaper way in. This is the one splurge to make."
+},
+{
+"n": "Jaan by Kirk Westaway",
+"t": "eat",
+"h": "civic",
+"at": [
+1.2931658,
+103.8533008
+],
+"addr": "Level 70, Swissôtel The Stamford, 2 Stamford Road",
+"tier": "nice",
+"price": "$$$$",
+"tags": [
+"splurge"
+],
+"p": 2,
+"src": "Michelin 2 stars 2026",
+"d": "Devon-born Kirk Westaway's modern British cooking 70 floors up. Produce-led English food with the best dining-room view in the city.",
+"tip": "Lunch for the view in daylight at a lower price."
+},
+{
+"n": "True Blue Cuisine",
+"t": "eat",
+"h": "civic",
+"at": [
+1.2945459,
+103.8493977
+],
+"addr": "47/49 Armenian Street, 179937",
+"tier": "medium",
+"price": "$$",
+"tags": [
+"classic",
+"you"
+],
+"p": 1,
+"src": "Michelin Bib Gourmand 2026",
+"d": "Peranakan home cooking in a house full of family antiques beside the museum. It feels like someone's grandmother's dining room, and the food matches.",
+"tip": "Ayam buah keluak (black-nut chicken). Closed Sundays."
+},
+{
+"n": "National Kitchen by Violet Oon",
+"t": "eat",
+"h": "civic",
+"at": [
+1.2908177,
+103.8520323
+],
+"addr": "#02-01 National Gallery, 1 St Andrew's Road",
+"tier": "medium",
+"price": "$$",
+"tags": [
+"classic"
+],
+"p": 3,
+"src": "Long-running Violet Oon institution; no 2026 critic review found",
+"d": "Peranakan classics in a colonial-glam room inside the Gallery. Pretty and reliable, but True Blue cooks with more soul.",
+"tip": "Dry laksa and kueh pie tee for a post-gallery lunch. Confirm it's still open (only older listings found)."
+},
+{
+"n": "Chin Chin Eating House",
+"t": "eat",
+"h": "civic",
+"at": [
+1.296284,
+103.8555917
+],
+"addr": "19 Purvis Street, 188598",
+"tier": "cheap",
+"price": "$",
+"tags": [
+"hidden",
+"classic",
+"hawker"
+],
+"p": 2,
+"src": "ieatishootipost (Leslie Tay); Miss Tam Chiak",
+"d": "Hainanese coffee shop going since 1934, with chicken rice, pork chop and chap chye. Uneven by Leslie Tay's account, but the real old Purvis St.",
+"tip": "Hainanese pork chop and chicken rice before drinks at Nutmeg & Clove. Status not re-verified for 2026."
+},
+{
+"n": "Labyrinth",
+"t": "eat",
+"h": "marina",
+"at": [
+1.289795,
+103.856063
+],
+"addr": "#02-23 Esplanade Mall, 8 Raffles Avenue, 039802",
+"tier": "nice",
+"price": "$$$",
+"tags": [
+"you",
+"splurge"
+],
+"p": 1,
+"src": "Michelin 1 star 2026; Asia's 50 Best 2026 No. 40",
+"d": "LG Han reworks Singapore hawker and childhood dishes with local produce. This is the tasting menu that actually teaches you the city, with a fun front of house.",
+"tip": "Do it early in your stay. Book ahead."
+},
+{
+"n": "Shoukouwa",
+"t": "eat",
+"h": "marina",
+"at": [
+1.2857872,
+103.8539744
+],
+"addr": "#02-02A One Fullerton, 1 Fullerton Road",
+"tier": "nice",
+"price": "$$$$",
+"tags": [
+"splurge"
+],
+"p": 2,
+"src": "Michelin 2 stars 2026",
+"d": "Edomae sushi counter, a handful of seats, fish flown from Japan. Counter dining at its most serious.",
+"tip": "Lunch omakase is the lower entry price."
+},
+{
+"n": "Saint Pierre",
+"t": "eat",
+"h": "marina",
+"at": [
+1.2857872,
+103.8539744
+],
+"addr": "One Fullerton, 1 Fullerton Road",
+"tier": "nice",
+"price": "$$$$",
+"tags": [
+"splurge"
+],
+"p": 3,
+"src": "Michelin 2 stars 2026",
+"d": "Emmanuel Stroobant's contemporary French on the bay. Accomplished but formal.",
+"tip": "Only if Odette is full."
+},
+{
+"n": "Cherry Garden by Chef Fei",
+"t": "eat",
+"h": "marina",
+"at": [
+1.2906606,
+103.858324
+],
+"addr": "Level 5, Mandarin Oriental, 5 Raffles Avenue, 039797",
+"tier": "nice",
+"price": "$$$",
+"tags": [
+"new"
+],
+"p": 2,
+"src": "Michelin 1 star 2026 (new)",
+"d": "Teochew-Cantonese from Chef Fei in a redone room. One of the strongest Chinese kitchens in the city right now.",
+"tip": "Dim sum lunch is the cheaper way in."
+},
+{
+"n": "Jin Ting Wan",
+"t": "eat",
+"h": "marina",
+"at": [
+1.2826713,
+103.8601836
+],
+"addr": "Level 55, Marina Bay Sands Tower 1, 10 Bayfront Avenue",
+"tier": "nice",
+"price": "$$$$",
+"tags": [
+"new",
+"splurge"
+],
+"p": 3,
+"src": "Michelin 1 star 2026 (new) + Sommelier Award; Time Out SG",
+"d": "Cantonese with dim sum and a big Chinese-wine list, 55 floors up. Glossier than you like, but critics rate it.",
+"tip": "Dim sum lunch for the view."
+},
+{
+"n": "Waku Ghin",
+"t": "eat",
+"h": "marina",
+"at": [
+1.2838861,
+103.8590156
+],
+"addr": "Level 2, The Shoppes at Marina Bay Sands",
+"tier": "nice",
+"price": "$$$$",
+"tags": [
+"splurge"
+],
+"p": 3,
+"src": "Michelin 1 star 2026",
+"d": "Tetsuya Wakuda's Japanese-European tasting counter. Famous for the marinated botan shrimp with uni and caviar. Very expensive.",
+"tip": "Only as a special-occasion counter seat."
+},
+{
+"n": "CUT by Wolfgang Puck",
+"t": "eat",
+"h": "marina",
+"at": [
+1.2836965,
+103.8607226
+],
+"addr": "B1 Galleria Level, The Shoppes at Marina Bay Sands",
+"tier": "nice",
+"price": "$$$$",
+"tags": [],
+"p": 3,
+"src": "Michelin 1 star 2026",
+"d": "Starred steakhouse inside the casino mall: excellent beef, but this is the celebrity-outpost register she dislikes.",
+"tip": "Skip unless someone else is paying and wants steak."
+},
+{
+"n": "Tenshima",
+"t": "eat",
+"h": "marina",
+"at": [
+1.2924496,
+103.8595202
+],
+"addr": "#01-09 Millenia Walk, 9 Raffles Boulevard, 039596",
+"tier": "nice",
+"price": "$$$",
+"tags": [
+"new",
+"you"
+],
+"p": 2,
+"src": "Michelin 1 star 2026 (new)",
+"d": "Tempura omakase counter in an unlikely mall. You watch each piece come out of the oil.",
+"tip": "Sit at the counter; lunch sets are the value play."
+},
+{
+"n": "Sushi Sakuta",
+"t": "eat",
+"h": "marina",
+"at": [
+1.2924496,
+103.8595202
+],
+"addr": "Millenia Walk, 9 Raffles Boulevard",
+"tier": "nice",
+"price": "$$$$",
+"tags": [
+"splurge"
+],
+"p": 3,
+"src": "Michelin 2 stars 2026",
+"d": "Two-star sushi counter. Pick it or Shoukouwa, not both.",
+"tip": "Book well ahead."
+},
+{
+"n": "Summer Pavilion",
+"t": "eat",
+"h": "marina",
+"at": [
+1.2905344,
+103.8600739
+],
+"addr": "The Ritz-Carlton Millenia, 7 Raffles Avenue",
+"tier": "nice",
+"price": "$$$",
+"tags": [
+"classic"
+],
+"p": 3,
+"src": "Michelin 1 star 2026",
+"d": "Hotel Cantonese, long starred: dim sum and double-boiled soups.",
+"tip": "Weekday dim sum lunch."
+},
+{
+"n": "Yong Fu",
+"t": "eat",
+"h": "marina",
+"at": [
+1.2949861,
+103.8578759
+],
+"addr": "Suntec City",
+"tier": "nice",
+"price": "$$$",
+"tags": [
+"new"
+],
+"p": 3,
+"src": "Michelin 1 star 2026",
+"d": "Ningbo seafood cooking: rare in Singapore, starred in 2026.",
+"tip": "For a group dinner with Chinese classmates."
+},
+{
+"n": "Marguerite",
+"t": "eat",
+"h": "marina",
+"at": [
+1.2848639,
+103.8640308
+],
+"addr": "Flower Dome, Gardens by the Bay, 18 Marina Gardens Drive",
+"tier": "nice",
+"price": "$$$$",
+"tags": [],
+"p": 3,
+"src": "Michelin 1 star 2026",
+"d": "Garden-inspired tasting menu inside the Flower Dome. Lovely setting; style risks outrunning substance.",
+"tip": "Lunch, with a dome visit attached."
+},
+{
+"n": "Supertree Grove & Garden Rhapsody",
+"t": "see",
+"h": "marina",
+"at": [
+1.2820667,
+103.8640021
+],
+"addr": "Gardens by the Bay, 18 Marina Gardens Drive",
+"price": "free",
+"tags": [
+"famous"
+],
+"p": 1,
+"src": "Gardens by the Bay",
+"d": "The steel tree-towers, free at ground level. The nightly light-and-sound show is genuinely worth it.",
+"tip": "Lie on the ground under the trees for the show (usually 7.45 and 8.45pm; check site)."
+},
+{
+"n": "Cloud Forest & Flower Dome",
+"t": "see",
+"h": "marina",
+"at": [
+1.2845255,
+103.8646877
+],
+"addr": "Gardens by the Bay, 18 Marina Gardens Drive",
+"price": "$$",
+"tags": [
+"famous"
+],
+"p": 2,
+"src": "Gardens by the Bay",
+"d": "Two cooled glasshouses. The Cloud Forest's misted indoor mountain and waterfall is the better one.",
+"tip": "Late afternoon, then out for Supertrees at dusk."
+},
+{
+"n": "Marina Barrage",
+"t": "do",
+"h": "marina",
+"at": [
+1.2806838,
+103.8703316
+],
+"addr": "8 Marina Gardens Drive",
+"price": "free",
+"tags": [
+"hidden"
+],
+"p": 2,
+"src": "PUB",
+"d": "Grass-roofed dam with skyline views: locals fly kites and picnic here at sunset.",
+"tip": "Bring a picnic and a bottle; walk on to the Supertrees after."
+},
+{
+"n": "ArtScience Museum",
+"t": "see",
+"h": "marina",
+"at": [
+1.2861382,
+103.8592297
+],
+"addr": "6 Bayfront Avenue",
+"price": "$$",
+"tags": [],
+"p": 3,
+"src": "MBS",
+"d": "Lotus-shaped building with rotating exhibitions; quality varies by show.",
+"tip": "Only if the current show interests her."
+},
+{
+"n": "Merlion Park",
+"t": "see",
+"h": "marina",
+"at": [
+1.2869446,
+103.8544457
+],
+"addr": "1 Fullerton Road",
+"price": "free",
+"tags": [
+"famous"
+],
+"p": 3,
+"src": "STB",
+"d": "The spitting lion. A 30-second tick on the promenade loop.",
+"tip": "Pass it on the walk; don't detour."
+},
+{
+"n": "Esplanade - Theatres on the Bay",
+"t": "do",
+"h": "marina",
+"at": [
+1.289663,
+103.8556842
+],
+"addr": "1 Esplanade Drive",
+"price": "free",
+"tags": [
+"classic"
+],
+"p": 2,
+"src": "Esplanade",
+"d": "Arts centre with frequent free outdoor concerts and a rooftop terrace over the bay.",
+"tip": "Check the free-events listing; Labyrinth is in the mall."
+},
+{
+"n": "The Helix Bridge",
+"t": "see",
+"h": "marina",
+"at": [
+1.2871511,
+103.8606022
+],
+"addr": "Bayfront Avenue to Raffles Avenue",
+"price": "free",
+"tags": [],
+"p": 2,
+"src": "Landmark",
+"d": "DNA-spiral footbridge, best lit at night on the bay loop.",
+"tip": "Walk it after dark."
+},
+{
+"n": "Lantern",
+"t": "drink",
+"h": "marina",
+"at": [
+1.2831541,
+103.8537541
+],
+"addr": "Rooftop, The Fullerton Bay Hotel, 80 Collyer Quay",
+"price": "$$$",
+"tags": [],
+"p": 2,
+"src": "World's 50 Best Discovery; Time Out SG",
+"d": "Rooftop pool bar facing MBS head-on, with DJs Wednesday-Sunday. You come for the view and the drinks are fine.",
+"tip": "Sunset; hours conflict across listings, so check."
+},
+{
+"n": "MO Bar",
+"t": "drink",
+"h": "marina",
+"at": [
+1.2906606,
+103.858324
+],
+"addr": "Lobby, Mandarin Oriental, 5 Raffles Avenue",
+"price": "$$$",
+"tags": [],
+"p": 2,
+"src": "Time Out SG (Mar 2026 menu); former Asia's 50 Best Bars entrant",
+"d": "Serious hotel bar with bay views and a 2026 'Modern Localism' menu plus its own house gin.",
+"tip": "Window seat for the bay."
+},
+{
+"n": "Lau Pa Sat",
+"t": "eat",
+"h": "cbd",
+"at": [
+1.2806123,
+103.8504767
+],
+"addr": "18 Raffles Quay, 048582",
+"tier": "cheap",
+"price": "$",
+"tags": [
+"famous",
+"hawker",
+"classic"
+],
+"p": 1,
+"src": "Heritage hawker market; Broadsheet / Makansutra canon",
+"d": "Victorian cast-iron market turned food court. Stalls inside are average-to-good; the satay street outside is the reason to come.",
+"tip": "From about 7pm Boon Tat St closes to cars: order satay at Best Satay 7 & 8 with a cold Tiger."
+},
+{
+"n": "Market Street Hawker Centre",
+"t": "eat",
+"h": "cbd",
+"at": [
+1.2847738,
+103.8502341
+],
+"addr": "Levels 2-3, CapitaSpring, 88 Market Street",
+"tier": "cheap",
+"price": "$",
+"tags": [
+"hawker",
+"hidden"
+],
+"p": 2,
+"src": "Time Out SG; Seth Lui",
+"d": "The old Golden Shoe hawkers (56 stalls) rehoused in a 2022 tower. A real CBD lunch with locals, not tourists.",
+"tip": "Before 12 or after 1.45pm on weekdays; closed or quiet on weekends for many stalls."
+},
+{
+"n": "Ya Kun Kaya Toast (Far East Square)",
+"t": "cafe",
+"h": "cbd",
+"at": [
+1.2836904,
+103.847911
+],
+"addr": "#01-01, 18 China Street",
+"price": "$",
+"tags": [
+"classic",
+"famous"
+],
+"p": 2,
+"src": "Institution (since 1944); Singapore breakfast canon",
+"d": "The flagship of the kaya-toast chain: kopi, soft-boiled eggs, butter-and-kaya toast. A chain, but the original one.",
+"tip": "Kaya toast set with kopi C, 8am."
+},
+{
+"n": "Anglo Indian (Shenton Way)",
+"t": "eat",
+"h": "cbd",
+"at": [
+1.2790698,
+103.8503053
+],
+"addr": "#01-08, 1 Shenton Way, 068803",
+"tier": "medium",
+"price": "$$",
+"tags": [
+"hidden"
+],
+"p": 3,
+"src": "Michelin Bib Gourmand 2026",
+"d": "Honest North Indian on a busy terrace. The weekday lunch is the bargain Michelin flags.",
+"tip": "Mutton dum biryani; lunch."
+},
+{
+"n": "Willow",
+"t": "eat",
+"h": "cbd",
+"at": [
+1.2873745,
+103.8474273
+],
+"addr": "39 Hongkong Street, 059678",
+"tier": "nice",
+"price": "$$$",
+"tags": [
+"you"
+],
+"p": 1,
+"src": "Michelin 1 star 2026 (since 2023)",
+"d": "Ex-Zén chef Nicolas Tam's pan-Asian tasting menu in a calm, organic-textured room with counter seats. Precise but playful, and fully your register.",
+"tip": "Ask for the counter. Amadai is his signature (Michelin)."
+},
+{
+"n": "28 HongKong Street",
+"t": "drink",
+"h": "cbd",
+"at": [
+1.2876793,
+103.846947
+],
+"addr": "28 Hongkong Street",
+"price": "$$$",
+"tags": [
+"hidden",
+"classic"
+],
+"p": 2,
+"src": "Former Asia's 50 Best Bars No. 4 / World's 50 Best No. 10; Punch; FACT Awards nominee",
+"d": "The original unmarked-door speakeasy that put Singapore on the bar map. Still one of the better quiet drinks in town.",
+"tip": "Book; closed Sunday."
+},
+{
+"n": "Pop City x Pony",
+"t": "drink",
+"h": "cbd",
+"at": [
+1.28244,
+103.85051
+],
+"addr": "Level 2, 19 Cecil Street, 049704",
+"price": "$$$",
+"tags": [
+"hidden",
+"you"
+],
+"p": 2,
+"src": "Tatler Best 20 Bars 2026",
+"d": "Japanese craft cocktails and small plates in a heritage building, reached by a fire-escape staircase. From the Jigger & Pony group.",
+"tip": "Go hungry; the snacks are part of it."
+},
+{
+"n": "Boat Quay",
+"t": "see",
+"h": "cbd",
+"at": [
+1.2873547,
+103.8481894
+],
+"addr": "Boat Quay, along the Singapore River",
+"price": "free",
+"tags": [
+"famous"
+],
+"p": 3,
+"src": "Heritage quay",
+"d": "Pretty restored shophouse frontage best seen from Cavenagh Bridge. The riverside restaurants are tourist traps with touts.",
+"tip": "Walk it, don't eat it."
+},
+{
+"n": "Meta",
+"t": "eat",
+"h": "river",
+"at": [
+1.29391,
+103.8417604
+],
+"addr": "9 Mohamed Sultan Road, 238959",
+"tier": "nice",
+"price": "$$$",
+"tags": [
+"you",
+"splurge"
+],
+"p": 1,
+"src": "Michelin 2 stars 2026",
+"d": "Busan-born Sun Kim's Korean-modern single menu, mostly seafood and vegetables, with a Korean non-alcoholic pairing. Bold flavours, minimalist plating. Your best splurge on the river.",
+"tip": "Steamed Jeju abalone with gochujang seaweed risotto is the signature. Check opening days when booking."
+},
+{
+"n": "Lerouy",
+"t": "eat",
+"h": "river",
+"at": [
+1.293924,
+103.841922
+],
+"addr": "7 Mohamed Sultan Road, 238957",
+"tier": "nice",
+"price": "$$$",
+"tags": [
+"you"
+],
+"p": 2,
+"src": "Michelin 1 star 2026",
+"d": "Alsatian Christophe Lerouy's omakase-style French facing an open kitchen. Chef's-table energy, odd and clever flavour pairings.",
+"tip": "You pick the number of courses; small bar for a drink before. Closed Sun-Mon."
+},
+{
+"n": "JAG",
+"t": "eat",
+"h": "river",
+"at": [
+1.29094,
+103.84028
+],
+"addr": "#02-02 STPI, 41 Robertson Quay, 238236",
+"tier": "nice",
+"price": "$$$",
+"tags": [
+"you"
+],
+"p": 1,
+"src": "Michelin 1 star 2026 + Service Award 2026 (Maryjoy Lim)",
+"london": "The River Cafe (produce-first)",
+"d": "Vegetable-led French cooking from peak-season Savoie produce, in a white warehouse room above a print gallery. The most River Cafe-minded kitchen in this patch, with a great cheese trolley.",
+"tip": "Lunch Wed-Sat; finish on the cheese trolley and digestifs."
+},
+{
+"n": "Kotuwa",
+"t": "eat",
+"h": "river",
+"at": [
+1.2928967,
+103.8387974
+],
+"addr": "#01-03 New Bahru, 46 Kim Yam Road, 239351",
+"tier": "medium",
+"price": "$$",
+"tags": [
+"you"
+],
+"p": 1,
+"src": "Michelin Bib Gourmand 2026",
+"london": "Gunpowder / Hoppers",
+"d": "Rishi Naleendra's Sri Lankan, now at New Bahru. Michelin says the crab is the reason to come. One reviewer finds it toned down since the move, but it is still the best Bib on the river.",
+"tip": "Crab curry with hoppers. A la carte keeps it mid-price (set menu reported S$155)."
+},
+{
+"n": "The Coconut Club (New Bahru)",
+"t": "eat",
+"h": "river",
+"at": [
+1.2923365,
+103.8388397
+],
+"addr": "New Bahru, 46 Kim Yam Road, 239351",
+"tier": "medium",
+"price": "$$",
+"tags": [
+"famous",
+"you"
+],
+"p": 2,
+"src": "Michelin Bib Gourmand 2026 (Beach Rd branch); Broadsheet, Sep 2026",
+"d": "The city's most-praised nasi lemak: obsessive coconut rice, sambal and fried chicken. This is the newer branch; the Bib is for Beach Rd.",
+"tip": "Nasi lemak + ayam goreng berempah; lunch."
+},
+{
+"n": "Artichoke Pizza Parlor",
+"t": "eat",
+"h": "river",
+"at": [
+1.292838,
+103.8387607
+],
+"addr": "#01-02 New Bahru, 46 Kim Yam Road, 239351",
+"tier": "medium",
+"price": "$$",
+"tags": [
+"you"
+],
+"p": 3,
+"src": "Chope listing; SilverKris on Bjorn Shen (no 2026 critic review found)",
+"london": "Padella-casual",
+"d": "Bjorn Shen's cult Middle Eastern Artichoke switched in late 2025 to a new-school pizza parlour. The talent is still there, but it's not the old mezze menu.",
+"tip": "Medium confidence on current menu; check before going."
+},
+{
+"n": "Song Fa Bak Kut Teh (New Bridge Rd)",
+"t": "eat",
+"h": "river",
+"at": [
+1.2890187,
+103.8477137
+],
+"addr": "11 New Bridge Road, opposite Clarke Quay Central",
+"tier": "cheap",
+"price": "$",
+"tags": [
+"famous",
+"hawker"
+],
+"p": 2,
+"src": "Michelin Bib Gourmand 2026",
+"d": "Teochew peppery pork-rib soup with endless refills, at the original shop. Touristy queue but genuinely good.",
+"tip": "Go 10.30am or 3pm to dodge the line; add you tiao to dunk."
+},
+{
+"n": "Zion Riverside Food Centre",
+"t": "eat",
+"h": "river",
+"at": [
+1.2924449,
+103.8312121
+],
+"addr": "70 Zion Road, 247792",
+"tier": "cheap",
+"price": "$",
+"tags": [
+"hawker",
+"hidden"
+],
+"p": 1,
+"src": "Michelin Bib Gourmand 2026 (two stalls)",
+"d": "Proper neighbourhood hawker centre by the river with two Bib stalls. A ten-minute ride from home.",
+"tip": "No.18 Zion Road Fried Kway Teow and Zhi Wei Xian Zion Road Big Prawn Noodle; evening."
+},
+{
+"n": "Bar Bon Funk",
+"t": "drink",
+"h": "river",
+"at": [
+1.2926789,
+103.839063
+],
+"addr": "#02-01 New Bahru, 46 Kim Yam Road, 239351",
+"price": "$$",
+"tags": [
+"you",
+"new"
+],
+"p": 1,
+"src": "Asia's 50 Best Bars 2026 No. 90 (new entry); Tatler Best 20 Bars 2026",
+"london": "Caia",
+"d": "Living-room bar with vinyl, DJ nights and fermentation-driven cocktails, spun off from Le Bon Funk. Your Caia, five minutes from the river.",
+"tip": "Book; DJ nights; lamb skewer and the baloney sandwich."
+},
+{
+"n": "New Bahru",
+"t": "shop",
+"h": "river",
+"at": [
+1.2926789,
+103.839063
+],
+"addr": "46 Kim Yam Road, 239351",
+"price": "$$",
+"tags": [
+"new"
+],
+"p": 2,
+"src": "Honeycombers; Broadsheet Sep 2026",
+"d": "Converted 1940s school turned creative cluster: 60-plus brands, design shops, cafés, Kotuwa and Bar Bon Funk.",
+"tip": "Make it an evening: shop, eat at Kotuwa, then upstairs to Bar Bon Funk."
+},
+{
+"n": "STPI Creative Workshop & Gallery",
+"t": "see",
+"h": "river",
+"at": [
+1.2911545,
+103.8402176
+],
+"addr": "41 Robertson Quay, 238236",
+"price": "free",
+"tags": [
+"hidden",
+"you"
+],
+"p": 2,
+"src": "Gallery",
+"d": "Contemporary print and paper gallery in a riverside warehouse, usually free and usually empty.",
+"tip": "Before lunch at JAG upstairs."
+},
+{
+"n": "Alkaff Bridge & Robertson Quay promenade",
+"t": "do",
+"h": "river",
+"at": [
+1.2901167,
+103.8399487
+],
+"addr": "Robertson Quay",
+"price": "free",
+"tags": [],
+"p": 2,
+"src": "Landmark",
+"d": "The painted bridge and the shaded riverside path: Singapore's nicest flat walk or run, and close to home.",
+"tip": "Run it at 7am or walk it at dusk."
+},
+{
+"n": "Common Man Coffee Roasters",
+"t": "cafe",
+"h": "river",
+"at": [
+1.2918513,
+103.8384068
+],
+"addr": "22 Martin Road, 239058",
+"price": "$$",
+"tags": [
+"classic"
+],
+"p": 2,
+"src": "Burpple top-rated Robertson Quay",
+"london": "Granger & Co",
+"d": "The specialty roaster that defined Singapore brunch. Busy weekend Aussie-style plates.",
+"tip": "Weekday morning; flat white."
+},
+{
+"n": "Toby's Estate",
+"t": "cafe",
+"h": "river",
+"at": [
+1.2899337,
+103.8374006
+],
+"addr": "8 Rodyk Street",
+"price": "$$",
+"tags": [],
+"p": 3,
+"src": "District Sixtyfive; Burpple",
+"d": "Riverside coffee with outdoor tables. Fine, reliable, not special.",
+"tip": "Coffee before a river walk."
+},
+{
+"n": "Les Amis",
+"t": "eat",
+"h": "orchard",
+"at": [
+1.3066335,
+103.8313493
+],
+"addr": "#01-16 Shaw Centre, 1 Scotts Road, 228208",
+"tier": "nice",
+"price": "$$$$",
+"tags": [
+"splurge",
+"classic"
+],
+"p": 2,
+"src": "Michelin 3 stars 2026; Asia's 50 Best 2026 No. 38",
+"d": "Classical French with a legendary wine list. More formal and old-school than Odette.",
+"tip": "Only if Odette is booked or for a wine-led night; lunch is the gentler price."
+},
+{
+"n": "Buona Terra",
+"t": "eat",
+"h": "orchard",
+"at": [
+1.3107414,
+103.8348231
+],
+"addr": "29 Scotts Road, 228224",
+"tier": "nice",
+"price": "$$$",
+"tags": [
+"you"
+],
+"p": 2,
+"src": "Michelin 1 star 2026",
+"d": "Contemporary Italian in a refurbished colonial house, with a strong Italian and natural wine list. Your best Italian bet in this patch.",
+"tip": "Hand-made tagliatelle with white truffle when in season (Oct-Dec)."
+},
+{
+"n": "Loca Niru",
+"t": "eat",
+"h": "orchard",
+"at": [
+1.298642,
+103.843293
+],
+"addr": "#02-01 House of Tan Yeok Nee, 101 Penang Road, 238466",
+"tier": "nice",
+"price": "$$$$",
+"tags": [
+"new",
+"splurge"
+],
+"p": 2,
+"src": "Michelin 1 star 2026 (new) + Young Chef Award (Shusuke Kubota); Time Out SG",
+"d": "French-Japanese tasting menu in a restored 1885 Teochew mansion. New, ambitious, and the room alone is worth seeing.",
+"tip": "Book for a celebration; Dhoby Ghaut end of Orchard."
+},
+{
+"n": "Imperial Treasure Fine Teochew Cuisine",
+"t": "eat",
+"h": "orchard",
+"at": [
+1.3039546,
+103.8319742
+],
+"addr": "Level 3, ION Orchard, 2 Orchard Turn",
+"tier": "nice",
+"price": "$$$",
+"tags": [
+"classic"
+],
+"p": 2,
+"src": "Michelin 1 star 2026",
+"d": "Starred Teochew from the Imperial Treasure restaurant group, in ION Orchard: cold crab, braised goose, oyster omelette done properly. Reliable rather than a one-off room.",
+"tip": "Go with a group to share; the mall setting is the price of the food."
+},
+{
+"n": "Shisen Hanten",
+"t": "eat",
+"h": "orchard",
+"at": [
+1.3019079,
+103.8359161
+],
+"addr": "Hilton Singapore Orchard, 333 Orchard Road",
+"tier": "nice",
+"price": "$$$",
+"tags": [],
+"p": 3,
+"src": "Michelin 1 star 2026",
+"d": "Chen Kentaro's Japanese-Sichuan. Mapo tofu and dan dan are the point.",
+"tip": "Lunch sets."
+},
+{
+"n": "Iggy's",
+"t": "eat",
+"h": "orchard",
+"at": [
+1.3058383,
+103.8292929
+],
+"addr": "voco Orchard Singapore, 581 Orchard Road",
+"tier": "nice",
+"price": "$$$$",
+"tags": [
+"classic"
+],
+"p": 3,
+"src": "Michelin 1 star 2026",
+"d": "The pioneer of Singapore fine dining, still starred. Hotel setting.",
+"tip": "Wine-led dinner."
+},
+{
+"n": "Summer Palace",
+"t": "eat",
+"h": "orchard",
+"at": [
+1.304621,
+103.8248461
+],
+"addr": "Conrad Singapore Orchard, 1 Cuscaden Road",
+"tier": "nice",
+"price": "$$$",
+"tags": [],
+"p": 3,
+"src": "Michelin 1 star 2026",
+"d": "Hotel Cantonese, refined dim sum.",
+"tip": "Weekend dim sum, then Manhattan bar is upstairs."
+},
+{
+"n": "Sushi Ichi",
+"t": "eat",
+"h": "orchard",
+"at": [
+1.305109,
+103.8328767
+],
+"addr": "Singapore Marriott Tang Plaza, 320 Orchard Road",
+"tier": "nice",
+"price": "$$$$",
+"tags": [],
+"p": 3,
+"src": "Michelin 1 star 2026",
+"d": "Ginza-pedigree sushi counter.",
+"tip": "Lunch counter."
+},
+{
+"n": "Sushi Kimura+",
+"t": "eat",
+"h": "orchard",
+"at": [
+1.304621,
+103.8248461
+],
+"addr": "Conrad Singapore Orchard, 1 Cuscaden Road",
+"tier": "nice",
+"price": "$$$$",
+"tags": [
+"new"
+],
+"p": 3,
+"src": "Michelin 1 star 2026 (new)",
+"d": "Tomoo Kimura's aged-fish sushi counter, newly starred.",
+"tip": "Book ahead."
+},
+{
+"n": "Omakase @ Stevens",
+"t": "eat",
+"h": "orchard",
+"at": [
+1.3137694,
+103.8286826
+],
+"addr": "#01-03, 30 Stevens Road, 257840",
+"tier": "nice",
+"price": "$$$$",
+"tags": [
+"you"
+],
+"p": 3,
+"src": "Michelin 1 star 2026",
+"d": "16-seat pine counter: Osaka chef, French technique, seasonal Japanese produce, 6 or 8 courses.",
+"tip": "Counter only; reserve."
+},
+{
+"n": "Indocafé - The White House",
+"t": "eat",
+"h": "orchard",
+"at": [
+1.3109515,
+103.8355418
+],
+"addr": "35 Scotts Road, 228227",
+"tier": "medium",
+"price": "$$",
+"tags": [
+"classic"
+],
+"p": 2,
+"src": "Michelin Bib Gourmand 2026 (listed as Indocafé, Newton)",
+"d": "Peranakan in a dark-wood colonial bungalow. Careful spice work, and it feels like a proper night out.",
+"tip": "Wagyu cheek rendang; laksa."
+},
+{
+"n": "Tambuah Mas (Paragon)",
+"t": "eat",
+"h": "orchard",
+"at": [
+1.3035529,
+103.8352095
+],
+"addr": "#B1-44 Paragon, 290 Orchard Road",
+"tier": "medium",
+"price": "$$",
+"tags": [
+"classic"
+],
+"p": 3,
+"src": "Michelin Guide 2026 (Selected)",
+"d": "Old-school Indonesian; reviews in 2026 are split.",
+"tip": "Beef rendang; a mall lunch, not a destination."
+},
+{
+"n": "Chatterbox",
+"t": "eat",
+"h": "orchard",
+"at": [
+1.3019079,
+103.8359161
+],
+"addr": "#05-03 Hilton Singapore Orchard, 333 Orchard Road",
+"tier": "medium",
+"price": "$$",
+"tags": [
+"famous",
+"classic"
+],
+"p": 3,
+"src": "No current critic rating found; listed as the institution it is (2025-26 blog reviews mixed)",
+"d": "The famous S$30-plus hotel chicken rice. A Singapore rite, but hawker chicken rice is better and a fifth of the price.",
+"tip": "Book or face a 1-2hr wait; chicken rice only."
+},
+{
+"n": "Izakaya Naniwa",
+"t": "eat",
+"h": "orchard",
+"at": [
+1.3020387,
+103.8407359
+],
+"addr": "#03-13 Cuppage Plaza, 5 Koek Road",
+"tier": "medium",
+"price": "$$",
+"tags": [
+"hidden",
+"you"
+],
+"p": 2,
+"src": "Eatbook (2024)",
+"london": "Bento Bab-level casual",
+"d": "Adults-only Kyoto obanzai izakaya with a menu that changes daily. A favourite of Japanese expats in a scruffy mall full of them.",
+"tip": "Must order a drink; Tue-Sat from 6.30pm. Status last confirmed 2024."
+},
+{
+"n": "Newton Food Centre",
+"t": "eat",
+"h": "orchard",
+"at": [
+1.312097,
+103.8395278
+],
+"addr": "500 Clemenceau Avenue North, 229495",
+"tier": "cheap",
+"price": "$",
+"tags": [
+"hawker",
+"famous"
+],
+"p": 2,
+"src": "Michelin Bib Gourmand 2026 (Alliance Seafood, Heng, Hup Kee, Kwang Kee, Song Kee)",
+"d": "The Crazy Rich Asians hawker centre. Touty and pricier than elsewhere, but five Bib stalls.",
+"tip": "Alliance Seafood sambal stingray; Hup Kee oyster omelette (new Bib 2026); Heng carrot cake. Agree prices first."
+},
+{
+"n": "Da Shi Jia Big Prawn Mee",
+"t": "eat",
+"h": "orchard",
+"at": [
+1.2984644,
+103.8390932
+],
+"addr": "89 Killiney Road, 239534",
+"tier": "cheap",
+"price": "$",
+"tags": [
+"hawker",
+"hidden"
+],
+"p": 2,
+"src": "Michelin Bib Gourmand 2026",
+"d": "Rich prawn-head broth noodles with big prawns at the River Valley end of Orchard.",
+"tip": "Big prawn mee, dry with soup on the side."
+},
+{
+"n": "Killiney Kopitiam",
+"t": "cafe",
+"h": "orchard",
+"at": [
+1.2988102,
+103.8394544
+],
+"addr": "67 Killiney Road",
+"price": "$",
+"tags": [
+"classic"
+],
+"p": 3,
+"src": "Institution (est. 1919); no recent critic review found",
+"d": "Old Hainanese coffee shop for kaya toast and kopi.",
+"tip": "Breakfast before Da Shi Jia at lunch."
+},
+{
+"n": "Manhattan",
+"t": "drink",
+"h": "orchard",
+"at": [
+1.304621,
+103.8248461
+],
+"addr": "Level 2, Conrad Singapore Orchard, 1 Cuscaden Road",
+"price": "$$$",
+"tags": [
+"classic"
+],
+"p": 2,
+"src": "Tatler Best 20 Bars 2026 (off Asia's 50 Best Bars 2026)",
+"d": "Glam New York-style hotel bar with barrel-aged cocktails and a famous Sunday brunch. Off the 50 Best list now but still polished.",
+"tip": "Weeknight Martini; the Sunday brunch is the indulgence."
+},
+{
+"n": "Origin Bar",
+"t": "drink",
+"h": "orchard",
+"at": [
+1.3115277,
+103.8264329
+],
+"addr": "Lobby, Tower Wing, Shangri-La, 22 Orange Grove Road",
+"price": "$$$",
+"tags": [],
+"p": 2,
+"src": "Asia's 50 Best Bars 2026 No. 43; Tatler Best 20 Bars 2026",
+"d": "Blue-and-gold hotel bar with storytelling menus, ranked in 2026.",
+"tip": "After the Botanic Gardens at dusk."
+},
+{
+"n": "No.5 Emerald Hill",
+"t": "drink",
+"h": "orchard",
+"at": [
+1.3017791,
+103.8390876
+],
+"addr": "5 Emerald Hill Road",
+"price": "$$",
+"tags": [
+"dive",
+"classic"
+],
+"p": 3,
+"src": "Seth Lui (Oct 2026)",
+"d": "Peanut-shells shophouse bar in a Peranakan terrace. Pure nostalgia, cheap-ish beer.",
+"tip": "Happy hour, then walk up Emerald Hill."
+},
+{
+"n": "Singapore Botanic Gardens",
+"t": "do",
+"h": "orchard",
+"at": [
+1.3146697,
+103.8160569
+],
+"addr": "1 Cluny Road (Tanglin Gate)",
+"price": "free",
+"tags": [
+"famous",
+"classic",
+"you"
+],
+"p": 1,
+"src": "UNESCO World Heritage Site",
+"d": "The single best thing in this patch: rainforest, lakes, swans and the orchid garden. Free, open early to late.",
+"tip": "Enter at Tanglin Gate at 7am; National Orchid Garden is paid."
+},
+{
+"n": "Emerald Hill Road",
+"t": "see",
+"h": "orchard",
+"at": [
+1.303058,
+103.8393539
+],
+"addr": "Emerald Hill Road, off Orchard Road",
+"price": "free",
+"tags": [
+"hidden"
+],
+"p": 2,
+"src": "URA conservation area",
+"d": "A quiet lane of ornate 1900s Peranakan terraces 30 seconds off the mall strip.",
+"tip": "Dusk, walking uphill from Peranakan Place."
+},
+{
+"n": "Kinokuniya",
+"t": "shop",
+"h": "orchard",
+"at": [
+1.3031381,
+103.8340384
+],
+"addr": "#04-20/21 Takashimaya, Ngee Ann City, 391 Orchard Road",
+"price": "$$",
+"tags": [
+"classic",
+"you"
+],
+"p": 2,
+"src": "Institution",
+"d": "Southeast Asia's great bookshop flagship: huge, with strong Asian-literature and design sections.",
+"tip": "Rainy afternoon."
+},
+{
+"n": "Design Orchard",
+"t": "shop",
+"h": "orchard",
+"at": [
+1.3020646,
+103.8379316
+],
+"addr": "250 Orchard Road, 238905",
+"price": "$$",
+"tags": [
+"hidden"
+],
+"p": 3,
+"src": "STB/JTC local-design retail",
+"d": "Showcase for local designers. A hit-and-miss but genuine alternative to the global flagships.",
+"tip": "Gifts to take home in December."
+},
+{
+"n": "Cuppage Plaza",
+"t": "do",
+"h": "orchard",
+"at": [
+1.3020387,
+103.8407359
+],
+"addr": "5 Koek Road, 228796",
+"price": "$$",
+"tags": [
+"hidden"
+],
+"p": 3,
+"src": "Eatbook Cuppage Plaza guide",
+"d": "Unglamorous block stuffed with Japanese izakayas and karaoke: the Japanese expat after-work scene.",
+"tip": "Upper floors after 7pm."
+},
+{
 "n": "Province",
 "t": "eat",
 "h": "joochiat",
@@ -4042,7 +5888,7 @@ const PLACES = [
 ],
 "p": 1,
 "src": "50 Top Pizza Asia-Pacific 2023 (No. 19); Tatler Asia; Time Out Singapore",
-"london": "Zia Lucia done properly (you rated Zia Lucia a 2; this is the real thing)",
+"london": "",
 "d": "Antonio Miscellaneo's 72-hour-ferment 'Newpolitan' pizzas. Famously hard to book, and the reviewers agree the hype holds.",
 "tip": "Book well ahead. Tatler's order is the Marinara (anchovy, olive, oregano).",
 "open": "high"
@@ -4064,7 +5910,7 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Michelin Bib Gourmand (2024, 2025, 2026 lists); Michelin East Coast guide (Apr 2025); Daniel Food Diary (Apr 2026)",
-"london": "The River Cafe on a budget / Padella by the sea",
+"london": "Padella-ish pasta with a sea view",
 "d": "A white Puglian masseria on the East Coast Park lawn, cooking cucina povera with handmade pasta. One of very few Italian Bibs in Singapore. The setting does half the work, and the focaccina does the rest.",
 "tip": "Order the San Marzano tomato focaccina with mozzarella, then pasta, then the dessert trolley. Lunch is Thu-Sun only. Book on +65 9665 4153. Run there along the park and taxi home.",
 "open": "high"
@@ -4106,7 +5952,7 @@ const PLACES = [
 ],
 "p": 3,
 "src": "The Ranting Panda (2026 Joo Chiat roundup)",
-"london": "Nobu's quieter, counter-only cousin",
+"london": "",
 "d": "A Japanese kappo omakase counter. Only blog-reviewed so far, which is the weakest sourcing on this list. Worth it only if you want Japanese in the east.",
 "tip": "Omakase from S$180++. The reviewer singled out the tallow-aged A5 wagyu. OSM shows another business at this address, so confirm it's open before booking.",
 "open": "medium"
@@ -4251,7 +6097,7 @@ const PLACES = [
 "hawker"
 ],
 "p": 2,
-"src": "HungryGoWhere 'Food Feuds'; Wikipedia (Katong laksa history)",
+"src": "HungryGoWhere 'Food Feuds' only; lower confidence",
 "d": "The original lineage, selling since 1963. Its broth is lighter and more lemongrass-forward than 328's. Do them back to back to settle it.",
 "tip": "Order a small bowl, straight after 328.",
 "open": "high"
@@ -4676,7 +6522,7 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Michelin One Star (2026, held since 2018); Asia's 50 Best Restaurants 2026 No. 59 (No. 38 in 2025)",
-"london": "The Barbary (counter + fire), at River Cafe prices",
+"london": "The Barbary's counter and fire, at four or five times the price: budget S$250+ a head",
 "d": "Dave Pynt's four-tonne brick-kiln barbecue, eaten at the counter. Buzzy, ingredient-first and smoke-led. If you do one big Singapore dinner, this is the one most likely to land.",
 "tip": "Book the counter, not a table, as soon as the booking window opens. Order the pulled-pork 'Burnt Ends sanger' and whatever is on the bone. The bar next door is a backup for walk-ins.",
 "open": "high"
@@ -4754,14 +6600,14 @@ const PLACES = [
 103.8113676
 ],
 "addr": "#01-02, 26 Dempsey Road, Singapore 249686 (COMO Dempsey)",
-"tier": "medium",
+"tier": "nice",
 "price": "$$$",
 "tags": [
 "you"
 ],
 "p": 2,
 "src": "Michelin Guide (listed: 'Iconic', 'Trending'); Tatler Asia; SG Food on Foot 3.5/5 (Sep 2025)",
-"london": "Via Emilia meets Cecconi's",
+"london": "",
 "d": "Massimo Bottura's playful 1960s-Riviera trattoria. Tatler says the service lacks warmth and the room is louder than the food, but the tortellini is the real thing.",
 "tip": "Go for the weekday three-course lunch (about S$68++). Order the tortellini in 36-month Parmigiano. Closed Mon-Tue.",
 "open": "high"
@@ -4897,9 +6743,9 @@ const PLACES = [
 ],
 "p": 1,
 "src": "Eatbook; Honeycombers ('least pretentious place on Dempsey Hill')",
-"london": "Tayyabs",
+"london": "",
 "d": "A family-run banana-leaf curry house serving since the 1960s, in a barracks hall. The best-value meal on the hill by a distance. A fish head order pushes it towards medium.",
-"tip": "Order the fish head curry and masala chicken on banana leaf. Closed Tuesdays (open Wed-Mon, 11-3 and 6-10).",
+"tip": "About S$15 a head without fish head; a fish-head curry for the table pushes it to S$30-35.",
 "open": "high"
 },
 {
@@ -5194,27 +7040,6 @@ const PLACES = [
 "open": "high"
 },
 {
-"n": "Singapore Botanic Gardens",
-"t": "do",
-"h": "dempsey",
-"at": [
-1.3146321,
-103.8156151
-],
-"addr": "1 Cluny Road, Singapore 259569",
-"price": "free",
-"tags": [
-"famous",
-"classic"
-],
-"p": 1,
-"src": "NParks (UNESCO site; open 5am-midnight daily)",
-"london": "Kew, but free and open at dawn",
-"d": "Singapore's only UNESCO World Heritage Site, and the city's classic running loop: rolling paths, rainforest and lakes. Free.",
-"tip": "Run it at 6am from Tanglin Gate. The Swan Lake to Bukit Timah gate and back loop is about 4-5km.",
-"open": "high"
-},
-{
 "n": "National Orchid Garden",
 "t": "see",
 "h": "dempsey",
@@ -5384,8 +7209,8 @@ const PLACES = [
 "price": "$",
 "tags": [],
 "p": 2,
-"src": "JTC one-north guide; Bandwagon (Timbre 20th anniversary, 2025)",
-"london": "Maltby Street Market energy (you rated it a 2), but it's the campus local",
+"src": "My pick, for convenience: the campus local. The food is middling",
+"london": "Maltby Street Market energy, which you rated a 2",
 "d": "A container food park with live music, a few minutes from INSEAD. The food is so-so. Go for after-class beers with the cohort, not for dinner.",
 "tip": "Go for live music and happy hour.",
 "open": "medium"
@@ -5446,7 +7271,7 @@ const PLACES = [
 "classic"
 ],
 "p": 3,
-"src": "OpenTable listing; sister of Michelin-listed Min Jiang at Dempsey (this branch's own Michelin page not found)",
+"src": "No independent rating for this branch found (its Dempsey sister is Michelin-listed); lower confidence",
 "d": "Goodwood Park's Chinese restaurant in a Rochester Park bungalow. The nearest proper sit-down near campus for a group or a recruiter lunch.",
 "tip": "Dim sum lunch.",
 "open": "medium"
@@ -5535,13 +7360,12 @@ const PLACES = [
 "tier": "medium",
 "price": "$$",
 "tags": [
-"new",
-"you"
+"new"
 ],
-"p": 1,
-"src": "Little Big Red Dot (opening 28 Sep 2026); parent Fico is a Michelin Bib Gourmand",
-"london": "River Cafe on the beach",
-"d": "The new second Fico, opened 28 September 2026: charcoal grill, aperitivo spread and handmade pasta on Sentosa's best beach. The reason to go to Sentosa at all.",
+"p": 3,
+"src": "Opening report only (Little Big Red Dot, Sep 2026); no review yet",
+"london": "",
+"d": "Fico's second site, opened 28 Sep 2026 inside a Sentosa beach club. Untested: about three weeks old and no critic has been yet, so the parent's Bib Gourmand does not transfer. Beach-club setting, so style-over-substance risk.",
 "tip": "Book on +65 9750 5323. Open 9am-9pm at weekends.",
 "open": "medium"
 },
@@ -5951,7 +7775,6 @@ const WALKS = [
 "Sri Veeramakaliamman Temple",
 "Masjid Abdul Gafoor",
 "Bismillah Biryani",
-"Kotuwa",
 "Mother Dough",
 "Malay Heritage Centre",
 "Sultan Mosque (Masjid Sultan)",
@@ -5961,7 +7784,7 @@ const WALKS = [
 "Belimbing",
 "Atlas"
 ],
-"d": "Start with breakfast naan at Tekka and a lap of the wet market. Cross Serangoon Rd to Kerbau Rd for Tan Teng Niah, then Campbell Lane (garland stalls) for the Indian Heritage Centre, and up Serangoon to Sri Veeramakaliamman. Cut east along Dunlop St past the Abdul Gafoor mosque and Bismillah. Kotuwa sits at the end on Dickson Rd if you're doing it as a dinner route. Head down Jalan Besar and Victoria St (about 15 min, hot, take water) to Jalan Sultan and Mother Dough. Then the Malay Heritage Centre, and Sultan Mosque from Bussorah St. Turn down Arab St for Sifr, walk Haji Lane quickly, then finish on Beach Rd at Belimbing or The Coconut Club and walk three minutes to Parkview Square for a drink at Atlas.",
+"d": "Start with breakfast naan at Tekka and a lap of the wet market. Cross Serangoon Rd to Kerbau Rd for Tan Teng Niah, then Campbell Lane (garland stalls) for the Indian Heritage Centre, and up Serangoon to Sri Veeramakaliamman. Cut east along Dunlop St past the Abdul Gafoor mosque and Bismillah. Head down Jalan Besar and Victoria St (about 15 min, hot, take water) to Jalan Sultan and Mother Dough. Then the Malay Heritage Centre, and Sultan Mosque from Bussorah St. Turn down Arab St for Sifr, walk Haji Lane quickly, then finish on Beach Rd at Belimbing or The Coconut Club and walk three minutes to Parkview Square for a drink at Atlas.",
 "k": "w2",
 "pts": [
 "Tekka Centre (hawker floor and wet market)",
@@ -5971,7 +7794,6 @@ const WALKS = [
 "Sri Veeramakaliamman Temple",
 "Masjid Abdul Gafoor",
 "Bismillah Biryani",
-"Kotuwa",
 "Mother Dough",
 "Malay Heritage Centre",
 "Sultan Mosque (Masjid Sultan)",
@@ -5980,6 +7802,41 @@ const WALKS = [
 "Haji Lane",
 "Belimbing",
 "Atlas"
+],
+"from": "home"
+},
+{
+"name": "The river to the bay, from your doorstep",
+"mins": 110,
+"km": 6.5,
+"best": "Start ~4.30pm on a weekday to hit Gardens by the Bay at dusk for the 7.45pm Garden Rhapsody",
+"stops": [
+"Zion Riverside Food Centre",
+"Common Man Coffee Roasters",
+"Alkaff Bridge & Robertson Quay promenade",
+"STPI Creative Workshop & Gallery",
+"Song Fa Bak Kut Teh (New Bridge Rd)",
+"Boat Quay",
+"Asian Civilisations Museum",
+"Merlion Park",
+"Esplanade - Theatres on the Bay",
+"The Helix Bridge",
+"Supertree Grove & Garden Rhapsody"
+],
+"d": "Pick up the river at Zion Rd (15 minutes on foot from Kampong Bahru via Havelock) and follow the shaded promenade downstream. Coffee detour up Martin Rd to Common Man, back down over the painted Alkaff Bridge, past STPI and the quiet Robertson Quay tables. Walk briskly through Clarke Quay's neon (Song Fa is across New Bridge Rd if hungry). Cross to Boat Quay, look back from Cavenagh Bridge by the Asian Civilisations Museum, round the Fullerton to the Merlion. Take the promenade past the Esplanade and over the lit Helix Bridge, then cut through Bayfront to the Supertrees for the light show. End with drinks at Lantern or MO Bar, or a taxi home in 10 minutes.",
+"k": "w3",
+"pts": [
+"Zion Riverside Food Centre",
+"Common Man Coffee Roasters",
+"Alkaff Bridge & Robertson Quay promenade",
+"STPI Creative Workshop & Gallery",
+"Song Fa Bak Kut Teh (New Bridge Rd)",
+"Boat Quay",
+"Asian Civilisations Museum",
+"Merlion Park",
+"Esplanade - Theatres on the Bay",
+"The Helix Bridge",
+"Supertree Grove & Garden Rhapsody"
 ],
 "from": "home"
 },
@@ -5997,7 +7854,7 @@ const WALKS = [
 "Hong Kong Yummy Soup"
 ],
 "d": "From Kampong Bahru, drop to HarbourFront and climb the Marang Trail onto Mount Faber. Follow the ridge west over Henderson Waves, along the elevated Forest Walk and through HortPark, then up to the canopy walk in Kent Ridge Park. NParks gives the Mount Faber to Kent Ridge section as 10km (3-5 hours walking, about 75 minutes running). Going on from Kent Ridge Park to INSEAD would be roughly 2-3km more (my estimate, not a measured route), so on a class day it could be a run commute. Detour to Gillman Barracks or Alexandra Village to finish.",
-"k": "w3",
+"k": "w4",
 "pts": [
 "Marang Trail",
 "Faber Point (Mount Faber)",
@@ -6019,7 +7876,7 @@ const WALKS = [
 "Chin Mee Chin Confectionery"
 ],
 "d": "Flat, continuous seafront path. Start at Marine Cove (via the Katong underpass), run east to Fico at 1300 East Coast Parkway (about 4km) and back. Extend toward the East Coast Lagoon end if you want 15km. There's no shade, so be done by 9am. Kaya toast at Chin Mee Chin afterwards (8am-4pm).",
-"k": "w4",
+"k": "w5",
 "pts": [
 "East Coast Park (Marine Cove)",
 "Fico (East Coast Park)",
@@ -6041,7 +7898,7 @@ const WALKS = [
 "La Terrace"
 ],
 "d": "Enter by Tanglin Gate past Swan Lake, climb past the Symphony Lake stage, skirt the Orchid Garden and run north through the rainforest to the Bukit Timah end. About 4-5km out and back (estimate). Add the Gallop Extension boardwalks for hills. Finish at Adam Food Centre (three Bib Gourmand stalls) at the north gate, or walk back to Dempsey for brunch at La Terrace.",
-"k": "w5",
+"k": "w6",
 "pts": [
 "Swan Lake",
 "Shaw Foundation Symphony Stage",
@@ -6091,8 +7948,8 @@ const PRACTICAL = [
 
 // ---------- Top priorities (the "if you only do 20 things") ----------
 const TOP = [
- {n:'Burnt Ends', why:'The one big Singapore dinner: counter seats, a four-tonne brick kiln, ingredients first. Your Barbary, with a Michelin star. Book today.'},
- {n:'Kotuwa', why:'Sri Lankan from a two-star chef in a loud, easy room. Your Gunpowder. Hoppers, kottu, a crab curry.'},
+ {n:'Burnt Ends', why:'The one big Singapore dinner: counter seats, a four-tonne brick kiln, ingredients first. The Barbary\'s format at four or five times the price (S$250+ a head). Book the moment the window opens.'},
+ {n:'Kotuwa', why:'Sri Lankan from a two-star chef, now at New Bahru on the river. Your Gunpowder: hoppers, kottu, the crab curry. Then Bar Bon Funk upstairs.'},
  {n:'Belimbing', why:'New-generation Singaporean small plates above the Coconut Club. The most Morito/Acre-shaped new opening in town.'},
  {n:'Esquina', why:'Sit at the ground-floor counter facing the kitchen on Jiak Chuan Rd. The Keong Saik weeknight.'},
  {n:'Seroja', why:'Two Michelin stars, 24 seats, Malay-archipelago produce. The splurge, if there is one. Book weeks out.'},
@@ -6102,11 +7959,11 @@ const TOP = [
  {n:'Ma Cuisine', why:'A French bistro built around a serious cellar, with a star. The Toklas / Noble Rot room.'},
  {n:'Nutmeg & Clove', why:'No. 12 in Asia: Singapore history in a glass. Then upstairs to Last Word.'},
  {n:'Offtrack', why:'DJs, a vintage sound system, highballs. The nearest thing to Caia.'},
- {n:'Fico (East Coast Park)', why:'Pasta by the sea for Bib Gourmand prices: River Cafe on a budget. Run East Coast Park first.'},
+ {n:'Fico (East Coast Park)', why:'Bib Gourmand pasta by the sea, Padella-ish. Run East Coast Park first.'},
  {n:'The Coconut Club', why:'The nasi lemak everyone measures against. Padella-style: one dish, done obsessively.'},
  {n:'Province', why:'Katong\'s chef-led neighbourhood room: your Acre in the east. Pair it with a Joo Chiat afternoon.'},
+ {n:'Meta', why:'Two Michelin stars on Mohamed Sultan Rd: Korean-modern, seafood and vegetables, one menu. The river\'s big night.'},
  {n:'Jigger & Pony', why:'No. 9 in Asia, the best bar in Singapore on the 2026 list. Book or go early.'},
- {n:'Revolver', why:'Live-fire Indian at a counter in Tanjong Pagar: Gunpowder meets Brat.'},
  {n:'Singapore Botanic Gardens', why:'Kew, but free and open from 5am. A dawn loop, then breakfast at Dempsey.'},
  {n:'Sultan Mosque (Masjid Sultan)', why:'The golden dome at dusk from Bussorah St, then the reopened Malay Heritage Centre next door.'},
  {n:'Walk 1: market breakfast to Chinatown bar', walk:'w1', why:'Tiong Bahru, Everton Park, the Duxton skybridge, Keong Saik and Amoy St in one long Saturday.'},

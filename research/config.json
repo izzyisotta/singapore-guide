@@ -1,23 +1,2 @@
-{
- "home": [
-  1.272074,
-  103.827188
- ],
- "campus": [
-  1.299752,
-  103.786479
- ],
- "rank": [
-  "chinatown",
-  "tiong-bahru",
-  "joochiat",
-  "little-india",
-  "dempsey",
-  "kampong-glam",
-  "outram-keppel",
-  "bugis",
-  "jalan-besar",
-  "onenorth",
-  "far"
- ]
-}
+{"home":[1.272074,103.827188],"campus":[1.299752,103.786479],
+ "rank":["chinatown","river","tiong-bahru","joochiat","little-india","civic","dempsey","kampong-glam","outram-keppel","bugis","jalan-besar","marina","orchard","cbd","onenorth","far"]}
