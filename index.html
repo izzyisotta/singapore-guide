@@ -8544,12 +8544,12 @@ let suppressClick=false;
 
 // ================= LEAFLET MAP =================
 const MAPS = {};
-function tileUrl(){ return 'https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png'; }
+function tileUrl(){ return 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}'; }
 function labelUrl(){ return ''; }
 function buildLeaflet(card, id){
   const div=document.createElement('div'); div.className='leaf'; card.insertAdjacentElement('afterbegin',div);
   const map=L.map(div,{zoomControl:false,attributionControl:true,scrollWheelZoom:true,minZoom:11,maxZoom:18});
-  const tiles=L.tileLayer(tileUrl(),{attribution:'© OpenStreetMap contributors, © CARTO',subdomains:'abcd',maxZoom:19,className:'osm'}).addTo(map);
+  const tiles=L.tileLayer(tileUrl(),{attribution:'Tiles © Esri',maxZoom:19,maxNativeZoom:18,className:'osm'}).addTo(map);
   const labels=null; const syncLabels=()=>{};
   // hoods
   const hoodLayers={};
