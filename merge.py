@@ -15,6 +15,10 @@ for p in places:
     for k, v in ov['set'].get(p['n'], {}).items():
         if v is None: p.pop(k, None)
         else: p[k] = v
+recs = json.loads((root/'research/recs.json').read_text())   # a friend's list: tag hers, add the missing
+for p in places:
+    if p['n'] in recs['tag']: p['tags'] = ['rec'] + [t for t in p.get('tags', []) if t != 'rec']
+places += [dict(p, tags=['rec'] + p['tags']) for p in recs['places']]
 rank = {k: i+1 for i, k in enumerate(cfg['rank'])}
 for h in hoods:
     h['rank'] = rank.get(h['k'])

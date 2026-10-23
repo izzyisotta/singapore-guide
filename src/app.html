@@ -7,7 +7,7 @@
 :root{
   --bg:#E8EAE4; --surface:#FBFBF8; --surface2:#F1F2ED; --ink:#141A17; --ink2:#3F4944; --muted:#5C6660; --line:#CCD2C9; --line2:#DEE2DA;
   --accent:#0B4F52; --accent-ink:#FFFFFF; --pop:#F26B3A; --pop-ink:#1B1B1B; --water:#BFCFD6; --park:#D6DEC9;
-  --brick:#A63D2F; --ochre:#B7862B; --slate:#5C6670; --plum:#6E4C8B; --blue:#2F6F9F;
+  --brick:#A63D2F; --ochre:#B7862B; --slate:#5C6670; --plum:#6E4C8B; --blue:#2F6F9F; --rec:#C2306B;
   --h0:#D8DCCB; --h1:#E2D9C4; --h2:#D3DBDD; --h3:#E5D6CB; --h4:#D5DFD0; --h5:#DFD6DA; --h6:#D2DDD6; --h7:#E4DBC7; --h8:#D9D9E1; --h9:#DCE0CE;
   --shadow:0 1px 2px rgba(20,26,23,.06),0 8px 24px rgba(20,26,23,.08);
   --serif:'DM Serif Display',Georgia,'Times New Roman',serif; --sans:'Geist',system-ui,-apple-system,'Segoe UI',sans-serif; --mono:'Geist Mono',ui-monospace,Menlo,monospace;
@@ -16,14 +16,14 @@
 @media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
   --bg:#0F1412; --surface:#171D1A; --surface2:#1E2521; --ink:#EDEFEA; --ink2:#C4CBC5; --muted:#8B958E; --line:#2C3530; --line2:#242C28;
   --accent:#7FC6BE; --accent-ink:#0F1412; --pop:#FF8A5B; --pop-ink:#0F1412; --water:#1F2E36; --park:#1B2A22;
-  --brick:#E07B6A; --ochre:#D9AE5B; --slate:#98A4AE; --plum:#B79BD1; --blue:#7FB2DA;
+  --brick:#E07B6A; --ochre:#D9AE5B; --slate:#98A4AE; --plum:#B79BD1; --blue:#7FB2DA; --rec:#F28AB3;
   --h0:#1E2620; --h1:#262319; --h2:#1B2528; --h3:#28211D; --h4:#1C261E; --h5:#26202A; --h6:#1A2622; --h7:#282418; --h8:#20212B; --h9:#22271C;
   --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.4); --tiles:dark;
 }}
 :root[data-theme="dark"]{
   --bg:#0F1412; --surface:#171D1A; --surface2:#1E2521; --ink:#EDEFEA; --ink2:#C4CBC5; --muted:#8B958E; --line:#2C3530; --line2:#242C28;
   --accent:#7FC6BE; --accent-ink:#0F1412; --pop:#FF8A5B; --pop-ink:#0F1412; --water:#1F2E36; --park:#1B2A22;
-  --brick:#E07B6A; --ochre:#D9AE5B; --slate:#98A4AE; --plum:#B79BD1; --blue:#7FB2DA;
+  --brick:#E07B6A; --ochre:#D9AE5B; --slate:#98A4AE; --plum:#B79BD1; --blue:#7FB2DA; --rec:#F28AB3;
   --h0:#1E2620; --h1:#262319; --h2:#1B2528; --h3:#28211D; --h4:#1C261E; --h5:#26202A; --h6:#1A2622; --h7:#282418; --h8:#20212B; --h9:#22271C;
   --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.4); --tiles:dark;
 }
@@ -169,7 +169,7 @@ svg.z2 .pin text{display:block}
 .panel .empty{color:var(--muted);font-style:italic}
 .badges{display:flex;flex-wrap:wrap;gap:5px;margin:6px 0 10px}
 .b{font-family:var(--mono);font-size:10px;letter-spacing:.06em;text-transform:uppercase;padding:2px 7px;border-radius:4px;border:1px solid var(--bc,var(--line));color:var(--bc,var(--ink2))}
-.b.you{--bc:var(--pop)}.b.hidden{--bc:var(--accent)}.b.famous{--bc:var(--blue)}.b.classic{--bc:var(--ochre)}.b.hawker{--bc:var(--brick)}.b.dive{--bc:var(--slate)}.b.new{--bc:var(--plum)}.b.splurge{--bc:var(--ink)}
+.b.you{--bc:var(--pop)}.b.rec{--bc:var(--rec)}.b.hidden{--bc:var(--accent)}.b.famous{--bc:var(--blue)}.b.classic{--bc:var(--ochre)}.b.hawker{--bc:var(--brick)}.b.dive{--bc:var(--slate)}.b.new{--bc:var(--plum)}.b.splurge{--bc:var(--ink)}
 .b.p1{background:var(--ink);color:var(--bg);border-color:var(--ink)}
 .b.p2{border-style:dashed}
 .b.p3{border-style:dotted;opacity:.65}
@@ -356,7 +356,7 @@ const $ = (s,el=document)=>el.querySelector(s);
 const $$ = (s,el=document)=>[...el.querySelectorAll(s)];
 const esc = s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const TYPE = {eat:'Restaurant',drink:'Bar',cafe:'Cafe / bakery',shop:'Shop',see:'See',do:'Do / outdoors'};
-const TAGL = {you:'your London taste',hidden:'hidden / locals',famous:'famous Singapore go-to',classic:'institution',hawker:'hawker',dive:'dive',new:'new 2025-26',splurge:'splurge'};
+const TAGL = {rec:"friend's rec",you:'your London taste',hidden:'hidden / locals',famous:'famous Singapore go-to',classic:'institution',hawker:'hawker',dive:'dive',new:'new 2025-26',splurge:'splurge'};
 const TIERL = {cheap:'Cheap · under S$25 a head',medium:'Medium · S$25-90',nice:'Nice · S$90+, the big nights'};
 const VERD = {yes:'Go, repeatedly',once:'Worth it once',through:'Pass through',skip:'Skip'};
 const HOODIDX = Object.fromEntries(HOODS.map((h,i)=>[h.k,i]));
@@ -499,7 +499,7 @@ function fitMainToHood(h){ if(!h||!h.pts) return; if(HAS_L && MAPS.m) MAPS.m.fit
 function filterBar(el, cfg){
   let s='';
   s+=`<div class="fgroup"><span class="lbl">Type</span>`+cfg.types.map(t=>`<button class="chip ${state.types.has(t)?'on':''}" data-type="${t}">${TYPE[t]}</button>`).join('')+`</div>`;
-  s+=`<div class="fgroup"><span class="lbl">Vibe</span>`+['you','hidden','famous','classic','hawker','dive','new','splurge'].map(t=>`<button class="chip ${state.tags.has(t)?'on':''}" data-tag="${t}"><span class="dot" style="--c:var(--${({you:'pop',hidden:'accent',famous:'blue',classic:'ochre',hawker:'brick',dive:'slate',new:'plum',splurge:'ink'})[t]})"></span>${TAGL[t]}</button>`).join('')+`</div>`;
+  s+=`<div class="fgroup"><span class="lbl">Vibe</span>`+['rec','you','hidden','famous','classic','hawker','dive','new','splurge'].map(t=>`<button class="chip ${state.tags.has(t)?'on':''}" data-tag="${t}"><span class="dot" style="--c:var(--${({rec:'rec',you:'pop',hidden:'accent',famous:'blue',classic:'ochre',hawker:'brick',dive:'slate',new:'plum',splurge:'ink'})[t]})"></span>${TAGL[t]}</button>`).join('')+`</div>`;
   if(cfg.tier){ s+=`<div class="fgroup"><span class="lbl">Price</span>`+['cheap','medium','nice'].map(t=>`<button class="chip ${state.tiers.has(t)?'on':''}" data-tier="${t}">${({cheap:'Cheap',medium:'Medium',nice:'Nice'})[t]}</button>`).join('')+`</div>`; }
   s+=`<div class="fgroup"><button class="chip ${state.p1?'on':''}" data-p1="1">Priority 1 only</button><button class="chip ${state.tags.has('★')?'on':''}" data-tag="★">★ my shortlist</button></div>`;
   if(cfg.hood){ s+=`<div class="fgroup"><select class="sel" data-hood><option value="">All neighbourhoods</option>`+MAPHOODS.map(h=>`<option value="${h.k}" ${state.hood===h.k?'selected':''}>${esc(h.short)}</option>`).join('')+`<option value="far" ${state.hood==='far'?'selected':''}>Further out</option></select>`;

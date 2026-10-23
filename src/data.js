@@ -995,6 +995,7 @@ const PLACES = [
 "addr": "30 Seng Poh Rd, 168898",
 "price": "$",
 "tags": [
+"rec",
 "classic",
 "hawker",
 "famous"
@@ -2135,6 +2136,7 @@ const PLACES = [
 "tier": "medium",
 "price": "$$",
 "tags": [
+"rec",
 "you"
 ],
 "p": 2,
@@ -4990,6 +4992,7 @@ const PLACES = [
 "addr": "#01-01, 18 China Street",
 "price": "$",
 "tags": [
+"rec",
 "classic",
 "famous"
 ],
@@ -5636,6 +5639,7 @@ const PLACES = [
 "tier": "cheap",
 "price": "$",
 "tags": [
+"rec",
 "hawker",
 "famous"
 ],
@@ -5675,6 +5679,7 @@ const PLACES = [
 "addr": "67 Killiney Road",
 "price": "$",
 "tags": [
+"rec",
 "classic"
 ],
 "p": 3,
@@ -6157,6 +6162,7 @@ const PLACES = [
 "tier": "cheap",
 "price": "$",
 "tags": [
+"rec",
 "hawker",
 "famous"
 ],
@@ -6196,6 +6202,7 @@ const PLACES = [
 "addr": "#01-05, 63 East Coast Road, Singapore 428776",
 "price": "$",
 "tags": [
+"rec",
 "famous"
 ],
 "p": 2,
@@ -7706,6 +7713,188 @@ const PLACES = [
 "d": "A flooded granite quarry with cliffs. A quiet add-on to Bukit Timah.",
 "tip": "Walk over after the summit.",
 "open": "high"
+},
+{
+"n": "Kyō Teahouse (Cross St)",
+"t": "cafe",
+"h": "cbd",
+"at": [
+1.2833699,
+103.8471414
+],
+"addr": "#01-15 Cross Street Exchange, 18 Cross St, 048423",
+"price": "$",
+"tags": [
+"rec",
+"new"
+],
+"p": 2,
+"src": "Friend's rec; Lemon8 and TikTok reviews (2025)",
+"d": "Takeaway matcha kiosk from the Kyō Kohee team. Two benches outside, so it's grab and go.",
+"tip": "Banana pudding or strawberry compote matcha latte, about S$9-10. Daily 9am-9pm (Apple Maps); check."
+},
+{
+"n": "Hvala (CHIJMES)",
+"t": "cafe",
+"h": "civic",
+"at": [
+1.2954899,
+103.8520117
+],
+"addr": "#01-04/05 CHIJMES, 30 Victoria St, 187996",
+"price": "$",
+"tags": [
+"rec",
+"famous"
+],
+"p": 2,
+"src": "Friend's rec; Time Out Singapore; Eatbook",
+"d": "Singapore's best-known matcha and hojicha bar: lattes, soft serve and plated tea desserts.",
+"tip": "Daily 12-9.30pm (Time Out). Also at Takashimaya and Odeon Towers."
+},
+{
+"n": "Chinatown Complex Food Centre",
+"t": "eat",
+"h": "chinatown",
+"at": [
+1.2822688,
+103.8431494
+],
+"addr": "335 Smith St, 050335",
+"tier": "cheap",
+"price": "$",
+"tags": [
+"rec",
+"hawker",
+"classic"
+],
+"p": 2,
+"src": "Friend's rec; Singapore's largest hawker centre",
+"d": "Over 200 stalls upstairs from the wet market. Big, unglamorous and the real thing, a street from the tourist end of Chinatown.",
+"tip": "Go hungry and roam; many stalls close by mid-afternoon.",
+"pp": "S$5-12",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Huge hawker hall, locals",
+"london": ""
+},
+{
+"n": "East Coast Lagoon Food Village",
+"t": "eat",
+"h": "joochiat",
+"at": [
+1.306868,
+103.9349356
+],
+"addr": "1220 East Coast Parkway, 468960",
+"tier": "cheap",
+"price": "$",
+"tags": [
+"rec",
+"hawker"
+],
+"p": 3,
+"src": "Friend's rec",
+"d": "Seafront hawker centre at the far end of East Coast Park: satay, BBQ seafood and a sea breeze.",
+"tip": "Pair it with the East Coast Park run or a cycle; best at dusk.",
+"pp": "S$8-20",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Open-air seaside hawker, families",
+"london": ""
+},
+{
+"n": "Hill Street Tai Hwa Pork Noodle",
+"t": "eat",
+"h": "jalan-besar",
+"at": [
+1.3049791,
+103.8625006
+],
+"addr": "#01-12, 466 Crawford Lane, 190466",
+"tier": "cheap",
+"price": "$",
+"tags": [
+"rec",
+"hawker",
+"famous"
+],
+"p": 2,
+"src": "Friend's rec; Michelin star from 2016 (listed in the 2025 guide)",
+"d": "The Michelin-starred bak chor mee: vinegary minced pork noodles, cooked bowl by bowl.",
+"tip": "Queues can run 1-2 hours, so go early on a weekday. About 9.30am-9pm, closed 1st and 3rd Mondays (sources vary). No queue: the sister stall Tai Wah Pork Noodle in Chinatown.",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Coffeeshop stall, long queue",
+"london": ""
+},
+{
+"n": "Majestic",
+"t": "eat",
+"h": "marina",
+"at": [
+1.2775827,
+103.8525052
+],
+"addr": "#04-01 The Heart (East Tower), Marina One, 5 Straits View, 018935",
+"tier": "medium",
+"price": "$$",
+"tags": [
+"rec"
+],
+"p": 3,
+"src": "Friend's rec; Michelin Guide (listed)",
+"d": "Polished modern Cantonese, moved from Bukit Pasoh to Marina One.",
+"tip": "Book about a week ahead (Michelin). Lunch 11.15am-2.30pm, dinner 5.30-9.30pm; Sunday lunch only.",
+"energy": "calm",
+"cool": 2,
+"vibe": "Smart Cantonese dining room, business lunches",
+"london": ""
+},
+{
+"n": "Long Beach (Dempsey)",
+"t": "eat",
+"h": "dempsey",
+"at": [
+1.3059964,
+103.8120059
+],
+"addr": "25 Dempsey Rd, 249670",
+"tier": "medium",
+"price": "$$$",
+"tags": [
+"rec",
+"classic",
+"famous"
+],
+"p": 3,
+"src": "Friend's rec; Tatler Asia; Homejourney chilli crab ranking (2026)",
+"d": "Old-school seafood house that claims to have invented black pepper crab. Chilli crab is the order.",
+"tip": "Crab is priced by weight, about S$95-110/kg. Book by phone. Daily 11.30am-11pm (sources vary).",
+"energy": "buzzy",
+"cool": 1,
+"vibe": "Big banquet seafood hall, tourists and families",
+"london": ""
+},
+{
+"n": "Bengawan Solo (Jewel)",
+"t": "shop",
+"h": "far",
+"at": [
+1.3602243,
+103.9896749
+],
+"addr": "Jewel Changi Airport, 78 Airport Blvd, 819666 (flagship; 40-odd outlets across town)",
+"price": "$",
+"tags": [
+"rec",
+"classic",
+"famous"
+],
+"p": 3,
+"src": "Friend's rec; institution (est. 1979)",
+"d": "The kueh and cake bakery. Pandan chiffon and kueh lapis are the classics.",
+"tip": "A whole pandan chiffon is about S$20. Buy one on the way to a flight, or at any city outlet."
 }
 ];
 const WALKS = [

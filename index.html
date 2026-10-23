@@ -12,7 +12,7 @@
 :root{
   --bg:#E8EAE4; --surface:#FBFBF8; --surface2:#F1F2ED; --ink:#141A17; --ink2:#3F4944; --muted:#5C6660; --line:#CCD2C9; --line2:#DEE2DA;
   --accent:#0B4F52; --accent-ink:#FFFFFF; --pop:#F26B3A; --pop-ink:#1B1B1B; --water:#BFCFD6; --park:#D6DEC9;
-  --brick:#A63D2F; --ochre:#B7862B; --slate:#5C6670; --plum:#6E4C8B; --blue:#2F6F9F;
+  --brick:#A63D2F; --ochre:#B7862B; --slate:#5C6670; --plum:#6E4C8B; --blue:#2F6F9F; --rec:#C2306B;
   --h0:#D8DCCB; --h1:#E2D9C4; --h2:#D3DBDD; --h3:#E5D6CB; --h4:#D5DFD0; --h5:#DFD6DA; --h6:#D2DDD6; --h7:#E4DBC7; --h8:#D9D9E1; --h9:#DCE0CE;
   --shadow:0 1px 2px rgba(20,26,23,.06),0 8px 24px rgba(20,26,23,.08);
   --serif:'DM Serif Display',Georgia,'Times New Roman',serif; --sans:'Geist',system-ui,-apple-system,'Segoe UI',sans-serif; --mono:'Geist Mono',ui-monospace,Menlo,monospace;
@@ -21,14 +21,14 @@
 @media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
   --bg:#0F1412; --surface:#171D1A; --surface2:#1E2521; --ink:#EDEFEA; --ink2:#C4CBC5; --muted:#8B958E; --line:#2C3530; --line2:#242C28;
   --accent:#7FC6BE; --accent-ink:#0F1412; --pop:#FF8A5B; --pop-ink:#0F1412; --water:#1F2E36; --park:#1B2A22;
-  --brick:#E07B6A; --ochre:#D9AE5B; --slate:#98A4AE; --plum:#B79BD1; --blue:#7FB2DA;
+  --brick:#E07B6A; --ochre:#D9AE5B; --slate:#98A4AE; --plum:#B79BD1; --blue:#7FB2DA; --rec:#F28AB3;
   --h0:#1E2620; --h1:#262319; --h2:#1B2528; --h3:#28211D; --h4:#1C261E; --h5:#26202A; --h6:#1A2622; --h7:#282418; --h8:#20212B; --h9:#22271C;
   --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.4); --tiles:dark;
 }}
 :root[data-theme="dark"]{
   --bg:#0F1412; --surface:#171D1A; --surface2:#1E2521; --ink:#EDEFEA; --ink2:#C4CBC5; --muted:#8B958E; --line:#2C3530; --line2:#242C28;
   --accent:#7FC6BE; --accent-ink:#0F1412; --pop:#FF8A5B; --pop-ink:#0F1412; --water:#1F2E36; --park:#1B2A22;
-  --brick:#E07B6A; --ochre:#D9AE5B; --slate:#98A4AE; --plum:#B79BD1; --blue:#7FB2DA;
+  --brick:#E07B6A; --ochre:#D9AE5B; --slate:#98A4AE; --plum:#B79BD1; --blue:#7FB2DA; --rec:#F28AB3;
   --h0:#1E2620; --h1:#262319; --h2:#1B2528; --h3:#28211D; --h4:#1C261E; --h5:#26202A; --h6:#1A2622; --h7:#282418; --h8:#20212B; --h9:#22271C;
   --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 24px rgba(0,0,0,.4); --tiles:dark;
 }
@@ -174,7 +174,7 @@ svg.z2 .pin text{display:block}
 .panel .empty{color:var(--muted);font-style:italic}
 .badges{display:flex;flex-wrap:wrap;gap:5px;margin:6px 0 10px}
 .b{font-family:var(--mono);font-size:10px;letter-spacing:.06em;text-transform:uppercase;padding:2px 7px;border-radius:4px;border:1px solid var(--bc,var(--line));color:var(--bc,var(--ink2))}
-.b.you{--bc:var(--pop)}.b.hidden{--bc:var(--accent)}.b.famous{--bc:var(--blue)}.b.classic{--bc:var(--ochre)}.b.hawker{--bc:var(--brick)}.b.dive{--bc:var(--slate)}.b.new{--bc:var(--plum)}.b.splurge{--bc:var(--ink)}
+.b.you{--bc:var(--pop)}.b.rec{--bc:var(--rec)}.b.hidden{--bc:var(--accent)}.b.famous{--bc:var(--blue)}.b.classic{--bc:var(--ochre)}.b.hawker{--bc:var(--brick)}.b.dive{--bc:var(--slate)}.b.new{--bc:var(--plum)}.b.splurge{--bc:var(--ink)}
 .b.p1{background:var(--ink);color:var(--bg);border-color:var(--ink)}
 .b.p2{border-style:dashed}
 .b.p3{border-style:dotted;opacity:.65}
@@ -1350,6 +1350,7 @@ const PLACES = [
 "addr": "30 Seng Poh Rd, 168898",
 "price": "$",
 "tags": [
+"rec",
 "classic",
 "hawker",
 "famous"
@@ -2490,6 +2491,7 @@ const PLACES = [
 "tier": "medium",
 "price": "$$",
 "tags": [
+"rec",
 "you"
 ],
 "p": 2,
@@ -5345,6 +5347,7 @@ const PLACES = [
 "addr": "#01-01, 18 China Street",
 "price": "$",
 "tags": [
+"rec",
 "classic",
 "famous"
 ],
@@ -5991,6 +5994,7 @@ const PLACES = [
 "tier": "cheap",
 "price": "$",
 "tags": [
+"rec",
 "hawker",
 "famous"
 ],
@@ -6030,6 +6034,7 @@ const PLACES = [
 "addr": "67 Killiney Road",
 "price": "$",
 "tags": [
+"rec",
 "classic"
 ],
 "p": 3,
@@ -6512,6 +6517,7 @@ const PLACES = [
 "tier": "cheap",
 "price": "$",
 "tags": [
+"rec",
 "hawker",
 "famous"
 ],
@@ -6551,6 +6557,7 @@ const PLACES = [
 "addr": "#01-05, 63 East Coast Road, Singapore 428776",
 "price": "$",
 "tags": [
+"rec",
 "famous"
 ],
 "p": 2,
@@ -8061,6 +8068,188 @@ const PLACES = [
 "d": "A flooded granite quarry with cliffs. A quiet add-on to Bukit Timah.",
 "tip": "Walk over after the summit.",
 "open": "high"
+},
+{
+"n": "Kyō Teahouse (Cross St)",
+"t": "cafe",
+"h": "cbd",
+"at": [
+1.2833699,
+103.8471414
+],
+"addr": "#01-15 Cross Street Exchange, 18 Cross St, 048423",
+"price": "$",
+"tags": [
+"rec",
+"new"
+],
+"p": 2,
+"src": "Friend's rec; Lemon8 and TikTok reviews (2025)",
+"d": "Takeaway matcha kiosk from the Kyō Kohee team. Two benches outside, so it's grab and go.",
+"tip": "Banana pudding or strawberry compote matcha latte, about S$9-10. Daily 9am-9pm (Apple Maps); check."
+},
+{
+"n": "Hvala (CHIJMES)",
+"t": "cafe",
+"h": "civic",
+"at": [
+1.2954899,
+103.8520117
+],
+"addr": "#01-04/05 CHIJMES, 30 Victoria St, 187996",
+"price": "$",
+"tags": [
+"rec",
+"famous"
+],
+"p": 2,
+"src": "Friend's rec; Time Out Singapore; Eatbook",
+"d": "Singapore's best-known matcha and hojicha bar: lattes, soft serve and plated tea desserts.",
+"tip": "Daily 12-9.30pm (Time Out). Also at Takashimaya and Odeon Towers."
+},
+{
+"n": "Chinatown Complex Food Centre",
+"t": "eat",
+"h": "chinatown",
+"at": [
+1.2822688,
+103.8431494
+],
+"addr": "335 Smith St, 050335",
+"tier": "cheap",
+"price": "$",
+"tags": [
+"rec",
+"hawker",
+"classic"
+],
+"p": 2,
+"src": "Friend's rec; Singapore's largest hawker centre",
+"d": "Over 200 stalls upstairs from the wet market. Big, unglamorous and the real thing, a street from the tourist end of Chinatown.",
+"tip": "Go hungry and roam; many stalls close by mid-afternoon.",
+"pp": "S$5-12",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Huge hawker hall, locals",
+"london": ""
+},
+{
+"n": "East Coast Lagoon Food Village",
+"t": "eat",
+"h": "joochiat",
+"at": [
+1.306868,
+103.9349356
+],
+"addr": "1220 East Coast Parkway, 468960",
+"tier": "cheap",
+"price": "$",
+"tags": [
+"rec",
+"hawker"
+],
+"p": 3,
+"src": "Friend's rec",
+"d": "Seafront hawker centre at the far end of East Coast Park: satay, BBQ seafood and a sea breeze.",
+"tip": "Pair it with the East Coast Park run or a cycle; best at dusk.",
+"pp": "S$8-20",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Open-air seaside hawker, families",
+"london": ""
+},
+{
+"n": "Hill Street Tai Hwa Pork Noodle",
+"t": "eat",
+"h": "jalan-besar",
+"at": [
+1.3049791,
+103.8625006
+],
+"addr": "#01-12, 466 Crawford Lane, 190466",
+"tier": "cheap",
+"price": "$",
+"tags": [
+"rec",
+"hawker",
+"famous"
+],
+"p": 2,
+"src": "Friend's rec; Michelin star from 2016 (listed in the 2025 guide)",
+"d": "The Michelin-starred bak chor mee: vinegary minced pork noodles, cooked bowl by bowl.",
+"tip": "Queues can run 1-2 hours, so go early on a weekday. About 9.30am-9pm, closed 1st and 3rd Mondays (sources vary). No queue: the sister stall Tai Wah Pork Noodle in Chinatown.",
+"energy": "buzzy",
+"cool": 2,
+"vibe": "Coffeeshop stall, long queue",
+"london": ""
+},
+{
+"n": "Majestic",
+"t": "eat",
+"h": "marina",
+"at": [
+1.2775827,
+103.8525052
+],
+"addr": "#04-01 The Heart (East Tower), Marina One, 5 Straits View, 018935",
+"tier": "medium",
+"price": "$$",
+"tags": [
+"rec"
+],
+"p": 3,
+"src": "Friend's rec; Michelin Guide (listed)",
+"d": "Polished modern Cantonese, moved from Bukit Pasoh to Marina One.",
+"tip": "Book about a week ahead (Michelin). Lunch 11.15am-2.30pm, dinner 5.30-9.30pm; Sunday lunch only.",
+"energy": "calm",
+"cool": 2,
+"vibe": "Smart Cantonese dining room, business lunches",
+"london": ""
+},
+{
+"n": "Long Beach (Dempsey)",
+"t": "eat",
+"h": "dempsey",
+"at": [
+1.3059964,
+103.8120059
+],
+"addr": "25 Dempsey Rd, 249670",
+"tier": "medium",
+"price": "$$$",
+"tags": [
+"rec",
+"classic",
+"famous"
+],
+"p": 3,
+"src": "Friend's rec; Tatler Asia; Homejourney chilli crab ranking (2026)",
+"d": "Old-school seafood house that claims to have invented black pepper crab. Chilli crab is the order.",
+"tip": "Crab is priced by weight, about S$95-110/kg. Book by phone. Daily 11.30am-11pm (sources vary).",
+"energy": "buzzy",
+"cool": 1,
+"vibe": "Big banquet seafood hall, tourists and families",
+"london": ""
+},
+{
+"n": "Bengawan Solo (Jewel)",
+"t": "shop",
+"h": "far",
+"at": [
+1.3602243,
+103.9896749
+],
+"addr": "Jewel Changi Airport, 78 Airport Blvd, 819666 (flagship; 40-odd outlets across town)",
+"price": "$",
+"tags": [
+"rec",
+"classic",
+"famous"
+],
+"p": 3,
+"src": "Friend's rec; institution (est. 1979)",
+"d": "The kueh and cake bakery. Pandan chiffon and kueh lapis are the classics.",
+"tip": "A whole pandan chiffon is about S$20. Buy one on the way to a flight, or at any city outlet."
 }
 ];
 const WALKS = [
@@ -8332,7 +8521,7 @@ const $ = (s,el=document)=>el.querySelector(s);
 const $$ = (s,el=document)=>[...el.querySelectorAll(s)];
 const esc = s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const TYPE = {eat:'Restaurant',drink:'Bar',cafe:'Cafe / bakery',shop:'Shop',see:'See',do:'Do / outdoors'};
-const TAGL = {you:'your London taste',hidden:'hidden / locals',famous:'famous Singapore go-to',classic:'institution',hawker:'hawker',dive:'dive',new:'new 2025-26',splurge:'splurge'};
+const TAGL = {rec:"friend's rec",you:'your London taste',hidden:'hidden / locals',famous:'famous Singapore go-to',classic:'institution',hawker:'hawker',dive:'dive',new:'new 2025-26',splurge:'splurge'};
 const TIERL = {cheap:'Cheap · under S$25 a head',medium:'Medium · S$25-90',nice:'Nice · S$90+, the big nights'};
 const VERD = {yes:'Go, repeatedly',once:'Worth it once',through:'Pass through',skip:'Skip'};
 const HOODIDX = Object.fromEntries(HOODS.map((h,i)=>[h.k,i]));
@@ -8475,7 +8664,7 @@ function fitMainToHood(h){ if(!h||!h.pts) return; if(HAS_L && MAPS.m) MAPS.m.fit
 function filterBar(el, cfg){
   let s='';
   s+=`<div class="fgroup"><span class="lbl">Type</span>`+cfg.types.map(t=>`<button class="chip ${state.types.has(t)?'on':''}" data-type="${t}">${TYPE[t]}</button>`).join('')+`</div>`;
-  s+=`<div class="fgroup"><span class="lbl">Vibe</span>`+['you','hidden','famous','classic','hawker','dive','new','splurge'].map(t=>`<button class="chip ${state.tags.has(t)?'on':''}" data-tag="${t}"><span class="dot" style="--c:var(--${({you:'pop',hidden:'accent',famous:'blue',classic:'ochre',hawker:'brick',dive:'slate',new:'plum',splurge:'ink'})[t]})"></span>${TAGL[t]}</button>`).join('')+`</div>`;
+  s+=`<div class="fgroup"><span class="lbl">Vibe</span>`+['rec','you','hidden','famous','classic','hawker','dive','new','splurge'].map(t=>`<button class="chip ${state.tags.has(t)?'on':''}" data-tag="${t}"><span class="dot" style="--c:var(--${({rec:'rec',you:'pop',hidden:'accent',famous:'blue',classic:'ochre',hawker:'brick',dive:'slate',new:'plum',splurge:'ink'})[t]})"></span>${TAGL[t]}</button>`).join('')+`</div>`;
   if(cfg.tier){ s+=`<div class="fgroup"><span class="lbl">Price</span>`+['cheap','medium','nice'].map(t=>`<button class="chip ${state.tiers.has(t)?'on':''}" data-tier="${t}">${({cheap:'Cheap',medium:'Medium',nice:'Nice'})[t]}</button>`).join('')+`</div>`; }
   s+=`<div class="fgroup"><button class="chip ${state.p1?'on':''}" data-p1="1">Priority 1 only</button><button class="chip ${state.tags.has('★')?'on':''}" data-tag="★">★ my shortlist</button></div>`;
   if(cfg.hood){ s+=`<div class="fgroup"><select class="sel" data-hood><option value="">All neighbourhoods</option>`+MAPHOODS.map(h=>`<option value="${h.k}" ${state.hood===h.k?'selected':''}>${esc(h.short)}</option>`).join('')+`<option value="far" ${state.hood==='far'?'selected':''}>Further out</option></select>`;
